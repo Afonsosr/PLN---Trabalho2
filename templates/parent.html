@@ -12,20 +12,51 @@
         body {
             font-family: "Times New Roman", Times, serif;
         }
+
+        /* Personalização da navbar */
+        .navbar-custom {
+            background-color: #e3f2fd;
+            height: 80px;
+        }
+
+        .navbar-custom .nav-link {
+            color: #003366 !important;
+            font-weight: bold;
+            font-size: 1.7rem;
+            transition: color 0.3s;
+            padding: 0 15px;
+        }
+
+        .navbar-custom .nav-link:hover {
+            color: #001f4d !important;
+        }
+
+        /* Estilo para o separador | */
+        .navbar-separator {
+            color: #003366;
+            font-weight: bold;
+            font-size: 1.5rem;
+            margin: 0 5px;
+            user-select: none;
+        }
     </style>
 </head>
 
 <body>
 
     <!-- Navbar -->
-    <nav class="z-3 navbar navbar-expand-lg" style="background-color: #e3f2fd;">
+    <nav class="z-3 navbar navbar-expand-lg navbar-custom">
         <div class="container-fluid">
-            <div class="navbar-nav">
-                <a class="nav-link active fs-4" aria-current="page" href="/">Home</a>
-                <a class="nav-link fs-4" href="/conceitos">Conceitos</a>
-                <a class="nav-link fs-4" href="/categorias">Categorias</a>
-                <a class="nav-link fs-4" href="/proximas">Palavras Próximas</a>
-                <a class="nav-link fs-4" href="/tabela">Tabela</a>
+            <div class="navbar-nav d-flex align-items-center">
+                <a class="nav-link active" aria-current="page" href="/">Home</a>
+                <span class="navbar-separator">|</span>
+                <a class="nav-link" href="/conceitos">Conceitos</a>
+                <span class="navbar-separator">|</span>
+                <a class="nav-link" href="/categorias">Categorias</a>
+                <span class="navbar-separator">|</span>
+                <a class="nav-link" href="/proximas">Palavras Próximas</a>
+                <span class="navbar-separator">|</span>
+                <a class="nav-link" href="/tabela">Tabela</a>
             </div>  
         </div>
     </nav>

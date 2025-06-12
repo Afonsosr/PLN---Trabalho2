@@ -24280,7 +24280,7 @@
           "nl: vafidemstat"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " den. com.  ; CoronaVac  ; CoronaVac  ; vacina Sinovac ; CoronaVac  ; CoronaVac  ; Sinovac vaccin ; CoronaVac  ; CoronaVac  ; CoronaVac  vacina Sinovac  vacina do Butatan  ; Sinovac-vaccin ; CoronaVac      1357362-02-7 PRINCIPIS ACTIUS. Fàrmac immunomodulador en investigació optimitzat per al sistema nerviós central, que redueix el deteriorament cognitiu i la neuroinflamació, i presenta efectes neuroprotectors mitjançant la inhibició de la histona desmetilasa 1A específica de la lisina. clínics de la malaltia d’Alzheimer, l’esclerosi múltiple i altres trastorns psiquiàtrics. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador en investigació optimitzat per al sistema nerviós central, que redueix el deteriorament cognitiu i la neuroinflamació, i presenta efectes neuroprotectors mitjançant la inhibició de la histona desmetilasa 1A específica de la lisina. clínics de la malaltia d’Alzheimer, l’esclerosi múltiple i altres trastorns psiquiàtrics. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El vafidemstat s’estudia en models preclínics i clínics de la malaltia d’Alzheimer, l’esclerosi múltiple i altres trastorns psiquiàtrics. Se n’ha suggerit l’ús per al tractament de la COVID-19.2. La denominació vafidemstat és la forma catalana corresponent a la DCI."
       }
     }
@@ -24302,7 +24302,7 @@
           "nl: Vero Cell-vaccin"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.    ; Wuhan txerto  ; vacina verocell ; vacina VeroCell  ; vacuna VeroCell  ; Wuhan vaccine  ; vaccin VeroCell  ; vacina VeroCell ;  vacina verocell    PREVENCIÓ. Vacuna anti COVID-19 preparada amb SARS-CoV-2 inactivat. intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. No està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
+        "Descricao": "PREVENCIÓ. Vacuna anti COVID-19 preparada amb SARS-CoV-2 inactivat. intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. No està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
         "Citação": "Nota: La vacuna VeroCell s’administra per via intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. No està autoritzada a l’Estat espanyol. És d’origen biotecnològic."
       }
     }
@@ -24322,7 +24322,7 @@
           "fr: vaccin antiviral"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; vacuna virica  ; txerto antibiral ; txerto antibiriko  ; vacina vírica  ; vacuna antivírica ; vacuna viral ; vacuna vírica  ; virus vaccine  ; vaccin viral  vacina antiviral ; vacina vírica",
+        "Descricao": "Sem Descrição Associada",
         "Citação": ""
       }
     }
@@ -24344,7 +24344,7 @@
           "nl: inenting"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; vaccinacion ; vacunacion   ; vacinación   vax    imunização  ; vaccinatie  PREVENCIÓ. Administració d’una vacuna a un ésser humà o a un animal amb la finalitat de potenciar una resposta immunitària específica concreta contra un agent extern o un tumor propi. específica artificial activa. 2. Segons els tipus de vacuna, es poden emprar diverses vies d’administració: intradèrmica, subcutània, intramuscular, oral o nasal.",
+        "Descricao": "PREVENCIÓ. Administració d’una vacuna a un ésser humà o a un animal amb la finalitat de potenciar una resposta immunitària específica concreta contra un agent extern o un tumor propi. específica artificial activa. 2. Segons els tipus de vacuna, es poden emprar diverses vies d’administració: intradèrmica, subcutània, intramuscular, oral o nasal.",
         "Citação": "Nota: 1. La vacunació és una forma d’immunització específica artificial activa.2. Segons els tipus de vacuna, es poden emprar diverses vies d’administració: intradèrmica, subcutània, intramuscular, oral o nasal.",
         "Categoria": "Vacinas e Imunização"
       }
@@ -24402,7 +24402,7 @@
           "nl: vectorvaccin"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.    ; variante viral  ; variante vírica  ; viral variant ; virus variant  ; variant viral  ; variante virale  ; virale variant  ETIOPATOGÈNIA. Aïllat víric amb una seqüència genòmica diferent de la del virus de referència, amb un nombre relativament baix d’aminoàcids afectats. descrit diverses variants, amb mutacions del genoma que afecten sobretot la proteïna S, la regió d’unió amb el receptor o altres proteïnes víriques.  vacina de vírus  ; viraal vaccin ; virusvaccin  PREVENCIÓ. Vacuna preparada amb un antigen d’origen víric, capaç d’originar la formació d’anticossos contra la infecció vírica corresponent.",
+        "Descricao": "ETIOPATOGÈNIA. Aïllat víric amb una seqüència genòmica diferent de la del virus de referència, amb un nombre relativament baix d’aminoàcids afectats. descrit diverses variants, amb mutacions del genoma que afecten sobretot la proteïna S, la regió d’unió amb el receptor o altres proteïnes víriques.  vacina de vírus  ; viraal vaccin ; virusvaccin  PREVENCIÓ. Vacuna preparada amb un antigen d’origen víric, capaç d’originar la formació d’anticossos contra la infecció vírica corresponent.",
         "Citação": "Nota: Des que va aparèixer el SARS-CoV-2 se n’han descrit diverses variants, amb mutacions del genoma que afecten sobretot la proteïna S, la regió d’unió amb el receptor o altres proteïnes víriques.",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -24415,11 +24415,10 @@
         "Conceito": "variant de preocupació",
         "Substantivo": "n",
         "Traduções": [
-          "nl: effectief reproductiegetal",
-          "sbl: R"
+          "nl: effectief reproductiegetal"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg.    EPIDEMIOLOGIA. Mesura del nombre d’infeccions produïdes, com a mitjana, per un individu infectat un cop ha començat una epidèmia. de propagació de l’epidèmia en l’instant de temps Si el valor de R és igual o més gran que 1, l’epidèmia es continua propagant; si R és menor que 1, l’epidèmia tendeix a remetre.",
+        "Descricao": "EPIDEMIOLOGIA. Mesura del nombre d’infeccions produïdes, com a mitjana, per un individu infectat un cop ha començat una epidèmia. de propagació de l’epidèmia en l’instant de temps Si el valor de R és igual o més gran que 1, l’epidèmia es continua propagant; si R és menor que 1, l’epidèmia tendeix a remetre.",
         "Citação": "Nota: La velocitat reproductiva efectiva indica la velocitat de propagació de l’epidèmia en l’instant de temps t. Si el valor de Rt és igual o més gran que 1, l’epidèmia es continua propagant; si Rt és menor que 1, l’epidèmia tendeix a remetre.",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -24442,7 +24441,7 @@
           "nl: belangwekkende variant"
         ],
         "Sigla": "VOI",
-        "Descricao": "  ; VOI  ; VOI  ; VOI  ; VOI  ; variant d’intérêt ;  ; VOI  ; interessante variant ; variant van belang ; VOI  ETIOPATOGÈNIA. Variant del SARS-CoV-2 que, en comparació amb un aïllat víric de referència, té un genoma amb mutacions que causen efectes fenotípics establerts o sospitats i, o bé ha estat identificada com a causant de múltiples casos de transmissió comunitària o detectada en múltiples països, o bé ha estat classificada en aquesta categoria per l’OMS. indicacions de l’OMS, és recomanable anomenar-les amb el nom de lletres de l’alfabet grec quan apareixen en textos de salut pública, divulgatius o periodístics. En textos especialitzats és aconsellable mantenir la designació amb la codificació de llinatges vírics escollida. En tots els casos es recomana no fer servir el nom del lloc on s’ha descobert la variant. Així, la correspon a la designada amb la seqüència P.2 , que es va detectar per primer cop al Brasil l’abril de 2020. S'aconsella no utilitzar l’expressió . correspon a l’anglès ( ).",
+        "Descricao": "ETIOPATOGÈNIA. Variant del SARS-CoV-2 que, en comparació amb un aïllat víric de referència, té un genoma amb mutacions que causen efectes fenotípics establerts o sospitats i, o bé ha estat identificada com a causant de múltiples casos de transmissió comunitària o detectada en múltiples països, o bé ha estat classificada en aquesta categoria per l’OMS. indicacions de l’OMS, és recomanable anomenar-les amb el nom de lletres de l’alfabet grec quan apareixen en textos de salut pública, divulgatius o periodístics. En textos especialitzats és aconsellable mantenir la designació amb la codificació de llinatges vírics escollida. En tots els casos es recomana no fer servir el nom del lloc on s’ha descobert la variant. Així, la correspon a la designada amb la seqüència P.2 , que es va detectar per primer cop al Brasil l’abril de 2020. S'aconsella no utilitzar l’expressió . correspon a l’anglès ( ).",
         "Citação": "Nota: 1. Les variants d’interès, d’acord amb les indicacions de l’OMS, és recomanable anomenar-les amb el nom de lletres de l’alfabet grec quan apareixen en textos de salut pública, divulgatius o periodístics. En textos especialitzats és aconsellable mantenir la designació amb la codificació de llinatges vírics escollida. En tots els casos es recomana no fer servir el nom del lloc on s’ha descobert la variant. Així, la variant zeta correspon a la designada amb la seqüència P.2 , que es va detectar per primer cop al Brasil l’abril de 2020. S'aconsella no utilitzar l’expressió variant brasilera.2. La sigla VOI correspon a l’anglès variant of interest (‛variant d’interès’).",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -24465,7 +24464,7 @@
           "nl: zorgelijke variant"
         ],
         "Sigla": "VOC",
-        "Descricao": " sin. compl.   ; VOC  ; variante preocupante ; VOC  ; variante preocupante ; VOC  ; VOC  ; VOC  ; VOC  ; zorgwekkende variant ;  ETIOPATOGÈNIA. Variant d’interès del SARS-CoV-2 que, en un estudi comparatiu, s’ha demostrat que està associada amb un o més canvis significatius per a la salut pública global, com ara un increment en la transmissibilitat, un increment en la virulència o la clínica, o una disminució de l’efectivitat dels mètodes diagnòstics, les vacunes o la terapèutica en ús. indicacions de l’OMS, és recomanable anomenar-les amb el nom de lletres de l’alfabet grec quan apareixen en textos de salut pública, divulgatius o periodístics. En textos especialitzats és aconsellable mantenir la designació amb la codificació de llinatges vírics escollida. En tots els casos es recomana no fer servir el nom del lloc on s’ha descobert la variant. Així, la correspon a la designada amb la seqüència B.1.1.529, que es va detectar per primer cop al continent africà el novembre de 2021. S'aconsella no utilitzar l’expressió . correspon a l’anglès  ( ).",
+        "Descricao": "ETIOPATOGÈNIA. Variant d’interès del SARS-CoV-2 que, en un estudi comparatiu, s’ha demostrat que està associada amb un o més canvis significatius per a la salut pública global, com ara un increment en la transmissibilitat, un increment en la virulència o la clínica, o una disminució de l’efectivitat dels mètodes diagnòstics, les vacunes o la terapèutica en ús. indicacions de l’OMS, és recomanable anomenar-les amb el nom de lletres de l’alfabet grec quan apareixen en textos de salut pública, divulgatius o periodístics. En textos especialitzats és aconsellable mantenir la designació amb la codificació de llinatges vírics escollida. En tots els casos es recomana no fer servir el nom del lloc on s’ha descobert la variant. Així, la correspon a la designada amb la seqüència B.1.1.529, que es va detectar per primer cop al continent africà el novembre de 2021. S'aconsella no utilitzar l’expressió . correspon a l’anglès  ( ).",
         "Citação": "Nota: 1. Les variants preocupants, d’acord amb les indicacions de l’OMS, és recomanable anomenar-les amb el nom de lletres de l’alfabet grec quan apareixen en textos de salut pública, divulgatius o periodístics. En textos especialitzats és aconsellable mantenir la designació amb la codificació de llinatges vírics escollida. En tots els casos es recomana no fer servir el nom del lloc on s’ha descobert la variant. Així, la variant òmicron correspon a la designada amb la seqüència B.1.1.529, que es va detectar per primer cop al continent africà el novembre de 2021. S'aconsella no utilitzar l’expressió variant sud-africana.2. La sigla VOC correspon a l’anglès variant of concern (‛variant preocupant’).",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -24555,7 +24554,7 @@
           "sbl: R"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.   ; zenbaki  ; velocidade reprodutiva básica  ; número reproductivo básico  ; basic reproductive rate    ;  taxa básica de reprodução  ; basisreproductiegetal   EPIDEMIOLOGIA. Mesura del nombre d’infeccions produïdes, com a mitjana, per un individu infectat en el moment que s’inicia una possible epidèmia. = 1 es considera el llindar que, quan se supera, indica l’existència d’un brot epidèmic.",
+        "Descricao": "EPIDEMIOLOGIA. Mesura del nombre d’infeccions produïdes, com a mitjana, per un individu infectat en el moment que s’inicia una possible epidèmia. = 1 es considera el llindar que, quan se supera, indica l’existència d’un brot epidèmic.",
         "Citação": "Nota: El valor de R0 = 1 es considera el llindar que, quan se supera, indica l’existència d’un brot epidèmic.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -24576,7 +24575,7 @@
           "fr: taux de reproduction effectif"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; effective reproduction rate ; net reproductive rate  ; taux de reproduction net  número efetivo de reprodução  taxa de reprodução efetiva com a possible tractament en l’esclerosi múltiple, la colitis ulcerosa i la colangitis esclerosant primària. Se n’ha suggerit l’ús per al tractament de la COVID-19, en monoteràpia o en combinació amb l’oseltamivir. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "taxa de reprodução efetiva com a possible tractament en l’esclerosi múltiple, la colitis ulcerosa i la colangitis esclerosant primària. Se n’ha suggerit l’ús per al tractament de la COVID-19, en monoteràpia o en combinació amb l’oseltamivir. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El vidofludimús està en procés d’avaluació com a possible tractament en l’esclerosi múltiple, la colitis ulcerosa i la colangitis esclerosant primària. Se n’ha suggerit l’ús per al tractament de la COVID-19, en monoteràpia o en combinació amb l’oseltamivir. És d’origen sintètic.2. La denominació vidofludimús és la forma catalana corresponent a la DCI.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -24597,7 +24596,7 @@
           "nl: empirisch reproductiegetal"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "      taxa de reprodução empírica    EPIDEMIOLOGIA. Velocitat reproductiva efectiva determinada empíricament per càlcul directe a partir de les dades del nombre de persones contagiades al llarg del temps. COVID-19, es calcula com a quocient entre la mitjana dels infectats els darrers tres dies i els infectats de cinc dies enrere, també com a mitjana de tres dies.",
+        "Descricao": "EPIDEMIOLOGIA. Velocitat reproductiva efectiva determinada empíricament per càlcul directe a partir de les dades del nombre de persones contagiades al llarg del temps. COVID-19, es calcula com a quocient entre la mitjana dels infectats els darrers tres dies i els infectats de cinc dies enrere, també com a mitjana de tres dies.",
         "Citação": "Nota: La velocitat reproductiva empírica, en el cas de la COVID-19, es calcula com a quocient entre la mitjana dels infectats els darrers tres dies i els infectats de cinc dies enrere, també com a mitjana de tres dies.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }

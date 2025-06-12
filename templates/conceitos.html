@@ -1,0 +1,48 @@
+{% extends "parent.html" %}
+
+{% block body %}
+    <style>
+        .list-group-item {
+            font-size: 1.2rem; /* Ajuste o tamanho da fonte conforme necessário */
+        }
+
+        .letra-anchor {
+            font-size: 20px;
+            margin-right: 15px;
+            text-decoration: none;
+            color: black;
+        }
+
+        .letra-anchor:hover {
+            text-decoration: underline;
+        }
+    </style>
+
+    <div class="container">
+        <!-- Acrescenta barra de pesquisa -->
+        <h5 class="mt-5 text-center"> Pesquise: <input id="myInput" class="border border-info border-2" type="text" placeholder="Procure..."> </h5> 
+
+        <!-- Acrescenta um índice de letras que podem ser clicadas para direcionar à letra -->
+        <div class="mt-4">
+            <h2>Índice de Letras</h2>
+            <div>
+                {% for letra in conceitos_por_letra.keys() %}
+                    <a class="letra-anchor" href="#{{ letra }}">{{ letra }}</a>
+                {% endfor %}
+            </div>
+        </div>
+
+
+        <!-- Expõe os conceitos -->
+        {% for letra, conceitos_letra in conceitos_por_letra.items() %}
+        <div class="mt-4 letra-section" id="{{ letra }}">
+            <h2>{{ letra }}</h2>
+            <div class="list-group">
+                {% for conceito in conceitos_letra %}
+                    <a href="/conceito/{{ conceito }}" class="list-group-item list-group-item-action list-group-item-info">{{ conceito }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+{% endblock %}

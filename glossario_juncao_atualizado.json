@@ -21438,7 +21438,7 @@
           "nl: stam"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         ETIOPATOGÈNIA. Variant genèticament estable d’un virus que difereix de la variant tipus de referència per a aquest virus en algun tret que li confereix un fenotip d’infecció significativament diferent i observable.",
+        "Descricao": "ETIOPATOGÈNIA. Variant genèticament estable d’un virus que difereix de la variant tipus de referència per a aquest virus en algun tret que li confereix un fenotip d’infecció significativament diferent i observable.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -21460,7 +21460,7 @@
           "pt: socialização"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       PRINCIPIS ACTIUS. Fàrmac antineoplàstic en investigació que podria actuar interferint els processos de producció de SUMO. tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antineoplàstic en investigació que podria actuar interferint els processos de producció de SUMO. tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El subasumstat s’ha suggerit com a possible tractament per a la COVID-19. És d’origen sintètic.2. La denominació subasumstat és la forma catalana corresponent a la DCI.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -21493,7 +21493,7 @@
           "nl: probe"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; sonda moleculara  ; zunda molekular  ; sonda molecular  ; sonda molecular   ; sonde moléculaire  ; sonda molecular   DIAGNÒSTIC. Molècula marcada amb isòtops radioactius o amb altres mètodes per a poder-la identificar fàcilment que s’utilitza per a identificar o aïllar un gen, un producte gènic o una proteïna. hibrida una cadena de DNA del seu gen o un anticòs que es combina amb la seva proteïna específica.",
+        "Descricao": "DIAGNÒSTIC. Molècula marcada amb isòtops radioactius o amb altres mètodes per a poder-la identificar fàcilment que s’utilitza per a identificar o aïllar un gen, un producte gènic o una proteïna. hibrida una cadena de DNA del seu gen o un anticòs que es combina amb la seva proteïna específica.",
         "Citação": "Nota: Són exemple de sondes un mRNA radioactiu que hibrida una cadena de DNA del seu gen o un anticòs que es combina amb la seva proteïna específica.",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -21571,7 +21571,7 @@
           "en: sotrovimab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     53123-88-9 PRINCIPIS ACTIUS. Fàrmac immunosupressor que inhibeix la proteïna-cinasa mTOR i interfereix en la senyalització de la interleucina 2, de manera que evita la proliferació dels limfòcits. trasplantaments de ronyó i per a recobrir endopròtesis cardíaques i evitar que es produeixi reestenosi. Se n’ha suggerit l’ús per al tractament tant de la síndrome respiratòria de l’Orient Mitjà com de la COVID-19. És d’origen natural, derivat de l’ , i també biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunosupressor que inhibeix la proteïna-cinasa mTOR i interfereix en la senyalització de la interleucina 2, de manera que evita la proliferació dels limfòcits. trasplantaments de ronyó i per a recobrir endopròtesis cardíaques i evitar que es produeixi reestenosi. Se n’ha suggerit l’ús per al tractament tant de la síndrome respiratòria de l’Orient Mitjà com de la COVID-19. És d’origen natural, derivat de l’ , i també biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El siròlimus es fa servir per a evitar el rebuig en trasplantaments de ronyó i per a recobrir endopròtesis cardíaques i evitar que es produeixi reestenosi. Se n’ha suggerit l’ús per al tractament tant de la síndrome respiratòria de l’Orient Mitjà com de la COVID-19. És d’origen natural, derivat de l’Stretopmyces hygroscopicus, i també biotecnològic.2. La denominació siròlimus és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -21639,7 +21639,7 @@
           "nl: levensondersteunende zorg"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         1858276-04-6  ; life support care  ; maintien des fonctions vitales  suporte vital  suporte básico de vida   TRACTAMENT. Conjunt de mesures que substitueixen una funció vital, les quals en algunes circumstàncies poden proporcionar el temps necessari per a la recuperació, si bé per si mateixes no reverteixen la malaltia del pacient. intubació traqueal, la respiració artificial o la depuració extrarenal.",
+        "Descricao": "TRACTAMENT. Conjunt de mesures que substitueixen una funció vital, les quals en algunes circumstàncies poden proporcionar el temps necessari per a la recuperació, si bé per si mateixes no reverteixen la malaltia del pacient. intubació traqueal, la respiració artificial o la depuració extrarenal.",
         "Citação": "Nota: Per exemple, són mesures de suport vital la intubació traqueal, la respiració artificial o la depuració extrarenal.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -21666,50 +21666,35 @@
     }
   },
   {
-    "Conceito": "supercontagiador -a",
+    "Conceito": "supercontagiador",
     "Fontes": {
       "covid": {
-        "Conceito": "supercontagiador -a",
+        "Conceito": "supercontagiador",
         "Substantivo": "",
         "Traduções": [
-          "adj: ",
-          "adj: ",
-          "oc: supercontagiador -a",
-          "adj: ;",
-          "adj: ",
+          "oc: supercontagiador",
           "eu: superkutsatzaile",
-          "adj: ",
-          "gl: supercontaxiador -a",
-          "adj: ;",
-          "adj: ",
-          "es: supercontagiador -ra",
-          "adj: ",
+          "gl: supercontaxiador",
+          "es: supercontagiador",
           "en: superspreader",
-          "adj: ",
-          "fr: super-propagateur -atrice",
-          "adj: ",
+          "fr: super-propagateur",
           "pt: superdisseminador",
-          "adj: ",
-          "adj: ",
-          "nl: superbesmetter; superverspreider -ster",
-          "adj: "
+          "nl: superbesmetter; superverspreider"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. compl. superescampador -a superpropagador -a supercontagiador EPIDEMIOLOGIA. Dit de la persona infectada o de la situació de contacte personal amb capacitat de transmetre una malaltia a un gran nombre de persones no infectades. supercontagiadores pot ser degut a la combinació d’una alta càrrega viral i una vida social molt intensa sense les mesures de contenció adequades.",
+        "Descricao": "EPIDEMIOLOGIA. Dit de la persona infectada o de la situació de contacte personal amb capacitat de transmetre una malaltia a un gran nombre de persones no infectades. supercontagiadores pot ser degut a la combinació d’una alta càrrega viral i una vida social molt intensa sense les mesures de contenció adequades.",
         "Citação": "Nota: Es considera que l’efecte de les persones supercontagiadores pot ser degut a la combinació d’una alta càrrega viral i una vida social molt intensa sense les mesures de contenció adequades.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
     }
   },
   {
-    "Conceito": "superpropagador -a",
+    "Conceito": "superpropagador",
     "Fontes": {
       "covid": {
-        "Conceito": "superpropagador -a",
+        "Conceito": "superpropagador",
         "Substantivo": "",
-        "Traduções": [
-          "adj: veg."
-        ],
+        "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
         "Descricao": "",
         "Citação": "",
@@ -21725,16 +21710,15 @@
         "Substantivo": "n m",
         "Traduções": [
           "oc: mesures de supòrt vitau",
-          "n f pl: ; supòrt vitau",
+          "pl: supòrt vitau",
           "eu: bizi-euskarri",
           "gl: soporte vital",
           "es: medidas de soporte vital",
-          "n f pl: ; soporte vital",
           "fr: sotrovimab",
           "nl: sotrovimab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; bizi-euskarriko neurriak      sotrovimabe   2423014-07-5 PRINCIPIS ACTIUS. Fàrmac antivíric amb efecte neutralitzant que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. autoritzat en alguns països com a fàrmac de rescat en pacients amb COVID-19. Està en procés d’avaluació com a possible tractament per a aquesta malaltia. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric amb efecte neutralitzant que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. autoritzat en alguns països com a fàrmac de rescat en pacients amb COVID-19. Està en procés d’avaluació com a possible tractament per a aquesta malaltia. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El sotrovimab és un anticòs monoclonal que s’ha autoritzat en alguns països com a fàrmac de rescat en pacients amb COVID-19. Està en procés d’avaluació com a possible tractament per a aquesta malaltia. És d’origen biotecnològic.2. La denominació sotrovimab és la forma catalana corresponent a la DCI.",
         "Categoria": "Procedimentos Médicos"
       }
@@ -21777,23 +21761,14 @@
         "Conceito": "susceptible",
         "Substantivo": "",
         "Traduções": [
-          "adj: ",
-          "oc: susceptible -a",
-          "adj: ",
+          "oc: susceptible",
           "eu: sentikor",
-          "adj: ",
           "gl: susceptible",
-          "adj: ",
           "es: susceptible",
-          "adj: ",
           "en: susceptible",
-          "adj: ",
           "fr: susceptible",
-          "adj: ",
           "pt: suscetível",
-          "adj: ",
-          "nl: vatbaar -are",
-          "adj: "
+          "nl: vatbaar"
         ],
         "Sigla": "Sem Sigla Associada",
         "Descricao": "EPIDEMIOLOGIA. Que no presenta immunitat contra una malaltia infecciosa determinada.",
@@ -21818,7 +21793,7 @@
           "nl: sepsis"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "   ; sepsia        CLÍNICA. Disfunció orgànica potencialment mortal causada per una resposta desregulada de l’hoste a una infecció. amb una resposta inflamatòria i leucocitosi, actualment es considera que va associada sempre a una fallida orgànica per alteracions de la perfusió d’òrgans vitals.",
+        "Descricao": "CLÍNICA. Disfunció orgànica potencialment mortal causada per una resposta desregulada de l’hoste a una infecció. amb una resposta inflamatòria i leucocitosi, actualment es considera que va associada sempre a una fallida orgànica per alteracions de la perfusió d’òrgans vitals.",
         "Citação": "Nota: Encara que la sèpsia es presenta sovint clínicament amb una resposta inflamatòria i leucocitosi, actualment es considera que va associada sempre a una fallida orgànica per alteracions de la perfusió d’òrgans vitals.",
         "Categoria": "Doenças"
       }
@@ -21841,7 +21816,7 @@
           "nl: symptoom"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; ziektesymptoom ; ziekteverschijnsel  CLÍNICA. Manifestació subjectiva percebuda pel pacient que indica la possible existència d’una malaltia. anomalia només percebuda pel malalt mateix, del anomalia objectivable.",
+        "Descricao": "CLÍNICA. Manifestació subjectiva percebuda pel pacient que indica la possible existència d’una malaltia. anomalia només percebuda pel malalt mateix, del anomalia objectivable.",
         "Citação": "Nota: Convencionalment, es distingeix el símptoma, anomalia només percebuda pel malalt mateix, del signe, anomalia objectivable.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -21934,7 +21909,7 @@
           "eu: helduaren arnas distresaren sindrome"
         ],
         "Sigla": "SDRA",
-        "Descricao": " sin. compl. ; ;  ; paumon de chòc ; sindròme deth destret respiratòri der adult  ; 541502-14-1 PRINCIPIS ACTIUS. Fàrmac antineoplàstic i immunomodulador que inhibeix la interleucina 6 mitjançant la formació de complexos d’alta afinitat. que s’empra en el tractament de la malaltia de Castleman multicèntrica en pacients que són negatius per al virus de la immunodeficiència humana i l'herpesvirus humà 8. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antineoplàstic i immunomodulador que inhibeix la interleucina 6 mitjançant la formació de complexos d’alta afinitat. que s’empra en el tractament de la malaltia de Castleman multicèntrica en pacients que són negatius per al virus de la immunodeficiència humana i l'herpesvirus humà 8. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El siltuximab és un anticòs monoclonal quimèric que s’empra en el tractament de la malaltia de Castleman multicèntrica en pacients que són negatius per al virus de la immunodeficiència humana i l'herpesvirus humà 8. Se n’ha suggerit l’ús per al tractament de la COVID-19.2. La denominació siltuximab és la forma catalana corresponent a la DCI.",
         "Categoria": "Doenças"
       }
@@ -21961,7 +21936,7 @@
           "nl: acuut ademhalingsnoodsyndroom"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ; ;  ; sindròme deth destret respiratòri idiopatica deth mainatjon ; displasia alveolar congenita ; sindròme deth destret respiratòri en mainatjon   ; displasia alveolar conxénita ; síndrome de dificultade respiratoria neonatal ; síndrome do desconforto respiratorio neonatal  ; distrés respiratorio neonatal ; síndrome de dificultad respiratoria del recién nacido ; síndrome de dificultad respiratoria neonatal ; síndrome de distrés respiratorio neonatal  ; neonatal respiratory distress syndrome ; respiratory distress syndrome of newborn  ; dysplasie alvéolaire congénitale ; syndrome de détresse respiratoire du nouveau-né  síndrome de dificuldade respiratória neonatal  síndrome da angústia respiratória em recém-nascidos ; síndrome do  desconforto respiratória do recém- nascido ; SDR-RN  ; ademhalingsnoodsyndroom bij pasgeborenen  CLÍNICA. Síndrome pulmonar amb un quadre d’insuficiència respiratòria, d’etiologia molt diversa, que es dona en nadons, més freqüentment en  ; síndrome de dificultade respiratoria aguda ; síndrome do desconforto respiratorio agudo ; síndrome do desconforto respiratorio do adulto ; SDRA  ; síndrome de dificultad respiratoria aguda ; síndrome de dificultad respiratoria del adulto ; síndrome de distrés respiratorio agudo ; SDRA  ; adult respiratory distress syndrome ; respiratory distress syndrome ; shock lung ; ARDS  ; syndrome de détresse respiratoire ; syndrome de détresse respiratoire aiguë ; syndrome de ; SDRA  síndrome de dificuldade respiratória aguda ; síndrome de dificuldade  respiratória do adulto ; SDRA  síndrome da angústia respiratória aguda síndrome de angústia respiratória aguda ; síndrome de angústia  respiratória do adulto ; SARA  ; shocklong ; ARDS  CLÍNICA. Síndrome pulmonar, d’etiologia molt diversa, originada per un augment de la permeabilitat dels capil·lars pulmonars, caracteritzada per una insuficiència respiratòria molt greu, per infiltrats pulmonars bilaterals i difusos i per una disminució extrema de la distensibilitat dels pulmons, en absència de fallida ventricular esquerra.",
+        "Descricao": "CLÍNICA. Síndrome pulmonar amb un quadre d’insuficiència respiratòria, d’etiologia molt diversa, que es dona en nadons, més freqüentment en  ; síndrome de dificultade respiratoria aguda ; síndrome do desconforto respiratorio agudo ; síndrome do desconforto respiratorio do adulto ; SDRA  ; síndrome de dificultad respiratoria aguda ; síndrome de dificultad respiratoria del adulto ; síndrome de distrés respiratorio agudo ; SDRA  ; adult respiratory distress syndrome ; respiratory distress syndrome ; shock lung ; ARDS  ; syndrome de détresse respiratoire ; syndrome de détresse respiratoire aiguë ; syndrome de ; SDRA  síndrome de dificuldade respiratória aguda ; síndrome de dificuldade  respiratória do adulto ; SDRA  síndrome da angústia respiratória aguda síndrome de angústia respiratória aguda ; síndrome de angústia  respiratória do adulto ; SARA  ; shocklong ; ARDS  CLÍNICA. Síndrome pulmonar, d’etiologia molt diversa, originada per un augment de la permeabilitat dels capil·lars pulmonars, caracteritzada per una insuficiència respiratòria molt greu, per infiltrats pulmonars bilaterals i difusos i per una disminució extrema de la distensibilitat dels pulmons, en absència de fallida ventricular esquerra.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -22037,7 +22012,7 @@
           "nl: socialisatie"
         ],
         "Sigla": "SARS",
-        "Descricao": ";  ; SARS  ; ASAL ; SARS  ; ; SRAG  ; ; SRAG  ; SARS  ; syndrome respiratoire aigu grave ; syndrome respiratoire aigu sévère ; SARS ; SRAG   pneumonia por coronavírus SARS-CoV ;  síndrome respiratória aguda ; SRAG  ; ernstig acuut respiratoir syndroom ; SARS  CLÍNICA. Malaltia respiratòria causada pel SARS-CoV, que es manifesta amb febre alta, tos seca, cefalees i miàlgies, de vegades amb diarrea, i que pot derivar en una pneumònia greu. principalment per contacte amb les gotetes respiratòries que genera una persona portadora del virus quan parla, tus o esternuda. prové de la denominació anglesa i té un caràcter pràcticament és la corresponent a la denominació catalana.  ; vermaatschappelijking  ENTORN SOCIAL. Procés d’aprenentatge mitjançant el qual l’ésser humà interioritza les maneres de pensar, de sentir i d’actuar que són pròpies del medi sociocultural al qual pertany. han experimentat canvis en la socialització, com a conseqüència dels confinaments, les desescalades i les mesures de contenció que s'han anat succeint al llarg del temps.",
+        "Descricao": "CLÍNICA. Malaltia respiratòria causada pel SARS-CoV, que es manifesta amb febre alta, tos seca, cefalees i miàlgies, de vegades amb diarrea, i que pot derivar en una pneumònia greu. principalment per contacte amb les gotetes respiratòries que genera una persona portadora del virus quan parla, tus o esternuda. prové de la denominació anglesa i té un caràcter pràcticament és la corresponent a la denominació catalana.  ; vermaatschappelijking  ENTORN SOCIAL. Procés d’aprenentatge mitjançant el qual l’ésser humà interioritza les maneres de pensar, de sentir i d’actuar que són pròpies del medi sociocultural al qual pertany. han experimentat canvis en la socialització, com a conseqüència dels confinaments, les desescalades i les mesures de contenció que s'han anat succeint al llarg del temps.",
         "Citação": "Nota: 1. La síndrome respiratòria aguda greu es transmet principalment per contacte amb les gotetes respiratòries que genera una persona portadora del virus quan parla, tus o esternuda.2. La sigla SARS prové de la denominació anglesa severe acute respiratory syndrome i té un caràcter pràcticament internacional. La sigla SRAG és la corresponent a la denominació catalana.S155QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19",
         "Categoria": "Doenças"
       }
@@ -22060,7 +22035,7 @@
           "nl: ademhalingssyndroom van het Midden-"
         ],
         "Sigla": "MERS",
-        "Descricao": " ; ; SROM  ; EHAS ;  ;  ; ; SROM  ; MERS  ; ; SRMO   do Médio Oriente   do Oriente Médio  Oosten ; MERS-CoV-infectie ; Midden-Oosten ademhalingssyndroom ; Midden-Oosten respiratoir syndroom ; respiratoir syndroom van het Midden-Oosten ;  CLÍNICA. Malaltia respiratòria causada pel MERS- CoV, que es manifesta amb febre, tos, pneumònia, dificultat respiratòria i afectació renal, i que presenta una mortalitat alta.",
+        "Descricao": "CLÍNICA. Malaltia respiratòria causada pel MERS- CoV, que es manifesta amb febre, tos, pneumònia, dificultat respiratòria i afectació renal, i que presenta una mortalitat alta.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -22117,7 +22092,7 @@
           "nl: thalidomide"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         50-35-1 PRINCIPIS ACTIUS. Fàrmac immunomodulador i teratogen que inhibeix el factor de necrosi tumoral alfa, activa els limfòcits T, inhibeix l’angiogènesi i modula l’alliberament de citocines. mieloma múltiple i l’eritema nodós leprós. Se n’ha suggerit l’ús, en combinació amb glucocorticoides o el celecoxib, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI. 3. Els usos terapèutics de la talidomida estan molt reglamentats a causa dels efectes teratògens que produeix. Entre el 1950 i el 1960 es va emprar com a tractament de la hiperèmesi gravídica, amb conseqüències catastròfiques: hi va haver més de 6.000 casos de nens amb deformitats congènites greus, sobretot focomèlia, nascuts de dones que havien rebut el fàrmac durant l’embaràs.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador i teratogen que inhibeix el factor de necrosi tumoral alfa, activa els limfòcits T, inhibeix l’angiogènesi i modula l’alliberament de citocines. mieloma múltiple i l’eritema nodós leprós. Se n’ha suggerit l’ús, en combinació amb glucocorticoides o el celecoxib, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI. 3. Els usos terapèutics de la talidomida estan molt reglamentats a causa dels efectes teratògens que produeix. Entre el 1950 i el 1960 es va emprar com a tractament de la hiperèmesi gravídica, amb conseqüències catastròfiques: hi va haver més de 6.000 casos de nens amb deformitats congènites greus, sobretot focomèlia, nascuts de dones que havien rebut el fàrmac durant l’embaràs.",
         "Citação": "Nota: 1. La talidomida s’empra en el tractament del mieloma múltiple i l’eritema nodós leprós. Se n’ha suggerit l’ús, en combinació amb glucocorticoides o el celecoxib, per al tractament de la COVID-19. És d’origen sintètic.2. La denominació talidomida és la forma catalana corresponent a la DCI.3. Els usos terapèutics de la talidomida estan molt reglamentats a causa dels efectes teratògens que produeix. Entre el 1950 i el 1960 es va emprar com a tractament de la hiperèmesi gravídica, amb conseqüències catastròfiques: hi va haver més de 6.000 casos de nens amb deformitats congènites greus, sobretot focomèlia, nascuts de dones que havien rebut el fàrmac durant l’embaràs.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -22131,7 +22106,7 @@
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg. i la població total considerada durant aquest període.",
+        "Descricao": "La població total considerada durant aquest període.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -22154,7 +22129,7 @@
           "nl: tachycardie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ; ; ; ; policardia ; sincropexia ; ; taquisistolia        taquisistolia  CLÍNICA. Augment de la freqüència cardíaca per sobre les 100 contraccions per minut, que no altera la regularitat del ritme cardíac.",
+        "Descricao": "CLÍNICA. Augment de la freqüència cardíaca per sobre les 100 contraccions per minut, que no altera la regularitat del ritme cardíac.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -22214,7 +22189,7 @@
           "nl: besmettingsgetal"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       taxa de contágio  taxa de transmissão  ; R-waarde ; reproductiecijfer ; reproductiegetal ",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -22237,7 +22212,7 @@
           "nl: letaliteit"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; CFR    ; sterfte  EPIDEMIOLOGIA. Taxa que expressa el nombre de morts en una població de persones afectades per una malaltia o un problema de salut, per unitat de temps.",
+        "Descricao": "EPIDEMIOLOGIA. Taxa que expressa el nombre de morts en una població de persones afectades per una malaltia o un problema de salut, per unitat de temps.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -22260,7 +22235,7 @@
           "nl: mortaliteit"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. índex de letalitat ; índex de mortalitat ;  ; indèx de mortalitat ; taxa bruta de mortalitat ;  ; hilkortasun-tasa  ; índice de mortalidade ; taxa bruta de mortalidade ;  ; tasa de letalidad ; tasa de mortalidad  ; mortality rate  ; taux de mortalité   ; sterftecijfer  EPIDEMIOLOGIA. Taxa que expressa la relació entre el nombre de persones d’un grup o comunitat que han mort en un període de temps DIAGNÒSTIC. Prova per a determinar el temps de coagulació d’un plasma descalcificat en presència d’un excés de protrombocinasa tissular. són tres paràmetres de coagulació que poden orientar sobre el pronòstic de la pneumònia per COVID-19.",
+        "Descricao": "EPIDEMIOLOGIA. Taxa que expressa la relació entre el nombre de persones d’un grup o comunitat que han mort en un període de temps DIAGNÒSTIC. Prova per a determinar el temps de coagulació d’un plasma descalcificat en presència d’un excés de protrombocinasa tissular. són tres paràmetres de coagulació que poden orientar sobre el pronòstic de la pneumònia per COVID-19.",
         "Citação": "Nota: El dímer-D, el fibrinogen i el temps de protrombina són tres paràmetres de coagulació que poden orientar sobre el pronòstic de la pneumònia per COVID-19.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -22307,7 +22282,7 @@
           "nl: telegeneeskunde"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         ENTORN SOCIAL. Atenció no presencial d’un pacient basada en l’intercanvi d’informació entre professionals sanitaris o entre professionals sanitaris i pacients per mitjà de les tecnologies de la informació i la comunicació.",
+        "Descricao": "ENTORN SOCIAL. Atenció no presencial d’un pacient basada en l’intercanvi d’informació entre professionals sanitaris o entre professionals sanitaris i pacients per mitjà de les tecnologies de la informació i la comunicació.",
         "Citação": "",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -22330,7 +22305,7 @@
           "nl: afstandswerk"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.    ; traballo a distancia  ; trabajo a distancia  ; telecommuting ; teleworking  ; travail à distance   teletrabalho  home office  ; telewerk ; thuiswerken  ENTORN SOCIAL. Activitat professional realitzada físicament lluny d’un centre de producció o un centre de serveis, per mitjà de l’ús de les tecnologies de la informació i la comunicació i, especialment, de xarxes telemàtiques. EPIDEMIOLOGIA. Nombre de persones de mitjana que infecta una persona contagiada.",
+        "Descricao": "ENTORN SOCIAL. Activitat professional realitzada físicament lluny d’un centre de producció o un centre de serveis, per mitjà de l’ús de les tecnologies de la informació i la comunicació i, especialment, de xarxes telemàtiques. EPIDEMIOLOGIA. Nombre de persones de mitjana que infecta una persona contagiada.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -22353,7 +22328,7 @@
           "nl: cytokinestorm"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "   ;   ; hypercytokinaemia ; hypercytokinemia  ; hypercytokinémie ; orage cytokinique ; tempête cytokinique    CONCEPTES GENERALS. Situació de gran desequilibri immunitari, potencialment mortal, en què es produeix un fenomen de retroalimentació positiva incontrolable entre les citocines i les cèl·lules immunitàries per la infecció de determinats agents patògens.",
+        "Descricao": "CONCEPTES GENERALS. Situació de gran desequilibri immunitari, potencialment mortal, en què es produeix un fenomen de retroalimentació positiva incontrolable entre les citocines i les cèl·lules immunitàries per la infecció de determinats agents patògens.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -22390,7 +22365,7 @@
           "nl: protrombinetijd"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; temps de Quick  ; Quick-en denbora  ; tempo de Quick  ; tiempo de Quick   ; temps de Quick   tempo de Quick  ; PT ",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -22427,7 +22402,7 @@
           "nl: convalescentieperiode"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; temps de recuperacion   ; tempo de recuperación      tempo de convalescença  ; herstelperiode  ENTORN SOCIAL. Període de temps després d’una malaltia, una lesió o una intervenció quirúrgica fins a la completa restauració de la salut.",
+        "Descricao": "ENTORN SOCIAL. Període de temps després d’una malaltia, una lesió o una intervenció quirúrgica fins a la completa restauració de la salut.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -22450,7 +22425,7 @@
           "nl: tenofovir"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        fumarato de tenofovir desoproxila  ",
+        "Descricao": "Fumarato de tenofovir desoproxila.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -22539,7 +22514,7 @@
           "nl: antilichaamtest"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "   ; test de anticorpos  ; prueba de anticuerpos ; test de anticuerpos  ; antibody test    análise de anticorpos  ; antistoffentest  DIAGNÒSTIC. Prova diagnòstica serològica basada en la detecció d’anticossos en la sang. la quantitat d’immunoglobulines M (com a marcadors d’infecció recent) i d’immunoglobulines G (com a marcadors de postinfecció).",
+        "Descricao": "DIAGNÒSTIC. Prova diagnòstica serològica basada en la detecció d’anticossos en la sang. la quantitat d’immunoglobulines M (com a marcadors d’infecció recent) i d’immunoglobulines G (com a marcadors de postinfecció).",
         "Citação": "Nota: Els tests d’anticossos de la COVID-19 determinen la quantitat d’immunoglobulines M (com a marcadors d’infecció recent) i d’immunoglobulines G (com a marcadors de postinfecció).",
         "Categoria": "Diagnóstico"
       }
@@ -22553,7 +22528,7 @@
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -22609,7 +22584,7 @@
         "Substantivo": "",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -22670,7 +22645,7 @@
           "nl: massaal testen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; massale test  DIAGNÒSTIC. Estratègia per a avaluar la presència d’alguna patologia en una gran part de la població mitjançant l’administració de proves diagnòstiques a un nombre elevat de persones. clau per a frenar la propagació del SARS-CoV-2 i controlar la pandèmia de COVID-19.",
+        "Descricao": "DIAGNÒSTIC. Estratègia per a avaluar la presència d’alguna patologia en una gran part de la població mitjançant l’administració de proves diagnòstiques a un nombre elevat de persones. clau per a frenar la propagació del SARS-CoV-2 i controlar la pandèmia de COVID-19.",
         "Citação": "Nota: El testatge massiu de la població és una eina",
         "Categoria": "Diagnóstico"
       }
@@ -22751,7 +22726,7 @@
           "nl: tixagevimab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        tixagevimabe   2420564-02-7 PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. està en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. està en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El tixagevimab és un anticòs monoclonal que està en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic.2. La denominació tixagevimab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -22773,7 +22748,7 @@
           "nl: avondklok"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "   ; toque de recollida     recolher obrigatório  toque de recolher  ; nachtklok ; uitgaansverbod  ENTORN SOCIAL. Mesura governativa que, en circumstàncies excepcionals, prohibeix a la",
+        "Descricao": "ENTORN SOCIAL. Mesura governativa que, en circumstàncies excepcionals, prohibeix a la",
         "Citação": "",
         "Categoria": "Psicologia e Psiquiatria"
       }
@@ -22795,7 +22770,7 @@
           "nl: tocilizumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        tocilizumabe   375823-41-9 PRINCIPIS ACTIUS. Fàrmac immunomodulador que inhibeix el receptor de la interleucina 6 i interfereix la senyalització mediada per aquest receptor. humanitzat que s’empra en el tractament de malalties inflamatòries i autoimmunitàries, com l’artritis reumatoide en adults i l’artritis idiopàtica juvenil sistèmica. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador que inhibeix el receptor de la interleucina 6 i interfereix la senyalització mediada per aquest receptor. humanitzat que s’empra en el tractament de malalties inflamatòries i autoimmunitàries, com l’artritis reumatoide en adults i l’artritis idiopàtica juvenil sistèmica. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El tocilizumab és un anticòs monoclonal humanitzat que s’empra en el tractament de malalties inflamatòries i autoimmunitàries, com l’artritis reumatoide en adults i l’artritis idiopàtica juvenil sistèmica. Se n’ha suggerit l’ús per al tractament de la COVID-19.2. La denominació tocilizumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -22827,7 +22802,7 @@
           "nl: antilichaamtiter"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "   ; antistoftiter  DIAGNÒSTIC. Estimació semiquantitativa de la concentració d’anticossos en una mostra de sang.",
+        "Descricao": "DIAGNÒSTIC. Estimació semiquantitativa de la concentració d’anticossos en una mostra de sang.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -22850,7 +22825,7 @@
           "nl: natte hoest"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; eztul produktibo       ; productieve hoest ; slijmhoest  CLÍNICA. Tos que va seguida d’expectoració.",
+        "Descricao": "CLÍNICA. Tos que va seguida d’expectoració.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -22871,11 +22846,10 @@
           "fr: toux sèche",
           "pt: tosse seca",
           "nl: droge hoest",
-          "fr: traitement ambulatoire",
-          ": ambulante behandeling"
+          "fr: traitement ambulatoire"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; kriebelhoest ; niet-productieve hoest ; prikkelhoest  CLÍNICA. Tos que no va seguida d’expectoració.   tratamento em ambulatório  tratamento ambulatorial nl ; ambulante zorg  TRACTAMENT. Tractament que és compatible amb el desplaçament del malalt al centre mèdic.",
+        "Descricao": "CLÍNICA. Tos que no va seguida d’expectoració.   tratamento em ambulatório  tratamento ambulatorial nl ; ambulante zorg  TRACTAMENT. Tractament que és compatible amb el desplaçament del malalt al centre mèdic.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -22898,7 +22872,7 @@
           "nl: anticondensdoekje"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; camós antivapor      ; chamoisine anti-buée  pano antiembaciamento  lenço antiembaçamento ;  pano antiembaçamento   PREVENCIÓ. Tovalloleta impregnada amb una substància que, un cop fregada sobre una superfície de vidre, especialment en unes ulleres, impedeix que el vidre s’enteli. ulleres quedin entelades durant l’ús simultani amb una màscara protectora.",
+        "Descricao": "PREVENCIÓ. Tovalloleta impregnada amb una substància que, un cop fregada sobre una superfície de vidre, especialment en unes ulleres, impedeix que el vidre s’enteli. ulleres quedin entelades durant l’ús simultani amb una màscara protectora.",
         "Citação": "Nota: Les tovalloletes antibaf són útils per a evitar que les ulleres quedin entelades durant l’ús simultani amb una màscara protectora.",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -22926,7 +22900,7 @@
           "nl: hoest"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  den. com.  ; vacuna Pfizer/BioNTech ; Comirnaty  ; tozinameran ; Comirnaty  ; vacina Pfizer ; vacina Pfizer/BioNTech COVID-19 ; Comirnaty  ; vacuna Pfizer/BioNTech ; Comirnaty  ; tozinameran ; Comirnaty  ; vaccin Pfizer/BioNTech ; Comirnaty   vacina contra a COVID-19 da Pfizer/ BioNTech ; vacina Pfizer ; Comirnaty        CLÍNICA. Expulsió brusca, violenta i sorollosa de l’aire toràcic produïda per la irritació de les vies respiratòries o per un reflex nerviós originat en un altre òrgan.",
+        "Descricao": "CLÍNICA. Expulsió brusca, violenta i sorollosa de l’aire toràcic produïda per la irritació de les vies respiratòries o per un reflex nerviós originat en un altre òrgan.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -23007,7 +22981,7 @@
           "nl: verticale besmetting"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "            ; verticale overdracht ; verticale transmissie ; verticale verspreiding  EPIDEMIOLOGIA. Transmissió d’una infecció de la mare al fetus. la placenta, en el moment del part o per l’alletament natural.",
+        "Descricao": "EPIDEMIOLOGIA. Transmissió d’una infecció de la mare al fetus. la placenta, en el moment del part o per l’alletament natural.",
         "Citação": "Nota: La transmissió vertical es pot donar a través de la placenta, en el moment del part o per l’alletament natural.",
         "Categoria": "Procedimentos Médicos"
       }
@@ -23044,25 +23018,15 @@
         "Conceito": "transmissible",
         "Substantivo": "",
         "Traduções": [
-          "adj: ",
           "oc: transmissible -a",
-          "adj: ",
           "eu: transmitigarri",
-          "adj: ",
           "gl: transmisible",
-          "adj: ",
           "es: transmisible",
-          "adj: ",
           "en: communicable",
           "adj: ; transmissible",
-          "adj: ",
           "fr: transmissible",
-          "adj: ",
           "pt: transmissível",
-          "adj: ",
-          "nl: besmettelijk -e",
-          "adj: ; overdraagbaar -are",
-          "adj: "
+          "nl: besmettelijk -e"
         ],
         "Sigla": "Sem Sigla Associada",
         "Descricao": "EPIDEMIOLOGIA. Dit de la malaltia que pot ser propagada d’un individu a un altre o d’una espècie a una altra per contagi.",
@@ -23088,7 +23052,7 @@
           "nl: besmetting"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; overdracht ; transmissie ; verspreiding  ETIOPATOGÈNIA. Pas de malalties infeccioses o de caràcters hereditaris per contagi o per transferència.",
+        "Descricao": "ETIOPATOGÈNIA. Pas de malalties infeccioses o de caràcters hereditaris per contagi o per transferència.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -23106,7 +23070,7 @@
           "nl: BioNTech/Pfizer-vaccin"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "   vacina da Pfizer  ; tozinameran ; tozinameran-vaccin ; Comirnaty  PREVENCIÓ. Vacuna anti COVID-19 que utilitza l’RNA missatger codificador de la proteïna S del SARS-CoV-2. via intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. Està autoritzada a l’Estat espanyol. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PREVENCIÓ. Vacuna anti COVID-19 que utilitza l’RNA missatger codificador de la proteïna S del SARS-CoV-2. via intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. Està autoritzada a l’Estat espanyol. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. La vacuna de tozinameran s’administra per via intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. Està autoritzada a l’Estat espanyol. És d’origen biotecnològic.2. La denominació tozinameran és la forma catalana corresponent a la DCI.",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -23129,7 +23093,7 @@
           "nl: horizontale besmetting"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; horizontale overdracht ; horizontale transmissie ; horizontale verspreiding  EPIDEMIOLOGIA. Transmissió d’una infecció d’un individu a un altre, generalment per contacte a través de les seves secrecions.",
+        "Descricao": "EPIDEMIOLOGIA. Transmissió d’una infecció d’un individu a un altre, generalment per contacte a través de les seves secrecions.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }

@@ -25,6 +25,7 @@ def carregar_conceitos(file):
 def home():
     tamanho = len(conceitos)
     return render_template("home.html", tamanho = tamanho)
+
 @app.route("/conceitos")
 def listar_conceitos():
     conceitos = carregar_conceitos("glossario_por_categoria.json")
@@ -46,6 +47,67 @@ def listar_conceitos():
     conceitos_por_letra_ordenado = dict(sorted(conceitos_por_letra.items()))
 
     return render_template("conceitos.html", conceitos_por_letra=conceitos_por_letra_ordenado)
+
+def parse_traducoes(traducoes):
+    traducoes_dict = {}
+
+    if isinstance(traducoes, str):
+        # Exemplo: "abeta [ing]; abeta [esp]"
+        partes = traducoes.split(";")
+        for parte in partes:
+            parte = parte.strip()
+            if "[" in parte and "]" in parte:
+                termo, idioma = parte.rsplit("[", 1)
+                idioma = idioma.replace("]", "").strip().lower()
+                termo = termo.strip()
+                traducoes_dict[idioma] = termo
+    elif isinstance(traducoes, list):
+        for item in traducoes:
+            if ":" in item:
+                idioma, termo = item.split(":", 1)
+                traducoes_dict[idioma.strip()] = termo.strip()
+    elif isinstance(traducoes, dict):
+        traducoes_dict = traducoes  
+    else:
+        traducoes_dict = {}
+
+    return traducoes_dict
+
+
+@app.route("/conceito/<designacao>") 
+def consultar_doencas(designacao):
+    conceito_encontrado = None
+    fonte_usada = None
+
+    for categoria_nome, lista_conceitos in conceitos.items():
+        for item in lista_conceitos:
+            if item["Conceito"].lower() == designacao.lower():
+                conceito_encontrado = item
+                fonte_usada = next(iter(item["Fontes"].values()))
+                break
+        if conceito_encontrado:
+            break
+
+    if not conceito_encontrado:
+        return f"Conceito '{designacao}' não encontrado", 404
+
+    categoria = fonte_usada.get("Categoria", categoria_nome)
+    descricao = fonte_usada.get("Descrição") or fonte_usada.get("Descricao")
+    citacao = fonte_usada.get("Citação") or None  
+    sigla = fonte_usada.get("Sigla") or None
+    traducoes_raw = fonte_usada.get("Traduções") or fonte_usada.get("Traducoes")
+
+    traducoes_dict = parse_traducoes(traducoes_raw)
+
+    return render_template("descricao.html",
+                           categoria=categoria,
+                           descricao=descricao,
+                           citacao=citacao,  
+                           sigla=sigla,
+                           traducoes=traducoes_dict,
+                           designacao=designacao)
+
+
 
 
 app.run(host="localhost", port=4001, debug=True)

@@ -1,0 +1,45 @@
+{% extends "parent.html" %}
+
+{% block body %}
+
+<div class="bg-warning-subtle text-warning-emphasis text-opacity-75 shadow p-2 mb-4 bg-body-tertiary rounded">
+    <h1 class="px-4"> Conceito: {{ designacao }} </h1>
+</div>
+
+<div class="ms-5 mt-4">
+    <h4> <span class="text-primary text-opacity-75"> Categoria:</span> <span class="text-secondary">{{ categoria }}</span> </h4>
+    <h4> <span class="text-primary text-opacity-75"> Descrição:</span> <span class="text-secondary">{{ descricao }}</span> </h4>
+
+    {% if citacao %}
+    <h4> <span class="text-primary text-opacity-75"> Citação:</span> <span class="text-secondary">{{ citacao }}</span> </h4>
+    {% endif %}
+
+    {% if sigla %}
+    <h4> <span class="text-primary text-opacity-75"> Sigla:</span> <span class="text-secondary">{{ sigla }}</span> </h4>
+    {% endif %} 
+
+    {% if traducoes_str %}
+        <h2 class="pt-5"> Traduções (string): </h2>
+        <h4 class="ms-4 mt-4 text-secondary">{{ traducoes_str }}</h4>
+    {% endif %}
+
+    {% if traducoes %}
+        <h2 class="pt-5"> Traduções por idioma: </h2>
+        {% for idioma, traducao in traducoes.items() %}
+            <h4 class="ms-4 mt-4">
+                <span class="text-primary text-opacity-75">Tradução {{ idioma }}:</span>
+                <span class="text-secondary">{{ traducao }}</span>
+            </h4>
+        {% endfor %}
+    {% endif %}
+</div>
+
+<div class="btn-group" role="group" aria-label="Botões de Ação">
+    <a class="m-2 mt-4 ms-4 btn btn-outline-info" href="/conceitos" role="button">Retroceder</a>
+    <a class="m-2 mt-4 btn btn-outline-success" href="/conceito/{{ designacao }}/editar" role="button">Editar</a>
+    <form action="/conceito/{{ designacao }}/eliminar" method="post" onsubmit="return confirm('Tem certeza que deseja eliminar este conceito?');">
+        <button type="submit" class="m-2 mt-4 btn btn-outline-danger" role="button">Eliminar</button>
+    </form>
+</div>
+
+{% endblock %}

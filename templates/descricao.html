@@ -46,10 +46,11 @@
     }
 
     .btn-custom {
-        background-color: #003366;
-        color: white;
-        border: 2px solid white;
-        transition: all 0.3s ease;
+    background-color: #003366;
+    color: white;
+    border: 2px solid white;
+    transition: all 0.3s ease;
+    border-radius: 0.5rem;
     }
 
     .btn-custom:hover {
@@ -57,6 +58,13 @@
         color: #003366;
         border: 2px solid #003366;
     }
+
+    .btn-xl {
+        padding: 0.9rem 2.2rem;
+        font-size: 1.35rem;
+    }
+
+
 </style>
 
 <div class="caixa-titulo">
@@ -64,20 +72,27 @@
 </div>
 
 <div class="ms-5 mt-4">
-    <h4><span class="label-azul">Categoria:</span> <span class="texto-cinzento">{{ categoria }}</span></h4>
-    <h4><span class="label-azul">Descrição:</span> <span class="texto-cinzento">{{ descricao }}</span></h4>
+    <h4 class="mb-5"><span class="label-azul">Categoria:</span> <span class="texto-cinzento">{{ categoria }}</span></h4>
+    <h4 class="mb-5"><span class="label-azul">Descrição:</span> <span class="texto-cinzento">{{ descricao }}</span></h4>
 
     {% if citacao %}
-    <h4><span class="label-azul">Citação:</span> <span class="texto-cinzento">{{ citacao }}</span></h4>
+    <h4 class="mb-5"><span class="label-azul">Citação:</span> <span class="texto-cinzento">{{ citacao }}</span></h4>
     {% endif %}
 
     {% if sigla %}
-    <h4><span class="label-azul">Sigla:</span> <span class="texto-cinzento">{{ sigla }}</span></h4>
+    <h4 class="mb-5"><span class="label-azul">Sigla:</span> <span class="texto-cinzento">{{ sigla }}</span></h4>
     {% endif %} 
 
     {% if traducoes_str %}
         <h2 class="pt-5 label-azul">Traduções (string):</h2>
         <h4 class="ms-4 mt-4 texto-cinzento">{{ traducoes_str }}</h4>
+    {% endif %}
+
+    {% if link_google_scholar %}
+    <h4 class="mb-5"> 
+        <span class="label-azul">Google Scholar:</span> 
+        <a class="texto-cinzento" href="{{ link_google_scholar }}" target="_blank">{{ link_google_scholar }}</a>
+    </h4>
     {% endif %}
 
     {% if traducoes %}
@@ -89,20 +104,15 @@
             </h4>
         {% endfor %}
     {% endif %}
-    {% if link_google_scholar %}
-    <h4> 
-        <span class="label-azul">Google Scholar:</span> 
-        <a class="texto-cinzento" href="{{ link_google_scholar }}" target="_blank">{{ link_google_scholar }}</a>
-    </h4>
-    {% endif %}
 </div>
 
-<div class="btn-group mt-4 ms-5" role="group" aria-label="Botões de Ação">
-    <a class="m-2 btn btn-custom" href="/conceitos" role="button">Retroceder</a>
-    <a class="m-2 btn btn-custom" href="/conceito/{{ designacao }}/editar" role="button">Editar</a>
-    <form action="/conceito/{{ designacao }}/eliminar" method="post" onsubmit="return confirm('Tem certeza que deseja eliminar este conceito?');" style="display:inline;">
-        <button type="submit" class="m-2 btn btn-custom" role="button">Eliminar</button>
+<div class="mt-5 ms-5 d-flex flex-row">
+    <a class="m-2 btn btn-custom btn-xl" href="/conceitos" role="button">Retroceder</a>
+    <a class="m-2 btn btn-custom btn-xl" href="/conceito/{{ designacao }}/editar" role="button">Editar</a>
+    <form action="/conceito/{{ designacao }}/eliminar" method="post" onsubmit="return confirm('Tem certeza que deseja eliminar este conceito?');">
+        <button type="submit" class="m-2 btn btn-custom btn-xl" role="button">Eliminar</button>
     </form>
 </div>
+
 
 {% endblock %}

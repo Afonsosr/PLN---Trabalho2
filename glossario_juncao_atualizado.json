@@ -19090,10 +19090,10 @@
     }
   },
   {
-    "Conceito": "quarantenat",
+    "Conceito": "quarantenat -ada",
     "Fontes": {
       "covid": {
-        "Conceito": "quarantenat",
+        "Conceito": "quarantenat -ada",
         "Substantivo": "",
         "Traduções": [
           "oc: quarantenat",

@@ -8,7 +8,7 @@ from nltk.tokenize import word_tokenize
 nltk.download('punkt')
 
 # Carregar o glossário
-with open('glossario_juncao.json', encoding='utf-8') as f:
+with open('glossario_juncao_atualizado.json', encoding='utf-8') as f:
     glossario = json.load(f)
 
 # Preparar frases para treinar o modelo

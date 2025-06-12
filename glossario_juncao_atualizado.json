@@ -23602,22 +23602,17 @@
         "Conceito": "ulleres nasals",
         "Substantivo": "n",
         "Traduções": [
-          "n f pl: ",
           "oc: mericles nasaus",
-          "n m pl: ",
           "eu: sudur-kanula",
           "gl: cánula nasal",
           "es: cánula nasal",
-          "n f pl: ",
           "en: nasal cannula",
-          "n pl: ",
           "fr: pinces nasales",
-          "n f pl: ",
           "pt: cânula nasal",
           "nl: neusbril"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. compl. ; gafas nasales ; nasal prongs ; zuurstofbril TRACTAMENT. Instrument utilitzat per a fluxos d’oxigen reduïts que consta de dos tubs petits flexibles que s’introdueixen a l’entrada de les fosses nasals.",
+        "Descricao": "TRACTAMENT. Instrument utilitzat per a fluxos d’oxigen reduïts que consta de dos tubs petits flexibles que s’introdueixen a l’entrada de les fosses nasals.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -23640,7 +23635,7 @@
           "nl: umifenovir"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         131707-25-0 PRINCIPIS ACTIUS. Fàrmac antivíric i immunomodulador que té activitat viricida dual, directa i inhibidora de diverses etapes del cicle vital dels virus. de la infecció del virus de la grip i altres virus respiratoris. compassiu el fet de recórrer a una teràpia en condicions d’ús diferents de les autoritzades o en afeccions altres que les estrictament indicades, així com l’administració de determinades substàncies amb finalitats pal·liatives. 2. L’ús compassiu requereix el consentiment informat del pacient, així com l’autorització de la direcció del centre on s’origina la demanda i de l’autoritat competent.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric i immunomodulador que té activitat viricida dual, directa i inhibidora de diverses etapes del cicle vital dels virus. de la infecció del virus de la grip i altres virus respiratoris. compassiu el fet de recórrer a una teràpia en condicions d’ús diferents de les autoritzades o en afeccions altres que les estrictament indicades, així com l’administració de determinades substàncies amb finalitats pal·liatives. 2. L’ús compassiu requereix el consentiment informat del pacient, així com l’autorització de la direcció del centre on s’origina la demanda i de l’autoritat competent.",
         "Citação": "Nota: 1. L’umifenovir s’empra en el tractament i la profilaxi de la infecció del virus de la grip i altres virus respiratoris. U168Nota: 1. Per extensió, també es considera que és un ús compassiu el fet de recórrer a una teràpia en condicions d’ús diferents de les autoritzades o en afeccions altres que les estrictament indicades, així com l’administració de determinades substàncies amb finalitats pal·liatives.2. L’ús compassiu requereix el consentiment informat del pacient, així com l’autorització de la direcció del centre on s’origina la demanda i de l’autoritat competent.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -23710,11 +23705,10 @@
           "en: intensive care unit",
           "fr: unité de soins intensifs",
           "pt: unidade de cuidados intensivos",
-          "nl: intensieve zorg",
-          "n pl: ;"
+          "nl: intensieve zorg"
         ],
         "Sigla": "UCI",
-        "Descricao": "sin.  unitat de vigilància intensiva ; UVI   unidade de vixilancia intensiva ; UVI  unidad de vigilancia intensiva ; UVI  ; ICU  ; USI  ; UCI  centro de terapia intensiva  unidade de terapia intensiva ; UTI  ; intensieve zorgen intensievezorgafdeling ; intensive care intensivecareafdeling ; IC  TRACTAMENT. Unitat hospitalària on es té cura constant de pacients en estat crític o de gravetat extrema. personal sanitari especialitzat en medicina intensiva",
+        "Descricao": "TRACTAMENT. Unitat hospitalària on es té cura constant de pacients en estat crític o de gravetat extrema. personal sanitari especialitzat en medicina intensiva",
         "Citação": "Nota: Les unitats de cures intensives són a càrrec de personal sanitari especialitzat en medicina intensiva",
         "Categoria": "Procedimentos Médicos"
       }
@@ -23728,7 +23722,7 @@
         "Substantivo": "",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Procedimentos Médicos"
       }
@@ -23771,7 +23765,7 @@
           "nl: netelroos"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; urticaria  CLÍNICA. Exantema caracteritzat per la formació de favasses pruriginoses i evanescents, que pot tenir causes diverses i pot evolucionar de forma aguda o crònica.",
+        "Descricao": "CLÍNICA. Exantema caracteritzat per la formació de favasses pruriginoses i evanescents, que pot tenir causes diverses i pot evolucionar de forma aguda o crònica.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -23815,7 +23809,7 @@
         "Substantivo": "",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg. i estan equipades amb l’instrumental específic i els mitjans farmacològics necessaris per a monitorar l’estat del pacient i atendre immediatament les seves necessitats.",
+        "Descricao": "Estan equipades amb l’instrumental específic i els mitjans farmacològics necessaris per a monitorar l’estat del pacient i atendre immediatament les seves necessitats.",
         "Citação": "",
         "Categoria": "Procedimentos Médicos"
       }
@@ -23908,7 +23902,7 @@
           "nl: entstof"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; vacuna     vax    ; vaccin  PREVENCIÓ. Preparat que s’utilitza amb finalitat preventiva o terapèutica per a provocar immunitat activa contra una possible infecció o contra altres malalties.",
+        "Descricao": "PREVENCIÓ. Preparat que s’utilitza amb finalitat preventiva o terapèutica per a provocar immunitat activa contra una possible infecció o contra altres malalties.",
         "Citação": ""
       }
     }
@@ -23930,7 +23924,7 @@
           "nl: COVID-19-vaccine"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.     ; vacuna anticovid-19 ;  ; COVID-19 shot ; COVID-19 vaccine   ;  ;  vacina para o COVID-19  ",
+        "Descricao": "Vacina para o COVID-19  ",
         "Citação": ""
       }
     }
@@ -23965,7 +23959,7 @@
           "nl: AstraZeneca"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  den. com.  ; vacuna Oxford- ; Vaxzevria  ; Oxford-AstraZeneca ; Vaxzevria  ; vacina Oxford ; Vaxzevria  ; vacuna Oxford- ; Vaxzevria  ; Oxford-AstraZeneca vaccine ; Vaxzevria  ; vaccin Oxford- ; Vaxzevria   vacina Oxford ; Vaxzevria  vacina de Oxford ; vacina Oxford-  ; AstraZeneca-vaccin  PREVENCIÓ. Vacuna anti COVID-19 de vectors vírics preparada amb adenovirus atenuat de ximpanzé, que introdueix en l’organisme el material genètic que expressa la proteïna S del SARS-CoV-2. intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. Està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
+        "Descricao": "PREVENCIÓ. Vacuna anti COVID-19 de vectors vírics preparada amb adenovirus atenuat de ximpanzé, que introdueix en l’organisme el material genètic que expressa la proteïna S del SARS-CoV-2. intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. Està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
         "Citação": "Nota: La vacuna AstraZeneca s’administra per via intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. Està autoritzada a l’Estat espanyol. És d’origen biotecnològic."
       }
     }
@@ -23988,7 +23982,7 @@
           "ar: BBIBP-CORV"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; Sinopharm BIBP COVID-19 vaccine   ; BBIBP-CorV  vacina da Sinopharm  ; BBIBP-CorV  PREVENCIÓ. Vacuna anti COVID-19 que conté el SARS-CoV-2 inactivat mitjançant propiolactona beta, la qual s’uneix a l’RNA víric i n’evita la replicació però deixa la proteïna S intacta. intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. No està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
+        "Descricao": "PREVENCIÓ. Vacuna anti COVID-19 que conté el SARS-CoV-2 inactivat mitjançant propiolactona beta, la qual s’uneix a l’RNA víric i n’evita la replicació però deixa la proteïna S intacta. intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. No està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
         "Citação": "Nota: La vacuna BBIBP-CorV s’administra per via intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. No està autoritzada a l’Estat espanyol. És d’origen biotecnològic."
       }
     }
@@ -24012,7 +24006,7 @@
           "ar: Ad5-nCoV"
         ],
         "Sigla": "Ad5-nCoV",
-        "Descricao": "den. com. ; Ad5-nCoV ; Convidecia ; CanSino txerto ; Convidecia ; Ad5-nCov ; Convidecia ; Ad5-nCoV ; Convidecia ; Ad5-nCoV ; Convidecia ; Ad5-nCoV ; Convidecia ; Ad5-nCoV ; Convidecia ; Ad5-nCoV PREVENCIÓ. Vacuna anti COVID-19 de vectors vírics no replicatius preparada amb adenovirus",
+        "Descricao": "PREVENCIÓ. Vacuna anti COVID-19 de vectors vírics no replicatius preparada amb adenovirus",
         "Citação": ""
       }
     }
@@ -24025,7 +24019,7 @@
         "Substantivo": "",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Sem Descrição Associada",
         "Citação": ""
       }
     }
@@ -24047,7 +24041,7 @@
           "nl: CureVac-vaccin"
         ],
         "Sigla": "CVnCoV",
-        "Descricao": "sin.  ; zorecimeran ; CVnCoV  ; zorezimeran ; CVnCoV  ; zorecimerán ; CVnCoV  ; zorecimerán ; CVnCoV  ; zorecimeran ; CVnCoV  ; zoréciméran ; CVnCoV   CVnCoV ; vacina CureVac  ; zorecimeran ; CVnCoV  PREVENCIÓ. Vacuna anti COVID-19 que utilitza l’RNA missatger codificador de la proteïna S del SARS-CoV-2. el desenvolupament clínic de la vacuna CureVac. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PREVENCIÓ. Vacuna anti COVID-19 que utilitza l’RNA missatger codificador de la proteïna S del SARS-CoV-2. el desenvolupament clínic de la vacuna CureVac. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’empresa farmacèutica ha aturat recentment el desenvolupament clínic de la vacuna CureVac. És d’origen biotecnològic.2. La denominació zorecimeran és la forma catalana corresponent a la DCI."
       }
     }
@@ -24121,7 +24115,7 @@
           "nl: boodschapper-RNA-vaccin"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ; ;   ; RNAm-txerto  ; vacina de ARNm ; vacina de mRNA ; vacina de RNA mensaxeiro  ; vacuna de ARN mensajero ; vacuna de ARNm ; vacuna de mRNA  ; messenger RNA vaccine ; mRNA vaccine  ; vaccin à ARN messager ; vaccin à ARNm   vacina ARNm ; vacina de ARN mensageiro ; vacina mRNA  ; messenger-RNA-vaccin ; mRNA-vaccin  PREVENCIÓ. Vacuna preparada mitjançant tècniques d’enginyeria genètica amb una cadena d’RNA missatger sintetitzat a partir del codi genètic d’un agent patogen, amb l’objectiu que l’organisme vacunat sintetitzi una proteïna innòcua d’aquest agent, la qual funciona com a antigen i activa el sistema immunitari. vacunes anti COVID-19 Pfizer/BioNtech i Moderna.",
+        "Descricao": "PREVENCIÓ. Vacuna preparada mitjançant tècniques d’enginyeria genètica amb una cadena d’RNA missatger sintetitzat a partir del codi genètic d’un agent patogen, amb l’objectiu que l’organisme vacunat sintetitzi una proteïna innòcua d’aquest agent, la qual funciona com a antigen i activa el sistema immunitari. vacunes anti COVID-19 Pfizer/BioNtech i Moderna.",
         "Citação": "Nota: Són exemples de vacunes d’RNA missatger les vacunes anti COVID-19 Pfizer/BioNtech i Moderna."
       }
     }
@@ -24134,7 +24128,7 @@
         "Substantivo": "",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. PREVENCIÓ. Vacuna anti COVID-19 que conté el SARS-CoV-2 inactivat mitjançant propiolactona beta, la qual s’uneix a l’RNA víric i n’evita la replicació però deixa la proteïna S intacta. intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. No està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
+        "Descricao": "PREVENCIÓ. Vacuna anti COVID-19 que conté el SARS-CoV-2 inactivat mitjançant propiolactona beta, la qual s’uneix a l’RNA víric i n’evita la replicació però deixa la proteïna S intacta. intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. No està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
         "Citação": "Nota: La vacuna Sinovac s’administra per via intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. No està autoritzada a l’Estat espanyol. És d’origen biotecnològic."
       }
     }
@@ -24155,7 +24149,7 @@
           "nl: Janssen-vaccin"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  ; vacuna Johnson &amp; Johnson  ; Johnson &amp; Johnson txerto  ;  vacina Johnson &amp; Johnson  ; vacuna Johnson &amp; Johnson  ; Johnson &amp; Johnson vaccine ; COVID-19 Vaccine Janssen ; Janssen COVID-19 vaccine  ; vaccin Johnson &amp; Johnson  ;  vacina Johnson &amp; Johnson  vacina da Janssen  ; Janssen  PREVENCIÓ. Vacuna anti COVID-19 de vectors vírics no replicatius preparada amb adenovirus humà Ad26, que introdueix en l’organisme el material genètic que expressa la proteïna S del SARS-CoV-2. intramuscular i és necessària una dosi per a completar la pauta de vacunació. Està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
+        "Descricao": "PREVENCIÓ. Vacuna anti COVID-19 de vectors vírics no replicatius preparada amb adenovirus humà Ad26, que introdueix en l’organisme el material genètic que expressa la proteïna S del SARS-CoV-2. intramuscular i és necessària una dosi per a completar la pauta de vacunació. Està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
         "Citação": "Nota: La vacuna Janssen s’administra per via intramuscular i és necessària una dosi per a completar la pauta de vacunació. Està autoritzada a l’Estat espanyol. És d’origen biotecnològic."
       }
     }
@@ -24242,7 +24236,7 @@
           "nl: preventief vaccinn"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; vacuna profilactica  ; txerto profilaktiko  ; vacina profiláctica  ; vacuna profiláctica  ; prophylactic vaccine  ; vaccin prophylactique   vacina profilática  ; profylactisch vaccin  PREVENCIÓ. Vacuna emprada per a produir una resposta immunitària concreta en la prevenció de malalties infeccioses, abans que puguin afectar un organisme.",
+        "Descricao": "PREVENCIÓ. Vacuna emprada per a produir una resposta immunitària concreta en la prevenció de malalties infeccioses, abans que puguin afectar un organisme.",
         "Citação": ""
       }
     }

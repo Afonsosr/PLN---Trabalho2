@@ -25176,29 +25176,20 @@
     }
   },
   {
-    "Conceito": "zoonòtic -a",
+    "Conceito": "zoonòtic ",
     "Fontes": {
       "covid": {
-        "Conceito": "zoonòtic -a",
+        "Conceito": "zoonòtic",
         "Substantivo": "",
         "Traduções": [
-          "adj: ",
-          "oc: zoonotic -a",
-          "adj: ",
+          "oc: zoonotic",
           "eu: zoonotiko",
-          "adj: ",
-          "gl: zoonótico -a",
-          "adj: ",
-          "es: zoonótico -ca",
-          "adj: ",
+          "gl: zoonótico",
+          "es: zoonótico",
           "en: zoonotic",
-          "adj: ",
           "fr: zoonotique",
-          "adj: ",
           "pt: zoonótico",
-          "adj: ",
-          "nl: zoönotisch -e",
-          "adj: "
+          "nl: zoönotisch"
         ],
         "Sigla": "Sem Sigla Associada",
         "Descricao": "ETIOPATOGÈNIA. Relatiu o pertanyent a la zoonosi.",
@@ -25238,7 +25229,7 @@
           "nl: desoxyribonucleïnezuur"
         ],
         "Sigla": "ADN",
-        "Descricao": ";   ; DNA  ; ADN ;  ; ADN ;  ; DNA  ; DNA ;  ; ADN ;  ; DNA   ETIOPATOGÈNIA. Àcid nucleic constituït per nucleòtids de desoxiribosa, àcid fosfòric i les bases nitrogenades adenina, citosina, guanina i timina, que es troba fonamentalment en el nucli, en els mitocondris i en els cloroplasts, i que constitueix la base molecular de l'herència biològica. té un ús divulgatiu, mentre que en . Aquesta recomanació és aplicable també a la parella de sigles , atès que són les formes clarament identificables dins la comunitat científica internacional. Anàlogament, les sigles creades a partir d’aquestes formes segueixen preferentment l’ordre internacional ( ...), i només secundàriament i en un àmbit divulgatiu es formen a partir de l’ordre romànic, amb i ( ...). correspon a l’anglès ( ).",
+        "Descricao": "ETIOPATOGÈNIA. Àcid nucleic constituït per nucleòtids de desoxiribosa, àcid fosfòric i les bases nitrogenades adenina, citosina, guanina i timina, que es troba fonamentalment en el nucli, en els mitocondris i en els cloroplasts, i que constitueix la base molecular de l'herència biològica. té un ús divulgatiu, mentre que en . Aquesta recomanació és aplicable també a la parella de sigles , atès que són les formes clarament identificables dins la comunitat científica internacional. Anàlogament, les sigles creades a partir d’aquestes formes segueixen preferentment l’ordre internacional ( ...), i només secundàriament i en un àmbit divulgatiu es formen a partir de l’ordre romànic, amb i ( ...). correspon a l’anglès ( ).",
         "Citação": "Nota: 1. La sigla ADN té un ús divulgatiu, mentre que en àmbits especialitzats se sol utilitzar la sigla anglesa DNA. Aquesta recomanació és aplicable també a la parella de sigles ARN-RNA, atès que són les formes clarament identificables dins la comunitat científica internacional. Anàlogament, les sigles creades a partir d’aquestes formes segueixen preferentment l’ordre internacional (mtDNA, rDNA, tRNA...), i només secundàriament i en un àmbit divulgatiu es formen a partir de l’ordre romànic, amb ADN i ARN (ADNmt, ADNr, ARNt...).2. La sigla DNA correspon a l’anglès deoxyribonucleic acid (‛àcid desoxiribonucleic’).",
         "Categoria": "Genética e Biologia Molecular"
       }
@@ -25262,7 +25253,7 @@
           "nl: basislevensondersteuning"
         ],
         "Sigla": "ARN",
-        "Descricao": ";  ; ARN ; RNA  ; RNA  ; ARN ; RNA  ; ARN ; RNA  ; RNA  ; ARN ; RNA  ; ARN ; RNA  ; RNA  ETIOPATOGÈNIA. Àcid nucleic constituït per nucleòtids de ribosa, àcid fosfòric i les bases nitrogenades adenina, citosina, guanina i uracil, limitação do suporte de vida ;  limite terapêutico ; LSV  ; elementaire levensondersteuning ; geavanceerde levensondersteuning ; gevorderde levensondersteuning  TRACTAMENT. Decisió clínica que comporta l’aplicació de les actuacions sanitàries que afavoreixen el màxim benestar al pacient i l’abstenció de les que no li aporten prou beneficis, tenint en compte la seva situació concreta. recuperació de la malaltia amb una qualitat de vida acceptable, l’adequació de les actuacions sanitàries facilita l’evolució cap a la mort sense provocar-la ni prolongar inútilment l’agonia amb tractaments fútils. 2. La denominació , que és la que té més tradició, s’està substituint progressivament per les denominacions o que es consideren semànticament més adequades.",
+        "Descricao": "ETIOPATOGÈNIA. Àcid nucleic constituït per nucleòtids de ribosa, àcid fosfòric i les bases nitrogenades adenina, citosina, guanina i uracil, limitação do suporte de vida ;  limite terapêutico ; LSV  ; elementaire levensondersteuning ; geavanceerde levensondersteuning ; gevorderde levensondersteuning  TRACTAMENT. Decisió clínica que comporta l’aplicació de les actuacions sanitàries que afavoreixen el màxim benestar al pacient i l’abstenció de les que no li aporten prou beneficis, tenint en compte la seva situació concreta. recuperació de la malaltia amb una qualitat de vida acceptable, l’adequació de les actuacions sanitàries facilita l’evolució cap a la mort sense provocar-la ni prolongar inútilment l’agonia amb tractaments fútils. 2. La denominació , que és la que té més tradició, s’està substituint progressivament per les denominacions o que es consideren semànticament més adequades.",
         "Citação": "Nota: 1. Al final de la vida, quan ja no es preveu una recuperació de la malaltia amb una qualitat de vida acceptable, l’adequació de les actuacions sanitàries facilita l’evolució cap a la mort sense provocar-la ni prolongar inútilment l’agonia amb tractaments fútils.2. La denominació limitació de l’esforç terapèutic, que és la que té més tradició, s’està substituint progressivament per les denominacions adequació de les actuacions sanitàries o adequació de l’esforç terapèutic, que es consideren semànticament més adequades.",
         "Categoria": "Genética e Biologia Molecular"
       }
@@ -25341,8 +25332,8 @@
           "nl: doeltreffendheid van een vaccin"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "            efetividade vacinal  efetividade da vacina  ; effectiviteit van een vaccin ; vaccindoeltreffendheid ; vaccineffectiviteit  PREVENCIÓ. Grau en què una vacuna produeix l’efecte desitjat en la població diana quan s’aplica en les condicions reals de la pràctica clínica habitual. vacunal i l’eficiència vacunal.",
-        "Citação": "Nota: Convé distingir l’efectivitat vacunal de l’eficàcia vacunal i l’eficiència vacunal.",
+        "Descricao": "PREVENCIÓ. Grau en què una vacuna produeix l’efecte desitjat en la població diana quan s’aplica en les condicions reals de la pràctica clínica habitual. vacunal i l’eficiència vacunal.",
+        "Citação": "Convé distingir l’efectivitat vacunal de l’eficàcia vacunal i l’eficiència vacunal.",
         "Categoria": "Doenças"
       }
     }
@@ -25355,7 +25346,7 @@
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -25524,7 +25515,7 @@
           "nl: gebruik in schrijnende gevallen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; usatge compassiu        uso humanitário ;  uso por compaixão  ; medelevend gebruik  TRACTAMENT. Utilització d’un medicament que encara es troba en període experimental per a tractar malalts en fase molt avançada o per als quals no hi ha cap altre tractament possible. PREVENCIÓ. Vacuna preventiva que té com a objectiu potenciar una resposta immunitària específica contra la COVID-19.",
+        "Descricao": "Utilització d’un medicament que encara es troba en període experimental per a tractar malalts en fase molt avançada o per als quals no hi ha cap altre tractament possible. PREVENCIÓ. Vacuna preventiva que té com a objectiu potenciar una resposta immunitària específica contra la COVID-19.",
         "Citação": "",
         "Categoria": "Bioética e Leis"
       }

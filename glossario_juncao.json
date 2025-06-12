@@ -1250,19 +1250,6 @@
     }
   },
   {
-    "Conceito": "ARN",
-    "Fontes": {
-      "covid": {
-        "Conceito": "ARN",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
-      }
-    }
-  },
-  {
     "Conceito": "arrítmia",
     "Fontes": {
       "covid": {

@@ -75,7 +75,6 @@ print("Sem categoria:", naotem)
 #  ('apoptose', 'Biologia Molecular'),
 #  ('apremilast', 'Fármacos e Terapias'),
 #  ('araraquara', 'Vírus'),
-#  ('ARN', 'Genética e Biologia Molecular'),
 #  ('ARN missatger', 'Genética e Biologia Molecular'),
 #  ('ARNm', 'Genética e Biologia Molecular'),
 #  ('arrítmia', 'Doenças'),

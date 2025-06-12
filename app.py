@@ -28,7 +28,7 @@ def home():
 @app.route("/conceitos")
 def listar_conceitos():
     conceitos = carregar_conceitos("glossario_por_categoria.json")
-    
+
     conceitos_por_letra = defaultdict(list)
 
     for categoria, lista_conceitos in conceitos.items():

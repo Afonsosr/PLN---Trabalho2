@@ -3,7 +3,7 @@
 import json
 
 # Altere para o nome do seu ficheiro, se necessário
-with open('glossario_juncao.json', 'r', encoding='utf-8') as f:
+with open('glossario_juncao_atualizado.json', 'r', encoding='utf-8') as f:
     dados = json.load(f)
 
 tem = []

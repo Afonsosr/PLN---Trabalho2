@@ -3,53 +3,61 @@
 {% block body %}
 
 <!-- Adiciona o estilo para o fundo e os botões -->
-<style>
-    body::before {
-        content: "";
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background-image: url('static/images/fundo2.png');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        opacity: 0.25;
-        z-index: -1;
-    }
+    <style>
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('static/images/fundo2.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            opacity: 0.25;
+            z-index: -1;
+        }
 
-    .caixa-titulo {
-        background-color: #003366;
-        border-radius: 10px;
-        padding: 30px;
-        color: white;
-        box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
-        margin: 40px;
-    }
+        .content {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            position: relative;
+            z-index: 1;
+        }
 
-    .label-azul {
-        color: #003366;
-        font-weight: bold;
-    }
+        .caixa-titulo {
+            background-color: #003366;
+            border-radius: 10px;
+            padding: 30px;
+            color: white;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+            margin: 40px;
+        }
 
-    .texto-cinzento {
-        color: #333333;
-    }
+        .label-azul {
+            color: #003366;
+            font-weight: bold;
+        }
 
-    .btn-custom {
-        background-color: #003366;
-        color: white;
-        border: 2px solid white;
-        transition: all 0.3s ease;
-    }
+        .texto-cinzento {
+            color: #333333;
+        }
 
-    .btn-custom:hover {
-        background-color: white;
-        color: #003366;
-        border: 2px solid #003366;
-    }
-</style>
+        .btn-custom {
+            background-color: #003366;
+            color: white;
+            border: 2px solid white;
+            transition: all 0.3s ease;
+        }
+
+        .btn-custom:hover {
+            background-color: white;
+            color: #003366;
+            border: 2px solid #003366;
+        }
+    </style>
 
 <div class="caixa-titulo">
     <h1 class="px-4 text-white"> Conceito: {{ designacao }} </h1>

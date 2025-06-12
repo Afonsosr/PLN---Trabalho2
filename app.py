@@ -52,6 +52,7 @@ def smart_capitalize(texto):
     if not texto:
         return texto
     return texto[0].upper() + texto[1:]
+
 def parse_traducoes(traducoes):
     traducoes_dict = {}
 
@@ -86,7 +87,7 @@ def parse_traducoes(traducoes):
 def consultar_doencas(designacao):
     conceito_encontrado = None
     fonte_usada = None
-    link_google_scholar = None  # <-- inicializa a variável
+    link_google_scholar = None  
 
     for categoria_nome, lista_conceitos in conceitos.items():
         for item in lista_conceitos:
@@ -118,7 +119,28 @@ def consultar_doencas(designacao):
                            traducoes=traducoes_dict,
                            designacao=designacao)
 
+@app.route("/conceito/<designacao>/eliminar", methods=["POST"])
+def eliminar_conceito(designacao):
+    ficheiro_json = "glossario_por_categoria.json"
+    conceitos = carregar_conceitos(ficheiro_json)
 
+    conceito_removido = False
+
+    for categoria, lista_conceitos in conceitos.items():
+        for i, item in enumerate(lista_conceitos):
+            if item["Conceito"].lower() == designacao.lower():
+                shutil.copyfile(ficheiro_json, "glossario_backup.json")
+                del lista_conceitos[i]
+                conceito_removido = True
+                break
+        if conceito_removido:
+            break
+
+    if conceito_removido:
+        guardar_conceitos(conceitos, ficheiro_json)
+        return redirect(url_for("listar_conceitos"))
+    else:
+        return f"Conceito '{designacao}' não encontrado", 404
 
 
 app.run(host="localhost", port=4001, debug=True)

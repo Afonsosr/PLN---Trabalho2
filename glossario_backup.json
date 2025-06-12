@@ -1,6 +1,43 @@
 {
     "Genética e Biologia Molecular": [
         {
+            "Conceito": "abeta",
+            "Fontes": {
+                "neologismo": {
+                    "Conceito": "abeta",
+                    "Substantivo": "s.f.",
+                    "Traduções": "abeta [ing]; abeta [esp]",
+                    "Sigla": "Sem Sigla Associada",
+                    "Descrição": "Proteína  que  pode  ser  encontrada  em  todos  os  tipos  de  células  do organismo  humano.  Ao  acumular-se  excessivamente  no  córtex  cerebral do ser humano pode contribuir para o aceleramento do mal de alzheimer .",
+                    "Citação": "“...Pesquisadores alemães da Universidade de Bonn ajudaram a entender como  a  proteína  abeta  se  acumula  no  córtex  cerebral  de  portadores  do mal de Alzheimer...”",
+                    "Categoria": "Genética e Biologia Molecular"
+                }
+            },
+            "Palavras próximas": [
+                [
+                    "parede",
+                    0.99
+                ],
+                [
+                    "anteriormente",
+                    0.99
+                ],
+                [
+                    "empréstimo",
+                    0.99
+                ],
+                [
+                    "vetor",
+                    0.99
+                ],
+                [
+                    "favorecer",
+                    0.99
+                ]
+            ],
+            "Link Google Scholar": "https://scholar.google.com/scholar?q=abeta"
+        },
+        {
             "Conceito": "adjuvante genético",
             "Fontes": {
                 "neologismo": {

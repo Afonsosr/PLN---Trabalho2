@@ -4097,7 +4097,10 @@
                 "ministerio": {
                     "Conceito": "Abuso ﬁnanceiro dos idosos",
                     "Categoria": "Acidentes e Violência",
-                    "Descrição": "Exploração imprópria ou ilegal e/ou uso não consentido de recursos ﬁ nanceiros dos idosos."
+                    "Descrição": "Exploração imprópria ou ilegal e/ou uso não consentido de recursos ﬁ nanceiros dos idosos.",
+                    "Sigla": "afi",
+                    "Citação": null,
+                    "Traduções": {}
                 }
             },
             "Palavras próximas": [

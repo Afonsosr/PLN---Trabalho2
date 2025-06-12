@@ -85,6 +85,10 @@ def parse_traducoes(traducoes):
 
 @app.route("/conceito/<designacao>") 
 def consultar_doencas(designacao):
+
+    conceitos = carregar_conceitos("glossario_por_categoria.json")
+
+
     conceito_encontrado = None
     fonte_usada = None
     link_google_scholar = None  

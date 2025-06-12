@@ -84,7 +84,7 @@ def parse_traducoes(traducoes):
     return traducoes_dict
 
 @app.route("/conceito/<designacao>") 
-def consultar_doencas(designacao):
+def consultar_conceitos(designacao):
 
     conceitos = carregar_conceitos("glossario_por_categoria.json")
 
@@ -221,7 +221,7 @@ def editar_conceito(designacao):
 
         guardar_conceitos(conceitos, ficheiro_json)
 
-        return redirect(url_for("consultar_doencas", designacao=novo_conceito))
+        return redirect(url_for("consultar_conceitos", designacao=novo_conceito))
 
     # GET: preparar dados seguros para o formulário
     conceito_nome = safe_get(conceito_encontrado, "Conceito")
@@ -275,7 +275,6 @@ def consultar_categoria(categoria):
 def tabela():
     conceitos_por_categoria = carregar_conceitos("glossario_por_categoria.json")
 
-    # vamos transformar tudo numa única lista de conceitos para a tabela
     todos_conceitos = []
     for categoria, lista_conceitos in conceitos_por_categoria.items():
         for conceito in lista_conceitos:

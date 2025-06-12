@@ -1,0 +1,112 @@
+{% extends "parent.html" %}
+
+{% block body %}
+
+<style>
+
+    body::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url("{{ url_for('static', filename='images/fundo4.png') }}");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        opacity: 0.15;  
+    }
+
+    table#myTable {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 40px auto;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+        border-radius: 10px;
+        overflow: hidden;
+        font-size: 1.3rem;
+    }
+
+    table#myTable thead tr {
+        background-color: #003366; 
+        color: white;
+        text-align: center;
+    }
+
+    table#myTable thead tr th {
+        padding: 20px;
+        border: 1px solid #ddd;
+    }
+
+    table#myTable tbody tr {
+        background-color: #cce6fa; 
+        transition: background-color 0.3s;
+    }
+
+    table#myTable tbody tr td {
+        padding: 15px;
+        border: 1px solid #ddd;
+        text-align: center;
+    }
+
+    table#myTable tbody tr:nth-child(even) {
+        background-color: #b3d7f2;
+    }
+
+    table#myTable tbody tr:hover {
+        background-color: #99c9eb; 
+    }
+
+    .caixa-titulo {
+        text-align: left;
+        margin-top: 40px;
+    }
+
+    .caixa-titulo h1 {
+        color: #003366;
+        font-weight: bold;
+    }
+
+    /* Estilo personalizado para os links na tabela */
+    #myTable a {
+        color: #003366;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    #myTable a:hover {
+        text-decoration: underline;
+        color: #001f4d;
+    }
+
+</style>
+
+<div class="caixa-titulo">
+    <h1>Tabela de Conceitos:</h1>
+</div>
+
+<table id="myTable" class="display">
+    <thead>
+        <tr>
+            <th>Conceito</th>
+            <th>Categoria</th>
+            <th>Descrição</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for conceito in conceitos %}
+        <tr>
+            <td>
+                <a href="/conceito/{{ conceito['Conceito'] | urlencode }}?from=tabela">
+                    {{ conceito['Conceito'] }}
+                </a>                   
+            </td>
+            <td>{{ conceito['Categoria'] }}</td>
+            <td>{{ conceito['Descricao'] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+{% endblock %}

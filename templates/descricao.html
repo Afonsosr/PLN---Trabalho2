@@ -123,7 +123,9 @@
 </div>
 
 <div class="mt-5 ms-5 d-flex flex-row">
-    <a class="m-2 btn btn-custom btn-xl" href="{% if request.args.get('categoria') %}/categorias/{{ request.args.get('categoria') }}{% else %}/conceitos{% endif %}" role="button">Retroceder</a>
+    <a class="m-2 btn btn-custom btn-xl" 
+    href="{% if request.args.get('from') == 'tabela' %}/tabela{% elif request.args.get('categoria') %}/categorias/{{ request.args.get('categoria') }}{% else %}/conceitos{% endif %}" 
+    role="button">Retroceder</a> 
     <a class="m-2 btn btn-custom btn-xl" href="/conceito/{{ designacao }}/editar" role="button">Editar</a>
     <form action="/conceito/{{ designacao }}/eliminar" method="post" onsubmit="return confirm('Tem certeza que deseja eliminar este conceito?');">
         <button type="submit" class="m-2 btn btn-custom btn-xl" role="button">Eliminar</button>

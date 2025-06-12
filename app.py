@@ -246,10 +246,8 @@ def editar_conceito(designacao):
 def obter_categorias(caminho):
     conceitos = carregar_conceitos(caminho)
     
-    # As categorias estão diretamente como chaves no JSON
     lista_categorias = list(conceitos.keys())
     
-    # Capitalizar só a primeira letra de cada uma
     lista_categorias = [categoria.capitalize() for categoria in lista_categorias]
     
     return sorted(lista_categorias)
@@ -259,6 +257,20 @@ def listar_categorias():
     caminho_json = "glossario_por_categoria.json"
     lista_ordenada = obter_categorias(caminho_json)
     return render_template("categorias.html", lista_ordenada=lista_ordenada)
+
+@app.route("/categorias/<categoria>")
+def consultar_categoria(categoria):
+    conceitos_por_categoria = carregar_conceitos("glossario_por_categoria.json")
+
+    categoria_original = next((cat for cat in conceitos_por_categoria.keys() if cat.lower() == categoria.lower()), None)
+
+    if not categoria_original:
+        return f"Categoria '{categoria}' não encontrada", 404
+
+    lista_conceitos = conceitos_por_categoria[categoria_original]
+
+    return render_template("consultar_categoria.html", categoria=categoria_original, conceitos=lista_conceitos)
+
 
 
 app.run(host="localhost", port=4001, debug=True)

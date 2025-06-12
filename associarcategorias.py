@@ -43,7 +43,6 @@ lista = [
  ('antimonial pentavalente', 'Fármacos e Terapias'),
  ('antipirètic', 'Fármacos e Terapias'),
  ('antiretroviral', 'Fármacos e Terapias'),
- ('antitèrmic', 'Fármacos e Terapias'),
  ('antiviral', 'Fármacos e Terapias'),
  ('antivíric', 'Fármacos e Terapias'),
  ('antiàlgic', 'Fármacos e Terapias'),

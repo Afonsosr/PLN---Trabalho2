@@ -1290,6 +1290,20 @@
     }
   },
   {
+    "Conceito": "ARN",
+    "Fontes": {
+      "covid": {
+        "Conceito": "ARN",
+        "Substantivo": "n m",
+        "Traduções": [],
+        "Sigla": "",
+        "Descricao": "veg.",
+        "Citação": "",
+        "Categoria": "Genética e Biologia Molecular"
+      }
+    }
+  },
+  {
     "Conceito": "arrítmia",
     "Fontes": {
       "covid": {

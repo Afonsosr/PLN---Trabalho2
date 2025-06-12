@@ -1,0 +1,74 @@
+{% extends "parent.html" %}
+
+{% block body %}
+
+<style>
+    body::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url("{{ url_for('static', filename='images/fundo2.png') }}");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        opacity: 0.25;
+        z-index: -1;
+    }
+
+    .caixa-titulo {
+        background-color: #336699;
+        border-radius: 10px;
+        padding: 30px;
+        color: white;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+        margin: 40px;
+        text-align: center;
+    }
+
+    .categoria-container {
+    max-width: 1800px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+    gap: 50px; 
+    padding: 20px;
+}
+
+    .btn-categoria {
+        background-color: #cce6fa;  
+        color: #003366; 
+        border: 2px solid #003366;
+        border-radius: 0.5rem;
+        padding: 20px 25px;
+        font-weight: 550;
+        font-size: 1.5rem;
+        text-align: center;
+        transition: all 0.3s ease;
+        display: block;
+        text-decoration: none;
+        white-space: normal;
+        }
+
+    .btn-categoria:hover {
+        background-color: #003366; 
+        color: white; 
+        text-decoration: none;
+    }
+
+
+</style>
+
+<div class="caixa-titulo">
+    <h1>Categorias</h1>
+</div>
+
+<div class="categoria-container">
+    {% for categoria in lista_ordenada %}
+        <a class="btn-categoria" href="/categorias/{{ categoria }}">{{ categoria }}</a>
+    {% endfor %}
+</div>
+
+{% endblock %}

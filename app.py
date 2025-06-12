@@ -88,7 +88,6 @@ def consultar_doencas(designacao):
 
     conceitos = carregar_conceitos("glossario_por_categoria.json")
 
-
     conceito_encontrado = None
     fonte_usada = None
     link_google_scholar = None  
@@ -244,6 +243,22 @@ def editar_conceito(designacao):
                            traducoes=traducoes_atual,
                            link_google_scholar=link_google_scholar)
 
+def obter_categorias(caminho):
+    conceitos = carregar_conceitos(caminho)
+    
+    # As categorias estão diretamente como chaves no JSON
+    lista_categorias = list(conceitos.keys())
+    
+    # Capitalizar só a primeira letra de cada uma
+    lista_categorias = [categoria.capitalize() for categoria in lista_categorias]
+    
+    return sorted(lista_categorias)
+
+@app.route("/categorias")
+def listar_categorias():
+    caminho_json = "glossario_por_categoria.json"
+    lista_ordenada = obter_categorias(caminho_json)
+    return render_template("categorias.html", lista_ordenada=lista_ordenada)
 
 
 app.run(host="localhost", port=4001, debug=True)

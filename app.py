@@ -48,11 +48,14 @@ def listar_conceitos():
 
     return render_template("conceitos.html", conceitos_por_letra=conceitos_por_letra_ordenado)
 
+def smart_capitalize(texto):
+    if not texto:
+        return texto
+    return texto[0].upper() + texto[1:]
 def parse_traducoes(traducoes):
     traducoes_dict = {}
 
     if isinstance(traducoes, str):
-        # Exemplo: "abeta [ing]; abeta [esp]"
         partes = traducoes.split(";")
         for parte in partes:
             parte = parte.strip()
@@ -60,30 +63,37 @@ def parse_traducoes(traducoes):
                 termo, idioma = parte.rsplit("[", 1)
                 idioma = idioma.replace("]", "").strip().lower()
                 termo = termo.strip()
+                termo = smart_capitalize(termo)
                 traducoes_dict[idioma] = termo
     elif isinstance(traducoes, list):
         for item in traducoes:
             if ":" in item:
                 idioma, termo = item.split(":", 1)
-                traducoes_dict[idioma.strip()] = termo.strip()
+                idioma = idioma.strip().lower()
+                termo = termo.strip()
+                termo = smart_capitalize(termo)
+                traducoes_dict[idioma] = termo
     elif isinstance(traducoes, dict):
-        traducoes_dict = traducoes  
+        # No caso de já ser dict, aplicamos o capitalize a cada termo
+        for idioma, termo in traducoes.items():
+            traducoes_dict[idioma] = smart_capitalize(termo)
     else:
         traducoes_dict = {}
 
     return traducoes_dict
 
-
 @app.route("/conceito/<designacao>") 
 def consultar_doencas(designacao):
     conceito_encontrado = None
     fonte_usada = None
+    link_google_scholar = None  # <-- inicializa a variável
 
     for categoria_nome, lista_conceitos in conceitos.items():
         for item in lista_conceitos:
             if item["Conceito"].lower() == designacao.lower():
                 conceito_encontrado = item
                 fonte_usada = next(iter(item["Fontes"].values()))
+                link_google_scholar = item.get("Link Google Scholar") 
                 break
         if conceito_encontrado:
             break
@@ -104,6 +114,7 @@ def consultar_doencas(designacao):
                            descricao=descricao,
                            citacao=citacao,  
                            sigla=sigla,
+                           link_google_scholar=link_google_scholar,
                            traducoes=traducoes_dict,
                            designacao=designacao)
 

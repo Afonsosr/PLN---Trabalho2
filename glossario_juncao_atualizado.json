@@ -25163,7 +25163,7 @@
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -25348,10 +25348,10 @@
     }
   },
   {
-    "Conceito": "índex de mortalitat ",
+    "Conceito": "índex de mortalitat",
     "Fontes": {
       "covid": {
-        "Conceito": "índex de mortalitat ",
+        "Conceito": "índex de mortalitat",
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",

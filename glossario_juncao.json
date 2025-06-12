@@ -53,19 +53,6 @@
     }
   },
   {
-    "Conceito": "ACA",
-    "Fontes": {
-      "covid": {
-        "Conceito": "ACA",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
-      }
-    }
-  },
-  {
     "Conceito": "acalabrutinib",
     "Fontes": {
       "covid": {
@@ -213,19 +200,6 @@
     }
   },
   {
-    "Conceito": "Ad5-nCoV",
-    "Fontes": {
-      "covid": {
-        "Conceito": "Ad5-nCoV",
-        "Substantivo": "",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
-      }
-    }
-  },
-  {
     "Conceito": "adequació de les actuacions sanitàries",
     "Fontes": {
       "covid": {
@@ -242,19 +216,6 @@
         ],
         "Sigla": "LET",
         "Descricao": "sin. compl. ;  ; limitacion der esfòrç terapeutic  ; ahalegin terapeutikoa mugatze ; ATE ; ATM  ; limitación do esforzo terapéutico ; LET  ; limitación del soporte vital ; LET ; LSV  ; limitation of life support ; LLS ; LSL  ;  limitação do esforço terapêutico ; LT  limitação de esforço terapêutico ;  limitação de suporte terapêutico ;",
-        "Citação": ""
-      }
-    }
-  },
-  {
-    "Conceito": "adequació de l’esforç terapèutic",
-    "Fontes": {
-      "covid": {
-        "Conceito": "adequació de l’esforç terapèutic",
-        "Substantivo": "",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
         "Citação": ""
       }
     }
@@ -300,19 +261,6 @@
         "Sigla": "Sem sigla associada",
         "Descrição": "Componente viral que potencializa os efeitos da que pode ser utilizada contra a brucelose. Inf. encicl.: o adjuvante genético também pode ser utilizado em em humanos.",
         "Citação": "“...composta de um ou mais genes da bactéria causadora da doença, associados a um componente viral - o chamado adjuvante genético, que potencializa os efeitos da vacina....”"
-      }
-    }
-  },
-  {
-    "Conceito": "ADN",
-    "Fontes": {
-      "covid": {
-        "Conceito": "ADN",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
       }
     }
   },
@@ -1053,19 +1001,6 @@
     }
   },
   {
-    "Conceito": "antiviral",
-    "Fontes": {
-      "covid": {
-        "Conceito": "antiviral",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
-      }
-    }
-  },
-  {
     "Conceito": "antivíric",
     "Fontes": {
       "covid": {
@@ -1084,19 +1019,6 @@
         "Sigla": "",
         "Descricao": " sin. compl.  ; antiviric  ; antibiriko ; birus-kontrako  ; antivírico  antivírico     antivírico   PRINCIPIS ACTIUS. Fàrmac o substància que té capacitat per a inactivar selectivament els virus o per a debilitar-ne l’acció. anàlogues dels nucleòsids, que bloquen la duplicació del DNA víric, com la vidarabina i l’acicloguanosina. Entre els antivírics naturals hi ha l’interferó.",
         "Citação": "Nota: Entre els antivírics de síntesi hi ha certes molècules anàlogues dels nucleòsids, que bloquen la duplicació del DNA víric, com la vidarabina i l’acicloguanosina. Entre els antivírics naturals hi ha l’interferó."
-      }
-    }
-  },
-  {
-    "Conceito": "antiàlgic",
-    "Fontes": {
-      "covid": {
-        "Conceito": "antiàlgic",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
       }
     }
   },
@@ -1341,32 +1263,6 @@
     }
   },
   {
-    "Conceito": "ARN missatger",
-    "Fontes": {
-      "covid": {
-        "Conceito": "ARN missatger",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
-      }
-    }
-  },
-  {
-    "Conceito": "ARNm",
-    "Fontes": {
-      "covid": {
-        "Conceito": "ARNm",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
-      }
-    }
-  },
-  {
     "Conceito": "arrítmia",
     "Fontes": {
       "covid": {
@@ -1408,19 +1304,6 @@
         "Sigla": "Sem sigla associada",
         "Descrição": "Aparelho médico utilizado na recuperação de pacientes com problemas na região do quadril. Inf. encicl.: o artrodistrator é usado em crianças com idade entre 6 e 13 anos, substituindo tratamentos convencionais que incluem grandes cirurgias, principalmente na cabeça do fêmur, o maior osso da perna. Para a instalação do aparelho é preciso uma pequena cirurgia para fixação dos pinos nos ossos através da pele. O artrodistrator afasta o osso da cabeça do fêmur da região do quadril onde está articulado. Essa estratégia deixa a área lesada protegida e propicia a aceleração do processo de revascularização do local doente, acelerando também a regeneração dos ossos.",
         "Citação": "“...Crianças e adolescentes entre 6 e 13 anos com problemas ortopédicos na região do quadril terão maior facilidade de recuperação com um aparelho chamado artrodistrator, desenvolvido na Faculdade de Medicina da USP de Ribeirão Preto (FMRP)...”"
-      }
-    }
-  },
-  {
-    "Conceito": "ARV",
-    "Fontes": {
-      "covid": {
-        "Conceito": "ARV",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
       }
     }
   },
@@ -1601,19 +1484,6 @@
         "Sigla": "",
         "Descricao": "     ; controlled clinical trial ; CCT    ensaio clínico controlado  estudo clínico  ; klinische studie ; klinische proef  CONCEPTES GENERALS. Estudi clínic, generalment comparatiu, que es duu a terme amb la finalitat d’avaluar l’eficàcia i la seguretat d’una intervenció i en què l’investigador controla directament les condicions en què es desenvolupa la recerca, especialment l’assignació de la intervenció. ( , en anglès) i ( , en anglès) és variable segons els especialistes, els països i les legislacions. I, de vegades, impròpiament, la forma s’utilitza també amb el significat d’ .",
         "Citação": "Nota: La distinció conceptual entre estudi clínic (clinical study, en anglès) i assaig clínic (clinical trial, en anglès) és variable segons els especialistes, els països i les legislacions. I, de vegades, impròpiament, la forma assaig clínic s’utilitza també amb el significat d’estudi clínic."
-      }
-    }
-  },
-  {
-    "Conceito": "assaig clínic aleatoritzat",
-    "Fontes": {
-      "covid": {
-        "Conceito": "assaig clínic aleatoritzat",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "sin.",
-        "Citação": ""
       }
     }
   },
@@ -2488,19 +2358,6 @@
         "Sigla": "Sem sigla associada",
         "Descrição": "Doença que afeta o ser humano, geralmente contraída por meio do contato com água contaminada com larvas do verme Inf. encicl.: a denominação barriga d’água se dá em virtude do inchaço que provoca no abdômem. Essa doença é endêmica e atinge principalmente o Nordeste e trechos do Sudeste do Brasil.",
         "Citação": "“...contraída por meio do contato com água contaminada com larvas do verme, também é chamada de barriga-d'água, em razão do inchaço que provoca no abdômen...”"
-      }
-    }
-  },
-  {
-    "Conceito": "bastonet",
-    "Fontes": {
-      "covid": {
-        "Conceito": "bastonet",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
       }
     }
   },

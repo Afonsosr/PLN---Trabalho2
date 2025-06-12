@@ -88,6 +88,7 @@ def consultar_doencas(designacao):
     conceito_encontrado = None
     fonte_usada = None
     link_google_scholar = None  
+    palavras_proximas = None
 
     for categoria_nome, lista_conceitos in conceitos.items():
         for item in lista_conceitos:
@@ -95,6 +96,7 @@ def consultar_doencas(designacao):
                 conceito_encontrado = item
                 fonte_usada = next(iter(item["Fontes"].values()))
                 link_google_scholar = item.get("Link Google Scholar") 
+                palavras_proximas = item.get("Palavras próximas")  # <-- adicionamos aqui
                 break
         if conceito_encontrado:
             break
@@ -117,7 +119,9 @@ def consultar_doencas(designacao):
                            sigla=sigla,
                            link_google_scholar=link_google_scholar,
                            traducoes=traducoes_dict,
-                           designacao=designacao)
+                           designacao=smart_capitalize(designacao),
+                           palavras_proximas=palavras_proximas)  
+
 
 @app.route("/conceito/<designacao>/eliminar", methods=["POST"])
 def eliminar_conceito(designacao):
@@ -141,6 +145,77 @@ def eliminar_conceito(designacao):
         return redirect(url_for("listar_conceitos"))
     else:
         return f"Conceito '{designacao}' não encontrado", 404
+
+@app.route("/conceito/<designacao>/editar", methods=["GET", "POST"])
+def editar_conceito(designacao):
+    ficheiro_json = "glossario_por_categoria.json"
+    conceitos = carregar_conceitos(ficheiro_json)
+
+    conceito_encontrado = None
+    categoria_conceito = None
+
+    for categoria, lista_conceitos in conceitos.items():
+        for item in lista_conceitos:
+            if item["Conceito"].lower() == designacao.lower():
+                conceito_encontrado = item
+                categoria_conceito = categoria
+                break
+        if conceito_encontrado:
+            break
+
+    if not conceito_encontrado:
+        return f"Conceito '{designacao}' não encontrado", 404
+
+    fonte_usada = next(iter(conceito_encontrado["Fontes"].values()))
+
+    if request.method == "POST":
+        # Antes de qualquer alteração: backup
+        shutil.copyfile(ficheiro_json, "glossario_backup.json")
+
+        # Obter dados do formulário
+        novo_conceito = request.form.get("conceito")
+        nova_categoria = request.form.get("categoria")
+        nova_descricao = request.form.get("descricao")
+        nova_sigla = request.form.get("sigla")
+        nova_citacao = request.form.get("citacao")
+        novo_link = request.form.get("link_google_scholar")
+        novas_traducoes = request.form.get("traducoes")
+
+        # Atualizar os campos
+        conceito_encontrado["Conceito"] = novo_conceito
+        fonte_usada["Categoria"] = nova_categoria
+        fonte_usada["Descrição"] = nova_descricao
+        fonte_usada["Sigla"] = nova_sigla or None
+        fonte_usada["Citação"] = nova_citacao or None
+        conceito_encontrado["Link Google Scholar"] = novo_link or None
+
+        # Processamento básico das traduções (pode ser melhorado)
+        if novas_traducoes:
+            traducoes_dict = parse_traducoes(novas_traducoes)
+            fonte_usada["Traduções"] = traducoes_dict
+
+        guardar_conceitos(conceitos, ficheiro_json)
+
+        return redirect(url_for("consultar_doencas", designacao=novo_conceito))
+
+    # GET - enviar dados atuais para o formulário
+    categoria_atual = fonte_usada.get("Categoria", categoria_conceito)
+    descricao_atual = fonte_usada.get("Descrição") or fonte_usada.get("Descricao")
+    sigla_atual = fonte_usada.get("Sigla") or ""
+    citacao_atual = fonte_usada.get("Citação") or ""
+    traducoes_atual = fonte_usada.get("Traduções") or ""
+    link_google_scholar = conceito_encontrado.get("Link Google Scholar") or ""
+
+    return render_template("editar.html",
+                           designacao=designacao,
+                           conceito=conceito_encontrado["Conceito"],
+                           categoria=categoria_atual,
+                           descricao=descricao_atual,
+                           sigla=sigla_atual,
+                           citacao=citacao_atual,
+                           traducoes=traducoes_atual,
+                           link_google_scholar=link_google_scholar)
+
 
 
 app.run(host="localhost", port=4001, debug=True)

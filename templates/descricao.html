@@ -64,6 +64,9 @@
         font-size: 1.35rem;
     }
 
+    .lista-palavras-proximas li {
+    font-size: 1.5rem;
+    }
 
 </style>
 
@@ -104,6 +107,19 @@
             </h4>
         {% endfor %}
     {% endif %}
+
+    {% if palavras_proximas %}
+    <h2 class="pt-5 label-azul">Palavras Próximas:</h2>
+    <ul class="ms-4 mt-4 texto-cinzento lista-palavras-proximas">
+        {% for palavra, score in palavras_proximas %}
+            <li>
+                {{ palavra }}: {{ score }}
+            </li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+
+
 </div>
 
 <div class="mt-5 ms-5 d-flex flex-row">

@@ -46,6 +46,9 @@ for conceito in tqdm(glossario, desc="Processando conceitos"):
         palavras_proximas = [w for w in dict.fromkeys(similares) if w not in tokens][:5]
     conceito["Palavras próximas"] = palavras_proximas
 
+    if nome:
+        conceito["Link Google Scholar"] = f"https://scholar.google.com/scholar?q={nome.replace(' ', '+')}"
+
     # Procurar categoria em qualquer fonte
     fontes = conceito.get('Fontes', {})
     categoria = None

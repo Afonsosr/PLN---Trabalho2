@@ -73,42 +73,6 @@
       ]
     },
     {
-      "Conceito": "ARN",
-      "Fontes": {
-        "covid": {
-          "Conceito": "ARN",
-          "Substantivo": "n m",
-          "Traduções": [],
-          "Sigla": "",
-          "Descricao": "veg.",
-          "Citação": "",
-          "Categoria": "Genética e Biologia Molecular"
-        }
-      },
-      "Palavras próximas": [
-        [
-          "vacuna",
-          0.98
-        ],
-        [
-          "test",
-          0.98
-        ],
-        [
-          "la",
-          0.98
-        ],
-        [
-          "del",
-          0.98
-        ],
-        [
-          "respiratori",
-          0.98
-        ]
-      ]
-    },
-    {
       "Conceito": "clonagem reprodutiva",
       "Fontes": {
         "neologismo": {

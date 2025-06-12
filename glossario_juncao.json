@@ -3443,19 +3443,6 @@
     }
   },
   {
-    "Conceito": "cas possible",
-    "Fontes": {
-      "covid": {
-        "Conceito": "cas possible",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
-      }
-    }
-  },
-  {
     "Conceito": "cas sospitós",
     "Fontes": {
       "covid": {
@@ -4997,19 +4984,6 @@
     }
   },
   {
-    "Conceito": "contagi mediat",
-    "Fontes": {
-      "covid": {
-        "Conceito": "contagi mediat",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
-      }
-    }
-  },
-  {
     "Conceito": "contagiositat",
     "Fontes": {
       "covid": {
@@ -5259,19 +5233,6 @@
     }
   },
   {
-    "Conceito": "corba de contagis",
-    "Fontes": {
-      "covid": {
-        "Conceito": "corba de contagis",
-        "Substantivo": "",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
-      }
-    }
-  },
-  {
     "Conceito": "corba epidèmica",
     "Fontes": {
       "covid": {
@@ -5406,32 +5367,6 @@
     }
   },
   {
-    "Conceito": "coronavirus de la COVID-19",
-    "Fontes": {
-      "covid": {
-        "Conceito": "coronavirus de la COVID-19",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
-      }
-    }
-  },
-  {
-    "Conceito": "coronavirus de la MERS",
-    "Fontes": {
-      "covid": {
-        "Conceito": "coronavirus de la MERS",
-        "Substantivo": "n m",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
-      }
-    }
-  },
-  {
     "Conceito": "coronavirus de la SARS",
     "Fontes": {
       "covid": {
@@ -5474,32 +5409,6 @@
         "Sigla": "Sem sigla associada",
         "Descrição": "Distúrbio  que  afeta  o  ser  humano  e  causa  movimentos involuntários  arrítmicos,  hipotonia  muscular  e  também distúrbios psicológicos. Inf.  encicl.:  Ainda no  século  XIX  a  coréia  de  Sydenham  foi associada a infecção estreptocócica prévia e é considerada atualmente  uma  das  manifestações  maiores  da  febre reumática.",
         "Citação": "“...Em  seguida  é  afirmado  que  em  estágios  mais  avançados  a  febre reumática  pode  atingir  o  sistema  nervoso  central,  produzindo  coréia  de Sydenham...”"
-      }
-    }
-  },
-  {
-    "Conceito": "covid",
-    "Fontes": {
-      "covid": {
-        "Conceito": "covid",
-        "Substantivo": "",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
-      }
-    }
-  },
-  {
-    "Conceito": "covid persistent",
-    "Fontes": {
-      "covid": {
-        "Conceito": "covid persistent",
-        "Substantivo": "",
-        "Traduções": [],
-        "Sigla": "",
-        "Descricao": "veg.",
-        "Citação": ""
       }
     }
   },

@@ -1,0 +1,51 @@
+{% extends "parent.html" %}
+
+{% block body %}
+
+    <!-- Estila a página -->
+
+    <style>
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('static/hospital.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            opacity: 0.25;
+            z-index: -1;
+        }
+
+        .content {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            position: relative;
+            z-index: 1;
+        }
+    </style>
+
+    <div class="text-primary text-opacity-75">
+        <h1 class="text-center"> Glossário De Conceitos Médicos </h1>
+    </div>
+
+    <div class="col-lg-6 mx-auto">
+        <p class="m-4 fs-5 fw-bold">Para este Glossário Médico foram compiladas informação a partir de 5 fontes fidedignas, nomeadamente glossários de anatomia, do ministério da saúde, 
+            do Serviço Nacional de Saúde, entre outros. 
+        </p>
+        <p class="m-4 fs-5 fw-bold">
+            Neste Glossário há {{tamanho}} doenças e conceitos, com a sua respetiva informação de acordo com diferentes fontes. Alguns termos têm também traduções
+            em Árabe, Alemão, Espanhol, Francês, Japonês, Coreano, Russo e Mandarim. 
+        </p>
+
+        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+          <a href="/doencas" class="btn btn-primary btn-lg px-4 gap-3">Conceitos</a>
+          <a type="button" class="btn btn-primary btn-lg px-4" href="/categorias">Categorias</a>
+        </div>
+    </div>
+    
+{% endblock %}

@@ -27,25 +27,55 @@
             position: relative;
             z-index: 1;
         }
+
+        .btn-custom {
+        background-color: #003366;
+        color: white;
+        border: 2px solid white;
+        transition: all 0.3s ease;
+        }
+
+        .btn-custom:hover {
+            background-color: white;
+            color: #003366;
+            border: 2px solid #003366;
+        }
     </style>
 
     <h1 class="text-center display-1 fw-bold" style="color: #003366;">
         Atlas de Conceitos Médicos e Clínicos
     </h1>
+    <p class="text-center fs-3 fw-semibold mt-3" style="color: #003366;">
+        "Conhecimento médico estruturado, acessível e multilingue."
+    </p>
+    
+    <p class="text-center fs-4 fw-normal mx-auto" style="max-width: 900px">
+        Este atlas reúne uma coleção abrangente de conceitos médicos, doenças, tratamentos e termos clínicos, compilados a partir de fontes fidedignas da área da saúde. 
+        Cada entrada inclui definições detalhadas, descrições especializadas e traduções em várias línguas, permitindo a sua utilização em contextos académicos, clínicos e internacionais.
+    </p>
+    
+    <p class="text-center fs-4 fw-normal mx-auto" style="max-width: 900px">
+        Além disso, o Atlas disponibiliza siglas associadas, citações e termos semanticamente relacionados, facilitando a exploração aprofundada dos conteúdos.
+        Constitui assim uma ferramenta de apoio à aprendizagem, investigação e prática clínica, promovendo o acesso rápido e organizado ao conhecimento biomédico.
+    </p>
 
-    <div class="col-lg-6 mx-auto">
-        <p class="m-4 fs-5 fw-bold">Para este Glossário Médico foram compiladas informação a partir de 5 fontes fidedignas, nomeadamente glossários de anatomia, do ministério da saúde, 
-            do Serviço Nacional de Saúde, entre outros. 
-        </p>
-        <p class="m-4 fs-5 fw-bold">
-            Neste Glossário há {{tamanho}} doenças e conceitos, com a sua respetiva informação de acordo com diferentes fontes. Alguns termos têm também traduções
-            em Árabe, Alemão, Espanhol, Francês, Japonês, Coreano, Russo e Mandarim. 
-        </p>
-
-        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-          <a href="/doencas" class="btn btn-primary btn-lg px-4 gap-3">Conceitos</a>
-          <a type="button" class="btn btn-primary btn-lg px-4" href="/categorias">Categorias</a>
-        </div>
+    <p class="text-center fs-4 fw-semibold mt-4" style="color: #003366;">
+        O que gostaria de explorar primeiro?
+    </p>
+    
+    <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+        <a href="/conceitos" class="btn btn-lg px-4 gap-3 btn-custom">
+            Conceitos
+        </a>
+        <a href="/categorias" class="btn btn-lg px-4 btn-custom">
+            Categorias
+        </a>
+        <a href="/proximas" class="btn btn-lg px-4 btn-custom">
+            Palavras Próximas
+        </a>
+        <a href="/tabela" class="btn btn-lg px-4 btn-custom">
+            Tabela
+        </a>
     </div>
     
 {% endblock %}

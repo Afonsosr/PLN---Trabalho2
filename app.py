@@ -271,6 +271,23 @@ def consultar_categoria(categoria):
 
     return render_template("consultar_categoria.html", categoria=categoria_original, conceitos=lista_conceitos)
 
+@app.route("/tabela")
+def tabela():
+    conceitos_por_categoria = carregar_conceitos("glossario_por_categoria.json")
+
+    # vamos transformar tudo numa única lista de conceitos para a tabela
+    todos_conceitos = []
+    for categoria, lista_conceitos in conceitos_por_categoria.items():
+        for conceito in lista_conceitos:
+            conceito_dict = {
+                "Conceito": conceito.get("Conceito", ""),
+                "Categoria": categoria,
+                "Descricao": next(iter(conceito.get("Fontes", {}).values())).get("Descrição", "")
+            }
+            todos_conceitos.append(conceito_dict)
+
+    return render_template("tabela.html", conceitos=todos_conceitos)
+
 
 
 app.run(host="localhost", port=4001, debug=True)

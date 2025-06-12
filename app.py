@@ -2,6 +2,7 @@ import shutil
 from flask import Flask, render_template, request, redirect, url_for
 import json
 import os
+import unicodedata
 from collections import defaultdict
 
 app = Flask(__name__)
@@ -34,23 +35,16 @@ def listar_conceitos():
         for item in lista_conceitos:
             conceito = item.get("Conceito")
             if conceito:
-                primeira_letra = conceito[0].upper()
+                # Normalização Unicode - elimina acentos
+                conceito_sem_acentos = unicodedata.normalize("NFD", conceito).encode("ascii", "ignore").decode("utf-8")
+                primeira_letra = conceito_sem_acentos[0].upper()
 
-                # Junta as letras com acento à letra normal
-                if primeira_letra in ["Á", "Â"]:
-                    conceitos_por_letra["A"].append(conceito)
-                elif primeira_letra == "É":
-                    conceitos_por_letra["E"].append(conceito)
-                elif primeira_letra == "Í":
-                    conceitos_por_letra["I"].append(conceito)
-                elif primeira_letra == "Ó":
-                    conceitos_por_letra["O"].append(conceito)
-                elif primeira_letra == "Ú":
-                    conceitos_por_letra["U"].append(conceito)
-                else:
-                    conceitos_por_letra[primeira_letra].append(conceito)
+                conceitos_por_letra[primeira_letra].append(conceito)
+
+    # Ordenar alfabeticamente dentro de cada letra
+    for letra in conceitos_por_letra:
+        conceitos_por_letra[letra].sort(key=lambda c: unicodedata.normalize("NFD", c).encode("ascii", "ignore").decode("utf-8"))
 
     return render_template("conceitos.html", conceitos_por_letra=conceitos_por_letra)
-
 
 app.run(host="localhost", port=4001, debug=True)

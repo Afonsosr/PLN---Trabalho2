@@ -4,17 +4,33 @@ from tqdm import tqdm
 from gensim.models import Word2Vec
 import nltk
 from nltk.tokenize import word_tokenize
+from nltk.corpus import wordnet
 
-nltk.download('punkt')
+#nltk.download('punkt')
+
+def get_synonyms(term, lang):
+    synonyms = set()
+    for syn in wordnet.synsets(term, lang=lang):
+        for lemma in syn.lemmas(lang):
+            name = lemma.name().replace('_', ' ')
+            if name.lower() != term.lower():
+                synonyms.add(name)
+    return list(synonyms)
+
 
 # Carregar o glossário
 with open('glossario_juncao_atualizado.json', encoding='utf-8') as f:
     glossario = json.load(f)
 
+
 # Preparar frases para treinar o modelo
 frases = []
 for conceito in glossario:
     nome = conceito.get("Conceito", "")
+    sinonimos_pt = get_synonyms(nome, 'por')
+    sinonimos_en = get_synonyms(nome, 'eng')
+    sinonimos = list(set(sinonimos_pt + sinonimos_en))
+    conceito["Sinónimos"] = sinonimos
     if nome:
         frases.append([token.lower() for token in word_tokenize(nome, language='portuguese') if token.isalpha()])
     # Também pode incluir descrições, se quiser enriquecer o contexto:
@@ -64,7 +80,7 @@ for conceito in tqdm(glossario, desc="Processando conceitos"):
     time.sleep(0.1)  # Pode reduzir, pois não há scraping
 
 # Salvar resultado
-with open('glossario_por_categoria.json', 'w', encoding='utf-8') as f:
+with open('testeglossario_por_categoria.json', 'w', encoding='utf-8') as f:
     json.dump(categorias, f, ensure_ascii=False, indent=2)
 
 print("Processo concluído! Veja o arquivo 'glossario_por_categoria.json'.")

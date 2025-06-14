@@ -4,6 +4,7 @@ import json
 import os
 import unicodedata
 from collections import defaultdict
+import re
 
 
 
@@ -293,14 +294,12 @@ def tabela():
 def relacoes_conceitos():
     conceito_palavras = {}
 
-    # Carregar conceitos e palavras próximas
     for categoria in conceitos:
         for item in conceitos[categoria]:
             conceito = item['Conceito']
             palavras = [p[0] for p in item.get('Palavras próximas', [])]
             conceito_palavras[conceito] = palavras
 
-    # Construir relações
     relacoes = {}
 
     for conceito, palavras in conceito_palavras.items():
@@ -313,14 +312,11 @@ def relacoes_conceitos():
             ligacoes[palavra] = conceitos_relacionados
         relacoes[conceito] = ligacoes
 
-    # Termo de pesquisa
     termo_pesquisa = request.args.get('query', '').strip()
 
-    # Filtragem por pesquisa
     if termo_pesquisa:
         relacoes = {k: v for k, v in relacoes.items() if termo_pesquisa.lower() in k.lower()}
 
-    # Ordenação simples (sem natsort)
     relacoes_ordenado = {}
     for conceito in sorted(relacoes.keys(), key=lambda x: x.lower()):
         conceito_formatado = conceito.title()
@@ -328,23 +324,54 @@ def relacoes_conceitos():
 
     return render_template('palavras_proximas.html', relacoes=relacoes_ordenado)
 
+def remover_acentos(texto):
+    return ''.join(
+        c for c in unicodedata.normalize('NFD', texto)
+        if unicodedata.category(c) != 'Mn'
+    )
 
+@app.route('/inversa')
+def listar_palavras_proximas():
+    palavras_unicas = set()
 
-@app.route('/inversa', methods=['GET', 'POST'])
-def pesquisa_inversa():
+    for categoria in conceitos:
+        for item in conceitos[categoria]:
+            palavras = [p[0].strip() for p in item.get('Palavras próximas', [])]
+            palavras_unicas.update(palavras)
+
+    palavras_por_letra = {}
+
+    for palavra in palavras_unicas:
+        palavra_limpa = palavra.strip()
+        if palavra_limpa:
+            primeira_letra = remover_acentos(palavra_limpa[0].upper())
+
+            # Agora vamos fazer o "truque" que querias:
+            if primeira_letra.startswith("F") and not primeira_letra == "F":
+                primeira_letra = "F"
+
+            palavras_por_letra.setdefault(primeira_letra, []).append(palavra)
+
+    for letra in palavras_por_letra:
+        palavras_por_letra[letra].sort(key=lambda x: x.lower())
+
+    palavras_por_letra = dict(sorted(palavras_por_letra.items()))
+
+    return render_template('inversa.html', palavras_por_letra=palavras_por_letra)
+
+@app.route('/inversa/<palavra>')
+def mostrar_conceitos_por_palavra(palavra):
     resultados = []
-    termo = ""
 
-    if request.method == 'POST':
-        termo = request.form['termo']
-        for categoria in conceitos:
-            for item in conceitos[categoria]:
-                conceito = item['Conceito']
-                palavras = [p[0] for p in item.get('Palavras próximas', [])]
-                if termo in palavras:
-                    resultados.append(conceito)
+    for categoria in conceitos:
+        for item in conceitos[categoria]:
+            conceito = item['Conceito']
+            palavras = [p[0] for p in item.get('Palavras próximas', [])]
+            if palavra in palavras:
+                resultados.append(conceito)
 
-    return render_template('inversa.html', termo=termo, resultados=resultados)
+    return render_template('inversa_palavra.html', palavra=palavra, resultados=resultados)
+
 
 
 app.run(host="localhost", port=4001, debug=True)

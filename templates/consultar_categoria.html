@@ -48,6 +48,22 @@
             text-align: center;
         }
 
+        .btn-custom {
+            background-color: #003366;
+            color: white;
+            border: 2px solid white;
+            transition: all 0.3s ease;
+            border-radius: 0.5rem;
+            padding: 0.6rem 1.5rem;
+            font-size: 1.2rem;
+        }
+
+        .btn-custom:hover {
+            background-color: white;
+            color: #003366;
+            border: 2px solid #003366;
+        }
+
         #btnTopo {
             display: none;
             position: fixed;
@@ -96,6 +112,12 @@
 
         <h1 class="categoria-titulo">Categoria: {{ categoria }}</h1>
 
+        <!-- Botão Retroceder -->
+        <div class="text-center mb-4">
+            <a href="/categorias" class="btn btn-custom">← Voltar às Categorias</a>
+        </div>
+
+        <!-- Barra de pesquisa -->
         <h5 class="mt-4 text-center">
             <span class="search-label">Pesquise:</span>
             <input id="myInput" class="search-box" type="text" placeholder="Procure...">

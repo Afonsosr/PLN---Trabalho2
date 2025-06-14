@@ -5517,13 +5517,11 @@
           "es: coronavirus asociado a MERS",
           "en: MERS-CoV coronavirus",
           "fr: coronavirus MERS-CoV",
-          "pt: ",
-          ": coronavírus responsável pela MERS",
-          "nl: MERS-coronavirus",
-          "coronavirus: ETIOPATOGÈNIA. Virus de l'espècie coronavirus"
+          "pt: coronavírus responsável pela MERS",
+          "nl: MERS-coronavirus"
         ],
         "Sigla": "MERS-CoV",
-        "Descricao": "sin. compl. ; coronavirus dera MERS ; coronavirus MERS-CoV ; MERS-CoV ; coronavirus da MERS ; MERS-CoV ; coronavirus de la MERS ; MERS-CoV ; MERS-CoV ; MERS-CoV coronavírus  MERS MERS-CoV coronavírus MERS-CoV coronavírus associado a MERS ; coronavírus associado à MERS ; MERS-CoV ; MERS-virus associat a la síndrome respiratòria de l'Orient Mitjà, del subgènere , de la família dels coronavirus, causant de la MERS. zoonòtica, dels animals cap a les persones, per contagi directe o indirecte a causa del contacte amb els camells,",
+        "Descricao": "ETIOPATOGÈNIA. Virus de l'espècie coronavirus MERS-virus associat a la síndrome respiratòria de l'Orient Mitjà, del subgènere , de la família dels coronavirus, causant de la MERS. zoonòtica, dels animals cap a les persones, per contagi directe o indirecte a causa del contacte amb els camells,",
         "Citação": "Nota: 1. El MERS-CoV es transmet principalment per via zoonòtica, dels animals cap a les persones, per contagi directe o indirecte a causa del contacte amb els camells, C61QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -5543,26 +5541,11 @@
           "en: SARS virus",
           "fr: coronavirus du syndrome respiratoire aigu",
           "pt: coronavírus SARS",
-          "nl: SARS-coronavirus",
-          "coronavirus: ETIOPATOGÈNIA. Virus de l’espècie coronavirus"
+          "nl: SARS-coronavirus"
         ],
         "Sigla": "SARS-CoV",
-        "Descricao": " sin. compl.  ; coronavirus dera SARS ; SARS-CoV  ; SARS-CoV  ; coronavirus da SARS ; SARS-CoV  grave ; virus del SARS ; virus del SRAG ; SARS-CoV  ; SARS-associated coronavirus ; severe acute respiratory syndrome-related coronavirus ; SARS-CoV  sévère ; virus du SRAS ; SARS-CoV ; SRAS-CoV  ; SARS-CoV  coronavírus responsável pela SARS  coronavírus associado a SARS ; coronavírus associado à SARS  ; SARS-CoV ; SARS-virus   relacionat amb la síndrome respiratòria aguda greu, del gènere , de la família dels coronavirus, causant de la SARS. correspon a l’anglès ( síndrome respiratòria aguda greu ). relacionat amb la síndrome respiratòria aguda greu, del gènere , de la família dels coronavirus, causant de la COVID-19. correspon a l’anglès . correspon a l’anglès ( malaltia per coronavirus’), juntament amb la xifra 19, que fa referència a l’any en què va es detectar per primer cop (2019) a la ciutat xinesa de Wuhan.",
+        "Descricao": "ETIOPATOGÈNIA. Virus de l’espècie coronavirus relacionat amb la síndrome respiratòria aguda greu, del gènere , de la família dels coronavirus, causant de la SARS. correspon a l’anglès ( síndrome respiratòria aguda greu ). relacionat amb la síndrome respiratòria aguda greu, del gènere , de la família dels coronavirus, causant de la COVID-19. correspon a l’anglès . correspon a l’anglès ( malaltia per coronavirus’), juntament amb la xifra 19, que fa referència a l’any en què va es detectar per primer cop (2019) a la ciutat xinesa de Wuhan.",
         "Citação": "Nota: La sigla SARS correspon a l’anglès severe acute respiratory syndrome (‛síndrome respiratòria aguda greu’).",
-        "Categoria": "Microbiologia e Virologia"
-      }
-    }
-  },
-  {
-    "Conceito": "coronavirus de la SARS",
-    "Fontes": {
-      "covid": {
-        "Conceito": "coronavirus de la SARS",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
     }
@@ -5602,20 +5585,6 @@
     }
   },
   {
-    "Conceito": "covid-19",
-    "Fontes": {
-      "covid": {
-        "Conceito": "covid-19",
-        "Substantivo": "",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Doenças"
-      }
-    }
-  },
-  {
     "Conceito": "COVID-19",
     "Fontes": {
       "covid": {
@@ -5632,7 +5601,7 @@
           "nl: corona"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;   ; malautia respiratòria provocada peth SARS-CoV-2 ; sindròme respiratòri associat ath SARS-CoV-2  ; COVID-19 gaitz ; SARS-CoV-2k eragindako arnas gaixotasun  ; Covid-19 ; COVID-19 ; doenza do coronavirus 2019 ; enfermidade do coronavirus 2019  ; covid-19 ; enfermedad del coronavirus 2019 ; enfermedad por coronavirus 2019  ; Covid-19 ; ; COVID-2019 ; SARS-CoV-2 acute respiratory disease  ; maladie à coronavirus 2019    ; doença do novo  coronavírus 2019 ; síndrome respiratória  associada a SARS-CoV-2 ;  síndrome respiratória associada  à SARS-CoV-2  ; covid ; COVID-19  CLÍNICA. Malaltia respiratòria causada pel SARS- CoV-2, que en casos lleus produeix símptomes similars als de la grip, com ara febre, tos, dispnea, miàlgia i astènia, i que en casos greus pot derivar en una pneumònia associada a un procés inflamatori general amb complicacions multisistèmiques que requereix atenció intensiva. contacte amb els aerosols i les gotetes respiratòries que genera una persona portadora del virus quan parla, tus o esternuda. Els casos greus de la malaltia es donen sobretot en persones immunodeprimides o bé en pacients que tenen patologies prèvies de base o unes característiques idiopàtiques que els converteixen en persones de risc per a la COVID-19. 2. La forma de la denominació anglesa (‘malaltia l’àmbit especialitzat, mentre que en l’àmbit divulgatiu i de la llengua general la tendèn cia és a escriure , com a forma ja lexicalitzada. 3. En català el gènere de i de les formes sinònimes i és el femení, d’acord amb com a nucli , corresponent en català al mot femení ). Tot i això, s'observa certa vacil·lació i l’ús del gènere masculí en contextos generals o divulgatius, probablement perquè s’ajusta a l’estructura morfoprosòdica del substantiu (mot agut acabat en [it]) i per un ús metonímic, menys precís, amb referència al coronavirus que causa la malaltia.",
+        "Descricao": "CLÍNICA. Malaltia respiratòria causada pel SARS- CoV-2, que en casos lleus produeix símptomes similars als de la grip, com ara febre, tos, dispnea, miàlgia i astènia, i que en casos greus pot derivar en una pneumònia associada a un procés inflamatori general amb complicacions multisistèmiques que requereix atenció intensiva. contacte amb els aerosols i les gotetes respiratòries que genera una persona portadora del virus quan parla, tus o esternuda. Els casos greus de la malaltia es donen sobretot en persones immunodeprimides o bé en pacients que tenen patologies prèvies de base o unes característiques idiopàtiques que els converteixen en persones de risc per a la COVID-19. 2. La forma de la denominació anglesa (‘malaltia l’àmbit especialitzat, mentre que en l’àmbit divulgatiu i de la llengua general la tendèn cia és a escriure , com a forma ja lexicalitzada. 3. En català el gènere de i de les formes sinònimes i és el femení, d’acord amb com a nucli , corresponent en català al mot femení ). Tot i això, s'observa certa vacil·lació i l’ús del gènere masculí en contextos generals o divulgatius, probablement perquè s’ajusta a l’estructura morfoprosòdica del substantiu (mot agut acabat en [it]) i per un ús metonímic, menys precís, amb referència al coronavirus que causa la malaltia.",
         "Citação": "Nota: 1. La COVID-19 es transmet principalment per contacte amb els aerosols i les gotetes respiratòries que genera una persona portadora del virus quan parla, tus o esternuda. Els casos greus de la malaltia es donen sobretot en persones immunodeprimides o bé en pacients que tenen patologies prèvies de base o unes característiques idiopàtiques que els converteixen en persones de risc per a la COVID-19.2. La forma COVID-19 és una sigla procedent de la denominació anglesa coronavirus disease 2019 (‘malaltia del coronavirus 2019’). La sigla s’utilitza sobretot en l’àmbit especialitzat, mentre que en l’àmbit divulgatiu i de la llengua general la",
         "Categoria": "Doenças"
       }

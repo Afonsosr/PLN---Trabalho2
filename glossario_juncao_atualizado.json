@@ -5645,14 +5645,18 @@
         "Conceito": "COVID-19 persistent",
         "Substantivo": "n",
         "Traduções": [
-          ": sin. compl.",
           "oc: COVID-19 persistenta",
-          "eu: COVID-19 iraunkor",
-          "fr: dépistage",
-          "nl: screening"
-        ],
+          "eu: COVID-19 iraunkorra",
+          "gl: COVID-19 persistente",
+          "es: COVID-19 persistente",
+          "en: long COVID / persistent COVID-19",
+          "fr: COVID-19 persistant",
+          "pt: COVID-19 persistente",
+          "nl: langdurige COVID-19",
+          "pl: długotrwały COVID-19"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "      rastreio  triagem   DIAGNÒSTIC. Recerca sistemàtica que s’aplica a una població determinada per a identificar les persones que podrien estar afectades per un problema de salut o una malaltia, generalment abans que es manifesti. procediments de selecció (qüestionaris, exploracions físiques, proves complementàries) a poblacions d’individus aparentment sans, per a detectar malalties subclíniques o identificar les persones que presenten factors de risc per a una malaltia determinada. 2. El propòsit del cribratge és reconèixer les persones que es poden beneficiar d’un tractament precoç que millori el pronòstic de la seva malaltia o del seu problema de salut.",
+        "Descricao": "DIAGNÒSTIC. Recerca sistemàtica que s’aplica a una població determinada per a identificar les persones que podrien estar afectades per un problema de salut o una malaltia, generalment abans que es manifesti. procediments de selecció (qüestionaris, exploracions físiques, proves complementàries) a poblacions d’individus aparentment sans, per a detectar malalties subclíniques o identificar les persones que presenten factors de risc per a una malaltia determinada. 2. El propòsit del cribratge és reconèixer les persones que es poden beneficiar d’un tractament precoç que millori el pronòstic de la seva malaltia o del seu problema de salut.",
         "Citação": "Nota: 1. El cribratge consisteix en l’aplicació de procediments de selecció (qüestionaris, exploracions físiques, proves complementàries) a poblacions d’individus aparentment sans, per a detectar malalties subclíniques o identificar les persones que presenten factors de risc per a una malaltia determinada.2. El propòsit del cribratge és reconèixer les persones que es poden beneficiar d’un tractament precoç que millori el pronòstic de la seva malaltia o del seu problema de salut.",
         "Categoria": "Doenças"
       }
@@ -5719,14 +5723,18 @@
         "Conceito": "cribratge",
         "Substantivo": "n m",
         "Traduções": [
-          "oc: cribratge",
-          "eu: baheketa",
+          "oc: cribatge",
+          "eu: screening-a",
           "gl: cribado",
-          "es: criba",
-          "en: screening"
-        ],
+          "es: cribado",
+          "en: screening",
+          "fr: dépistage",
+          "pt: rastreio",
+          "nl: screening",
+          "pl: badanie przesiewowe"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; cribado ; cribaje  fàcilment assimilables i sals minerals inorgàniques que aporten fonamentalment sofre, fòsfor, magnesi, clor, sodi, potassi i calci.",
+        "Descricao": "Procés sistemàtic de detecció precoç d’una malaltia en persones asimptomàtiques, mitjançant proves específiques, per identificar casos en fases inicials i millorar el pronòstic.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -5845,7 +5853,7 @@
           "nl: langdurige corona"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         DIAGNÒSTIC. Tècnica de laboratori consistent en la multiplicació, aïllament o identificació de microorganismes en un medi de cultiu apropiat amb finalitats mèdiques, científiques o industrials. ser bacteris, virus, fongs o paràsits. El medi de cultiu és constituït per glúcids simples com la glucosa, proteïnes   síndrome pos-COVID-19 ; síndrome poscovídico  ; post COVID-19 condition  COVID-19 persistante    COVID-19 longa ; COVID-19 pós aguda ; síndrome pós COVID  ; postcoronasyndroom  CLÍNICA. Situació clínica que es dona en alguns pacients que han patit una infecció pel SARS- CoV-2 lleu o moderada, en què, després de la fase aguda, no es torna a l’estat de salut basal. COVID-19 persistent quan 3 mesos després del debut de la malaltia es manifesten símptomes que s’allarguen almenys durant 2 mesos i que no poden ser explicats per un diagnòstic alternatiu a la COVID-19. 2. Entre els símptomes més freqüents de la COVID-19 persistent hi ha la fatiga, la sensació de falta d’aire o les disfuncions cognitives, a més a més de cefalea, tos, anòsmia o agèusia, que tenen impacte en la qualitat de vida del pacient. Poden fluctuar al llarg del temps, amb remissions i recaigudes. 3. Altres denominacions catalanes documentades, d'acord amb la variabilitat actual de les formes i o",
+        "Descricao": "DIAGNÒSTIC. Tècnica de laboratori consistent en la multiplicació, aïllament o identificació de microorganismes en un medi de cultiu apropiat amb finalitats mèdiques, científiques o industrials. ser bacteris, virus, fongs o paràsits. El medi de cultiu és constituït per glúcids simples com la glucosa, proteïnes   síndrome pos-COVID-19 ; síndrome poscovídico  ; post COVID-19 condition  COVID-19 persistante    COVID-19 longa ; COVID-19 pós aguda ; síndrome pós COVID  ; postcoronasyndroom  CLÍNICA. Situació clínica que es dona en alguns pacients que han patit una infecció pel SARS- CoV-2 lleu o moderada, en què, després de la fase aguda, no es torna a l’estat de salut basal. COVID-19 persistent quan 3 mesos després del debut de la malaltia es manifesten símptomes que s’allarguen almenys durant 2 mesos i que no poden ser explicats per un diagnòstic alternatiu a la COVID-19. 2. Entre els símptomes més freqüents de la COVID-19 persistent hi ha la fatiga, la sensació de falta d’aire o les disfuncions cognitives, a més a més de cefalea, tos, anòsmia o agèusia, que tenen impacte en la qualitat de vida del pacient. Poden fluctuar al llarg del temps, amb remissions i recaigudes. 3. Altres denominacions catalanes documentades, d'acord amb la variabilitat actual de les formes i o",
         "Citação": "Nota: Els microorganismes que admeten el cultiu poden ser bacteris, virus, fongs o paràsits. El medi de cultiu és constituït per glúcids simples com la glucosa, proteïnes",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -5887,7 +5895,7 @@
         "Substantivo": "",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg. S’administra en combinació amb dosis baixes de ritonavir o cobicistat i altres fàrmacs antiretrovirals. Se n’ha suggerit l’ús per al 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "Vacuna candidata contra la COVID-19 desenvolupada per la companyia CureVac, basada en tecnologia d’ARN missatger (ARNm) per induir una resposta immunitària contra el SARS-CoV-2.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -5899,9 +5907,19 @@
       "covid": {
         "Conceito": "cànula nasal",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: canula nasala",
+          "eu: sudur-kanula",
+          "gl: cánula nasal",
+          "es: cánula nasal",
+          "en: nasal cannula",
+          "fr: canule nasale",
+          "pt: cânula nasal",
+          "nl: neuscanule",
+          "pl: kaniula nosowa"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Dispositiu mèdic format per un tub fi amb dues sortides que s’introdueixen a les fosses nasals, utilitzat per administrar oxigen a pacients amb dificultat respiratòria.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -5923,7 +5941,7 @@
           "nl: hoeveelheid virus"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; cápside     capsíde ; capsídeo  ; virushoeveelheid ; viruslading  DIAGNÒSTIC. Quantitat d’unitats víriques per mil·límetre cúbic que hi ha en un fluid orgànic.",
+        "Descricao": "DIAGNÒSTIC. Quantitat d’unitats víriques per mil·límetre cúbic que hi ha en un fluid orgànic.",
         "Citação": "",
         "Categoria": "Anatomia"
       }
@@ -5945,31 +5963,9 @@
           "nl: antigeenhoeveelheid"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; karga antigeniko       carga antigênica  ; antigeenlading ; antigenhoeveelheid ; antigenlading ; hoeveelheid antigeen ; hoeveelheid antigen  PREVENCIÓ. Quantitat d’antigen que conté una vacuna.",
+        "Descricao": "PREVENCIÓ. Quantitat d’antigen que conté una vacuna.",
         "Citação": "",
         "Categoria": "Imunologia"
-      }
-    }
-  },
-  {
-    "Conceito": "càrrega viral",
-    "Fontes": {
-      "covid": {
-        "Conceito": "càrrega viral",
-        "Substantivo": "n",
-        "Traduções": [
-          "oc: carga virau",
-          "eu: birus-karga",
-          "gl: carga viral",
-          "es: carga viral",
-          "en: viral burden",
-          "fr: charge virale",
-          "pt: carga viral"
-        ],
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  ; carga virica  ; karga biriko  ; carga vírica  ; carga vírica  ; viral load  ",
-        "Citação": "",
-        "Categoria": "Microbiologia e Virologia"
       }
     }
   },
@@ -5979,9 +5975,19 @@
       "covid": {
         "Conceito": "càrrega vírica",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: carga virala",
+          "eu: karga birikoa",
+          "gl: carga vírica",
+          "es: carga vírica",
+          "en: viral load",
+          "fr: charge virale",
+          "pt: carga viral",
+          "nl: virale lading",
+          "pl: wiremia"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Quantitat de virus present en un volum determinat de líquid corporal, com ara sang, saliva o secrecions respiratòries; indicador de la intensitat de la infecció.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -6198,34 +6204,6 @@
     }
   },
   {
-    "Conceito": "cèl·lula B",
-    "Fontes": {
-      "covid": {
-        "Conceito": "cèl·lula B",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Imunologia"
-      }
-    }
-  },
-  {
-    "Conceito": "cèl·lula T",
-    "Fontes": {
-      "covid": {
-        "Conceito": "cèl·lula T",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Imunologia"
-      }
-    }
-  },
-  {
     "Conceito": "célula multipotencial",
     "Fontes": {
       "neologismo": {
@@ -6310,7 +6288,7 @@
           "nl: danoprevir"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         850876-88-9 PRINCIPIS ACTIUS. Fàrmac antivíric que inhibeix la proteasa NS3/4A del virus de l’hepatitis C. el marc d’assaigs clínics en el tractament de la infecció crònica pel virus de l'hepatitis C. Se n’ha suggerit l’ús, juntament amb el ritonavir, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric que inhibeix la proteasa NS3/4A del virus de l’hepatitis C. el marc d’assaigs clínics en el tractament de la infecció crònica pel virus de l'hepatitis C. Se n’ha suggerit l’ús, juntament amb el ritonavir, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El danoprevir és un pèptid cíclic que s’empra en el marc d’assaigs clínics en el tractament de la infecció crònica pel virus de l'hepatitis C. Se n’ha suggerit l’ús, juntament amb el ritonavir, per al tractament de la COVID-19. És d’origen sintètic.2. La denominació danoprevir és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -6333,7 +6311,7 @@
           "nl: darunavir"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         206361-99-1 PRINCIPIS ACTIUS. Fàrmac antiretroviral inhibidor de la proteasa 1 del virus de la immunodeficiència humana. infecció pel virus de la immunodeficiència humana 1.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antiretroviral inhibidor de la proteasa 1 del virus de la immunodeficiència humana. infecció pel virus de la immunodeficiència humana 1.",
         "Citação": "Nota: 1. El darunavir s’empra en el tractament de la infecció pel virus de la immunodeficiència humana 1. D65QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19",
         "Categoria": "Fármacos e Terapias"
       }

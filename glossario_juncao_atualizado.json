@@ -6366,7 +6366,7 @@
           "nl: dazcapistat"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         PRINCIPIS ACTIUS. Fàrmac neuroprotector en investigació que podria actuar inhibint la calpaïna. tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac neuroprotector en investigació que podria actuar inhibint la calpaïna. tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El dazcapistat s’ha suggerit com a possible tractament per a la COVID-19. És d’origen sintètic.2. La denominació dazcapistat és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -6419,25 +6419,17 @@
         "Conceito": "defenses",
         "Substantivo": "n",
         "Traduções": [
-          "n f pl: ",
           "oc: defenses",
-          "n f pl: ",
           "eu: defentsak",
           "gl: defensas",
-          "n f pl: ",
           "es: defensas",
-          "n f pl: ",
           "en: defenses",
-          "n pl: ",
           "fr: défenses",
-          "n f pl: ",
           "pt: defesas",
-          "n f pl: ",
-          "n m pl: ",
           "nl: afweer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "mecanismos de defesa ; afweerapparaat ; afweermechanisme CONCEPTES GENERALS. Conjunt de mecanismes inflamatoris, fagocitaris o immunobiològics amb",
+        "Descricao": "CONCEPTES GENERALS. Conjunt de mecanismes inflamatoris, fagocitaris o immunobiològics amb",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -6468,22 +6460,20 @@
     }
   },
   {
-    "Conceito": "delegat de prevenció |  ",
+    "Conceito": "delegat de prevenció",
     "Fontes": {
       "covid": {
-        "Conceito": "delegat de prevenció |  ",
+        "Conceito": "delegat de prevenció",
         "Substantivo": "n",
         "Traduções": [
-          "oc: delegat de prevencion | delegada de",
-          "eu: prebentzioko ordezkari",
-          "gl: delegado de prevención | delegada de",
-          "es: delegado de prevención | delegada de",
+          "oc: delegat de prevencion",
+          "gl: delegado de prevención",
+          "es: delegado de prevención",
           "en: prevention delegate",
-          "fr: délégué à la prévention | déléguée à la",
-          "nl: preventieverantwoordelijke"
+          "fr: délégué à la prévention"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " prevencion   prevención  prevención   prévention  delegado de segurança | delegada  de segurança  representante dos empregados  na Comissão Interna de Prevenção de Acidentes   ENTORN SOCIAL. Representant dels treballadors amb funcions específiques en matèria de prevenció de riscos a la feina.",
+        "Descricao": "ENTORN SOCIAL. Representant dels treballadors amb funcions específiques en matèria de prevenció de riscos a la feina.",
         "Citação": ""
       }
     }
@@ -6667,7 +6657,7 @@
           "nl: lockdownexit"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; levantamiento del confinamiento  ; lockdown lifting    ; lockdownopheffing  EPIDEMIOLOGIA. Procés de recuperació gradual de la normalitat en l’activitat d’una població després d’un confinament. malalties amb un component inflamatori i al·lèrgic, així com per a inhibir el rebuig en el trasplantament d’òrgans. A l’Estat espanyol i a altres països se n’ha autoritzat l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "EPIDEMIOLOGIA. Procés de recuperació gradual de la normalitat en l’activitat d’una població després d’un confinament. malalties amb un component inflamatori i al·lèrgic, així com per a inhibir el rebuig en el trasplantament d’òrgans. A l’Estat espanyol i a altres països se n’ha autoritzat l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -6699,21 +6689,7 @@
           "nl: exitstrategie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; desescalament       levantamento do desconfinamento ;  redução das medidas de confinamento  flexibilização de medidas   EPIDEMIOLOGIA. Reducció gradual de les mesures excepcionals adoptades per a frenar la pandèmia de COVID-19, amb l’objectiu de permetre una tornada esglaonada a la normalitat.",
-        "Citação": "",
-        "Categoria": "Epidemiologia e Saúde Pública"
-      }
-    }
-  },
-  {
-    "Conceito": "desescalament",
-    "Fontes": {
-      "covid": {
-        "Conceito": "desescalament",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "EPIDEMIOLOGIA. Reducció gradual de les mesures excepcionals adoptades per a frenar la pandèmia de COVID-19, amb l’objectiu de permetre una tornada esglaonada a la normalitat.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -6725,9 +6701,19 @@
       "covid": {
         "Conceito": "deshidrodidemnina B",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: desidrodidemnina B",
+          "eu: deshidrodidemnina B",
+          "gl: deshidrodidemnina B",
+          "es: deshidrodidemnina B",
+          "en: dehydrodidemnin B",
+          "fr: déshydrodidemnine B",
+          "pt: desidrodidemnina B",
+          "nl: dehydrodidemnine B",
+          "pl: dehydrodidemnina B"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg. ",
+        "Descricao": "Compost bioactiu d’origen marí amb propietats antitumorals i antivirals, estudiat en assaigs clínics per al tractament de diverses malalties, incloses algunes infeccions víriques.",
         "Citação": "",
         "Categoria": "Substâncias Químicas"
       }
@@ -6750,23 +6736,14 @@
         "Conceito": "desinfectant",
         "Substantivo": "",
         "Traduções": [
-          "adj: ",
           "oc: desinfectant",
-          "adj: ",
           "eu: desinfektatzailea",
-          "adj: ",
           "gl: desinfectante",
-          "adj: ",
           "es: desinfectante",
-          "adj: ",
           "en: disinfectant",
-          "adj: ",
-          "fr: désinfectant -ante",
-          "adj: ",
+          "fr: désinfectantante",
           "pt: desinfetante",
-          "adj: ",
-          "nl: ontsmettingsmiddel",
-          "adj: "
+          "nl: ontsmettingsmiddel"
         ],
         "Sigla": "Sem Sigla Associada",
         "Descricao": "PREVENCIÓ. Dit de la substància o el mètode que té la propietat d’eliminar els microorganismes patògens presents en un objecte. què l’organisme resisteix l’acció d’allò que l’ataca o que amenaça de causar-li algun dany.",
@@ -6831,9 +6808,19 @@
       "covid": {
         "Conceito": "destret respiratori de l’adult",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: distress respiratòri de l’adult",
+          "eu: helduen arnasestutasuna",
+          "gl: distrés respiratorio do adulto",
+          "es: distrés respiratorio del adulto",
+          "en: adult respiratory distress",
+          "fr: détresse respiratoire de l’adulte",
+          "pt: desconforto respiratório do adulto",
+          "nl: ademnood bij volwassenen",
+          "pl: niewydolność oddechowa dorosłych"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Síndrome respiratòria greu caracteritzada per una insuficiència respiratòria aguda deguda a una inflamació pulmonar difusa i acumulació de líquid als alvèols.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -6845,9 +6832,19 @@
       "covid": {
         "Conceito": "destret respiratori del nadó",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: distress respiratòri del nenon",
+          "eu: jaioberrien arnasestutasuna",
+          "gl: distrés respiratorio do recentemente nado",
+          "es: distrés respiratorio del recién nacido",
+          "en: neonatal respiratory distress",
+          "fr: détresse respiratoire néonatale",
+          "pt: desconforto respiratório do recém-nascido",
+          "nl: neonatale ademnood",
+          "pl: niewydolność oddechowa noworodka"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Síndrome respiratòria que afecta els nounats, especialment prematurs, causada per un dèficit de surfactant pulmonar, que dificulta la respiració i l’intercanvi gasós.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -6869,7 +6866,7 @@
           "nl: vroegtijdige opsporing"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; early detection  ; détection précoce  deteção precoce  detecção precoce   DIAGNÒSTIC. Detecció d’un problema de salut durant el període asimptomàtic que permet aplicar mesures per a intentar modificar-ne la història natural i evitar-ne la progressió.",
+        "Descricao": "DIAGNÒSTIC. Detecció d’un problema de salut durant el període asimptomàtic que permet aplicar mesures per a intentar modificar-ne la història natural i evitar-ne la progressió.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -6902,7 +6899,7 @@
           "nl: dexamethason"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         50-02-2 PRINCIPIS ACTIUS. Fàrmac antiinflamatori i immunosupressor que inhibeix l’apoptosi dels neutròfils i els factors de transcripció inflamatoris. s’empra en el tractament de la insuficiència cardíaca i de intestinal, a la qual moltes vegades se suma una hipersecreció mucosa.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antiinflamatori i immunosupressor que inhibeix l’apoptosi dels neutròfils i els factors de transcripció inflamatoris. s’empra en el tractament de la insuficiència cardíaca i de intestinal, a la qual moltes vegades se suma una hipersecreció mucosa.",
         "Citação": "Nota: 1. La dexametasona és un glucocorticoide que s’empra en el tractament de la insuficiència cardíaca i de D67QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19Nota: La causa de la diarrea és l’acceleració del trànsit intestinal, a la qual moltes vegades se suma una hipersecreció mucosa.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -6959,20 +6956,6 @@
     }
   },
   {
-    "Conceito": "diagnosi",
-    "Fontes": {
-      "covid": {
-        "Conceito": "diagnosi",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Diagnóstico"
-      }
-    }
-  },
-  {
     "Conceito": "diagnòstic",
     "Fontes": {
       "covid": {
@@ -6989,7 +6972,7 @@
           "nl: diagnose"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; diagnostic   ; diagnóstico  ; diagnóstico  ; diagnostic  ; diagnostic    DIAGNÒSTIC. Determinació de la naturalesa de la malaltia o el problema de salut d’un pacient per mitjà de l’estudi dels seus símptomes i signes i de la realització d’exploracions complementàries.",
+        "Descricao": "DIAGNÒSTIC. Determinació de la naturalesa de la malaltia o el problema de salut d’un pacient per mitjà de l’estudi dels seus símptomes i signes i de la realització d’exploracions complementàries.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -7012,7 +6995,7 @@
           "nl: diarree"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         CLÍNICA. Evacuació de femta de menor consistència i major fluïdesa i, sovint, amb un augment del nombre i el volum de les deposicions.",
+        "Descricao": "CLÍNICA. Evacuació de femta de menor consistència i major fluïdesa i, sovint, amb un augment del nombre i el volum de les deposicions.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -7123,7 +7106,7 @@
           "nl: beperking"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; discapacitat         ENTORN SOCIAL. Condició de la persona que presenta un trastorn físic, mental o sensorial que li impedeix o li dificulta desenvolupar la seva activitat dins dels límits considerats normals. dificultats en la integració educativa, social i laboral, a conseqüència d’una deficiència previsiblement permanent, congènita o no, en les seves capacitat físiques, psíquiques o sensorials.",
+        "Descricao": "ENTORN SOCIAL. Condició de la persona que presenta un trastorn físic, mental o sensorial que li impedeix o li dificulta desenvolupar la seva activitat dins dels límits considerats normals. dificultats en la integració educativa, social i laboral, a conseqüència d’una deficiència previsiblement permanent, congènita o no, en les seves capacitat físiques, psíquiques o sensorials.",
         "Citação": "Nota: Les persones amb una discapacitat poden tenir dificultats en la integració educativa, social i laboral, a conseqüència d’una deficiència previsiblement permanent, congènita o no, en les seves capacitat físiques, psíquiques o sensorials.",
         "Categoria": "Termos Gerais"
       }
@@ -7146,7 +7129,7 @@
           "nl: dysfonie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         CLÍNICA. Trastorn de la fonació degut a canvis en les cordes vocals que causen una alteració en els paràmetres normals de to, intensitat o timbre. canvi de veu dels nois en la pubertat, o patològica, en casos d’inflamacions de la laringe o per una lesió nerviosa de les cordes vocals.",
+        "Descricao": "CLÍNICA. Trastorn de la fonació degut a canvis en les cordes vocals que causen una alteració en els paràmetres normals de to, intensitat o timbre. canvi de veu dels nois en la pubertat, o patològica, en casos d’inflamacions de la laringe o per una lesió nerviosa de les cordes vocals.",
         "Citação": "Nota: La disfonia pot ser fisiològica, com en el cas del canvi de veu dels nois en la pubertat, o patològica, en casos d’inflamacions de la laringe o per una lesió nerviosa de les cordes vocals.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -7192,9 +7175,19 @@
       "covid": {
         "Conceito": "displàsia alveolar congènita",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: displàsia alveolara congènita",
+          "eu: jaiotzetiko albeolo-displasia",
+          "gl: displasia alveolar conxénita",
+          "es: displasia alveolar congénita",
+          "en: congenital alveolar dysplasia",
+          "fr: dysplasie alvéolaire congénitale",
+          "pt: displasia alveolar congénita",
+          "nl: congenitale alveolaire dysplasie",
+          "pl: wrodzona dysplazja pęcherzykowa"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Malformació pulmonar present des del naixement, caracteritzada per un desenvolupament anòmal dels alvèols, que dificulta l’intercanvi de gasos i pot provocar insuficiència respiratòria.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -7213,49 +7206,12 @@
           "es: disnea",
           "en: dyspnea",
           "fr: dyspnée",
-          "pt: dispneia",
-          "eu: segurtasuneko urruntze",
-          "gl: distanciamento de seguridade",
-          "es: distanciamiento de seguridad",
-          "en: physical distancing",
-          "fr: distanciation physique",
-          "pt: distanciamento de segurança"
+          "pt: dispneia"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; estofament ; tapament   ; dispnea ; falta de aire   ; shortness of breath    ; urruntze fisiko  ; distanciamento físico  ; distanciamiento físico  ; safe distancing ; social distancing  ; distanciation sanitaire ; distanciation sociale ; éloignement de sécurité ; éloignement physique ; éloignement sanitaire ; éloignement social  ; distanciamento físico  PREVENCIÓ. Conjunt de mesures de salut pública de reducció dels contactes físics directes i indirectes entre persones per a evitar el contagi d’una malaltia. exemple, a mantenir una determinada distància d’una altra persona, evitar els gestos de salutació habituals, com ara encaixades de mans, abraçades o besades, o reduir les interaccions amb les persones vulnerables.",
+        "Descricao": "Sensació de dificultat o incomoditat per respirar, que pot tenir diverses causes com malalties cardíaques, respiratòries o ansietat.",
         "Citação": "Nota: El distanciament de seguretat consisteix, per exemple, a mantenir una determinada distància d’una altra persona, evitar els gestos de salutació habituals, com ara encaixades de mans, abraçades o besades, o reduir les interaccions amb les persones vulnerables.",
         "Categoria": "Sintomas e Sinais"
-      }
-    }
-  },
-  {
-    "Conceito": "distanciament de seguretat",
-    "Fontes": {
-      "covid": {
-        "Conceito": "distanciament de seguretat",
-        "Substantivo": "n m",
-        "Traduções": [
-          "oc: distanciament de seguretat",
-          "nl: leed"
-        ],
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  ; distanciament fisic  ; rouw ; verdriet  TRACTAMENT. Resposta emocional previsible a la mort d’un ésser estimat.",
-        "Citação": "",
-        "Categoria": "Epidemiologia e Saúde Pública"
-      }
-    }
-  },
-  {
-    "Conceito": "distanciament físic",
-    "Fontes": {
-      "covid": {
-        "Conceito": "distanciament físic",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
-        "Citação": "",
-        "Categoria": "Epidemiologia e Saúde Pública"
       }
     }
   },
@@ -7265,9 +7221,19 @@
       "covid": {
         "Conceito": "distanàsia",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: distanàsia",
+          "eu: distanasia",
+          "gl: distanasia",
+          "es: distanasia",
+          "en: dysthanasia",
+          "fr: dysthanasie",
+          "pt: distanásia",
+          "nl: dysthanasie",
+          "pl: dystanazja"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Prolongació innecessària del procés de morir mitjançant tractaments mèdics desproporcionats, que allarguen la vida sense millorar-ne la qualitat.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -7314,7 +7280,7 @@
           "nl: 1,5 metercirkel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  ; distància fisica   ; distancia física  ; distancia física  ; safety distance ; social distance  ; distance physique ; distance sanitaire ; distance sociale  ; distância física  ; anderhalvemetercirkel ; corona-afstand ; fysieke afstand ; sociale afstand ; veilige afstand  PREVENCIÓ. Interval d’espai que hi ha d’haver entre dues persones com a mesura de prevenció per a evitar el contagi d’una malaltia.",
+        "Descricao": "PREVENCIÓ. Interval d’espai que hi ha d’haver entre dues persones com a mesura de prevenció per a evitar el contagi d’una malaltia.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -7326,9 +7292,19 @@
       "covid": {
         "Conceito": "distància física",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: distància fisica",
+          "eu: distantzia fisikoa",
+          "gl: distancia física",
+          "es: distancia física",
+          "en: physical distancing",
+          "fr: distanciation physique",
+          "pt: distância física",
+          "nl: fysieke afstand",
+          "pl: dystans fizyczny"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Mesura preventiva que consisteix a mantenir una separació mínima entre persones per reduir la transmissió de malalties infeccioses.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -7601,7 +7577,7 @@
           "nl: ademnood"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; grief ; mourning  ; endeuillement   falta de ar  ; dyspneu ; kortademigheid  CLÍNICA. Sensació de dificultat respiratòria associada a un augment de l’esforç per a respirar. sensació subjectiva; quan és més greu, hi ha signes objectius, com l’augment de la freqüència respiratòria, l’augment de la profunditat de la inspiració, la dilatació dels narius i la contracció dels músculs accessoris.",
+        "Descricao": "CLÍNICA. Sensació de dificultat respiratòria associada a un augment de l’esforç per a respirar. sensació subjectiva; quan és més greu, hi ha signes objectius, com l’augment de la freqüència respiratòria, l’augment de la profunditat de la inspiració, la dilatació dels narius i la contracció dels músculs accessoris.",
         "Citação": "Nota: Quan la dispnea és lleugera, es redueix a la sensació subjectiva; quan és més greu, hi ha signes objectius, com l’augment de la freqüència respiratòria, l’augment de la profunditat de la inspiració, la dilatació dels narius i la contracció dels músculs accessoris.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -7624,7 +7600,7 @@
           "nl: borstpijn"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; mau de piech   ; dor torácica   ; thoracalgia  ; douleur thoracique   dor no peito  ; pijn op de borst  CLÍNICA. Molèstia anòmala localitzada al tòrax, entre la base del coll i el diafragma. de la COVID-19 i requereix  atenció mèdica al més aviat possible.",
+        "Descricao": "CLÍNICA. Molèstia anòmala localitzada al tòrax, entre la base del coll i el diafragma. de la COVID-19 i requereix  atenció mèdica al més aviat possible.",
         "Citação": "Nota: El dolor toràcic és un símptoma greu de la COVID-19 i requereix atenció mèdica al més aviat possible.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -7667,24 +7643,8 @@
           "nl: booster"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; dòsi de refòrç   ; dose de reforzo  ; dosis de refuerzo   ; dose de réactivation ; injection de rappel   ; boosterdosis ; boosterinjectie ; boostershot  PREVENCIÓ. Dosi addicional d’una vacuna que s’administra amb l’objectiu d’augmentar i prolongar l’efecte immunitari de la dosi o de les dosis administrades en la primovacunació.",
+        "Descricao": "PREVENCIÓ. Dosi addicional d’una vacuna que s’administra amb l’objectiu d’augmentar i prolongar l’efecte immunitari de la dosi o de les dosis administrades en la primovacunació.",
         "Citação": "",
-        "Categoria": "Vacinas e Imunização"
-      }
-    }
-  },
-  {
-    "Conceito": "dosi de reforç",
-    "Fontes": {
-      "covid": {
-        "Conceito": "dosi de reforç",
-        "Substantivo": "n",
-        "Traduções": [
-          "nl: eczeem"
-        ],
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg.  ; eczema  CLÍNICA. Trastorn propi de malalties cutànies caracteritzat per una erupció papulovesiculosa pruent. d’eritema i edema i, en la fase crònica, es manifesta predominantment per engruiximent epidèrmic, liquenificació i descamació, sense perdre del tot els trets papulars i vesiculosos. 2. El terme és conceptualment proper a la , per bé que l’ús ha decantat la preferència per un terme o un altre en diferents malalties i segons les diverses escoles dermatològiques.",
-        "Citação": "Nota: 1. En la fase aguda, l’èczema s’acompanya d’eritema i edema i, en la fase crònica, es manifesta predominantment per engruiximent epidèrmic, liquenificació i descamació, sense perdre del tot els trets papulars i vesiculosos.2. El terme és conceptualment proper a la dermatitis, per bé que l’ús ha decantat la preferència per un terme o un altre en diferents malalties i segons les diverses escoles dermatològiques.",
         "Categoria": "Vacinas e Imunização"
       }
     }
@@ -7760,7 +7720,7 @@
           "nl: D-dimer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        dímero D   DIAGNÒSTIC. Producte de degradació de la fibrina que es produeix quan un coàgul de sang és dissolt en l’organisme. protrombina són tres paràmetres de coagulació que poden orientar sobre el pronòstic de la pneumònia per COVID-19. 2. Uns valors sanguinis de dímer-D elevats s’han relacionat amb un pitjor pronòstic en pacients amb COVID-19. 3. La determinació del dímer-D s’utilitza en el diagnòstic de la trombosi venosa profunda, el tromboembolisme pulmonar o la coagulació intravascular disseminada.",
+        "Descricao": "DIAGNÒSTIC. Producte de degradació de la fibrina que es produeix quan un coàgul de sang és dissolt en l’organisme. protrombina són tres paràmetres de coagulació que poden orientar sobre el pronòstic de la pneumònia per COVID-19. 2. Uns valors sanguinis de dímer-D elevats s’han relacionat amb un pitjor pronòstic en pacients amb COVID-19. 3. La determinació del dímer-D s’utilitza en el diagnòstic de la trombosi venosa profunda, el tromboembolisme pulmonar o la coagulació intravascular disseminada.",
         "Citação": "Nota: 1. El dímer-D, el fibrinogen i el temps de protrombina són tres paràmetres de coagulació que poden orientar sobre el pronòstic de la pneumònia per COVID-19.2. Uns valors sanguinis de dímer-D elevats s’han relacionat amb un pitjor pronòstic en pacients amb COVID-19.3. La determinació del dímer-D s’utilitza en el diagnòstic de la trombosi venosa profunda, el tromboembolisme pulmonar o la coagulació intravascular disseminada.",
         "Categoria": "Diagnóstico"
       }
@@ -7782,7 +7742,7 @@
           "nl: eculizumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        eculizumabe   219685-50-4 PRINCIPIS ACTIUS. Fàrmac immunomodulador selectiu que s’uneix a la proteïna C5 del complement per a impedir-ne l’escissió i posterior activació, però que preserva els primers components de l’activació del complement, necessaris per a l’opsonització dels microorganismes i l’eliminació d’immunocomplexos. humanitzat que s’empra en el tractament de l’hemoglobinúria paroxística nocturna, en la síndrome hemolítica urèmica atípica i la neuromielitis òptica. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador selectiu que s’uneix a la proteïna C5 del complement per a impedir-ne l’escissió i posterior activació, però que preserva els primers components de l’activació del complement, necessaris per a l’opsonització dels microorganismes i l’eliminació d’immunocomplexos. humanitzat que s’empra en el tractament de l’hemoglobinúria paroxística nocturna, en la síndrome hemolítica urèmica atípica i la neuromielitis òptica. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’eculizumab és un anticòs monoclonal humanitzat que s’empra en el tractament de l’hemoglobinúria paroxística nocturna, en la síndrome hemolítica urèmica atípica i la neuromielitis òptica. Se n’ha suggerit l’ús per al tractament de la COVID-19.2. La denominació eculizumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -7815,7 +7775,7 @@
           "nl: agisme"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; edatismo  ; agism  ; âgisme   ageísmo ;  discriminação baseada na idade  discriminação contra idosos ;   discriminação etária etarismo  ; leeftijdsdiscriminatie  TRACTAMENT. Actitud discriminatòria envers una persona consistent a abstenir-se d’aplicar-li mitjans diagnòstics o terapèutics que li serien beneficiosos a causa exclusivament de la seva edat avançada.",
+        "Descricao": "TRACTAMENT. Actitud discriminatòria envers una persona consistent a abstenir-se d’aplicar-li mitjans diagnòstics o terapèutics que li serien beneficiosos a causa exclusivament de la seva edat avançada.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -7848,11 +7808,18 @@
         "Conceito": "efectivitat vacunal",
         "Substantivo": "n",
         "Traduções": [
-          "oc: efectivitat vacunau",
-          "eu: txertoen efektibitate"
-        ],
+          "oc: efèctivitat vaccinala",
+          "eu: txerto-eraginkortasuna",
+          "gl: efectividade vacinal",
+          "es: efectividad vacunal",
+          "en: vaccine effectiveness",
+          "fr: efficacité vaccinale",
+          "pt: efetividade vacinal",
+          "nl: vaccinatie-effectiviteit",
+          "pl: skuteczność szczepionki"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ",
+        "Descricao": "Mesura del grau de protecció que ofereix una vacuna en condicions reals d’ús, tenint en compte la reducció de la incidència de la malaltia entre els vacunats.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -7888,7 +7855,7 @@
           "nl: doelmatigheid van een vaccin"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       eficiência vacinal  eficiência da vacina  ; efficiëntie van een vaccin ; vaccinefficiëntie  PREVENCIÓ. Relació que s’estableix entre el cost econòmic que comporta l’administració d’una vacuna i la seva efectivitat. vacunal i l’eficàcia vacunal.",
+        "Descricao": "PREVENCIÓ. Relació que s’estableix entre el cost econòmic que comporta l’administració d’una vacuna i la seva efectivitat. vacunal i l’eficàcia vacunal.",
         "Citação": "Nota: Convé distingir l’eficiència vacunal de l’efectivitat vacunal i l’eficàcia vacunal.",
         "Categoria": "Vacinas e Imunização"
       }
@@ -7910,7 +7877,7 @@
           "nl: vaccinwerkzaamheid"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       eficácia vacinal  eficácia da vacina  ; werkzaamheid van een vaccin  PREVENCIÓ. Grau en què una vacuna produeix l’efecte desitjat quan s’aplica en condicions experimentals. vacunal i l’eficiència vacunal.",
+        "Descricao": "PREVENCIÓ. Grau en què una vacuna produeix l’efecte desitjat quan s’aplica en condicions experimentals. vacunal i l’eficiència vacunal.",
         "Citação": "Nota: Convé distingir l’eficàcia vacunal de l’efectivitat vacunal i l’eficiència vacunal.",
         "Categoria": "Vacinas e Imunização"
       }
@@ -7933,7 +7900,7 @@
           "nl: elasomeran"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  den. com.  ; vacuna Moderna ; Spikevax  ; Moderna txerto ; Spikevax  ; vacina Moderna ; vacina Spikevax  ; vacuna Moderna ; Spikevax  ; Moderna vaccine ; Spikevax  ; vaccin Moderna ; Spikevax   vacina Moderna ; vacina Spikevax  ; Moderna-vaccin ; Spikevax-vaccin ; Spikevax  PREVENCIÓ. Vacuna anti COVID-19 que utilitza l’RNA missatger codificador de la proteïna S del SARS-CoV-2. intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. Està autoritzada a l’Estat espanyol. És d’origen biotecnològic. ETIOPATOGÈNIA. Membrana externa que envolta la càpsida d’alguns virus, formada per una bicapa lipídica i per glicoproteïnes, que poden sobresortir en forma d’espícules.",
+        "Descricao": "PREVENCIÓ. Vacuna anti COVID-19 que utilitza l’RNA missatger codificador de la proteïna S del SARS-CoV-2. intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. Està autoritzada a l’Estat espanyol. És d’origen biotecnològic. ETIOPATOGÈNIA. Membrana externa que envolta la càpsida d’alguns virus, formada per una bicapa lipídica i per glicoproteïnes, que poden sobresortir en forma d’espícules.",
         "Citação": "Nota: La vacuna Moderna s’administra per via intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. Està autoritzada a l’Estat espanyol. És d’origen biotecnològic.72",
         "Categoria": "Fármacos e Terapias"
       }
@@ -7946,20 +7913,6 @@
         "Conceito": "Elisa",
         "Categoria": "Medicamentos, Vacinas e Insumos",
         "Descrição": "Sigla de Enzyme Linked Immunosorbent Assay que signiﬁ ca ensaios imuno-enzimáticos que permitem veriﬁ car se uma pessoa está infectada por um agente."
-      }
-    }
-  },
-  {
-    "Conceito": "ELISA",
-    "Fontes": {
-      "covid": {
-        "Conceito": "ELISA",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Diagnóstico"
       }
     }
   },
@@ -8007,7 +7960,7 @@
           "nl: emapalumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        emapalumabe   1709815-23-5 PRINCIPIS ACTIUS. Fàrmac immunomodulador dirigit contra l’interferó gamma que, en unir- s’hi, pot fer disminuir la inflamació i la resposta immunitària. que s’empra en el tractament de la limfohistiocitosi hemofagocítica familiar. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador dirigit contra l’interferó gamma que, en unir- s’hi, pot fer disminuir la inflamació i la resposta immunitària. que s’empra en el tractament de la limfohistiocitosi hemofagocítica familiar. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’emapalumab és un anticòs monoclonal que s’empra en el tractament de la limfohistiocitosi hemofagocítica familiar. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.2. La denominació emapalumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -8030,7 +7983,7 @@
           "nl: envelop"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; envolopa    ; envoltura  ; peplos ; viral coat  ; péplos    ; enveloppe ",
+        "Descricao": "Estructura externa que envolta determinats virus, formada per una bicapa lipídica derivada de la cèl·lula hoste i glicoproteïnes virals, que facilita l’entrada del virus a les cèl·lules.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -8063,7 +8016,7 @@
           "nl: longembolie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        CLÍNICA. Embòlia que afecta els pulmons, a partir d’una vena afectada per trombosi, i que pot ser bruscament mortal.",
+        "Descricao": "CLÍNICA. Embòlia que afecta els pulmons, a partir d’una vena afectada per trombosi, i que pot ser bruscament mortal.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -8086,7 +8039,7 @@
           "nl: gezondheidscrisis"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        emergência de saúde pública  ; medische noodsituatie ; noodsituatie op gezondheidsgebied  EPIDEMIOLOGIA. Situació clínica extraordinària greu, sobtada, inusual o inesperada que comporta un risc per a la salut pública d’un territori i que pot propagar-se a altres territoris.",
+        "Descricao": "EPIDEMIOLOGIA. Situació clínica extraordinària greu, sobtada, inusual o inesperada que comporta un risc per a la salut pública d’un territori i que pot propagar-se a altres territoris.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -8109,7 +8062,7 @@
           "nl: emtricitabine"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         143491-57-0 PRINCIPIS ACTIUS. Fàrmac antivíric inhibidor de la transcriptasa inversa anàleg de nucleòsid, que s’integra a la cadena de DNA durant la replicació, en força la terminació i atura la replicació vírica. preexposició al virus de la immunodeficiència humana en combinació amb el tenofovir. Se n’ha suggerit l’ús, també en combinació amb el tenofovir, en el tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric inhibidor de la transcriptasa inversa anàleg de nucleòsid, que s’integra a la cadena de DNA durant la replicació, en força la terminació i atura la replicació vírica. preexposició al virus de la immunodeficiència humana en combinació amb el tenofovir. Se n’ha suggerit l’ús, també en combinació amb el tenofovir, en el tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’emtricitabina s’empra en la profilaxi preexposició al virus de la immunodeficiència humana en combinació amb el tenofovir. Se n’ha suggerit l’ús, també en combinació amb el tenofovir, en el tractament de la COVID-19. És d’origen sintètic.2. La denominació emtricitabina és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -8129,11 +8082,10 @@
           "en: emvododstat",
           "fr: emvododstat",
           "pt: emvododstat",
-          "nl: emvododstat",
-          "de novo: de"
+          "nl: emvododstat"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         1256565-36-2 PRINCIPIS ACTIUS. Fàrmac en investigació amb efecte inhibidor de l’enzim dihidroorotat- deshidrogenasa que bloca la biosíntesi la pirimidina i inhibeix la replicació de l’RNA víric. la leucèmia mieloide aguda. S'investiga com a possible tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació amb efecte inhibidor de l’enzim dihidroorotat- deshidrogenasa que bloca la biosíntesi la pirimidina i inhibeix la replicació de l’RNA víric. la leucèmia mieloide aguda. S'investiga com a possible tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’emvododstat s’empra en el tractament de la leucèmia mieloide aguda. S'investiga com a possible tractament per a la COVID-19. És d’origen sintètic.2. La denominació emvododstat és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -8170,7 +8122,7 @@
           "nl: primer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; hasle   ; iniciador    ; primer   DIAGNÒSTIC. Seqüència curta de DNA o d’RNA unida per complementarietat a una cadena de DNA que s’ha de replicar i a la qual s’aniran unint els nous nucleòtids.",
+        "Descricao": "DIAGNÒSTIC. Seqüència curta de DNA o d’RNA unida per complementarietat a una cadena de DNA que s’ha de replicar i a la qual s’aniran unint els nous nucleòtids.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -8269,7 +8221,7 @@
           "nl: endemie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         EPIDEMIOLOGIA. Malaltia, en general de tipus infecciós, que incideix de manera permanent i elevada en una determinada zona geogràfica.",
+        "Descricao": "EPIDEMIOLOGIA. Malaltia, en general de tipus infecciós, que incideix de manera permanent i elevada en una determinada zona geogràfica.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -8284,10 +8236,16 @@
         "Traduções": [
           "oc: enoxaparina",
           "eu: enoxaparina",
-          "gl: enoxaparina"
-        ],
+          "gl: enoxaparina",
+          "es: enoxaparina",
+          "en: enoxaparin",
+          "fr: énoxaparine",
+          "pt: enoxaparina",
+          "nl: enoxaparine",
+          "pl: enoksaparyna"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " forma catalana corresponent a la DCI.",
+        "Descricao": "Fàrmac anticoagulant de baix pes molecular utilitzat per prevenir i tractar trombosis i complicacions tromboembòliques, sovint administrat per via subcutània.",
         "Citação": "Nota: 1. L’enpatoran s’empra en el tractament de les malalties immunitàries. Està en una fase clínica de desenvolupament avançada com a possible tractament per a la COVID-19. És d’origen sintètic.2. La denominació enpatoran és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }

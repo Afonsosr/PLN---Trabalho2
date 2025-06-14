@@ -9372,7 +9372,7 @@
           "nl: preklinisch onderzoek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "      ; étude préclinique   ; preklinische proef ; preklinische studie  CONCEPTES GENERALS. Estudi que es duu a terme in vitro o en animals durant el desenvolupament preclínic d’un fàrmac amb la finalitat d’obtenir la informació necessària per al desenvolupament del fàrmac.",
+        "Descricao": "CONCEPTES GENERALS. Estudi que es duu a terme in vitro o en animals durant el desenvolupament preclínic d’un fàrmac amb la finalitat d’obtenir la informació necessària per al desenvolupament del fàrmac.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -9469,7 +9469,7 @@
           "nl: etesevimab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        etesevimabe   2423948-94-9 PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. autoritzat en alguns països com a tractament de rescat, en combinació amb el bamlanivimab, en pacients amb la COVID-19. Està en una fase clínica de desenvolupament nou fàrmac abans de la seva comercialització, que tenen com a objectiu establir-ne l’eficàcia i identificar-ne les reaccions adverses més freqüents mitjançant la comparació amb altres alternatives terapèutiques disponibles o, si no n’hi ha, amb placebo. estudis de fase IIIA, quan encara no s’ha presentat la sol·licitud de registre, i estudis de fase IIIB, quan s’ha presentat el registre.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. autoritzat en alguns països com a tractament de rescat, en combinació amb el bamlanivimab, en pacients amb la COVID-19. Està en una fase clínica de desenvolupament nou fàrmac abans de la seva comercialització, que tenen com a objectiu establir-ne l’eficàcia i identificar-ne les reaccions adverses més freqüents mitjançant la comparació amb altres alternatives terapèutiques disponibles o, si no n’hi ha, amb placebo. estudis de fase IIIA, quan encara no s’ha presentat la sol·licitud de registre, i estudis de fase IIIB, quan s’ha presentat el registre.",
         "Citação": "Nota: 1. L’etesevimab és un anticòs monoclonal que s’ha autoritzat en alguns països com a tractament de rescat, en combinació amb el bamlanivimab, en pacients amb la COVID-19. Està en una fase clínica de desenvolupament",
         "Categoria": "Fármacos e Terapias"
       }
@@ -9529,11 +9529,10 @@
           "en: excess deaths",
           "fr: excès de mortalité",
           "pt: excesso de mortalidade",
-          "n f pl: ",
           "nl: oversterfte"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. compl. ; exceso de mortos ; exceso de mortalidad ; excess mortality ; excès de morts mortalidade excessiva excesso de mortes ; mortes excedentes EPIDEMIOLOGIA. Augment del nombre de defuncions durant un període determinat.",
+        "Descricao": "EPIDEMIOLOGIA. Augment del nombre de defuncions durant un període determinat.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -9545,9 +9544,19 @@
       "covid": {
         "Conceito": "excés de morts",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: excés de mòrts",
+          "eu: heriotza-exkesa",
+          "gl: exceso de mortes",
+          "es: exceso de muertes",
+          "en: excess deaths",
+          "fr: surmortalité",
+          "pt: excesso de mortes",
+          "nl: oversterfte",
+          "pl: nadumieralność"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Diferència entre el nombre de defuncions observades en un període determinat i el nombre esperat segons les dades històriques, sovint utilitzat per avaluar l’impacte d’epidèmies o crisis sanitàries.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -9578,7 +9587,7 @@
           "fr: dossier de réglementation de l’emploi"
         ],
         "Sigla": "ERTO",
-        "Descricao": " d’aucupacion ; ERTO  espediente ; ABEEE  emprego ; ERTE  empleo ; ERTE   temporaire hi ha diversos tipus d’exsudats; per exemple, l’exsudat catarral, l’exsudat fibrinós, l’exsudat hemorràgic o l’exsudat serós.",
+        "Descricao": "Mesura laboral temporal mitjançant la qual l’empresa pot suspendre contractes o reduir jornades de treball a causa de causes econòmiques, tècniques o organitzatives, amb l’autorització administrativa corresponent.",
         "Citação": "Nota: Segons la naturalesa i l’aspecte físic del contingut, hi ha diversos tipus d’exsudats; per exemple, l’exsudat catarral, l’exsudat fibrinós, l’exsudat hemorràgic o l’exsudat serós.",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -9610,7 +9619,7 @@
           "nl: exsudaat"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       exsudado  exsudato   CLÍNICA. Líquid orgànic, ric en proteïnes plasmàtiques, cèl·lules i productes de la descomposició de teixits inflamats, que s’extravasa d’un vas en els processos inflamatoris i es diposita en els intersticis dels teixits o en la cavitat de les seroses. avançada com a possible tractament per a aquesta malaltia. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "CLÍNICA. Líquid orgànic, ric en proteïnes plasmàtiques, cèl·lules i productes de la descomposició de teixits inflamats, que s’extravasa d’un vas en els processos inflamatoris i es diposita en els intersticis dels teixits o en la cavitat de les seroses. avançada com a possible tractament per a aquesta malaltia. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -9622,9 +9631,19 @@
       "covid": {
         "Conceito": "exsudat bucofaringi",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: exsudat bucofaringian",
+          "eu: aho-faringe-exsudatua",
+          "gl: exsudado bucofarínxeo",
+          "es: exudado bucofaríngeo",
+          "en: oropharyngeal exudate",
+          "fr: exsudat oropharyngé",
+          "pt: exsudado orofaríngeo",
+          "nl: orofaryngeaal exsudaat",
+          "pl: wysięk ustno-gardłowy"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Substància líquida obtinguda de la bucofaringe, utilitzada habitualment per al diagnòstic de malalties infeccioses de les vies respiratòries superiors.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -9636,9 +9655,19 @@
       "covid": {
         "Conceito": "exsudat nasofaringi",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: exsudat nasofaringian",
+          "eu: nasofaringe-exsudatua",
+          "gl: exsudado nasofarínxeo",
+          "es: exudado nasofaríngeo",
+          "en: nasopharyngeal exudate",
+          "fr: exsudat nasopharyngé",
+          "pt: exsudado nasofaríngeo",
+          "nl: nasofaryngeaal exsudaat",
+          "pl: wysięk nosowo-gardłowy"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Substància líquida obtinguda de la nasofaringe, composta per mucositat i cèl·lules, utilitzada per al diagnòstic de diverses infeccions respiratòries.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -9709,7 +9738,7 @@
           "nl: vaccinfalen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         TRACTAMENT. Retirada d’un tub col·locat prèviament en el cos d’un pacient, especialment un tub que ha estat introduït a la laringe o la tràquea per a ajudar la respiració.        PREVENCIÓ. Situació en què una persona desenvolupa una malaltia després d'haver rebut la pauta de vacunació completa d'una vacuna que ha demostrat ser eficaç contra aquesta malaltia. 2. Les persones que experimenten una fallada vacunal solen passar formes més lleus de la malaltia.",
+        "Descricao": "TRACTAMENT. Retirada d’un tub col·locat prèviament en el cos d’un pacient, especialment un tub que ha estat introduït a la laringe o la tràquea per a ajudar la respiració.        PREVENCIÓ. Situació en què una persona desenvolupa una malaltia després d'haver rebut la pauta de vacunació completa d'una vacuna que ha demostrat ser eficaç contra aquesta malaltia. 2. Les persones que experimenten una fallada vacunal solen passar formes més lleus de la malaltia.",
         "Citação": "Nota: 1. La fallada vacunal pot ser primària o secundària.2. Les persones que experimenten una fallada vacunal solen passar formes més lleus de la malaltia.",
         "Categoria": "Procedimentos Médicos"
       }
@@ -9742,7 +9771,7 @@
           "nl: risicofactor"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         EPIDEMIOLOGIA. Factor que al llarg del temps pot fer augmentar la probabilitat d’una persona o d’un grup de persones de desenvolupar o de presentar un problema social o de salut. econòmic o ambiental. Per exemple, el tabac és un factor de risc del càncer de pulmó i la hipertensió arterial ho és de l’accident vascular cerebral.",
+        "Descricao": "EPIDEMIOLOGIA. Factor que al llarg del temps pot fer augmentar la probabilitat d’una persona o d’un grup de persones de desenvolupar o de presentar un problema social o de salut. econòmic o ambiental. Per exemple, el tabac és un factor de risc del càncer de pulmó i la hipertensió arterial ho és de l’accident vascular cerebral.",
         "Citação": "Nota: Un factor de risc pot ser biològic, psicològic, social, econòmic o ambiental. Per exemple, el tabac és un factor de risc del càncer de pulmó i la hipertensió arterial ho és de l’accident vascular cerebral.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -9765,7 +9794,7 @@
           "nl: fagocytose"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         ETIOPATOGÈNIA. Procés pel qual un fagòcit engloba i digereix material, com ara bacteris i altres gèrmens, cossos estranys o deixalles metabòliques.",
+        "Descricao": "ETIOPATOGÈNIA. Procés pel qual un fagòcit engloba i digereix material, com ara bacteris i altres gèrmens, cossos estranys o deixalles metabòliques.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -9796,7 +9825,7 @@
           "eu: txertoaren hutsegite"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  DIAGNÒSTIC. Resultat positiu d’una prova diagnòstica en una persona que no posseeix realment l’atribut o la malaltia que es vol detectar amb aquesta prova. a malalta una persona sana quan es fa una prova de cribratge per a detectar la malaltia.",
+        "Descricao": "DIAGNÒSTIC. Resultat positiu d’una prova diagnòstica en una persona que no posseeix realment l’atribut o la malaltia que es vol detectar amb aquesta prova. a malalta una persona sana quan es fa una prova de cribratge per a detectar la malaltia.",
         "Citação": "Nota: Per exemple, és un fals positiu catalogar com a malalta una persona sana quan es fa una prova de cribratge per a detectar la malaltia.",
         "Categoria": "Vacinas e Imunização"
       }
@@ -9819,7 +9848,7 @@
           "nl: primair vaccinfalen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         PREVENCIÓ. Fallada vacunal en una persona que no genera resposta immunitària després de l’administració d’una vacuna.",
+        "Descricao": "PREVENCIÓ. Fallada vacunal en una persona que no genera resposta immunitària després de l’administració d’una vacuna.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }

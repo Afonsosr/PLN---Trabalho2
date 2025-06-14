@@ -69,7 +69,7 @@
           "nl: acalabrutinib"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        acalabrutinibe   1420477-60-6 PRINCIPIS ACTIUS. Fàrmac antineoplàstic que bloca la tirosina-cinasa de Bruton i inhibeix la replicació dels limfòcits T cancerosos. de la leucèmia limfocítica crònica i de diversos tipus de limfomes. També s’investiga per a tractar altres tipus de càncer. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antineoplàstic que bloca la tirosina-cinasa de Bruton i inhibeix la replicació dels limfòcits T cancerosos. de la leucèmia limfocítica crònica i de diversos tipus de limfomes. També s’investiga per a tractar altres tipus de càncer. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’acalabrutinib s’empra en el tractament de la leucèmia limfocítica crònica i de diversos tipus de limfomes. També s’investiga per a tractar altres tipus de càncer. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació acalabrutinib és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -215,11 +215,10 @@
           "gl: axeitamento do esforzo terapéutico",
           "es: limitación del esfuerzo terapéutico",
           "en: life support limitation",
-          "pt: limitação terapêutica",
-          ": LET"
+          "pt: limitação terapêutica"
         ],
         "Sigla": "LET",
-        "Descricao": "sin. compl. ;  ; limitacion der esfòrç terapeutic  ; ahalegin terapeutikoa mugatze ; ATE ; ATM  ; limitación do esforzo terapéutico ; LET  ; limitación del soporte vital ; LET ; LSV  ; limitation of life support ; LLS ; LSL  ;  limitação do esforço terapêutico ; LT  limitação de esforço terapêutico ;  limitação de suporte terapêutico ;",
+        "Descricao": "Procés d’avaluació per assegurar que les intervencions mèdiques realitzades són apropiades, necessàries i proporcionades a la situació clínica del pacient.",
         "Citação": "",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -241,7 +240,7 @@
           "nl: ADG20"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         2516243-50-0 PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic. que es troba fonamentalment en el nucli, en els ribosomes, en els mitoribosomes i en els plastoribosomes. té un ús divulgatiu, mentre que en . Aquesta recomanació és aplicable també a la parella de sigles , atès que són les formes clarament identificables dins la comunitat científica internacional. Anàlogament, les sigles creades a partir d’aquestes formes segueixen preferentment l’ordre internacional ( ...), i només secundàriament i en un àmbit divulgatiu es formen a partir de l’ordre romànic, amb i ( ...). correspon a l’anglès  ( àcid ribonucleic ).",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic. que es troba fonamentalment en el nucli, en els ribosomes, en els mitoribosomes i en els plastoribosomes. té un ús divulgatiu, mentre que en . Aquesta recomanació és aplicable també a la parella de sigles , atès que són les formes clarament identificables dins la comunitat científica internacional. Anàlogament, les sigles creades a partir d’aquestes formes segueixen preferentment l’ordre internacional ( ...), i només secundàriament i en un àmbit divulgatiu es formen a partir de l’ordre romànic, amb i ( ...). correspon a l’anglès  ( àcid ribonucleic ).",
         "Citação": "Nota: L’ADG20 és un anticòs monoclonal que està en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -298,7 +297,7 @@
           "nl: aerosol"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         ETIOPATOGÈNIA. Cadascuna de les petites gotes de saliva o de fluid respiratori menors de 100 micròmetres que, en romandre més temps a l’aire i viatjar a distàncies més llargues que les gotetes respiratòries, tenen una infecciositat potencial més elevada.",
+        "Descricao": "ETIOPATOGÈNIA. Cadascuna de les petites gotes de saliva o de fluid respiratori menors de 100 micròmetres que, en romandre més temps a l’aire i viatjar a distàncies més llargues que les gotetes respiratòries, tenen una infecciositat potencial més elevada.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -331,7 +330,7 @@
           "nl: biologisch agens"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         ETIOPATOGÈNIA. Agent nociu animal o vegetal, generalment capaç de fer un cicle vital complet, que pot provocar malalties infeccioses, parasitàries, al·lèrgiques o tòxiques.",
+        "Descricao": "ETIOPATOGÈNIA. Agent nociu animal o vegetal, generalment capaç de fer un cicle vital complet, que pot provocar malalties infeccioses, parasitàries, al·lèrgiques o tòxiques.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -364,7 +363,7 @@
           "nl: cluster"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; agropacion ; agropament ; concentracion  ; mordo         EPIDEMIOLOGIA. Subconjunt d’elements d’una mostra que s’agreguen en realitzar una anàlisi d’agrupaments.",
+        "Descricao": "EPIDEMIOLOGIA. Subconjunt d’elements d’una mostra que s’agreguen en realitzar una anàlisi d’agrupaments.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -387,7 +386,7 @@
           "nl: ageusie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; smaakverlies  CLÍNICA. Pèrdua o disminució del sentit del gust. causes diverses.",
+        "Descricao": "CLÍNICA. Pèrdua o disminució del sentit del gust. causes diverses.",
         "Citação": "Nota: L’agèusia pot ser transitòria o permanent, deguda a causes diverses.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -542,20 +541,6 @@
     }
   },
   {
-    "Conceito": "alta",
-    "Fontes": {
-      "covid": {
-        "Conceito": "alta",
-        "Substantivo": "",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg. possible tractament en les gingivitis i les malalties amb alteracions del complement. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.",
-        "Citação": "Nota: L’AMY-101 està en procés d’avaluació com a possible tractament en les gingivitis i les malalties amb alteracions del complement. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.",
-        "Categoria": "Termos Gerais"
-      }
-    }
-  },
-  {
     "Conceito": "Alta complexidade",
     "Fontes": {
       "ministerio": {
@@ -572,18 +557,16 @@
         "Conceito": "alta mèdica",
         "Substantivo": "n m",
         "Traduções": [
-          "oc: comunicat medicau de nauta n m; curat n f;",
-          "eu: medikuaren alta n",
-          "gl: alta n f; alta médica n f;",
-          "es: alta n f; alta médica n f;",
-          "en: discharge n",
-          "fr: ",
-          "pt: alta n f; alta hospitalar n f; alta médica n f",
-          "nl: medisch ontslag n; ontslag n;",
-          "ar: "
+          "oc: comunicat medicau de nauta",
+          "eu: medikuaren alta",
+          "gl: alta médica",
+          "es: alta médica ",
+          "en: discharge",
+          "pt: alta",
+          "nl: medisch ontslag"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. compl. ; nauta n f; nauta medicau n f parte médico de alta n m parte médico de alta n m sortie n f ontslag uit het ziekenhuis n ENTORN SOCIAL. Declaració mèdica que constata que un treballador està en condicions de reincorporar-se a la feina després d’una malaltia, un accident o una situació de risc durant l’embaràs.",
+        "Descricao": "ENTORN SOCIAL. Declaració mèdica que constata que un treballador està en condicions de reincorporar-se a la feina després d’una malaltia, un accident o una situació de risc durant l’embaràs.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -620,7 +603,7 @@
           "nl: alunacedase"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; alunacedase alfa ; alunacedase- ; alunacedase-alfa  PRINCIPIS ACTIUS. Fàrmac en investigació que constitueix la forma glicosilada de l’enzim conversiu de l'angiotensina 2. com a possible antihipertensiu i antineoplàstic. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI. PREVENCIÓ. Conjunt de mesures que s’apliquen a una persona amb una malaltia contagiosa durant el període en què aquesta malaltia és transmissible amb la finalitat d’evitar el contagi d’altres persones. confinament del pacient, o bé limitat, quan es restringeix a les vies de transmissió (aïllament respiratori, aïllament entèric, etc.). 2. En llengua general, té un significat més ampli que en l'àmbit de les ciències de la salut, ja que únicament indica l'acció de separar una persona o una cosa de la resta. És per aquest motiu que, en un ús no especialitzat, també es pot aplicar a persones que han estat separades tot i estar en observació, o bé fins i tot com a mesura preventiva.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació que constitueix la forma glicosilada de l’enzim conversiu de l'angiotensina 2. com a possible antihipertensiu i antineoplàstic. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI. PREVENCIÓ. Conjunt de mesures que s’apliquen a una persona amb una malaltia contagiosa durant el període en què aquesta malaltia és transmissible amb la finalitat d’evitar el contagi d’altres persones. confinament del pacient, o bé limitat, quan es restringeix a les vies de transmissió (aïllament respiratori, aïllament entèric, etc.). 2. En llengua general, té un significat més ampli que en l'àmbit de les ciències de la salut, ja que únicament indica l'acció de separar una persona o una cosa de la resta. És per aquest motiu que, en un ús no especialitzat, també es pot aplicar a persones que han estat separades tot i estar en observació, o bé fins i tot com a mesura preventiva.",
         "Citação": "Nota: 1. L’alunacedasa alfa està en procés d’avaluació com a possible antihipertensiu i antineoplàstic. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.2. La denominació alunacedasa alfa és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -653,7 +636,7 @@
           "nl: ambroxol"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        cloridrato de ambroxol   18683-91-5 PRINCIPIS ACTIUS. Fàrmac mucolític que disminueix la viscositat de les secrecions bronquials i en facilita l’expectoració, i estimula la síntesi i la secreció de surfactant pulmonar, que redueix l’adhesió del moc. afeccions agudes i cròniques de les vies respiratòries en què és necessari afavorir l’eliminació de secrecions. És el metabòlit actiu de la bromhexina. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac mucolític que disminueix la viscositat de les secrecions bronquials i en facilita l’expectoració, i estimula la síntesi i la secreció de surfactant pulmonar, que redueix l’adhesió del moc. afeccions agudes i cròniques de les vies respiratòries en què és necessari afavorir l’eliminació de secrecions. És el metabòlit actiu de la bromhexina. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’ambroxol s’empra en el tractament de les afeccions agudes i cròniques de les vies respiratòries en què és necessari afavorir l’eliminació de secrecions. És el metabòlit actiu de la bromhexina. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació ambroxol és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -696,7 +679,7 @@
           "nl: AMY-101"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    [BR] molécula AMY-101 ",
+        "Descricao": "Molécula AMY-101 ",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -718,7 +701,7 @@
           "nl: anakinra"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       anacinra    143090-92-0 PRINCIPIS ACTIUS. Fàrmac analgèsic i antiinflamatori que neutralitza l’activitat biològica de les interleucines 1 alfa i 1 beta mitjançant la inhibició competitiva del receptor de tipus I de la interleucina 1. s’empra en el tractament de l’artritis reumatoide, de la malaltia inflamatòria multisistèmica d’inici neonatal i de les síndromes periòdiques associades a la criopirina. Se n’ha suggerit l’ús per al tractament de casos greus de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac analgèsic i antiinflamatori que neutralitza l’activitat biològica de les interleucines 1 alfa i 1 beta mitjançant la inhibició competitiva del receptor de tipus I de la interleucina 1. s’empra en el tractament de l’artritis reumatoide, de la malaltia inflamatòria multisistèmica d’inici neonatal i de les síndromes periòdiques associades a la criopirina. Se n’ha suggerit l’ús per al tractament de casos greus de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’anakinra és una proteïna recombinant que s’empra en el tractament de l’artritis reumatoide, de la malaltia inflamatòria multisistèmica d’inici neonatal i de les síndromes periòdiques associades a la criopirina. Se n’ha suggerit l’ús per al tractament de casos greus de la COVID-19.2. La denominació anakinra és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -740,7 +723,7 @@
           "pt: analgésico"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. compl.    ; antiálxico  ; antiálgico  ; anodyne  ; antalgique ",
+        "Descricao": "Substància o medicament utilitzat per alleujar o eliminar el dolor sense afectar significativament la consciència o altres funcions sensorials.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -830,7 +813,7 @@
           "nl: anticipatieangst"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; aitzinamendu-herstura      ansiedade de antecipação  ansiedade antecipatória  ; anticiperende angst ",
+        "Descricao": "Estat d’inquietud i preocupació que es produeix abans d’un esdeveniment temut, sovint relacionat amb la por que aquest ocorri o amb la seva possible gravetat.",
         "Citação": "",
         "Categoria": "Psicologia e Psiquiatria"
       }
@@ -873,7 +856,7 @@
           "nl: antibioticum"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; antibiótico      PRINCIPIS ACTIUS. Fàrmac o agent que actua contra microorganismes, els elimina o n’inhibeix el creixement i la reproducció.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac o agent que actua contra microorganismes, els elimina o n’inhibeix el creixement i la reproducció.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -918,7 +901,7 @@
           "nl: analgeticum"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; antistof   ETIOPATOGÈNIA. Immunoglobulina secretada per les cèl·lules plasmàtiques en resposta a l’estimulació exercida per un antigen, al qual és capaç d’unir-se de manera específica. activitat immunitària. Són globulines gamma i, en menor  antiálgico  ; pijnstiller  PRINCIPIS ACTIUS. Fàrmac o agent que prevé, alleugereix o anul·la el dolor sense pèrdua de la consciència.",
+        "Descricao": "ETIOPATOGÈNIA. Immunoglobulina secretada per les cèl·lules plasmàtiques en resposta a l’estimulació exercida per un antigen, al qual és capaç d’unir-se de manera específica. activitat immunitària. Són globulines gamma i, en menor  antiálgico  ; pijnstiller  PRINCIPIS ACTIUS. Fàrmac o agent que prevé, alleugereix o anul·la el dolor sense pèrdua de la consciència.",
         "Citação": "Nota: 1. Els anticossos són proteïnes plasmàtiques amb activitat immunitària. Són globulines gamma i, en menor",
         "Categoria": "Imunologia"
       }
@@ -941,7 +924,7 @@
           "sbl: Ag"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       antigénio   ; antigen   ETIOPATOGÈNIA. Molècula capaç de produir una resposta immunitària en l’organisme. un anticòs o un BCR o per iniciar els processos de processament i presentació antigènica als limfòcits T. 2. El terme es va encunyar inicialment com un acrònim a partir de l’expressió anglesa (‘generació d’anticossos’). Però actualment s’ha comprovat que només un tipus d’antígens, els , són capaços d’induir una resposta immunitària humoral i de fer que apareguin anticossos i cèl·lules sensibilitzades que abans no existien. Les molècules més immunògenes són les proteïnes, seguides dels glúcids. Els lípids i els àcids nucleics, en canvi, no són immunògens, tret que formin complexos amb proteïnes o polisacàrids. a possible tractament en limfomes, glioblastomes i melanomes. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "ETIOPATOGÈNIA. Molècula capaç de produir una resposta immunitària en l’organisme. un anticòs o un BCR o per iniciar els processos de processament i presentació antigènica als limfòcits T. 2. El terme es va encunyar inicialment com un acrònim a partir de l’expressió anglesa (‘generació d’anticossos’). Però actualment s’ha comprovat que només un tipus d’antígens, els , són capaços d’induir una resposta immunitària humoral i de fer que apareguin anticossos i cèl·lules sensibilitzades que abans no existien. Les molècules més immunògenes són les proteïnes, seguides dels glúcids. Els lípids i els àcids nucleics, en canvi, no són immunògens, tret que formin complexos amb proteïnes o polisacàrids. a possible tractament en limfomes, glioblastomes i melanomes. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. Els antígens tenen capacitat per unir-se a un anticòs o un BCR o per iniciar els processos de processament i presentació antigènica als limfòcits T.2. El terme antigen es va encunyar inicialment com un acrònim a partir de l’expressió anglesa antibody generation (‘generació d’anticossos’). Però actualment s’ha comprovat que només un tipus d’antígens, els immunògens, són capaços d’induir una resposta immunitària humoral i de fer que apareguin anticossos i cèl·lules sensibilitzades que abans no existien. Les molècules més immunògenes són les proteïnes, seguides dels glúcids. Els lípids i els àcids nucleics, en canvi, no són immunògens, tret que formin complexos amb proteïnes o polisacàrids.A35QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19Nota: 1. L’apilimod està en procés d’avaluació com a possible tractament en limfomes, glioblastomes i melanomes. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació apilimod és la forma catalana corresponent a la DCI.",
         "Categoria": "Imunologia"
       }
@@ -988,7 +971,7 @@
           "nl: antipyreticum"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; antitermic  ; antitermiko ; sukar-kontrako  ; antitérmico  ; antipirético ; antitérmico ; febrífugo  ; febrifuge  ; fébrifuge  ; antitérmico  ; koortsmiddel ; koortsverlagend middel ; koortswerend middel  PRINCIPIS ACTIUS. Fàrmac o pràctica terapèutica amb què es rebaixa o s’elimina la febre. diversos: poden actuar provocant una vasodilatació perifèrica general (alcohol), un alentiment del metabolisme general (quinina, salicilat sòdic), la narcosi del sistema nerviós central (anestèsies amb èter) o exercir una acció específica sobre el centre de la termoregulació.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac o pràctica terapèutica amb què es rebaixa o s’elimina la febre. diversos: poden actuar provocant una vasodilatació perifèrica general (alcohol), un alentiment del metabolisme general (quinina, salicilat sòdic), la narcosi del sistema nerviós central (anestèsies amb èter) o exercir una acció específica sobre el centre de la termoregulació.",
         "Citação": "Nota: Els antipirètics presenten mecanismes d’actuació diversos: poden actuar provocant una vasodilatació perifèrica general (alcohol), un alentiment del metabolisme general (quinina, salicilat sòdic), la narcosi del sistema nerviós central (anestèsies amb èter) o exercir una acció específica sobre el centre de la termoregulació.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -1012,7 +995,7 @@
           "nl: antiretroviraal middel"
         ],
         "Sigla": "ARV",
-        "Descricao": " ; ARV  ; erretrobirus-kontrako ;  ; ARV  ; ARV  ; ARV  ; ARV    PRINCIPIS ACTIUS. Fàrmac o substància que té capacitat per a inhibir la reproducció d’un retrovirus o per a combatre’n l’acció. proporció, globulines beta. Cada molècula d’anticòs té una estructura única, que li permet unir-se de forma específica a l’antigen corresponent. 2. Els símbols Ac i Ab, creats amb les inicials del prefix i el radical de les denominacions completes, es distribueixen segons la llengua: • En les llengües romàniques s’utilitza el símbol Ac (corresponent al català , el castellà , el francès i el portuguès ). • En anglès s’utilitza el símbol Ab (corresponent a ).",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac o substància que té capacitat per a inhibir la reproducció d’un retrovirus o per a combatre’n l’acció. proporció, globulines beta. Cada molècula d’anticòs té una estructura única, que li permet unir-se de forma específica a l’antigen corresponent. 2. Els símbols Ac i Ab, creats amb les inicials del prefix i el radical de les denominacions completes, es distribueixen segons la llengua: • En les llengües romàniques s’utilitza el símbol Ac (corresponent al català , el castellà , el francès i el portuguès ). • En anglès s’utilitza el símbol Ab (corresponent a ).",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -1049,7 +1032,7 @@
           "nl: antiviraal middel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; antiviric  ; antibiriko ; birus-kontrako  ; antivírico  antivírico     antivírico   PRINCIPIS ACTIUS. Fàrmac o substància que té capacitat per a inactivar selectivament els virus o per a debilitar-ne l’acció. anàlogues dels nucleòsids, que bloquen la duplicació del DNA víric, com la vidarabina i l’acicloguanosina. Entre els antivírics naturals hi ha l’interferó.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac o substància que té capacitat per a inactivar selectivament els virus o per a debilitar-ne l’acció. anàlogues dels nucleòsids, que bloquen la duplicació del DNA víric, com la vidarabina i l’acicloguanosina. Entre els antivírics naturals hi ha l’interferó.",
         "Citação": "Nota: Entre els antivírics de síntesi hi ha certes molècules anàlogues dels nucleòsids, que bloquen la duplicació del DNA víric, com la vidarabina i l’acicloguanosina. Entre els antivírics naturals hi ha l’interferó.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -1136,7 +1119,7 @@
           "nl: anosmie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; geurverlies ; reukverlies  CLÍNICA. Pèrdua o disminució del sentit de l’olfacte. l’obstrucció de les vies nasals, o permanent, produïda per una lesió total o parcial del nervi olfactori o del bulb olfactori. 2. L’anòsmia és freqüent en traumatismes cranioencefàlics que afecten la làmina cribrosa de l’etmoide, en infeccions víriques, com la COVID-19, o en afeccions cròniques, com la rinitis al·lèrgica, que atrofien la mucosa nasal.",
+        "Descricao": "CLÍNICA. Pèrdua o disminució del sentit de l’olfacte. l’obstrucció de les vies nasals, o permanent, produïda per una lesió total o parcial del nervi olfactori o del bulb olfactori. 2. L’anòsmia és freqüent en traumatismes cranioencefàlics que afecten la làmina cribrosa de l’etmoide, en infeccions víriques, com la COVID-19, o en afeccions cròniques, com la rinitis al·lèrgica, que atrofien la mucosa nasal.",
         "Citação": "Nota: 1. L’anòsmia pot ser transitòria, causada per l’obstrucció de les vies nasals, o permanent, produïda per una lesió total o parcial del nervi olfactori o del bulb olfactori.2. L’anòsmia és freqüent en traumatismes cranioencefàlics que afecten la làmina cribrosa de l’etmoide, en infeccions víriques, com la COVID-19, o en afeccions cròniques, com la rinitis al·lèrgica, que atrofien la mucosa nasal.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -1180,7 +1163,7 @@
           "ar: ASC09F"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         541550-19-0 PRINCIPIS ACTIUS. Fàrmac antineoplàstic en investigació que inhibeix l’enzim fosfatidil inositol fosfat (PIP)-cinasa tipus 3.        PRINCIPIS ACTIUS. Fàrmac antiretroviral inhibidor de la proteasa, que evita la ruptura dels polipèptids necessaris per a la producció de partícules víriques infeccioses i bloca la replicació vírica. inhibidors de la proteasa a dosis fixes, el compost ASC09 i el ritonavir. S’empra en el tractament del virus de la immunodeficiència humana. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antineoplàstic en investigació que inhibeix l’enzim fosfatidil inositol fosfat (PIP)-cinasa tipus 3.        PRINCIPIS ACTIUS. Fàrmac antiretroviral inhibidor de la proteasa, que evita la ruptura dels polipèptids necessaris per a la producció de partícules víriques infeccioses i bloca la replicació vírica. inhibidors de la proteasa a dosis fixes, el compost ASC09 i el ritonavir. S’empra en el tractament del virus de la immunodeficiència humana. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.",
         "Citação": "Nota: L’ASC09F és la combinació de dos compostos inhibidors de la proteasa a dosis fixes, el compost ASC09 i el ritonavir. S’empra en el tractament del virus de la immunodeficiència humana. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic."
       }
     }
@@ -1240,7 +1223,7 @@
           "nl: apremilast"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         608141-41-9 PRINCIPIS ACTIUS. Fàrmac antiinflamatori no esteroidal, inhibidor de la fosfodiesterasa 4, que redueix la producció inflamatòria de citocines que fan els limfòcits T. psoriàsica i les úlceres associades a la malaltia de Behçet.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antiinflamatori no esteroidal, inhibidor de la fosfodiesterasa 4, que redueix la producció inflamatòria de citocines que fan els limfòcits T. psoriàsica i les úlceres associades a la malaltia de Behçet.",
         "Citação": "Nota: 1. L’apremilast s’empra en el tractament de l’artritis psoriàsica i les úlceres associades a la malaltia de Behçet.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -1281,20 +1264,6 @@
     }
   },
   {
-    "Conceito": "ARN",
-    "Fontes": {
-      "covid": {
-        "Conceito": "ARN",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Genética e Biologia Molecular"
-      }
-    }
-  },
-  {
     "Conceito": "arrítmia",
     "Fontes": {
       "covid": {
@@ -1311,7 +1280,7 @@
           "nl: aritmie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; onregelmatige hartslag  CLÍNICA. Trastorn o alteració del ritme cardíac. funcionals sense cap transcendència per als pacients fins a alteracions que afecten de forma important la seva qualitat de vida o els comporten un risc vital greu. 2. El tractament dels pacients amb arrítmia, segons la gravetat, pot consistir en simples recomanacions mèdiques o en l’administració de fàrmacs o tractaments més complexos.",
+        "Descricao": "CLÍNICA. Trastorn o alteració del ritme cardíac. funcionals sense cap transcendència per als pacients fins a alteracions que afecten de forma important la seva qualitat de vida o els comporten un risc vital greu. 2. El tractament dels pacients amb arrítmia, segons la gravetat, pot consistir en simples recomanacions mèdiques o en l’administració de fàrmacs o tractaments més complexos.",
         "Citação": "Nota: 1. L’arrítmia pot ocasionar des de problemes funcionals sense cap transcendència per als pacients fins a alteracions que afecten de forma important la seva qualitat de vida o els comporten un risc vital greu.2. El tractament dels pacients amb arrítmia, segons la gravetat, pot consistir en simples recomanacions mèdiques o en l’administració de fàrmacs o tractaments més complexos.",
         "Categoria": "Doenças"
       }
@@ -1366,7 +1335,7 @@
           "nl: gerandomiseerd klinisch onderzoek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "   ; ensayo clínico aleatorizado ; ECA  ; RCT   essai clinique à répartition aleatoire  essai clinique randomisé essai randomisé  ensaio clínico aleatorizado ; ECA  ensaio clínico randomizado ;  estudo clínico randomizado  ; gerandomiseerde klinische proef ; gerandomiseerde klinische studie  CONCEPTES GENERALS. Assaig clínic en què l’assignació dels participants als grups d’estudi es fa de manera aleatòria.",
+        "Descricao": "CONCEPTES GENERALS. Assaig clínic en què l’assignació dels participants als grups d’estudi es fa de manera aleatòria.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -1379,24 +1348,14 @@
         "Conceito": "asimptomàtic -a",
         "Substantivo": "",
         "Traduções": [
-          "adj: ",
-          "oc: asimptomatic -a",
-          "adj: ",
+          "oc: asimptomatic",
           "eu: asintomatiko",
-          "adj: ; sintomarik gabeko",
-          "adj: ",
-          "gl: asintomático -a",
-          "adj: ",
-          "es: asintomático -ca",
-          "adj: ",
+          "gl: asintomático",
+          "es: asintomático",
           "en: asymptomatic",
-          "adj: ",
           "fr: asymptomatique",
-          "adj: ",
           "pt: assintomático",
-          "adj: ",
-          "nl: asymptomatisch -e",
-          "adj: "
+          "nl: asymptomatisch"
         ],
         "Sigla": "Sem Sigla Associada",
         "Descricao": "CLÍNICA. Dit de la persona o la malaltia que no presenta cap manifestació clínica aparent.",
@@ -1427,7 +1386,7 @@
           "gl: ensaio aleatorizado"
         ],
         "Sigla": "ACA",
-        "Descricao": "sin.  ; assag clinic aleatorizat ; ACA  ; saiakuntza kliniko ausazkotu ; SKA  ; ensaio clínico aleatorizado ; ECA Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "Estudi experimental en què els participants són assignats aleatòriament als diferents grups d’intervenció o control, amb l’objectiu de reduir els biaixos i obtenir resultats més fiables.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -1449,7 +1408,7 @@
           "nl: blind klinisch onderzoek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     blinded trial  ; essai en aveugle  ensaio clínico em ocultaçao  estudo cego  ; blinde klinische proef ; blinde klinische studie  CONCEPTES GENERALS. Assaig clínic en què s’oculta als participants, a l’investigador o a l’avaluador la intervenció assignada a cadascun dels participants.",
+        "Descricao": "CONCEPTES GENERALS. Assaig clínic en què s’oculta als participants, a l’investigador o a l’avaluador la intervenció assignada a cadascun dels participants.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -1471,7 +1430,7 @@
           "nl: dubbelblind klinisch onderzoek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; pròva de doble cèc ; pròva doblament cèga    ; prueba con cegamiento doble ; prueba con enmascaramiento doble  ; double-blinded test double-masked test  ; épreuve à double insu ; épreuve en double aveugle  ensaio clínico em dupla ocultação  estudo duplo-cego  ; dubbelblinde klinische proef ; dubbelblinde klinische studie  CONCEPTES GENERALS. Assaig amb cegament en què s’oculta tant als participants com als investigadors la intervenció assignada a cadascun dels participants. amb fàrmacs, cal que la forma de presentació dels fàrmacs (mida, color, etc.) sigui idèntica.",
+        "Descricao": "CONCEPTES GENERALS. Assaig amb cegament en què s’oculta tant als participants com als investigadors la intervenció assignada a cadascun dels participants. amb fàrmacs, cal que la forma de presentació dels fàrmacs (mida, color, etc.) sigui idèntica.",
         "Citação": "Nota: Per a dur a terme assaigs amb cegament doble amb fàrmacs, cal que la forma de presentació dels fàrmacs (mida, color, etc.) sigui idèntica.",
         "Categoria": "Pesquisa Clínica"
       }
@@ -1499,7 +1458,7 @@
           "nl: groepsinterventie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; prueba con cegamiento triple ; prueba con enmascaramiento triple  ; triple-blinded test ; triple-masked test  ; épreuve à triple insu ; épreuve en triple aveugle  ensaio clínico em tripla ocultação  estudo triplo-cego  ; trippelblinde klinische proef ; trippelblinde klinische studie   ; ensaio de intervención comunitaria  ; estudio de intervención comunitaria  ; community trial    ensaio de intervenção comunitária  estudo comunitário  ; groepsonderzoek  CONCEPTES GENERALS. Assaig el resultat del qual s’avalua en el conjunt de la població d’una comunitat determinada.",
+        "Descricao": "CONCEPTES GENERALS. Assaig el resultat del qual s’avalua en el conjunt de la població d’una comunitat determinada.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -1522,7 +1481,7 @@
           "nl: klinisch onderzoek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; controlled clinical trial ; CCT    ensaio clínico controlado  estudo clínico  ; klinische studie ; klinische proef  CONCEPTES GENERALS. Estudi clínic, generalment comparatiu, que es duu a terme amb la finalitat d’avaluar l’eficàcia i la seguretat d’una intervenció i en què l’investigador controla directament les condicions en què es desenvolupa la recerca, especialment l’assignació de la intervenció. ( , en anglès) i ( , en anglès) és variable segons els especialistes, els països i les legislacions. I, de vegades, impròpiament, la forma s’utilitza també amb el significat d’ .",
+        "Descricao": "CONCEPTES GENERALS. Estudi clínic, generalment comparatiu, que es duu a terme amb la finalitat d’avaluar l’eficàcia i la seguretat d’una intervenció i en què l’investigador controla directament les condicions en què es desenvolupa la recerca, especialment l’assignació de la intervenció. ( , en anglès) i ( , en anglès) és variable segons els especialistes, els països i les legislacions. I, de vegades, impròpiament, la forma s’utilitza també amb el significat d’ .",
         "Citação": "Nota: La distinció conceptual entre estudi clínic (clinical study, en anglès) i assaig clínic (clinical trial, en anglès) és variable segons els especialistes, els països i les legislacions. I, de vegades, impròpiament, la forma assaig clínic s’utilitza també amb el significat d’estudi clínic.",
         "Categoria": "Pesquisa Clínica"
       }
@@ -1535,11 +1494,18 @@
         "Conceito": "assaig comunitari",
         "Substantivo": "n m",
         "Traduções": [
-          "oc: assag comunitari",
-          "eu: esku-hartze komunitarioko saiakuntza"
-        ],
+          "oc: ensag comunitari",
+          "eu: komunitate-saiakuntza",
+          "gl: ensaio comunitario",
+          "es: ensayo comunitario",
+          "en: community trial",
+          "fr: essai communautaire",
+          "pt: ensaio comunitário",
+          "nl: gemeenschapsproef",
+          "pl: badanie społecznościowe"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  ; assag d’intervencion comunitària  ; saiakuntza komunitario",
+        "Descricao": "Estudi experimental en el qual les intervencions sanitàries s’apliquen a grups de població sencers per avaluar-ne l’eficàcia i els efectes a nivell comunitari.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -1551,9 +1517,19 @@
       "covid": {
         "Conceito": "assaig d’intervenció comunitària",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: ensag d’intervencion comunitària",
+          "eu: komunitateko esku-hartzearen saiakuntza",
+          "gl: ensaio de intervención comunitaria",
+          "es: ensayo de intervención comunitaria",
+          "en: community intervention trial",
+          "fr: essai d’intervention communautaire",
+          "pt: ensaio de intervenção comunitária",
+          "nl: onderzoek naar gemeenschapsinterventie",
+          "pl: badanie interwencji społecznej"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Estudi experimental realitzat en una comunitat o grup de població per avaluar l’efectivitat de mesures de salut pública o intervencions preventives.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -1640,7 +1616,7 @@
           "nl: asthenie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; krachteloosheid  CLÍNICA. Sensació patològica de debilitat generalitzada. orgànics o psíquics i és un símptoma molt comú en persones amb càncer o amb malalties degeneratives. Quan es produeix com a conseqüència de trastorns orgànics, acostuma a ser més intensa cap a la fi del dia, mentre que amb els trastorns psíquics sol ser més intensa de bon matí. CONCEPTES GENERALS. Assaig amb cegament en què s’oculta tant als participants com a l’investigador i l’avaluador la intervenció assignada a cadascun dels participants.",
+        "Descricao": "CLÍNICA. Sensació patològica de debilitat generalitzada. orgànics o psíquics i és un símptoma molt comú en persones amb càncer o amb malalties degeneratives. Quan es produeix com a conseqüència de trastorns orgànics, acostuma a ser més intensa cap a la fi del dia, mentre que amb els trastorns psíquics sol ser més intensa de bon matí. CONCEPTES GENERALS. Assaig amb cegament en què s’oculta tant als participants com a l’investigador i l’avaluador la intervenció assignada a cadascun dels participants.",
         "Citação": "Nota: L’astènia pot ser conseqüència de diversos trastorns orgànics o psíquics i és un símptoma molt comú en persones amb càncer o amb malalties degeneratives. Quan es produeix com a conseqüència de trastorns orgànics, acostuma a ser més intensa cap a la fi del dia, mentre que amb els trastorns psíquics sol ser més intensa de bon matí.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -1662,7 +1638,7 @@
           "nl: rouwzorg"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       tratamento da dor  atenção ao luto ;  cuidado à família enlutada   TRACTAMENT. Atenció que té per objectiu atenuar el patiment per la pèrdua d’una persona estimada. pràctica de tots els professionals de la salut.",
+        "Descricao": "TRACTAMENT. Atenció que té per objectiu atenuar el patiment per la pèrdua d’una persona estimada. pràctica de tots els professionals de la salut.",
         "Citação": "Nota: L’atenció al dol forma part indestriable de la bona pràctica de tots els professionals de la salut.",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -1681,12 +1657,10 @@
           "es: asistencia domiciliaria",
           "en: domiciliary care",
           "fr: soins à domicile",
-          "n m pl: ",
-          "n m pl: ; serviço de",
           "nl: buurtzorg"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. compl. ; servici d’atencion de salut en domicili ; servizo de atención de saúde a domicilio ; servizo de atención domiciliaria ; atención a domicilio ; atención domiciliaria ; servicio de atención de salud a domicilio ; home care service ; home health care cuidados ao domicílio cuidados de saúde ao domicílio assistência domiciliar ; home care ; thuisverpleging ; thuiszorg TRACTAMENT. Atenció social o sanitària que es presta a una persona en el lloc on viu, amb l’objectiu de mantenir-la en el seu entorn habitual i aconseguir així el seu màxim nivell de salut, qualitat de vida, benestar i autonomia.",
+        "Descricao": "TRACTAMENT. Atenció social o sanitària que es presta a una persona en el lloc on viu, amb l’objectiu de mantenir-la en el seu entorn habitual i aconseguir així el seu màxim nivell de salut, qualitat de vida, benestar i autonomia.",
         "Citação": "",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -1705,12 +1679,10 @@
           "es: atención hospitalaria",
           "en: hospital care",
           "fr: soins d’attention hospitalière",
-          "n m pl: ",
-          "n m pl: ",
           "nl: ziekenhuisverpleging"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "cuidados hospitalares assistência hospitalar ; atendimento hospitalar ; ziekenhuiszorg TRACTAMENT. Activitats assistencials, diagnòstiques, terapèutiques, rehabilitadores i de cures que tenen lloc en un centre hospitalari, on també es realitzen tasques d’educació, prevenció i  promoció de la salut.",
+        "Descricao": "TRACTAMENT. Activitats assistencials, diagnòstiques, terapèutiques, rehabilitadores i de cures que tenen lloc en un centre hospitalari, on també es realitzen tasques d’educació, prevenció i  promoció de la salut.",
         "Citação": "",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -1729,13 +1701,11 @@
           "es: atención primaria",
           "en: primary health car",
           "fr: soins de santé primaires",
-          "n m pl: ",
           "pt: cuidados primários",
-          "n m pl: ",
           "nl: eerstelijns medische zorg"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "atenção primária ; eerstelijnsgezondheidszorg ; eerstelijnszorg TRACTAMENT. Assistència sanitària essencial a què tenen accés de manera general totes les persones i famílies d’una comunitat, que proporciona informació, assessorament, tractament, prevenció, teleassistència sanitària, atenció domiciliària i, si cal, la derivació de la persona atesa als serveis a conseqüència d’una sarcoïdosi. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.",
+        "Descricao": "TRACTAMENT. Assistència sanitària essencial a què tenen accés de manera general totes les persones i famílies d’una comunitat, que proporciona informació, assessorament, tractament, prevenció, teleassistència sanitària, atenció domiciliària i, si cal, la derivació de la persona atesa als serveis a conseqüència d’una sarcoïdosi. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.",
         "Citação": "",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -1828,7 +1798,7 @@
           "nl: atibuclimab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "          2417175-94-9 PRINCIPIS ACTIUS. Fàrmac en investigació que actua contra la proteïna CD14 humana de cèl·lules del sistema immunitaria i modula la resposta inflamatòria. en procés d’avaluació com a possible tractament en les sèpsies greus i en situacions d'inflamació per tempesta de citocines. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació que actua contra la proteïna CD14 humana de cèl·lules del sistema immunitaria i modula la resposta inflamatòria. en procés d’avaluació com a possible tractament en les sèpsies greus i en situacions d'inflamació per tempesta de citocines. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’atibuclimab és un anticòs monoclonal que està en procés d’avaluació com a possible tractament en les sèpsies greus i en situacions d'inflamació per tempesta de citocines. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.2. La denominació atibuclimab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -1876,7 +1846,7 @@
           "ar: ATYR1923"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         PRINCIPIS ACTIUS. Fàrmac immunomodulador en investigació que actua sobre la neuropilina 2, amb possibles efectes preventius de la fibrosi. possible tractament en les lesions pulmonars agudes com",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador en investigació que actua sobre la neuropilina 2, amb possibles efectes preventius de la fibrosi. possible tractament en les lesions pulmonars agudes com",
         "Citação": "Nota: L’ATYR1923 està en procés d’avaluació com a possible tractament en les lesions pulmonars agudes com A41QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19",
         "Categoria": "Fármacos e Terapias"
       }
@@ -1918,7 +1888,7 @@
           "nl: autoinflammatie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; autoinflamazio      auto-inflamação  autoinflamação  ; autoinflammatoire aandoening  CLÍNICA. Procés que es produeix per una activació excessiva dels mecanismes de la immunitat innata a causa d’una desregulació en la secreció de citocines proinflamatòries, amb el dany tissular consegüent en els teixits propis de l’organisme.",
+        "Descricao": "CLÍNICA. Procés que es produeix per una activació excessiva dels mecanismes de la immunitat innata a causa d’una desregulació en la secreció de citocines proinflamatòries, amb el dany tissular consegüent en els teixits propis de l’organisme.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -1950,7 +1920,7 @@
           "nl: zelfbemonstering"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       auto-amostragem  auto coleta de amostra  ; zelftest  DIAGNÒSTIC. Presa d’una mostra biològica duta a terme per la persona mateixa a qui s’ha de fer la prova biològica en què s’ha de processar aquesta mostra. prenen mitjançant un frotis nasal. Tenen la finalitat d’agilitar la detecció de casos positius i millorar la capacitat de controlar l’evolució de la pandèmia. socials especialitzats i a la resta de serveis de benestar social.",
+        "Descricao": "DIAGNÒSTIC. Presa d’una mostra biològica duta a terme per la persona mateixa a qui s’ha de fer la prova biològica en què s’ha de processar aquesta mostra. prenen mitjançant un frotis nasal. Tenen la finalitat d’agilitar la detecció de casos positius i millorar la capacitat de controlar l’evolució de la pandèmia. socials especialitzats i a la resta de serveis de benestar social.",
         "Citação": "Nota: Les automostres, en el cas de la COVID-19, es prenen mitjançant un frotis nasal. Tenen la finalitat d’agilitar la detecció de casos positius i millorar la capacitat de controlar l’evolució de la pandèmia.",
         "Categoria": "Diagnóstico"
       }
@@ -1990,10 +1960,10 @@
           "en: health authority",
           "fr: autorité de santé",
           "nl: gezondheidsautoriteit",
-          "n pl: ; zorgautoriteit"
+          "pl: ; zorgautoriteit"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       autoridade de saúde  autoridade sanitária  ; gezondheidsdienst ; gezondheidsinstanties  ENTORN SOCIAL. Òrgan que té la competència per a aplicar la normativa vigent en matèria de salut pública, en funció de la qual pot limitar termporalment drets individuals o col·lectius en benefici dels drets de la comunitat.",
+        "Descricao": "ENTORN SOCIAL. Òrgan que té la competència per a aplicar la normativa vigent en matèria de salut pública, en funció de la qual pot limitar termporalment drets individuals o col·lectius en benefici dels drets de la comunitat.",
         "Citação": "",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -2096,7 +2066,7 @@
           "nl: aviptadil"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         40077-57-4 PRINCIPIS ACTIUS. Fàrmac vasodilatador que redueix la pressió sanguínia i actua sobre el sistema immunitari. vasoactiu que s’empra en el tractament de la disfunció erèctil, la hipertensió pulmonar, la sarcoïdosi i la síndrome del destret respiratori agut. Se n’ha suggerit l’ús per al tractament del destret respiratori de l’adult associat a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac vasodilatador que redueix la pressió sanguínia i actua sobre el sistema immunitari. vasoactiu que s’empra en el tractament de la disfunció erèctil, la hipertensió pulmonar, la sarcoïdosi i la síndrome del destret respiratori agut. Se n’ha suggerit l’ús per al tractament del destret respiratori de l’adult associat a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’aviptadil és un anàleg del pèptid intestinal vasoactiu que s’empra en el tractament de la disfunció erèctil, la hipertensió pulmonar, la sarcoïdosi i la síndrome del destret respiratori agut. Se n’ha suggerit l’ús per al tractament del destret respiratori de l’adult associat a la COVID-19. És d’origen biotecnològic.2. La denominació aviptadil és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -2133,7 +2103,7 @@
           "nl: azitromycine"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         83905-01-5 PRINCIPIS ACTIUS. Fàrmac antibiòtic del grup dels macròlids que inhibeix la síntesi de les proteïnes bacterianes mitjançant la unió a la subunitat 50S del ribosoma bacterià, de manera que impossibilita la translocació dels pèptids. ampli que s’empra en el tractament de les infeccions respiratòries, entèriques i genitourinàries. Se n’ha suggerit l’ús per al tractament de la COVID-19. És un derivat semisintètic de l’eritromicina. 2. La denominació és la forma catalana corresponent a la DCI. PRINCIPIS ACTIUS. Fàrmac immunomodulador amb activitat antiinflamatòria que inhibeix de forma selectiva les cinases JAK1 i JAK2. reumatoide en pacients que presenten intolerància a altres tractaments antireumàtics, en monoteràpia o combinat amb metotrexat. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antibiòtic del grup dels macròlids que inhibeix la síntesi de les proteïnes bacterianes mitjançant la unió a la subunitat 50S del ribosoma bacterià, de manera que impossibilita la translocació dels pèptids. ampli que s’empra en el tractament de les infeccions respiratòries, entèriques i genitourinàries. Se n’ha suggerit l’ús per al tractament de la COVID-19. És un derivat semisintètic de l’eritromicina. 2. La denominació és la forma catalana corresponent a la DCI. PRINCIPIS ACTIUS. Fàrmac immunomodulador amb activitat antiinflamatòria que inhibeix de forma selectiva les cinases JAK1 i JAK2. reumatoide en pacients que presenten intolerància a altres tractaments antireumàtics, en monoteràpia o combinat amb metotrexat. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’azitromicina és un antibiòtic d’espectre ampli que s’empra en el tractament de les infeccions respiratòries, entèriques i genitourinàries. Se n’ha suggerit l’ús per al tractament de la COVID-19. És un derivat semisintètic de l’eritromicina.2. La denominació azitromicina és la forma catalana corresponent a la DCI.42",
         "Categoria": "Fármacos e Terapias"
       }
@@ -2199,7 +2169,7 @@
           "nl: isolatie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        isolamento social  ",
+        "Descricao": "Mesura preventiva que consisteix a separar persones infectades o sospitoses d’estar-ho per evitar la transmissió de malalties a altres individus.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -2211,9 +2181,19 @@
       "covid": {
         "Conceito": "aïllat",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: aïslat",
+          "eu: isolatua",
+          "gl: illado",
+          "es: aislado",
+          "en: isolate",
+          "fr: isolat",
+          "pt: isolado",
+          "nl: isolaat",
+          "pl: izolat"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Mostra de microorganisme obtinguda i cultivada en laboratori a partir d’un pacient o d’una mostra ambiental per al seu estudi i identificació.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -2236,7 +2216,7 @@
           "nl: geïsoleerd virus"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.   ; isolatu biral ; isolatu biriko  ; illado vírico  ; aislado vírico ; cepa vírica aislada  ; virus isolate  ; isolat de virus ; isolat viral   isolado de vírus  isolado viral  ; virusisolaat  ETIOPATOGÈNIA. Virus que ha estat isolat d’un hoste infectat i s’ha multiplicat en un cultiu de laboratori.",
+        "Descricao": "ETIOPATOGÈNIA. Virus que ha estat isolat d’un hoste infectat i s’ha multiplicat en un cultiu de laboratori.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -2324,7 +2304,7 @@
           "nl: bamlanivimab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        bamlanivimabe   2423943-37-5 PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. s’ha autoritzat en alguns països com a tractament de rescat, en combinació amb l’etesevimab, en pacients amb la COVID-19. Està en procés d’avaluació com a possible tractament en monoteràpia contra la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. s’ha autoritzat en alguns països com a tractament de rescat, en combinació amb l’etesevimab, en pacients amb la COVID-19. Està en procés d’avaluació com a possible tractament en monoteràpia contra la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El bamlanivimab és un anticòs monoclonal que s’ha autoritzat en alguns països com a tractament de rescat, en combinació amb l’etesevimab, en pacients amb la COVID-19. Està en procés d’avaluació com a possible tractament en monoteràpia contra la COVID-19. És d’origen biotecnològic.2. La denominació bamlanivimab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -2396,7 +2376,7 @@
           "nl: baricitinib"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        baricitinibe   1187594-09-7",
+        "Descricao": "Fàrmac inhibidor de les Janus quinases (JAK), utilitzat en el tractament de malalties autoimmunitàries com l’artritis reumatoide i investigat també en la COVID-19 per les seves propietats antiinflamatòries..",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -2476,7 +2456,7 @@
           "nl: bemcentinib"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        bemcentinibe   1037624-75-1 PRINCIPIS ACTIUS. Fàrmac en investigació amb efectes antiinflamatoris i antineoplàstics, que actua sobre el receptor AXL de la tirosina-cinasa per a inhibir la producció de citocines proinflamatòries. com a possible tractament en les neoplàsies pulmonars. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació amb efectes antiinflamatoris i antineoplàstics, que actua sobre el receptor AXL de la tirosina-cinasa per a inhibir la producció de citocines proinflamatòries. com a possible tractament en les neoplàsies pulmonars. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El bemcentinib està en procés d’avaluació com a possible tractament en les neoplàsies pulmonars. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació bemcentinib és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -2560,7 +2540,7 @@
           "nl: bevacizumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        bevacizumabe   216974-75-3 PRINCIPIS ACTIUS. Fàrmac immunomodulador i antineoplàstic que inhibeix l’angiogènesi mitjançant la inactivació de la proteïna sèrica VEGF-A. humanitzat que s'empra, en combinació amb altres fàrmacs quimioteràpics, en el tractament de diversos tipus de càncers, com ara el colorectal metastàtic, el de mama metastàtic, el carcinoma pulmonar no microcític avançat i el carcinoma renal metastàtic o avançat. També s'utilitza en monoteràpia en el tractament del glioblastoma. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador i antineoplàstic que inhibeix l’angiogènesi mitjançant la inactivació de la proteïna sèrica VEGF-A. humanitzat que s'empra, en combinació amb altres fàrmacs quimioteràpics, en el tractament de diversos tipus de càncers, com ara el colorectal metastàtic, el de mama metastàtic, el carcinoma pulmonar no microcític avançat i el carcinoma renal metastàtic o avançat. També s'utilitza en monoteràpia en el tractament del glioblastoma. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El bevacizumab és un anticòs monoclonal humanitzat que s'empra, en combinació amb altres fàrmacs quimioteràpics, en el tractament de diversos tipus de càncers, com ara el colorectal metastàtic, el de mama metastàtic, el carcinoma pulmonar no microcític avançat i el carcinoma renal metastàtic o avançat. També s'utilitza en monoteràpia en el tractament del glioblastoma. Se n’ha suggerit l’ús per al tractament de la COVID-19.2. La denominació bevacizumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -2849,23 +2829,9 @@
           "nl: boceprevir"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         394730-60-0 PRINCIPIS ACTIUS. Fàrmac antivíric que inhibeix la proteasa viral NS3/4A del virus de la hepatitis C i, en evitar la ruptura dels polipèptids necessaris per la producció de partícules virals infeccioses, impedeix la replicació viral. de l’hepatitis C. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric que inhibeix la proteasa viral NS3/4A del virus de la hepatitis C i, en evitar la ruptura dels polipèptids necessaris per la producció de partícules virals infeccioses, impedeix la replicació viral. de l’hepatitis C. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El boceprevir està indicat en el tractament de l’hepatitis C. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació boceprevir és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
-      }
-    }
-  },
-  {
-    "Conceito": "bombolla",
-    "Fontes": {
-      "covid": {
-        "Conceito": "bombolla",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Anatomia"
       }
     }
   },
@@ -2885,7 +2851,7 @@
           "nl: bubbel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.   ; burbuila zabaldu  ; grupo de convivencia ampliado  ; burbuja de convivencia ampliada  ; extended bubble ; household support bubbles  ; bulle élargie  bolha alargada ;  bolha social alargada  bolha social ampliada  ; coronabubbel ; sociale bubbel  EPIDEMIOLOGIA. Grup bombolla format per les persones entre les quals s’estableixen relacions familiars, laborals, escolars o recreatives en un àmbit acotat, reduït i estable.",
+        "Descricao": "EPIDEMIOLOGIA. Grup bombolla format per les persones entre les quals s’estableixen relacions familiars, laborals, escolars o recreatives en un àmbit acotat, reduït i estable.",
         "Citação": "",
         "Categoria": "Anatomia"
       }
@@ -2898,11 +2864,18 @@
         "Conceito": "bombolla de convivència",
         "Substantivo": "n m",
         "Traduções": [
-          "oc: bambolha de convivéncia",
-          "eu: bizikidetza-burbuila"
-        ],
+          "oc: bóstia de convivéncia",
+          "eu: elkarbizitza-burbuila",
+          "gl: burbulla de convivencia",
+          "es: burbuja de convivencia",
+          "en: social bubble / household bubble",
+          "fr: bulle de cohabitation",
+          "pt: bolha de convivência",
+          "nl: bubbel van samenleven",
+          "pl: bańka społeczna"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  ",
+        "Descricao": "Grup reduït i estable de persones que mantenen contacte habitual i exclusiu entre elles, limitant el risc de transmissió de malalties infeccioses a l’exterior del grup.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -2924,7 +2897,7 @@
           "nl: brensocatib"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        brensocatibe   1802148-05-5 PRINCIPIS ACTIUS. Fàrmac en investigació, amb acció d’immunomodulador, que inhibeix l’activació de l’elastasa dels neutròfils mitjançant la inhibició directa de la dipeptidil-peptidasa I. possible tractament en la inflamació pulmonar neutròfila. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI. Està en procés d’avaluació com a possible tractament d’infeccions per citomegalovirus, adenovirus, el virus de la verola i el virus de l’Ebola. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació, amb acció d’immunomodulador, que inhibeix l’activació de l’elastasa dels neutròfils mitjançant la inhibició directa de la dipeptidil-peptidasa I. possible tractament en la inflamació pulmonar neutròfila. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI. Està en procés d’avaluació com a possible tractament d’infeccions per citomegalovirus, adenovirus, el virus de la verola i el virus de l’Ebola. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El brensocatib està en procés d’avaluació com a possible tractament en la inflamació pulmonar neutròfila. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació brensocatib és la forma catalana corresponent a la DCI.B45QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19Està en procés d’avaluació com a possible tractament d’infeccions per citomegalovirus, adenovirus, el virus de la verola i el virus de l’Ebola. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació brincidofovir és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -2944,11 +2917,10 @@
           "en: brequinar",
           "fr: bréquinar",
           "pt: brequinar",
-          "nl: brequinar",
-          "de novo: de la pirimidina, amb"
+          "nl: brequinar"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         96187-53-0 PRINCIPIS ACTIUS. Fàrmac en investigació, antineoplàstic i immunosupressor, que inhibeix la dihidroorotat-deshidrogenasa i bloca la biosíntesi la consegüent inhibició del creixement cel·lular. tractament per a la leucèmia mieloide aguda. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació s la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació, antineoplàstic i immunosupressor, que inhibeix la dihidroorotat-deshidrogenasa i bloca la biosíntesi la consegüent inhibició del creixement cel·lular. tractament per a la leucèmia mieloide aguda. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació s la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El brequinar està en procés d’avaluació com a tractament per a la leucèmia mieloide aguda. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació brequinar és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -2977,7 +2949,7 @@
           "nl: huisbubbel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         444805-28-1 PRINCIPIS ACTIUS. Fàrmac antivíric en investigació inhibidor de la DNA-polimerasa. tot i que té una nefrotoxicitat i mielotoxicitat menors.  ; grupo de convivencia   ; household bubble  ; bulle formée d’un seul ménage ; groupe de coexistence stable  bolha social  ; thuisbubbel  EPIDEMIOLOGIA. Grup bombolla format per les persones que habiten sota el mateix sostre i les que interactuen dins d’aquest espai, com ara les persones cuidadores. cal limitar-los, tant com sigui possible, a les persones que integren la bombolla ampliada.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric en investigació inhibidor de la DNA-polimerasa. tot i que té una nefrotoxicitat i mielotoxicitat menors.  ; grupo de convivencia   ; household bubble  ; bulle formée d’un seul ménage ; groupe de coexistence stable  bolha social  ; thuisbubbel  EPIDEMIOLOGIA. Grup bombolla format per les persones que habiten sota el mateix sostre i les que interactuen dins d’aquest espai, com ara les persones cuidadores. cal limitar-los, tant com sigui possible, a les persones que integren la bombolla ampliada.",
         "Citação": "Nota: 1. El brincidovir és un profàrmac del cidofovir, tot i que té una nefrotoxicitat i mielotoxicitat menors.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -3014,7 +2986,7 @@
           "nl: bromhexine"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        cloridrato de bromexina  ; broomhexine  3572-43-8 PRINCIPIS ACTIUS. Fàrmac mucolític i expectorant que incrementa l’activitat dels lisosomes pulmonars, amb la disminució consegüent de la viscositat de les secrecions mucoses que, en ser més fluides, resulten més fàcils d’eliminar. trastorns respiratoris amb tos productiva. S’ha emprat per a millorar la dificultat respiratòria en pacients amb COVID-19. És d’origen natural. S’obté d’una planta de la família de les acantàcies ( ). 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac mucolític i expectorant que incrementa l’activitat dels lisosomes pulmonars, amb la disminució consegüent de la viscositat de les secrecions mucoses que, en ser més fluides, resulten més fàcils d’eliminar. trastorns respiratoris amb tos productiva. S’ha emprat per a millorar la dificultat respiratòria en pacients amb COVID-19. És d’origen natural. S’obté d’una planta de la família de les acantàcies ( ). 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. La bromhexina s’empra en el tractament dels trastorns respiratoris amb tos productiva. S’ha emprat per a millorar la dificultat respiratòria en pacients amb COVID-19. És d’origen natural. S’obté d’una planta de la família de les acantàcies (Justicia adhatoda).2. La denominació bromhexina és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -3051,7 +3023,7 @@
           "nl: bronchodilator"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; broncodilatant        ; luchtwegverwijder  PRINCIPIS ACTIUS. Fàrmac o agent que dilata els bronquis.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac o agent que dilata els bronquis.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -3088,7 +3060,7 @@
           "nl: bronchus"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; luchtpijpvertakking  CLÍNICA. Cadascun dels dos conductes en què es bifurca la tràquea i les seves ramificacions, a través de les quals l’aire arriba als pulmons.",
+        "Descricao": "CLÍNICA. Cadascun dels dos conductes en què es bifurca la tràquea i les seves ramificacions, a través de les quals l’aire arriba als pulmons.",
         "Citação": "",
         "Categoria": "Anatomia"
       }
@@ -3125,7 +3097,7 @@
           "nl: bronchiolitis"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; bronquitis capillar   ; bronquite capilar       CLÍNICA. Inflamació dels bronquíols.",
+        "Descricao": "CLÍNICA. Inflamació dels bronquíols.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -3137,9 +3109,19 @@
       "covid": {
         "Conceito": "bronquitis capil·lar",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: bronquitis capillara",
+          "eu: bronkioloetako bronkitisa",
+          "gl: bronquite capilar",
+          "es: bronquitis capilar",
+          "en: capillary bronchitis",
+          "fr: bronchite capillaire",
+          "pt: bronquite capilar",
+          "nl: capillaire bronchitis",
+          "pl: zapalenie oskrzelików"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Inflamació dels bronquíols, les vies aèries més petites dels pulmons, habitualment causada per infeccions víriques, que provoca dificultat respiratòria, sobretot en lactants i nens petits.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -3162,7 +3144,7 @@
           "nl: bronchiolus"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; bronquíolo  ; bronchiolus    ; kleine luchtweg  CLÍNICA. Unitat estructural i funcional de la via respiratòria a continuació del bronqui. cartílag a la seva paret. En sentit perifèric es distingeixen el bronquíol terminal, el bronquíol respiratori i els conductes alveolars, els quals comuniquen amb l’alvèol.",
+        "Descricao": "CLÍNICA. Unitat estructural i funcional de la via respiratòria a continuació del bronqui. cartílag a la seva paret. En sentit perifèric es distingeixen el bronquíol terminal, el bronquíol respiratori i els conductes alveolars, els quals comuniquen amb l’alvèol.",
         "Citação": "Nota: Els bronquíols es caracteritzen per l’absència de cartílag a la seva paret. En sentit perifèric es distingeixen el bronquíol terminal, el bronquíol respiratori i els conductes alveolars, els quals comuniquen amb l’alvèol.46",
         "Categoria": "Anatomia"
       }
@@ -3185,7 +3167,7 @@
           "nl: corona-uitbraak"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        surto epidemiológico  surto  ; epidemische uitbraak ; uitbraak ; virusuitbraak  EPIDEMIOLOGIA. Increment significatiu en un període de temps curt i determinat del nombre de persones d’una població afectades per una malaltia, produïda per un únic agent etiològic o una soca microbiana.",
+        "Descricao": "EPIDEMIOLOGIA. Increment significatiu en un període de temps curt i determinat del nombre de persones d’una població afectades per una malaltia, produïda per un únic agent etiològic o una soca microbiana.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -3208,7 +3190,7 @@
           "nl: budesonide"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         51333-22-3 PRINCIPIS ACTIUS. Fàrmac antiinflamatori local i immunosupressor de la família dels corticoesteroides que bloqueja la síntesi de mediadors de la cascada d’inflamació, disminueix la permeabilitat dels capil·lars i inhibeix la migració de leucòcits cap al focus de la inflamació mitjançant la unió als receptors de glucocorticoides. s'empra en el tractament de malalties inflamatòries pulmonars, com l’asma o la malaltia pulmonar obstructiva crònica, en rinitis al·lèrgica, així com en el tractament de malalties inflamatòries intestinals, com la malaltia de Crohn o la colitis ulcerosa. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antiinflamatori local i immunosupressor de la família dels corticoesteroides que bloqueja la síntesi de mediadors de la cascada d’inflamació, disminueix la permeabilitat dels capil·lars i inhibeix la migració de leucòcits cap al focus de la inflamació mitjançant la unió als receptors de glucocorticoides. s'empra en el tractament de malalties inflamatòries pulmonars, com l’asma o la malaltia pulmonar obstructiva crònica, en rinitis al·lèrgica, així com en el tractament de malalties inflamatòries intestinals, com la malaltia de Crohn o la colitis ulcerosa. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. La budesonida és un glucocorticoide que s'empra en el tractament de malalties inflamatòries pulmonars, com l’asma o la malaltia pulmonar obstructiva crònica, en rinitis al·lèrgica, així com en el tractament de malalties inflamatòries intestinals, com la malaltia de Crohn o la colitis ulcerosa. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació budesonida és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -3264,9 +3246,19 @@
       "covid": {
         "Conceito": "cadena de transmissió",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: cadena de transmission",
+          "eu: transmisio-katea",
+          "gl: cadea de transmisión",
+          "es: cadena de transmisión",
+          "en: chain of transmission",
+          "fr: chaîne de transmission",
+          "pt: cadeia de transmissão",
+          "nl: transmissieketen",
+          "pl: łańcuch zakażeń"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Seqüència de passos o esdeveniments pels quals un agent infecciós es transmet d’un hoste a un altre, incloent la font d’infecció, les vies de transmissió i els hostes susceptibles.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -3289,7 +3281,7 @@
           "nl: besmettingsketen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; cadia epidemiologica  ; kutsatze-kate  ; cadea epidemiolóxica  ; cadena de transmisión ; cadena epidemiológica ; cadena infecciosa  ; infection chain ; transmission chain  ; chaîne épidémiologique   cadeia epidemiológica  ; infectieketen  EPIDEMIOLOGIA. Seqüència d’elements que s’articulen en la transmissió d’un agent des d’una font d’infecció a un hoste susceptible.",
+        "Descricao": "EPIDEMIOLOGIA. Seqüència d’elements que s’articulen en la transmissió d’un agent des d’una font d’infecció a un hoste susceptible.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -3311,7 +3303,7 @@
           "nl: camostat"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        camostato ; mesilato de camostato   59721-28-7 PRINCIPIS ACTIUS. Fàrmac antivíric en investigació que inhibeix la serina-proteasa i evita l’entrada del SARS-CoV-2 a la cèl·lula hoste. a possible tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric en investigació que inhibeix la serina-proteasa i evita l’entrada del SARS-CoV-2 a la cèl·lula hoste. a possible tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El camostat està en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen sintètic.2. La denominació camostat és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -3333,7 +3325,7 @@
           "nl: camrelizumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        camrelizumabe   1798286-48-2 PRINCIPIS ACTIUS. Fàrmac amb potencial efecte inhibidor dels punts de control immunitari i antineoplàstic mitjançant el blocatge del receptor del lligand 1 de l’apoptosi. humanitzat que s’empra com a tractament experimental en l’hepatocarcinoma i el limfoma de Hodgkin, entre d’altres. Se n’ha suggerit l’ús, en combinació amb la timosina 1 alfa, en el tractament de la COVID-19. 2. La denominació camrelizumab és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac amb potencial efecte inhibidor dels punts de control immunitari i antineoplàstic mitjançant el blocatge del receptor del lligand 1 de l’apoptosi. humanitzat que s’empra com a tractament experimental en l’hepatocarcinoma i el limfoma de Hodgkin, entre d’altres. Se n’ha suggerit l’ús, en combinació amb la timosina 1 alfa, en el tractament de la COVID-19. 2. La denominació camrelizumab és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El camrelizumab és un anticòs monoclonal humanitzat que s’empra com a tractament experimental en l’hepatocarcinoma i el limfoma de Hodgkin, entre d’altres. Se n’ha suggerit l’ús, en combinació amb la timosina 1 alfa, en el tractament de la COVID-19.2. La denominació camrelizumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -3346,10 +3338,18 @@
         "Conceito": "camussa antibaf",
         "Substantivo": "n",
         "Traduções": [
-          "nl: capside"
-        ],
+          "oc: camussa antibaf",
+          "eu: antifog gamuza",
+          "gl: gamuza antibao",
+          "es: gamuza antivaho",
+          "en: anti-fog cloth",
+          "fr: chiffon antibuée",
+          "pt: camurça antiembaciamento",
+          "nl: anti-condens doekje",
+          "pl: ściereczka przeciw parowaniu"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg.  ; eiwitmantel  ETIOPATOGÈNIA. Coberta proteica formada per capsòmers que protegeix l’àcid nucleic d’un virus.",
+        "Descricao": "ETIOPATOGÈNIA. Coberta proteica formada per capsòmers que protegeix l’àcid nucleic d’un virus.",
         "Citação": "Nota: La càpsida pot tenir una simetria helicoidal o cúbica.",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -3372,7 +3372,7 @@
           "nl: canakinumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        canacinumab  canakinumabe   402710-25-2, cadena lleugera; 402710-27-4, cadena pesant PRINCIPIS ACTIUS. Fàrmac immunomodulador que s’uneix específicament als receptors de la interleucina 1 beta i permet prevenir la producció de mediadors inflamatoris. s’empra en el tractament de les síndromes de febre periòdica, com ara les síndromes periòdiques associades a la criopirina, la febre familiar mediterrània i l’artritis idiopàtica juvenil activa sistèmica. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador que s’uneix específicament als receptors de la interleucina 1 beta i permet prevenir la producció de mediadors inflamatoris. s’empra en el tractament de les síndromes de febre periòdica, com ara les síndromes periòdiques associades a la criopirina, la febre familiar mediterrània i l’artritis idiopàtica juvenil activa sistèmica. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El canakinumab és un anticòs monoclonal que s’empra en el tractament de les síndromes de febre periòdica, com ara les síndromes periòdiques associades a la criopirina, la febre familiar mediterrània i l’artritis idiopàtica juvenil activa sistèmica. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.2. La denominació canakinumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -3466,9 +3466,19 @@
       "covid": {
         "Conceito": "careta",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: careta",
+          "eu: aurpegiko maskara",
+          "gl: careta",
+          "es: careta",
+          "en: face shield",
+          "fr: visière de protection",
+          "pt: viseira",
+          "nl: gelaatsbescherming",
+          "pl: przyłbica ochronna"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Element de protecció facial que cobreix totalment o parcialment la cara per prevenir el contacte amb gotícules, aerosols o fluids potencialment contaminants.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -3511,7 +3521,7 @@
           "nl: geval"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         EPIDEMIOLOGIA. Persona que, en una població o un grup d’estudi, pateix una determinada malaltia, trastorn o problema de salut.",
+        "Descricao": "EPIDEMIOLOGIA. Persona que, en una població o un grup d’estudi, pateix una determinada malaltia, trastorn o problema de salut.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -3534,7 +3544,7 @@
           "nl: bevestigd geval"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; kasu egiaztatu       ; positief geval  EPIDEMIOLOGIA. Persona amb resultat positiu en una prova diagnòstica d'una determinada malaltia.",
+        "Descricao": "EPIDEMIOLOGIA. Persona amb resultat positiu en una prova diagnòstica d'una determinada malaltia.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -3557,7 +3567,7 @@
           "nl: negatief geval"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "      ; cas écarté    EPIDEMIOLOGIA. Persona amb resultat negatiu en una prova diagnòstica d'una determinada malaltia.",
+        "Descricao": "EPIDEMIOLOGIA. Persona amb resultat negatiu en una prova diagnòstica d'una determinada malaltia.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -3579,7 +3589,7 @@
           "nl: hoofdkapje"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; cas sospitós   ; caso probable ; caso sospeitoso  ; gorro de quirófano ; gorro médico    capuz  ; touca   PREVENCIÓ. Peça de tela o de punt que s’adapta al cap, sobre els cabells, i que actua com a barrera de protecció per a possibles contactes amb microorganismes patògens. vestuari professional en instal·lacions sanitàries per a mantenir la higiene i prevenir l’extensió d’infeccions nosocomials o la infecció eventual dels professionals sanitaris.",
+        "Descricao": "PREVENCIÓ. Peça de tela o de punt que s’adapta al cap, sobre els cabells, i que actua com a barrera de protecció per a possibles contactes amb microorganismes patògens. vestuari professional en instal·lacions sanitàries per a mantenir la higiene i prevenir l’extensió d’infeccions nosocomials o la infecció eventual dels professionals sanitaris.",
         "Citação": "Nota: El casquet és un element imprescindible del vestuari professional en instal·lacions sanitàries per a mantenir la higiene i prevenir l’extensió d’infeccions nosocomials o la infecció eventual dels professionals sanitaris.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -3598,14 +3608,12 @@
           "es: caso índice",
           "en: index case",
           "fr: cas de referènce",
-          ": |",
           ": patiente zéro",
           "pt: caso índice",
-          "nl: indexgeval",
-          ": patiënte nul"
+          "nl: indexgeval"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; pacient zèro   ; paciente cero  ; caso inicial paciente cero  index patient zero patient  ; cas index ; patient zéro   doente zero ; paciente zero  ; patiënt nul  EPIDEMIOLOGIA. Persona que és el primer cas confirmat d'una determinada malaltia dins d’una població. necessàriament el primer cas d’aquella població afectat per la malaltia.",
+        "Descricao": "EPIDEMIOLOGIA. Persona que és el primer cas confirmat d'una determinada malaltia dins d’una població. necessàriament el primer cas d’aquella població afectat per la malaltia.",
         "Citação": "Nota: El cas índex d’una població no és",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -3637,7 +3645,7 @@
           "nl: casirivimab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        casirivimabe   2415933-42-3 PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. està en procés d’avaluació com a possible tractament, en combinació amb l’imdevimab, per a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. està en procés d’avaluació com a possible tractament, en combinació amb l’imdevimab, per a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El casirivimab és un anticòs monoclonal que està en procés d’avaluació com a possible tractament, en combinació amb l’imdevimab, per a la COVID-19. És d’origen biotecnològic.2. La denominació casirivimab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -3660,7 +3668,7 @@
           "ar: CD24Fc"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; txano  ; touca      PRINCIPIS ACTIUS. Fàrmac immunomodulador, amb potencial inhibidor dels punts de control del sistema immunitari, amb acció antiinflamatòria i antineoplàstica. formada pel domini extracel·lular de la glicoproteïna humana CD24 i el domini Fc de la immunoglobulina G1 humana, que s’empra en models animals de la malaltia de l’empelt contra l’hoste, l’esclerosi múltiple i l’artritis reumatoide. Se n’ha suggerit l’ús per al tractament de la COVID-19.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador, amb potencial inhibidor dels punts de control del sistema immunitari, amb acció antiinflamatòria i antineoplàstica. formada pel domini extracel·lular de la glicoproteïna humana CD24 i el domini Fc de la immunoglobulina G1 humana, que s’empra en models animals de la malaltia de l’empelt contra l’hoste, l’esclerosi múltiple i l’artritis reumatoide. Se n’ha suggerit l’ús per al tractament de la COVID-19.",
         "Citação": "Nota: El CD24Fc és una proteïna de fusió recombinant, formada pel domini extracel·lular de la glicoproteïna humana CD24 i el domini Fc de la immunoglobulina G1 humana, que s’empra en models animals de la malaltia de l’empelt contra l’hoste, l’esclerosi múltiple i l’artritis reumatoide. Se n’ha suggerit l’ús per al tractament de la COVID-19.",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -3682,7 +3690,7 @@
           "nl: cassette"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; cassette       cassete  cassete   DIAGNÒSTIC. Peça rectangular de plàstic utilitzada en les proves de determinació ràpida d’anticossos IgG i IgM contra el SARS-CoV-2 en sang total, sèrum o plasma.",
+        "Descricao": "DIAGNÒSTIC. Peça rectangular de plàstic utilitzada en les proves de determinació ràpida d’anticossos IgG i IgM contra el SARS-CoV-2 en sang total, sèrum o plasma.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -3744,7 +3752,7 @@
           "nl: mogelijk geval"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "      ; suspicious case    caso possível ; caso provável  ; verdacht geval ; waarschijnlijk geval  EPIDEMIOLOGIA. Persona amb símptomes compatibles amb una determinada malaltia, pendent del resultat de la prova diagnòstica.",
+        "Descricao": "EPIDEMIOLOGIA. Persona amb símptomes compatibles amb una determinada malaltia, pendent del resultat de la prova diagnòstica.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -3777,7 +3785,7 @@
           "nl: cafalalgie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. compl. ;  ; cefalèa ; mau de cap  ; zefalalgia ; zefalea  ; cefalea ; dor de cabeza  ; cefalea ; dolor de cabeza  ; cephalea ; cephalgia ; headache  ; céphalée ; mal de tête  ; dor de cabeça  ; cefalea ; cephalalgie ; cephalea ; hoofdpijn  CLÍNICA. Dolor cefàlic difús generat per l’estimulació d’estructures cranials sensibles al dolor.",
+        "Descricao": "CLÍNICA. Dolor cefàlic difús generat per l’estimulació d’estructures cranials sensibles al dolor.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -3789,9 +3797,19 @@
       "covid": {
         "Conceito": "cefalàlgia",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: cefalalgia",
+          "eu: zefalalgia",
+          "gl: cefalalxia",
+          "es: cefalea",
+          "en: headache",
+          "fr: céphalée",
+          "pt: cefaleia",
+          "nl: hoofdpijn",
+          "pl: ból głowy"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Dolor localitzat al cap, que pot tenir causes diverses, com migranya, tensió muscular, trastorns vasculars o infeccions.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -3814,7 +3832,7 @@
           "nl: cenicriviroc"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         497223-25-3 PRINCIPIS ACTIUS. Fàrmac immunomodulador en investigació antagonista dels receptors de les citocines CCR2 i CCR5. possible tractament de l’esteatohepatitis no alcohòlica en pacients amb fibrosi hepàtica. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador en investigació antagonista dels receptors de les citocines CCR2 i CCR5. possible tractament de l’esteatohepatitis no alcohòlica en pacients amb fibrosi hepàtica. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El cenicriviroc està en procés d’avaluació com a possible tractament de l’esteatohepatitis no alcohòlica en pacients amb fibrosi hepàtica. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació cenicriviroc és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -4067,7 +4085,7 @@
           "nl: ciclesonide"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         126544-47-6 PRINCIPIS ACTIUS. Fàrmac glucocorticoide amb efecte antiinflamatori, que bloca la síntesi de les prostaglandines i els leucotriens proinflamatoris   ETIOPATOGÈNIA. Mamífer de la família dels vivèrrids, més gran que el gat domèstic, de color grisenc amb faixes negres, que té una rastellera de pèls eriçables a voluntat de l’animal damunt l’esquena i una glàndula que segrega almesc. intermediari en la transmissió del SARS-CoV-2 de les ratapinyades als humans.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac glucocorticoide amb efecte antiinflamatori, que bloca la síntesi de les prostaglandines i els leucotriens proinflamatoris   ETIOPATOGÈNIA. Mamífer de la família dels vivèrrids, més gran que el gat domèstic, de color grisenc amb faixes negres, que té una rastellera de pèls eriçables a voluntat de l’animal damunt l’esquena i una glàndula que segrega almesc. intermediari en la transmissió del SARS-CoV-2 de les ratapinyades als humans.",
         "Citação": "Nota: S’ha apuntat que les civetes podrien ser un hoste intermediari en la transmissió del SARS-CoV-2 de les ratapinyades als humans.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -4132,7 +4150,7 @@
           "nl: cytokine"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; citoquina      CONCEPTES GENERALS. Proteïna amb funció reguladora, de pes molecular baix, secretada per diferents tipus cel·lulars en resposta a estímuls diversos, que afecta el comportament d’aquestes mateixes cèl·lules o el d’altres. , les secretades pels monòcits, , i, en general, les produïdes pels leucòcits, .",
+        "Descricao": "CONCEPTES GENERALS. Proteïna amb funció reguladora, de pes molecular baix, secretada per diferents tipus cel·lulars en resposta a estímuls diversos, que afecta el comportament d’aquestes mateixes cèl·lules o el d’altres. , les secretades pels monòcits, , i, en general, les produïdes pels leucòcits, .",
         "Citação": "Nota: Les citocines secretades pels limfòcits s’anomenen limfocines, les secretades pels monòcits, monocines, i, en general, les produïdes pels leucòcits, interleucines.",
         "Categoria": "Imunologia"
       }
@@ -4173,11 +4191,10 @@
           "fr: civette",
           "pt: civeta",
           "nl: civet",
-          "nl: klinische verschijnselen",
-          "n pl: "
+          "nl: klinische verschijnselen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. compl. ; gato de algaria ; gato de algalia gato-de-algália ; civetkat apresentação clínica ; manifestação clínica CLÍNICA. Conjunt de símptomes i signes associats a una malaltia.",
+        "Descricao": "CLÍNICA. Conjunt de símptomes i signes associats a una malaltia.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -4219,7 +4236,7 @@
           "nl: clazakizumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       clazacizumab  clazacizumabe   1236278-28-6 PRINCIPIS ACTIUS. Fàrmac immunomodulador en investigació dirigit contra la interleucina 6. està en procés d’avaluació com a possible tractament per a l’artritis reumatoide. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador en investigació dirigit contra la interleucina 6. està en procés d’avaluació com a possible tractament per a l’artritis reumatoide. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El clazakizumab és un anticòs monoclonal que està en procés d’avaluació com a possible tractament per a l’artritis reumatoide. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.2. La denominació clazakizumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -4249,11 +4266,10 @@
           "en: clofazimine",
           "fr: clofazimine",
           "pt: clofazimina",
-          "nl: clofazimine",
-          "leprae: i altres espècies de micobacteris, que"
+          "nl: clofazimine"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         2030-63-9 PRINCIPIS ACTIUS. Fàrmac antileprós, amb un cert efecte antiinflamatori, actiu sobre s’uneix al DNA del microorganisme i n’inhibeix el creixement i la replicació. lepra, en qualsevol de les seves formes clíniques, en combinació amb la rifampicina i la dapsona. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antileprós, amb un cert efecte antiinflamatori, actiu sobre s’uneix al DNA del microorganisme i n’inhibeix el creixement i la replicació. lepra, en qualsevol de les seves formes clíniques, en combinació amb la rifampicina i la dapsona. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. La clofazimina s’empra en el tractament de la lepra, en qualsevol de les seves formes clíniques, en combinació amb la rifampicina i la dapsona. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació clofazimina és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -4304,7 +4320,7 @@
           "nl: chloroquine"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         54-05-7 PRINCIPIS ACTIUS. Fàrmac antipalúdic, antiprotozoari i antireumàtic del grup de les 4-aminoquinolines que causa la mort dels paràsits del gènere mitjançant la inhibició de l’enzim hemopolimerasa i la consegüent acumulació tòxica del grup hemo dins el paràsit. malària i de l’amebosi extraintestinal. També s’utilitza en el tractament d’algunes malalties autoimmunitàries, com ara el lupus eritematós sistèmic o l’artritis reumatoide, i en el tractament i la profilaxi de la infecció pel virus del Zika. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antipalúdic, antiprotozoari i antireumàtic del grup de les 4-aminoquinolines que causa la mort dels paràsits del gènere mitjançant la inhibició de l’enzim hemopolimerasa i la consegüent acumulació tòxica del grup hemo dins el paràsit. malària i de l’amebosi extraintestinal. També s’utilitza en el tractament d’algunes malalties autoimmunitàries, com ara el lupus eritematós sistèmic o l’artritis reumatoide, i en el tractament i la profilaxi de la infecció pel virus del Zika. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. La cloroquina s’empra en el tractament de la malària i de l’amebosi extraintestinal. També s’utilitza en el tractament d’algunes malalties autoimmunitàries, com ara el lupus eritematós sistèmic o l’artritis reumatoide, i en el tractament i la profilaxi de la infecció pel virus del Zika. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació cloroquina és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -4326,7 +4342,7 @@
           "pt: quadro clínico"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       i redueix la síntesi de l’òxid nítric, amb la consegüent reducció de l’edema. inhalat en el tractament de l’asma i en esprai nasal per la rinitis al·lèrgica. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "Conjunt de signes i símptomes que presenta un pacient i que permeten orientar el diagnòstic i el tractament d’una malaltia.",
         "Citação": "Nota: 1. La ciclesonida és un profàrmac que s’empra inhalat en el tractament de l’asma i en esprai nasal per la rinitis al·lèrgica. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació ciclesonida és la forma catalana corresponent a la DCI.",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -4363,7 +4379,7 @@
           "nl: coagulopathie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; coagulopathy     CLÍNICA. Trastorn de la coagulació de la sang.",
+        "Descricao": "Trastorn de la coagulació sanguínia que provoca dificultats per aturar el sagnat o, al contrari, un risc augmentat de formació de coàguls.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -4406,21 +4422,7 @@
           "es: cobertura de vacunación"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; cobertura vacunau   ; cobertura vacinal  ; cobertura vacunal",
-        "Citação": "",
-        "Categoria": "Vacinas e Imunização"
-      }
-    }
-  },
-  {
-    "Conceito": "cobertura vacunal",
-    "Fontes": {
-      "covid": {
-        "Conceito": "cobertura vacunal",
-        "Substantivo": "",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Percentatge de la població que ha rebut una vacuna determinada, indicador clau per avaluar l’abast i l’eficàcia dels programes de vacunació.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -4442,7 +4444,7 @@
           "nl: cobicistat"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        cobicistate   1004316-88-4 PRINCIPIS ACTIUS. Fàrmac antivíric, inhibidor del citocrom P450 3A, que augmenta l’exposició sistèmica als substrats d’aquest citocrom. fàrmacs antiretrovirals, com a potenciador farmacocinètic de l’atazanavir o el darunavir en el tractament de les infeccions pel virus de la inmunodeficiència humana 1. Se n’ha suggerit l’ús, en combinació amb el darunavir, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric, inhibidor del citocrom P450 3A, que augmenta l’exposició sistèmica als substrats d’aquest citocrom. fàrmacs antiretrovirals, com a potenciador farmacocinètic de l’atazanavir o el darunavir en el tractament de les infeccions pel virus de la inmunodeficiència humana 1. Se n’ha suggerit l’ús, en combinació amb el darunavir, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El cobicistat s’empra, combinat amb altres fàrmacs antiretrovirals, com a potenciador farmacocinètic de l’atazanavir o el darunavir en el tractament de les infeccions pel virus de la inmunodeficiència humana 1. Se n’ha suggerit l’ús, en combinació amb el darunavir, per al tractament de la COVID-19. És d’origen sintètic.2. La denominació cobicistat és la forma catalana corresponent a la DCI.C55QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-192. La denominació colquicina és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -4527,7 +4529,7 @@
           "nl: immunisatiedekking"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       ; colquicina   64-86-8 PRINCIPIS ACTIUS. Fàrmac antiinflamatori que es fixa a la tubulina i impedeix la migració de neutròfils cap al focus de la inflamació. tractament de l’artritis gotosa aguda i en la prevenció d’episodis febrils de la febre mediterrània. Se n’ha suggerit l’ús per al tractament de la COVID-19. És un alcaloide d’origen natural que s’obté de les llavors i del bulb del còlquic ( ).  ; vaccination coverage ; vaccine coverage  ; couverture vaccinale   taxa de vacinação  ; immunisatiegraad ; vaccinatiedekking ; vaccinatiegraad  PREVENCIÓ. Proporció de persones vacunades contra una malaltia en un moment o període concret entre el total de persones per a les quals està indicada la vacunació contra aquesta malaltia.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antiinflamatori que es fixa a la tubulina i impedeix la migració de neutròfils cap al focus de la inflamació. tractament de l’artritis gotosa aguda i en la prevenció d’episodis febrils de la febre mediterrània. Se n’ha suggerit l’ús per al tractament de la COVID-19. És un alcaloide d’origen natural que s’obté de les llavors i del bulb del còlquic ( ).  ; vaccination coverage ; vaccine coverage  ; couverture vaccinale   taxa de vacinação  ; immunisatiegraad ; vaccinatiedekking ; vaccinatiegraad  PREVENCIÓ. Proporció de persones vacunades contra una malaltia en un moment o període concret entre el total de persones per a les quals està indicada la vacunació contra aquesta malaltia.",
         "Citação": "Nota: 1. La colquicina s’empra en la profilaxi i el tractament de l’artritis gotosa aguda i en la prevenció d’episodis febrils de la febre mediterrània. Se n’ha suggerit l’ús per al tractament de la COVID-19. És un alcaloide d’origen natural que s’obté de les llavors i del bulb del còlquic (Colchicum autumnale).",
         "Categoria": "Fármacos e Terapias"
       }
@@ -4539,9 +4541,19 @@
       "covid": {
         "Conceito": "col·lapse cardiocirculatori",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: colapsus cardiocirculatori",
+          "eu: bihotz-zirkulazio kolapsoa",
+          "gl: colapso cardiocirculatorio",
+          "es: colapso cardiocirculatorio",
+          "en: cardiocirculatory collapse",
+          "fr: collapsus cardiocirculatoire",
+          "pt: colapso cardiocirculatório",
+          "nl: cardiocirculatoire collaps",
+          "pl: zapaść krążeniowo-sercowa"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Situació crítica en què el sistema cardiovascular no pot mantenir un flux sanguini adequat, provocant una insuficiència de perfusió als òrgans i risc vital imminent.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -4563,7 +4575,7 @@
           "nl: kwetsbare risicogroep"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       população vulnerável em risco  grupo de risco ; grupo vulnerável  ; risicogroep  EPIDEMIOLOGIA. Conjunt de persones amb unes característiques determinades que augmenten el perill de contreure una determinada malaltia.",
+        "Descricao": "EPIDEMIOLOGIA. Conjunt de persones amb unes característiques determinades que augmenten el perill de contreure una determinada malaltia.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -4585,9 +4597,19 @@
       "covid": {
         "Conceito": "Comirnaty",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: Comirnaty",
+          "eu: Comirnaty",
+          "gl: Comirnaty",
+          "es: Comirnaty",
+          "en: Comirnaty",
+          "fr: Comirnaty",
+          "pt: Comirnaty",
+          "nl: Comirnaty",
+          "pl: Comirnaty"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Vacuna de tecnologia d’ARN missatger desenvolupada per Pfizer i BioNTech per prevenir la COVID-19, administrada habitualment en dues dosis.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -4649,7 +4671,7 @@
           "nl: comité voor bio-ethiek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       comissão de bioética  comitê de bioética   TRACTAMENT. Comitè plural i pluridisciplinari que s’encarrega de l’avaluació i la resolució dels problemes ètics en l’àmbit de les ciències de la vida i de la salut. vinculants.",
+        "Descricao": "TRACTAMENT. Comitè plural i pluridisciplinari que s’encarrega de l’avaluació i la resolució dels problemes ètics en l’àmbit de les ciències de la vida i de la salut. vinculants.",
         "Citação": "Nota: Les recomanacions dels comitès de bioètica no són vinculants.",
         "Categoria": "Bioética e Leis"
       }
@@ -4671,7 +4693,7 @@
           "nl: comorbiditeit"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; morbilidad asociada  ; comorbidity   comorbilidade  comorbidade  ; multimorbiditeit  CLÍNICA. Coincidència en una persona d’un o més problemes de salut crònics addicionals a un altre problema de salut, sovint també crònic, que es considera principal o que és l’objecte d’estudi.",
+        "Descricao": "CLÍNICA. Coincidència en una persona d’un o més problemes de salut crònics addicionals a un altre problema de salut, sovint també crònic, que es considera principal o que és l’objecte d’estudi.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -4737,9 +4759,19 @@
       "covid": {
         "Conceito": "compte hemàtic",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: compde ematic",
+          "eu: odol-kontaketa",
+          "gl: contaxe hemático",
+          "es: hemograma",
+          "en: blood count",
+          "fr: numération sanguine",
+          "pt: hemograma",
+          "nl: bloedtelling",
+          "pl: morfologia krwi"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Prova analítica de laboratori que mesura els diferents components de la sang, com els glòbuls vermells, glòbuls blancs, plaquetes i hemoglobina.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -4751,9 +4783,19 @@
       "covid": {
         "Conceito": "comunicat mèdic d’alta",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: comunicat medical d’alta",
+          "eu: alta medikoaren ziurtagiria",
+          "gl: parte médico de alta",
+          "es: parte médico de alta",
+          "en: medical discharge certificate",
+          "fr: certificat médical de sortie",
+          "pt: relatório médico de alta",
+          "nl: medisch ontslagbewijs",
+          "pl: zaświadczenie o zakończeniu leczenia"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Document emès per un professional sanitari que certifica que una persona ha finalitzat un tractament o període de baixa mèdica i pot reprendre la seva activitat habitual.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -4816,7 +4858,7 @@
           "nl: conestat alfa"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         80295-38-1 PRINCIPIS ACTIUS. Fàrmac anàleg a la proteïna inhibidora de l’esterasa C1, dissenyat per a modular la resposta inflamatòria mediada pel sistema del complement. atacs aguts d’angioedema hereditari en adults, per una deficiència de l’inhibidor de l’esterasa C1. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac anàleg a la proteïna inhibidora de l’esterasa C1, dissenyat per a modular la resposta inflamatòria mediada pel sistema del complement. atacs aguts d’angioedema hereditari en adults, per una deficiència de l’inhibidor de l’esterasa C1. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El conestat alfa s’empra en el tractament dels atacs aguts d’angioedema hereditari en adults, per una deficiència de l’inhibidor de l’esterasa C1. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.2. La denominació conestat alfa és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -4838,7 +4880,7 @@
           "pt: confinamento"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; lockdown ; shelter-in-place order ; stay-at-home order    lockdown",
+        "Descricao": "Mesura sanitària que restringeix la llibertat de moviment de persones o poblacions per evitar la propagació de malalties infeccioses.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -4860,7 +4902,7 @@
           "nl: plaatselijke lockdown"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       cerca sanitária    PREVENCIÓ. Confinament que s’aplica a un territori delimitant-lo pel seu perímetre.",
+        "Descricao": "PREVENCIÓ. Confinament que s’aplica a un territori delimitant-lo pel seu perímetre.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -4883,7 +4925,7 @@
           "nl: nasale congestie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; neuscongestie ; neusverstopping ; verstopte neus  CLÍNICA. Sensació de disminució del flux d’aire que entra per les fosses nasals deguda a la inflamació dels vasos sanguinis de la mucosa nasal per agents exògens nocius. EPIDEMIOLOGIA. Contacte amb qui s’ha compartit espai a menys de 2 metres de distància, durant més de 15 minuts, des de les 48 hores prèvies a l’inici dels símptomes d’una malaltia. ha anat variant des de l’inici de la pandèmia. De manera general, si la persona positiva amb qui s’ha contactat no ha tingut símptomes, es tenen en compte les 48 hores prèvies a la realització de la prova diagnòstica.",
+        "Descricao": "CLÍNICA. Sensació de disminució del flux d’aire que entra per les fosses nasals deguda a la inflamació dels vasos sanguinis de la mucosa nasal per agents exògens nocius. EPIDEMIOLOGIA. Contacte amb qui s’ha compartit espai a menys de 2 metres de distància, durant més de 15 minuts, des de les 48 hores prèvies a l’inici dels símptomes d’una malaltia. ha anat variant des de l’inici de la pandèmia. De manera general, si la persona positiva amb qui s’ha contactat no ha tingut símptomes, es tenen en compte les 48 hores prèvies a la realització de la prova diagnòstica.",
         "Citação": "Nota: En el cas de la COVID-19, la consideració de contacte estret ha anat variant des de l’inici de la pandèmia. De manera general, si la persona positiva amb qui s’ha contactat no ha tingut símptomes, es tenen en compte les 48 hores prèvies a la realització de la prova diagnòstica.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -4906,7 +4948,7 @@
           "nl: bindvliesontsteking"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; conjunctivitis  CLÍNICA. Inflamació de la conjuntiva, deguda en general a una infecció o a una causa al·lèrgica.",
+        "Descricao": "CLÍNICA. Inflamació de la conjuntiva, deguda en general a una infecció o a una causa al·lèrgica.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -5048,7 +5090,7 @@
           "nl: contact"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        contactante ; contato   EPIDEMIOLOGIA. Persona sana que ha estat en relació pròxima amb una altra que pateix una malaltia contagiosa.",
+        "Descricao": "EPIDEMIOLOGIA. Persona sana que ha estat en relació pròxima amb una altra que pateix una malaltia contagiosa.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -5071,7 +5113,7 @@
           "nl: lockdown"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; kontaktu estu   ; contacto estrecho  ; close-distance contact   contacto próximo  contato próximo     PREVENCIÓ. Tancament d’una persona o població en un espai limitat per motius de salut pública, de seguretat ciutadana o judicials. decretat confinaments per motius de salut pública, de diversos tipus segons l’abast de l’espai limitat.",
+        "Descricao": "PREVENCIÓ. Tancament d’una persona o població en un espai limitat per motius de salut pública, de seguretat ciutadana o judicials. decretat confinaments per motius de salut pública, de diversos tipus segons l’abast de l’espai limitat.",
         "Citação": "Nota: En el curs de la pandèmia de COVID-19 s’han decretat confinaments per motius de salut pública, de diversos tipus segons l’abast de l’espai limitat.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -5094,7 +5136,7 @@
           "nl: besmetting"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         CLÍNICA. Transmissió d’una malaltia infecciosa d’un individu, ja sigui un ésser humà o un animal, a un altre individu.",
+        "Descricao": "CLÍNICA. Transmissió d’una malaltia infecciosa d’un individu, ja sigui un ésser humà o un animal, a un altre individu.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -5117,7 +5159,7 @@
           "nl: directe besmetting"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; contagi immediat ; contagi personau   ; contaxio inmediato  ; contagio inmediato ; contagio personal ; transmisión directa   ; transmission directe   contágio imediato  ; directe transmissie ; rechtstreekse besmetting ; rechtstreekse transmissie  CLÍNICA. Contagi que es produeix quan hi ha una situació de proximitat o intimitat entre l’individu infectat i l’individu receptor.",
+        "Descricao": "CLÍNICA. Contagi que es produeix quan hi ha una situació de proximitat o intimitat entre l’individu infectat i l’individu receptor.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -5129,9 +5171,19 @@
       "covid": {
         "Conceito": "contagi immediat",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: contagi immediat",
+          "eu: berehalako kutsadura",
+          "gl: contaxio inmediato",
+          "es: contagio inmediato",
+          "en: immediate contagion",
+          "fr: contagion immédiate",
+          "pt: contágio imediato",
+          "nl: onmiddellijke besmetting",
+          "pl: natychmiastowe zakażenie"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Transmissió ràpida d’una infecció d’una persona a una altra poc després del contacte, sense període d’incubació apreciable.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -5154,7 +5206,7 @@
           "nl: indirecte besmetting"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.    ; contaxio mediato      ; indirecte transmissie ; onrechtstreekse besmetting ; onrechtstreekse transmissie  CLÍNICA. Contagi que es produeix a través d’un medi, d’un objecte o d’un fòmit que han estat en contacte amb un individu infectat. a través dels aliments, de l’aigua, de l’aire, d’alguns artròpodes o d’estris compartits (coberts, gots, tovalloles, etc.).",
+        "Descricao": "CLÍNICA. Contagi que es produeix a través d’un medi, d’un objecte o d’un fòmit que han estat en contacte amb un individu infectat. a través dels aliments, de l’aigua, de l’aire, d’alguns artròpodes o d’estris compartits (coberts, gots, tovalloles, etc.).",
         "Citação": "Nota: Per exemple, el contagi indirecte es pot donar a través dels aliments, de l’aigua, de l’aire, d’alguns artròpodes o d’estris compartits (coberts, gots, tovalloles, etc.).",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -5173,7 +5225,7 @@
           "es: contagiosidad"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    EPIDEMIOLOGIA. Participant en un estudi clínic assignat al grup de comparació.",
+        "Descricao": "EPIDEMIOLOGIA. Participant en un estudi clínic assignat al grup de comparació.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -5193,12 +5245,10 @@
           "en: contention",
           "fr: contention",
           "pt: contenção",
-          "nl: beperkende maatregelen",
-          "n pl: ;",
-          "n pl: "
+          "nl: beperkende maatregelen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "coronamaatregelen PREVENCIÓ. Acció d'impedir que una situació es descontroli i traspassi els seus límits. mesures de contenció s'han anat modificant en funció de la velocitat de propagació del virus, del risc de rebrot, dels casos nous confirmats, dels ingressats i de les morts.",
+        "Descricao": "PREVENCIÓ. Acció d'impedir que una situació es descontroli i traspassi els seus límits. mesures de contenció s'han anat modificant en funció de la velocitat de propagació del virus, del risc de rebrot, dels casos nous confirmats, dels ingressats i de les morts.",
         "Citação": "Nota: En el cas de la pandèmia de COVID-19, les mesures de contenció s'han anat modificant en funció de la velocitat de propagació del virus, del risc de rebrot, dels casos nous confirmats, dels ingressats i de les morts.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -5247,11 +5297,11 @@
           "es: control",
           "en: control",
           "fr: contrôle",
-          "nl: controlegroepdeelnemer -neemster",
+          "nl: controlegroepdeelnemer",
           "nl: besmettingscurve"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       controlo  controle    ; coronacurve ; epidemiologische curve ; epidemische curve  EPIDEMIOLOGIA. Gràfic de la distribució dels casos d’una determinada malaltia en el context d’una epidèmia.",
+        "Descricao": "EPIDEMIOLOGIA. Gràfic de la distribució dels casos d’una determinada malaltia en el context d’una epidèmia.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -5334,7 +5384,7 @@
           "nl: herstel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         ENTORN SOCIAL. Període de recuperació després d’una malaltia, una operació o una lesió, fins a la restauració completa de la salut.",
+        "Descricao": "ENTORN SOCIAL. Període de recuperació després d’una malaltia, una operació o una lesió, fins a la restauració completa de la salut.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -5346,9 +5396,19 @@
       "covid": {
         "Conceito": "Convidecia",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: Convidecia",
+          "eu: Convidecia",
+          "gl: Convidecia",
+          "es: Convidecia",
+          "en: Convidecia",
+          "fr: Convidecia",
+          "pt: Convidecia",
+          "nl: Convidecia",
+          "pl: Convidecia"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Vacuna contra la COVID-19 desenvolupada per CanSino Biologics, basada en un vector adenoviral no replicatiu (Ad5-nCoV) per induir resposta immunitària contra el SARS-CoV-2.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -5432,7 +5492,7 @@
           "nl: besmettelijkheid"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; corba epidemica  ; kurba epidemiologiko ; kutsatze-kurba  ; curva epidémica  ; curva epidémica ; curva epidemiológica  ; epi curve ; epidemic curve ; epidemiologic curve ; epidemiological curve  ; courbe épidémiologique ; courbe épidémique  curva de contágio ;  curva epidemiológica  curva epidêmica    contagiosidade  transmissibilidade  ; infectiviteit  CLÍNICA. Qualitat d’allò que es transmet o es pot transmetre per contagi.",
+        "Descricao": "CLÍNICA. Qualitat d’allò que es transmet o es pot transmetre per contagi.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -5444,9 +5504,19 @@
       "covid": {
         "Conceito": "CoronaVac",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: COVID-19 persistenta",
+          "eu: COVID-19 iraunkorra",
+          "gl: COVID-19 persistente",
+          "es: COVID-19 persistente",
+          "en: long COVID / persistent COVID-19",
+          "fr: COVID-19 persistant",
+          "pt: COVID-19 persistente",
+          "nl: langdurige COVID-19",
+          "pl: długotrwały COVID-19"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Conjunt de símptomes que persisteixen durant setmanes o mesos després de superar la fase aguda de la COVID-19, incloent fatiga, dificultat respiratòria, problemes cognitius i altres manifestacions.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -5459,31 +5529,24 @@
         "Conceito": "coronavirus",
         "Substantivo": "n",
         "Traduções": [
-          "n m pl: ",
           "oc: coronavirus",
-          "n m pl: ",
           "eu: koronabirus",
           "gl: coronavirus",
-          "n m pl: ",
           "es: coronavirus",
-          "n m pl: ",
           "en: coronaviruses",
-          "n pl: ",
           "fr: coronavirus",
-          "n m pl: ",
           "pt: coronavírus",
-          "n m pl: ",
           "nl: corona"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "; coronavirus ETIOPATOGÈNIA. Família de virus amb RNA monocatenari de sentit positiu, de forma esfèrica i amb càpsida de simetria helicoidal, amb un diàmetre de 80 a 130 nm, que presenten un embolcall amb espícules en forma de pètals o punxes. respiratòries i altres afeccions en diferents classes de vertebrats, incloent-hi els éssers humans. Alguns virus d’aquesta família són zoonòtics i en transmetre’s a l’espècie humana causen malalties respiratòries de gravetat diversa i molt contagioses. En són exemple les pneumònies causades pels coronavirus SARS-CoV i MERS-CoV o la COVID-19.",
+        "Descricao": "ETIOPATOGÈNIA. Família de virus amb RNA monocatenari de sentit positiu, de forma esfèrica i amb càpsida de simetria helicoidal, amb un diàmetre de 80 a 130 nm, que presenten un embolcall amb espícules en forma de pètals o punxes. respiratòries i altres afeccions en diferents classes de vertebrats, incloent-hi els éssers humans. Alguns virus d’aquesta família són zoonòtics i en transmetre’s a l’espècie humana causen malalties respiratòries de gravetat diversa i molt contagioses. En són exemple les pneumònies causades pels coronavirus SARS-CoV i MERS-CoV o la COVID-19.",
         "Citação": "Nota: Els coronavirus són agents causants de malalties respiratòries i altres afeccions en diferents classes de vertebrats, incloent-hi els éssers humans. Alguns virus d’aquesta família són zoonòtics i en transmetre’s a l’espècie humana causen malalties respiratòries de gravetat diversa i molt contagioses. En són exemple les pneumònies causades pels coronavirus SARS-CoV i MERS-CoV o la COVID-19.",
         "Categoria": "Microbiologia e Virologia"
       }
     }
   },
   {
-    "Conceito": "coronavirus 2 de la síndrome respiratòria  ",
+    "Conceito": "coronavirus 2 de la síndrome respiratòria",
     "Fontes": {
       "covid": {
         "Conceito": "coronavirus 2 de la síndrome respiratòria  ",
@@ -5499,7 +5562,7 @@
           "nl: coronavirus SARS-CoV-2"
         ],
         "Sigla": "SARS-CoV-2",
-        "Descricao": " sin. compl. ;  ; coronavirus dera COVID-19 ; coronavirus SARS-CoV-2 ; SARS-CoV-2  ; ASALen koronabirus 2 ; COVID-19aren birus ; SARS-CoV-2  grave ; coronavirus da COVID-19 ; virus da COVID-19 ; SARS-CoV-2  agudo grave ; coronavirus del síndrome respiratorio agudo grave 2 ; virus de la COVID-19 ; SARS-CoV-2  ; severe acute respiratory syndrome-related coronavirus 2 ; virus responsible for COVID-19 ; SARS-CoV-2  ; virus de la COVID-19 ; SARS-CoV-2  grave ; novo coronavírus ; SARS-CoV-2  coronavírus responsável pela COVID-19  coronavírus associado à COVID-19  ; ernstig acuut ademhalingssyndroom coronavirus 2 ; ernstig acuut ademhalingssyndroom- gerelateerd coronavirus 2 ; SARS-coronavirus-2 ; SARS-CoV-2-coronavirus ; SARS-CoV-2-virus ; virus SARS-CoV-2 ; SARS-CoV-2   tot i que també puntualment hi pot haver transmissió entre persones per contagi directe. correspon a l’anglès ( síndrome respiratòria de l’Orient Mitjà ).",
+        "Descricao": "Sem Descrição Associada",
         "Citação": ""
       }
     }

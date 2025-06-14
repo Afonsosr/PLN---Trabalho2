@@ -15232,9 +15232,19 @@
       "covid": {
         "Conceito": "MERS",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: Sïndrome Respiratòria de l'Orient Mejan",
+          "eu: Ekialde Hurbileko arnas-sindromea",
+          "gl: Síndrome Respiratoria de Oriente Medio",
+          "es: Síndrome Respiratorio de Oriente Medio",
+          "en: Middle East Respiratory Syndrome",
+          "fr: Syndrome Respiratoire du Moyen-Orient",
+          "pt: Síndrome Respiratória do Médio Oriente",
+          "nl: Midden-Oost respiratoir syndroom",
+          "pl: Bliskowschodni zespół niewydolności oddechowej"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Malaltia respiratòria greu causada pel coronavirus MERS-CoV, identificada per primera vegada el 2012, que pot provocar febre, tos i dificultat respiratòria.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -15246,9 +15256,19 @@
       "covid": {
         "Conceito": "MERS-CoV",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: MERS-CoV",
+          "eu: MERS-CoV",
+          "gl: MERS-CoV",
+          "es: MERS-CoV",
+          "en: MERS-CoV",
+          "fr: MERS-CoV",
+          "pt: MERS-CoV",
+          "nl: MERS-CoV",
+          "pl: MERS-CoV"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Coronavirus responsable del MERS, una malaltia respiratòria greu detectada per primera vegada a l’Orient Mitjà el 2012.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -15271,7 +15291,7 @@
           "nl: beperkende maatregel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; inperkingsmaatregel  PREVENCIÓ. Acció enfocada a prevenir la propagació d’una malaltia infecciosa. infecció pel SARS-CoV-2 en la població general són les màscares, la higiene de mans, la distància de seguretat i la ventilació.",
+        "Descricao": "PREVENCIÓ. Acció enfocada a prevenir la propagació d’una malaltia infecciosa. infecció pel SARS-CoV-2 en la població general són les màscares, la higiene de mans, la distància de seguretat i la ventilació.",
         "Citação": "Nota: Les quatre principals mesures de contenció de la infecció pel SARS-CoV-2 en la població general són les màscares, la higiene de mans, la distància de seguretat i la ventilació.118",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -15322,7 +15342,7 @@
           "nl: methylprednisolon"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         83-43-2 PRINCIPIS ACTIUS. Fàrmac de naturalesa corticoesteroide derivat de la prednisolona amb activitat antiinflamatòria. antiinflamatòria lleugerament més intensa i provoca menys retenció de sodi que la prednisolona. És emprada en el tractament de diverses afeccions inflamatòries, al·lèrgiques o neoplàstiques (artritis reumatoide, asma bronquial, limfoma, leucèmies, etc). Hi ha diverses sals de metilprednisolona (en forma d’acetat, hemisuccinat, fosfat, succinat, etc.) d’acció i ús semblants al del principi actiu del qual deriven. És d'origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac de naturalesa corticoesteroide derivat de la prednisolona amb activitat antiinflamatòria. antiinflamatòria lleugerament més intensa i provoca menys retenció de sodi que la prednisolona. És emprada en el tractament de diverses afeccions inflamatòries, al·lèrgiques o neoplàstiques (artritis reumatoide, asma bronquial, limfoma, leucèmies, etc). Hi ha diverses sals de metilprednisolona (en forma d’acetat, hemisuccinat, fosfat, succinat, etc.) d’acció i ús semblants al del principi actiu del qual deriven. És d'origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. La metilprednisolona té una activitat antiinflamatòria lleugerament més intensa i provoca menys retenció de sodi que la prednisolona. És emprada en el tractament de diverses afeccions inflamatòries, al·lèrgiques o neoplàstiques (artritis reumatoide, asma bronquial, limfoma, leucèmies, etc). Hi ha diverses sals de metilprednisolona (en forma d’acetat, hemisuccinat, fosfat, succinat, etc.) d’acció i ús semblants al del principi actiu del qual deriven. És d'origen sintètic.2. La denominació metilprednisolona és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -15495,7 +15515,7 @@
           "nl: meplazumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; spierpijn  CLÍNICA. Dolor espontani i a la pressió que es localitza en un o diversos músculs esquelètics.      meplazumabe   PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte antivíric i neutralitzant contra el SARS-CoV-2, que bloca el receptor CD147 de la cèl·lula hoste per a evitar que el virus la infecti. CD147 que està en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "CLÍNICA. Dolor espontani i a la pressió que es localitza en un o diversos músculs esquelètics.      meplazumabe   PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte antivíric i neutralitzant contra el SARS-CoV-2, que bloca el receptor CD147 de la cèl·lula hoste per a evitar que el virus la infecti. CD147 que està en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El meplazumab és un anticòs monoclonal anti CD147 que està en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic.2. La denominació meplazumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -15528,7 +15548,7 @@
           "nl: molnupiravir"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         2349386-89-4 PRINCIPIS ACTIUS. Fàrmac antivíric d’ampli espectre en investigació, inhibidor de ribonucleòsid, que impedeix la replicació del SARS-CoV-2. prevenir el contagi i evitar la progressió de la COVID-19 greu en pacients ja infectats. Està en una fase clínica de desenvolupament avançada com a possible tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric d’ampli espectre en investigació, inhibidor de ribonucleòsid, que impedeix la replicació del SARS-CoV-2. prevenir el contagi i evitar la progressió de la COVID-19 greu en pacients ja infectats. Està en una fase clínica de desenvolupament avançada com a possible tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El molnupiravir està en procés d’avaluació per a prevenir el contagi i evitar la progressió de la COVID-19 greu en pacients ja infectats. Està en una fase clínica de desenvolupament avançada com a possible tractament per a la COVID-19. És d’origen sintètic.2. La denominació molnupiravir és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -15552,7 +15572,7 @@
           "nl: mortaliteit"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       monitorização  monitoramento  ; monitoring  ; TRACTAMENT. Vigilància i supervisió de l’evolució d’un fenomen o d’un procés per mitjà de determinats aparells o tècniques a fi de seguir el curs o l’estat d’un malalt.   ; sterftecijfer  EPIDEMIOLOGIA. Nombre de defuncions en una població determinada en un període de temps concret.",
+        "Descricao": "TRACTAMENT. Vigilància i supervisió de l’evolució d’un fenomen o d’un procés per mitjà de determinats aparells o tècniques a fi de seguir el curs o l’estat d’un malalt.   ; sterftecijfer  EPIDEMIOLOGIA. Nombre de defuncions en una població determinada en un període de temps concret.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -15573,7 +15593,7 @@
           "nl: montelukast"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       158966-92-8 PRINCIPIS ACTIUS. Fàrmac broncodilatador antagonista dels receptors de leucotriens CysLT1, que atura la broncoconstricció mediada per leucotriens de les vies aèries. l’asma i de la rinitis al·lèrgica. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac broncodilatador antagonista dels receptors de leucotriens CysLT1, que atura la broncoconstricció mediada per leucotriens de les vies aèries. l’asma i de la rinitis al·lèrgica. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El montelukast està indicat en el tractament de l’asma i de la rinitis al·lèrgica. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació montelukast és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -15606,7 +15626,7 @@
           "nl: waardig sterven"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; waardige dood  TRACTAMENT. Mort d’acord amb els valors, les creences i el sentit de dignitat de cada persona.",
+        "Descricao": "TRACTAMENT. Mort d’acord amb els valors, les creences i el sentit de dignitat de cada persona.",
         "Citação": "",
         "Categoria": "Bioética e Leis"
       }
@@ -15627,7 +15647,7 @@
           "fr: mortalité"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ",
+        "Descricao": "Nombre de defuncions en una població durant un període de temps determinat, sovint expressat com a taxa per cada 1.000 o 100.000 habitants.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -15639,9 +15659,19 @@
       "covid": {
         "Conceito": "mostra bucofaríngia",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: mòstra bucofaringiana",
+          "eu: aho-faringe-lagina",
+          "gl: mostra bucofarínxea",
+          "es: muestra bucofaríngea",
+          "en: oropharyngeal sample",
+          "fr: échantillon oropharyngé",
+          "pt: amostra orofaríngea",
+          "nl: orofaryngeaal monster",
+          "pl: wymaz ustno-gardłowy"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Mostra obtinguda de la boca i de la faringe mitjançant un hisop, emprada per detectar microorganismes responsables d’infeccions respiratòries.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -15664,7 +15694,7 @@
           "nl: nasofaringeaal aspiraat"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ; ;  ; mòstra nasofaringia   ; fluído nasofarínxeo ; mostra nasofarínxea ; mostra rinofarínxea  ; fluido nasofaríngeo ; muestra nasofaríngea     exsudado nasofaríngeo  ; nasofaringeaal uitstrijkje ; nasofarynxswab ; nasofarynxwisser ; neusafname ; neusswab ; neusuitstrijkje ; neuswisser  DIAGNÒSTIC. Fluid corporal extret de la part de la faringe de darrere les fosses nasals, per damunt del vel del paladar, amb l’ajuda d’un escovilló, amb finalitats diagnòstiques.",
+        "Descricao": "DIAGNÒSTIC. Fluid corporal extret de la part de la faringe de darrere les fosses nasals, per damunt del vel del paladar, amb l’ajuda d’un escovilló, amb finalitats diagnòstiques.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -15687,7 +15717,7 @@
           "nl: keelafname"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ; ;    ; fluído bucofarínxeo ; mostra bucofarínxea ; mostra orofarínxea  ; muestra bucofaríngea ; muestra orofaríngea     exsudado orofaríngeo  ; keelswab ; keeluitstrijkje ; keelwisser ; orofarynxswab  DIAGNÒSTIC. Líquid corporal extret de la part mitjana de la faringe situada entre el vel del paladar i la vora superior de l’epiglotis amb l’ajuda d’un escovilló amb finalitats diagnòstiques.",
+        "Descricao": "DIAGNÒSTIC. Líquid corporal extret de la part mitjana de la faringe situada entre el vel del paladar i la vora superior de l’epiglotis amb l’ajuda d’un escovilló amb finalitats diagnòstiques.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -15699,9 +15729,19 @@
       "covid": {
         "Conceito": "mostra rinofaríngia",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: mòstra rinofaringiana",
+          "eu: nasofaringe-lagina",
+          "gl: mostra nasofarínxea",
+          "es: muestra nasofaríngea",
+          "en: nasopharyngeal sample",
+          "fr: échantillon nasopharyngé",
+          "pt: amostra nasofaríngea",
+          "nl: nasofaryngeaal monster",
+          "pl: wymaz nosowo-gardłowy"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Mostra obtinguda del nas i de la faringe mitjançant un hisop, utilitzada habitualment per a la detecció de patògens respiratoris.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -15713,9 +15753,19 @@
       "covid": {
         "Conceito": "mRNA",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: ARN messatgièr",
+          "eu: mezulari RNA",
+          "gl: ARN mensaxeiro",
+          "es: ARN mensajero",
+          "en: mRNA (messenger RNA)",
+          "fr: ARN messager",
+          "pt: RNA mensageiro",
+          "nl: mRNA (boodschapper-RNA)",
+          "pl: mRNA (matrycowy RNA)"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Molècula d’àcid ribonucleic que transporta la informació genètica del DNA fins als ribosomes, on es produeix la síntesi de proteïnes.",
         "Citação": "",
         "Categoria": "Genética e Biologia Molecular"
       }
@@ -15786,7 +15836,7 @@
           "nl: mupadolimab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         PRINCIPIS ACTIUS. Fàrmac en investigació com a immunoestimulant pels seus efectes contra el CD73 i com a estimulant dels limfòcits B. que està en procés d’avaluació com a possible immunosupressor antineoplàstic en diferents neoplàsies. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació com a immunoestimulant pels seus efectes contra el CD73 i com a estimulant dels limfòcits B. que està en procés d’avaluació com a possible immunosupressor antineoplàstic en diferents neoplàsies. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El mupadolimab és un anticòs monoclonal que està en procés d’avaluació com a possible immunosupressor antineoplàstic en diferents neoplàsies. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.2. La denominació mupadolimad és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -15798,9 +15848,19 @@
       "covid": {
         "Conceito": "muriac",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: muriac",
+          "eu: saguzar",
+          "gl: morcego",
+          "es: murciélago",
+          "en: bat",
+          "fr: chauve-souris",
+          "pt: morcego",
+          "nl: vleermuis",
+          "pl: nietoperz"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Mamífer volador nocturn que s’alimenta principalment d’insectes i juga un paper ecològic important com a controlador de plagues i pol·linitzador.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -15812,9 +15872,19 @@
       "covid": {
         "Conceito": "muricec",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: muricec",
+          "eu: saguzar",
+          "gl: morcego",
+          "es: murciélago",
+          "en: bat",
+          "fr: chauve-souris",
+          "pt: morcego",
+          "nl: vleermuis",
+          "pl: nietoperz"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Mamífer volador nocturn que s’alimenta principalment d’insectes i juga un paper ecològic important com a controlador de plagues i pol·linitzador.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -15837,7 +15907,7 @@
           "nl: mutatie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         ETIOPATOGÈNIA. Alteració permanent d’un o més caràcters transmesos per herència com a conseqüència d’un canvi en el material genètic d’una cèl·lula o un virus. CLÍNICA. Sensació desagradable que sol indicar la proximitat del vòmit.",
+        "Descricao": "ETIOPATOGÈNIA. Alteració permanent d’un o més caràcters transmesos per herència com a conseqüència d’un canvi en el material genètic d’una cèl·lula o un virus. CLÍNICA. Sensació desagradable que sol indicar la proximitat del vòmit.",
         "Citação": "",
         "Categoria": "Genética e Biologia Molecular"
       }
@@ -15870,7 +15940,7 @@
           "nl: masker"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; masca ; mascareta ; masqueta         TRACTAMENT. Peça que tapa la boca i el nas emprada per a administrar medicaments, anestèsics o oxigen. reservori són els dos models més emprats en oxigenoteràpia.",
+        "Descricao": "TRACTAMENT. Peça que tapa la boca i el nas emprada per a administrar medicaments, anestèsics o oxigen. reservori són els dos models més emprats en oxigenoteràpia.",
         "Citação": "Nota: La màscara tipus Venturi i les màscares amb reservori són els dos models més emprats en oxigenoteràpia.",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -15882,9 +15952,19 @@
       "covid": {
         "Conceito": "màscara amb filtre de partícules",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: masca amb filtre de particulas",
+          "eu: partikulen iragazkia duen maskara",
+          "gl: máscara con filtro de partículas",
+          "es: mascarilla con filtro de partículas",
+          "en: particle-filter mask",
+          "fr: masque à filtre de particules",
+          "pt: máscara com filtro de partículas",
+          "nl: deeltjesfiltermasker",
+          "pl: maska z filtrem cząstek"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Màscara dissenyada per retenir partícules sòlides i líquides en suspensió a l’aire, proporcionant una protecció respiratòria eficaç davant de contaminants i agents patògens.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -15910,7 +15990,7 @@
           "nl: halfgelaatsmasker"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; mascareta EPI ; mascareta FFP ; mascareta tamb filtre faciau de particules  ; maskara autoiragazle ; NBE maskara ; partikula-iragazkidun maskara  ; máscara con filtro de partículas ; máscara FFP  ; mascarilla con filtro de partículas ; mascarilla EPI ; mascarilla FFP  ; FFP mask ; FFP respirator ; filtering face piece ; mask with particulate filter ; PPE mask  ; masque avec filtre à particules ; masque EPI ; masque FFP  ; máscara com  filtro de partículas ; máscara FFP  máscara com filtragem de partículas ;  máscara filtrante ; máscara K95 ;  máscara PFF  ; FFP-masker ; FFP-mond-neuskapje ; FFP-mond-neusmasker ; FFP-mondkapje ; FFP-mondmasker ; filtrerend halfmasker ; filtrerend masker  PREVENCIÓ. Màscara reutilitzable o d’un sol ús emprada per a evitar la inhalació d’agents patògens o d’elements tòxics o nocius, amb una capacitat elevada de filtrar l’aire inhalat. protecció individual. A diferència de la màscara quirúrgica, que només limita la propagació del contagi, aquest tipus de màscara protegeix a qui la porti de la inhalació d’agents infecciosos o contaminants en forma d’aerosols, gotetes o petites partícules sòlides.     máscara facial  ; halfmasker ; masker ; mondkapje ; mondmasker ; mondneuskapje ; mondneusmasker  PREVENCIÓ. Peça que tapa la boca, el nas i la barbeta emprada per a evitar la inhalació o l’exhalació d’agents patògens o d’elements tòxics o nocius. materials, segons les característiques de filtració i protecció. Els tipus principals són les higièniques, les quirúrgiques i les autofiltrants, amb filtres facials de partícules (FFP).",
+        "Descricao": "PREVENCIÓ. Màscara reutilitzable o d’un sol ús emprada per a evitar la inhalació d’agents patògens o d’elements tòxics o nocius, amb una capacitat elevada de filtrar l’aire inhalat. protecció individual. A diferència de la màscara quirúrgica, que només limita la propagació del contagi, aquest tipus de màscara protegeix a qui la porti de la inhalació d’agents infecciosos o contaminants en forma d’aerosols, gotetes o petites partícules sòlides.     máscara facial  ; halfmasker ; masker ; mondkapje ; mondmasker ; mondneuskapje ; mondneusmasker  PREVENCIÓ. Peça que tapa la boca, el nas i la barbeta emprada per a evitar la inhalació o l’exhalació d’agents patògens o d’elements tòxics o nocius. materials, segons les característiques de filtració i protecció. Els tipus principals són les higièniques, les quirúrgiques i les autofiltrants, amb filtres facials de partícules (FFP).",
         "Citação": "Nota: 1. Les màscares autofiltrants són equips de protecció individual. A diferència de la màscara quirúrgica, que només limita la propagació del contagi, aquest tipus de màscara protegeix a qui la porti de la inhalació d’agents infecciosos o contaminants en forma d’aerosols, gotetes o petites partícules sòlides.",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -15922,9 +16002,19 @@
       "covid": {
         "Conceito": "màscara FFP",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: masca FFP",
+          "eu: FFP maskara",
+          "gl: máscara FFP",
+          "es: mascarilla FFP",
+          "en: FFP mask",
+          "fr: masque FFP",
+          "pt: máscara FFP",
+          "nl: FFP-masker",
+          "pl: maska FFP"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Tipus de màscara filtrant (Filtering Face Piece) dissenyada per protegir contra partícules en suspensió, aerosols i agents patògens, disponible en diferents nivells d’eficiència (FFP1, FFP2, FFP3).",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -15947,7 +16037,7 @@
           "nl: medische evaluatie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.        máscara comunitária ;  máscara higiénica ;  máscara social  máscara higiênica  ; hygiënisch masker ; hygiënisch mondkapje ; hygiënisch mondneuskapje ; niet-medisch masker  PREVENCIÓ. Màscara reutilitzable o d’un sol ús emprada per a evitar l’exhalació d’agents patògens o d’elements tòxics o nocius, feta d’una o més capes de material tèxtil, amb capacitat baixa o mitjana de filtrar l’aire exhalat. protecció individual ni un producte sanitari. Pot ser de confecció casolana. 2. Les màscares higièniques amb especificacions UNE són un element de barrera. Poden protegir del contagi per SARS-CoV-2 sempre que es facin servir juntament amb mesures de distanciament físic i d’higiene de mans.  avaliação do dano corporal ;  avaliação do dano corporal pós-traumático  perícia médica   ENTORN SOCIAL. Activitat mèdica que avalua les lesions, les incapacitats, les seqüeles i els perjudicis derivats d’accidents o de malalties a fi de determinar una indemnització justa.",
+        "Descricao": "PREVENCIÓ. Màscara reutilitzable o d’un sol ús emprada per a evitar l’exhalació d’agents patògens o d’elements tòxics o nocius, feta d’una o més capes de material tèxtil, amb capacitat baixa o mitjana de filtrar l’aire exhalat. protecció individual ni un producte sanitari. Pot ser de confecció casolana. 2. Les màscares higièniques amb especificacions UNE són un element de barrera. Poden protegir del contagi per SARS-CoV-2 sempre que es facin servir juntament amb mesures de distanciament físic i d’higiene de mans.  avaliação do dano corporal ;  avaliação do dano corporal pós-traumático  perícia médica   ENTORN SOCIAL. Activitat mèdica que avalua les lesions, les incapacitats, les seqüeles i els perjudicis derivats d’accidents o de malalties a fi de determinar una indemnització justa.",
         "Citação": "Nota: 1. La màscara higiènica no és ni un equip de protecció individual ni un producte sanitari. Pot ser de confecció casolana.2. Les màscares higièniques amb especificacions UNE són un element de barrera. Poden protegir del contagi per SARS-CoV-2 sempre que es facin servir juntament amb mesures de distanciament físic i d’higiene de mans.116",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -15959,9 +16049,19 @@
       "covid": {
         "Conceito": "màscara mèdica",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: masca medicala",
+          "eu: maskara medikoa",
+          "gl: máscara médica",
+          "es: mascarilla médica",
+          "en: medical mask",
+          "fr: masque médical",
+          "pt: máscara médica",
+          "nl: medisch mondmasker",
+          "pl: maska medyczna"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Equip de protecció individual que cobreix el nas i la boca, utilitzat per prevenir la transmissió de patògens entre persones.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -15984,7 +16084,7 @@
           "nl: chirurgenmasker"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; mascareta medicau  ; maskara mediko  ; máscara médica  ; mascarilla quirúrgica  ; surgical mask  ; masque médical   ; chirurgisch masker ; chirurgisch mondkapje ; chirurgisch mondneuskapje  PREVENCIÓ. Màscara reutilitzable o d’un sol ús emprada per a evitar l’exhalació d’agents patògens o d’elements tòxics o nocius, feta de roba o de paper, amb capacitat elevada de filtrar l’aire exhalat. sanitari. Són un element de barrera que pot protegir del contagi per SARS-CoV-2 sempre que es facin servir juntament amb el distanciament físic i la higiene de mans.",
+        "Descricao": "PREVENCIÓ. Màscara reutilitzable o d’un sol ús emprada per a evitar l’exhalació d’agents patògens o d’elements tòxics o nocius, feta de roba o de paper, amb capacitat elevada de filtrar l’aire exhalat. sanitari. Són un element de barrera que pot protegir del contagi per SARS-CoV-2 sempre que es facin servir juntament amb el distanciament físic i la higiene de mans.",
         "Citação": "Nota: Les màscares quirúrgiques són un producte sanitari. Són un element de barrera que pot protegir del contagi per SARS-CoV-2 sempre que es facin servir juntament amb el distanciament físic i la higiene de mans.",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -16100,7 +16200,7 @@
           "nl: nafamostat"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        mesilato de nafamostato ; nafamostato   81525-10-2 PRINCIPIS ACTIUS. Fàrmac anticoagulant que actua inhibint proteases com la trombina, mitjançant la interferència del pas de fibrinogen a fibrina. problemes de coagulació i també en els connectats a una bomba de circulació extracorpòria. Només està disponible al Japó. Se n’ha suggerit l’ús, en combinació amb el favipiravir, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac anticoagulant que actua inhibint proteases com la trombina, mitjançant la interferència del pas de fibrinogen a fibrina. problemes de coagulació i també en els connectats a una bomba de circulació extracorpòria. Només està disponible al Japó. Se n’ha suggerit l’ús, en combinació amb el favipiravir, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El nafamostat s’empra en pacients amb problemes de coagulació i també en els connectats a una bomba de circulació extracorpòria. Només està disponible al Japó. Se n’ha suggerit l’ús, en combinació amb el favipiravir, per al tractament de la COVID-19. És d’origen sintètic.2. La denominació nafamostat és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -16143,7 +16243,7 @@
           "nl: verneveling"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         TRACTAMENT. Conversió d’una solució en una boira o en un aerosol de gotetes fines mitjançant un nebulitzador.",
+        "Descricao": "TRACTAMENT. Conversió d’una solució en una boira o en un aerosol de gotetes fines mitjançant un nebulitzador.",
         "Citação": "",
         "Categoria": "Procedimentos Médicos"
       }
@@ -16166,7 +16266,7 @@
           "nl: vernevelaar"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "      nébuliseur    TRACTAMENT. Aparell polvoritzador que permet d’obtenir una dispersió fina d’una substància medicamentosa amb l’objectiu d’afavorir la seva acció sobre l’organisme. per a inhalació bronquial o com a polvoritzadors d’ús tòpic.",
+        "Descricao": "TRACTAMENT. Aparell polvoritzador que permet d’obtenir una dispersió fina d’una substància medicamentosa amb l’objectiu d’afavorir la seva acció sobre l’organisme. per a inhalació bronquial o com a polvoritzadors d’ús tòpic.",
         "Citação": "Nota: Els nebulitzadors es fan servir en forma d’aerosols per a inhalació bronquial o com a polvoritzadors d’ús tòpic.",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -16241,7 +16341,7 @@
           "nl: afzien van behandeling"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; non inici de tractament    ; abstención terapéutica  ; withholding of treatment  ; refus de traitement  ; abstenção terapêutica  ; nalaten van behandeling ; onthouding van behandeling ; therapeutische onthouding  TRACTAMENT. Adequació de les actuacions sanitàries consistent en la no aplicació d’actuacions sanitàries que no aporten beneficis al curs evolutiu d’una malaltia o que no són acceptades pel pacient.",
+        "Descricao": "TRACTAMENT. Adequació de les actuacions sanitàries consistent en la no aplicació d’actuacions sanitàries que no aporten beneficis al curs evolutiu d’una malaltia o que no són acceptades pel pacient.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -16253,9 +16353,19 @@
       "covid": {
         "Conceito": "nombre reproductiu bàsic",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: nombre reproductiu basic",
+          "eu: oinarrizko ugalketa-tasa",
+          "gl: número reprodutivo básico",
+          "es: número reproductivo básico",
+          "en: basic reproduction number",
+          "fr: nombre de reproduction de base",
+          "pt: número reprodutivo básico",
+          "nl: basisreproductiegetal",
+          "pl: podstawowa liczba reprodukcyjna"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Indicador epidemiològic que expressa el nombre mitjà de contagis directes causats per una persona infectada en una població totalment susceptible.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -16335,7 +16445,7 @@
           "nl: besmettingsgolf"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; nueva normalidad  ; new normality     ENTORN SOCIAL. Període de retorn progressiu i per etapes a diverses activitats socials i  ; ondada epidemica  ; olatu epidemiko  ; onda epidémica ; vaga ; vaga epidémica  ; ola epidémica  ; wave  ; vague épidémiologique ; vague épidémique  vaga ; vaga epidémica  onda epidêmica  ; golf  EPIDEMIOLOGIA. Augment brusc del nombre de casos d’una malaltia contagiosa en el curs d’una epidèmia que dibuixa una corba en forma d’onada en el gràfic de casos en relació amb el temps o l’espai. dibuixar més d’una onada epidèmica de la malaltia, com és el cas de la COVID-19.",
+        "Descricao": "ENTORN SOCIAL. Període de retorn progressiu i per etapes a diverses activitats socials i  ; ondada epidemica  ; olatu epidemiko  ; onda epidémica ; vaga ; vaga epidémica  ; ola epidémica  ; wave  ; vague épidémiologique ; vague épidémique  vaga ; vaga epidémica  onda epidêmica  ; golf  EPIDEMIOLOGIA. Augment brusc del nombre de casos d’una malaltia contagiosa en el curs d’una epidèmia que dibuixa una corba en forma d’onada en el gràfic de casos en relació amb el temps o l’espai. dibuixar més d’una onada epidèmica de la malaltia, com és el cas de la COVID-19.",
         "Citação": "Nota: Durant l’evolució d’una pandèmia, el gràfic pot dibuixar més d’una onada epidèmica de la malaltia, com és el cas de la COVID-19.",
         "Categoria": "Termos Gerais"
       }
@@ -16368,7 +16478,7 @@
           "nl: NovaVax-vaccin"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; vacuna NovaVax  ; NVX-CoV2373  ; vacina NovaVax  ; vacuna NovaVax  ; NVX-CoV2373  ; vaccin NovaVax  ; vacina NovaVax  ; NVX-CoV2373  PREVENCIÓ. Vacuna anti COVID-19 que conté nanopartícules formades per trímers de proteïna S recombinant del SARS-CoV-2. i són necessàries dues dosis per a completar la pauta de vacunació. Està en una fase clínica de desenvolupament avançada. És d’origen biotecnològic.",
+        "Descricao": "PREVENCIÓ. Vacuna anti COVID-19 que conté nanopartícules formades per trímers de proteïna S recombinant del SARS-CoV-2. i són necessàries dues dosis per a completar la pauta de vacunació. Està en una fase clínica de desenvolupament avançada. És d’origen biotecnològic.",
         "Citação": "Nota: L’NVX-CoV2373 s’administra per via intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. Està en una fase clínica de desenvolupament avançada. És d’origen biotecnològic.",
         "Categoria": "Vacinas e Imunização"
       }
@@ -16387,11 +16497,10 @@
           "es: náusea",
           "en: nausea",
           "fr: nausée",
-          "n f pl: ",
           "nl: misselijkheid"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "náuseas ; nausea econòmiques, en el context d’una epidèmia, però mantenint la vigilància epidemiològica, la capacitat reforçada del sistema sanitari i l’autoprotecció de la ciutadania.",
+        "Descricao": "Nausea econòmiques, en el context d’una epidèmia, però mantenint la vigilància epidemiològica, la capacitat reforçada del sistema sanitari i l’autoprotecció de la ciutadania.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -16482,7 +16591,7 @@
           "nl: dysthanasie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; obstinacion terapeutica   ; obstinación terapéutica  ; encarnizamiento terapéutico ; obstinación terapéutica  ; therapeutic obstinacy ; therapeutic overzealousness    distanásia  ; medisch zinloos behandelen ; therapeutische hardnekkigheid ; therapeutische verbetenheid  TRACTAMENT. Actuació sanitària que té per objectiu prolongar, per tots els mitjans mèdics, la vida d’un pacient que té una malaltia irreversible en fase crítica o una malaltia terminal, la qual no li aporta prou qualitat de vida. pren com a referència l’actuació del professional de la salut, mentre que la denominació pren com a referència la mort.",
+        "Descricao": "TRACTAMENT. Actuació sanitària que té per objectiu prolongar, per tots els mitjans mèdics, la vida d’un pacient que té una malaltia irreversible en fase crítica o una malaltia terminal, la qual no li aporta prou qualitat de vida. pren com a referència l’actuació del professional de la salut, mentre que la denominació pren com a referència la mort.",
         "Citação": "Nota: La denominació obstinació terapèutica pren com a referència l’actuació del professional de la salut, mentre que la denominació distanàsia pren com a referència la mort.",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -16508,25 +16617,21 @@
       "covid": {
         "Conceito": "ofec",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: sufocacion",
+          "eu: itomena",
+          "gl: afogo",
+          "es: asfixia",
+          "en: choking",
+          "fr: étouffement",
+          "pt: asfixia",
+          "nl: verstikking",
+          "pl: zadławienie"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Dificultat per respirar causada per una obstrucció de les vies respiratòries, insuficiència respiratòria o altres condicions mèdiques.",
         "Citação": "",
         "Categoria": "Termos Gerais"
-      }
-    }
-  },
-  {
-    "Conceito": "OMS",
-    "Fontes": {
-      "covid": {
-        "Conceito": "OMS",
-        "Substantivo": "",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Profissionais e Serviços de Saúde"
       }
     }
   },
@@ -16536,9 +16641,19 @@
       "covid": {
         "Conceito": "onada",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: ondada",
+          "eu: olatua",
+          "gl: onda",
+          "es: ola",
+          "en: wave",
+          "fr: vague",
+          "pt: onda",
+          "nl: golf",
+          "pl: fala"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Període en què es produeix un augment significatiu i sostingut del nombre de casos d’una malaltia en una població.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -16550,9 +16665,19 @@
       "covid": {
         "Conceito": "onada epidèmica",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: ondada epidemica",
+          "eu: epidemiaren olatua",
+          "gl: onda epidémica",
+          "es: ola epidémica",
+          "en: epidemic wave",
+          "fr: vague épidémique",
+          "pt: onda epidémica",
+          "nl: epidemiegolf",
+          "pl: fala epidemiczna"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. EPIDEMIOLOGIA. Organisme de l’Organització de les Nacions Unides que té com a finalitat promoure i gestionar les polítiques de prevenció, promoció i intervenció en salut a escala mundial.",
+        "Descricao": "EPIDEMIOLOGIA. Organisme de l’Organització de les Nacions Unides que té com a finalitat promoure i gestionar les polítiques de prevenció, promoció i intervenció en salut a escala mundial.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -16576,7 +16701,7 @@
           "ar: OP-101"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         PRINCIPIS ACTIUS. Fàrmac antiinflamatori no esteroidal en investigació, format per la combinació d’un dendrímer hidroxil conjugat amb N-acetilcisteïna, que s’uneix a macròfags reactius,",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antiinflamatori no esteroidal en investigació, format per la combinació d’un dendrímer hidroxil conjugat amb N-acetilcisteïna, que s’uneix a macròfags reactius,",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -16598,7 +16723,7 @@
           "nl: opaganib"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        opaganibe   915385-81-8 PRINCIPIS ACTIUS. Fàrmac antivíric i antiinflamatori en investigació que actua com a inhibidor de l’esfingosina-cinasa 2. a possible tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric i antiinflamatori en investigació que actua com a inhibidor de l’esfingosina-cinasa 2. a possible tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’opaganib està en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen sintètic.2. La denominació opaganib és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -16632,7 +16757,7 @@
           "nl: otilimab"
         ],
         "Sigla": "OMS",
-        "Descricao": " ;  ; MOE  ; OMS  ; OMS  ; WHO  ; OMS  ; OMS  Organização Mundial da Saúde  ; WGO  TRACTAMENT. Tractament d’oxigenació, per via inhalatòria, indicat en la insuficiència respiratòria i en la malaltia pulmonar obstructiva crònica. i les màscares amb cilindre d’efecte Venturi són els sistemes d’administració d’oxigen més utilitzats en oxigenoteràpia; els dos primers són de baix flux (indicats en la insuficiència respiratòria crònica estable) i el darrer, d’alt flux (indicat en la insuficiència respiratòria aguda o en la malaltia crònica aguditzada).   1638332-55-4 PRINCIPIS ACTIUS. Fàrmac en investigació contra el factor estimulador de colònies de granulòcits i macròfags. en procés d’avaluació com a possible antiinflamatori en l’artrosi i l’artritis reumatoide. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "TRACTAMENT. Tractament d’oxigenació, per via inhalatòria, indicat en la insuficiència respiratòria i en la malaltia pulmonar obstructiva crònica. i les màscares amb cilindre d’efecte Venturi són els sistemes d’administració d’oxigen més utilitzats en oxigenoteràpia; els dos primers són de baix flux (indicats en la insuficiència respiratòria crònica estable) i el darrer, d’alt flux (indicat en la insuficiència respiratòria aguda o en la malaltia crònica aguditzada).   1638332-55-4 PRINCIPIS ACTIUS. Fàrmac en investigació contra el factor estimulador de colònies de granulòcits i macròfags. en procés d’avaluació com a possible antiinflamatori en l’artrosi i l’artritis reumatoide. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: Les ulleres nasals, les màscares amb reservori i les màscares amb cilindre d’efecte Venturi són els sistemes d’administració d’oxigen més utilitzats en oxigenoteràpia; els dos primers són de baix flux (indicats en la insuficiència respiratòria crònica estable) i el darrer, d’alt flux (indicat en la insuficiència respiratòria aguda o en la malaltia crònica aguditzada).",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -16675,7 +16800,7 @@
           "nl: oseltamivir"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       ; tamiflu  fosfato de oseltamivir  ; Tamiflu  196618-13-0 PRINCIPIS ACTIUS. Fàrmac antivíric inhibidor selectiu de les neuraminidases víriques, que evita l’entrada del virus a les cèl·lules no infectades i l’alliberament de partícules víriques de les cèl·lules infectades. grip aviària (H5N1), la grip A (H1N1) i l’enteritis canina produïda per parvovirus. Se n’ha suggerit l’ús per al tractament de la COVID-19 en pacients greus. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric inhibidor selectiu de les neuraminidases víriques, que evita l’entrada del virus a les cèl·lules no infectades i l’alliberament de partícules víriques de les cèl·lules infectades. grip aviària (H5N1), la grip A (H1N1) i l’enteritis canina produïda per parvovirus. Se n’ha suggerit l’ús per al tractament de la COVID-19 en pacients greus. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’oseltamivir s’empra en el tractament de la grip aviària (H5N1), la grip A (H1N1) i l’enteritis canina produïda per parvovirus. Se n’ha suggerit l’ús per al tractament de la COVID-19 en pacients greus. És d’origen biotecnològic.2. La denominació oseltamivir és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -16711,7 +16836,7 @@
           "pt: otilimab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        otilimabe allibera la N-acetilcisteïna a l’interior cel·lular i bloca la producció de citocines proinflamatòries. tractament per a la COVID-19. És d’origen sintètic.",
+        "Descricao": "Otilimabe allibera la N-acetilcisteïna a l’interior cel·lular i bloca la producció de citocines proinflamatòries. tractament per a la COVID-19. És d’origen sintètic.",
         "Citação": "Nota: L’OP-101 està en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen sintètic.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -16744,7 +16869,7 @@
           "nl: zuurstoftoediening"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         TRACTAMENT. Administració d'oxigen amb finalitats terapèutiques.",
+        "Descricao": "TRACTAMENT. Administració d'oxigen amb finalitats terapèutiques.",
         "Citação": "",
         "Categoria": "Fisiologia"
       }
@@ -16767,7 +16892,7 @@
           "nl: zuurstofbehandeling"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.    ; tratamento con osíxeno  ; terapia con oxígeno ; tratamiento con oxígeno     tratamento com oxigénio  ; zuurstoftherapie  pangolí podria ser un hoste intermediari en la transmissió del SARS-CoV-2 de les ratapinyades als humans.",
+        "Descricao": "Tractament mèdic que consisteix en l’administració d’oxigen suplementari per mantenir uns nivells adequats d’oxigen a la sang.",
         "Citação": "Nota: S’ha apuntat que alguna espècie asiàtica de pangolí podria ser un hoste intermediari en la transmissió del SARS-CoV-2 de les ratapinyades als humans.",
         "Categoria": "Procedimentos Médicos"
       }
@@ -16779,9 +16904,19 @@
       "covid": {
         "Conceito": "pacient zero",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: pacient zèro",
+          "eu: paziente zero",
+          "gl: paciente cero",
+          "es: paciente cero",
+          "en: patient zero",
+          "fr: patient zéro",
+          "pt: paciente zero",
+          "nl: patiënt nul",
+          "pl: pacjent zero"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Primera persona identificada que ha contret una malaltia en un brot o epidèmia, i a partir de la qual es pot rastrejar l’origen de la transmissió.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -16814,7 +16949,7 @@
           "nl: pandemie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         EPIDEMIOLOGIA. Epidèmia d’una malaltia transmissible que s’estén a molts països i afecta un nombre molt elevat d’individus. estableix l’OMS.",
+        "Descricao": "EPIDEMIOLOGIA. Epidèmia d’una malaltia transmissible que s’estén a molts països i afecta un nombre molt elevat d’individus. estableix l’OMS.",
         "Citação": "Nota: Els criteris per a declarar una pandèmia els estableix l’OMS.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -16837,7 +16972,7 @@
           "nl: schubdier"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; scaly anteater     ETIOPATOGÈNIA. Mamífer de l’ordre dels folidots, de la família dels mànids, d’una longitud aproximada d’1,5 m, escatat des del cap fins a la cua i sense dents, que s’alimenta de formigues i tèrmits gràcies a la seva llengua llarga, estreta i mucosa, que fa servir per a extraure’ls dels nius. acredita la seva condició d’immunitat respecte a una malaltia determinada. Europea ha posat en marxa el com a passaport immunitari per a regular la mobilitat i les activitats en el seu territori.",
+        "Descricao": "ETIOPATOGÈNIA. Mamífer de l’ordre dels folidots, de la família dels mànids, d’una longitud aproximada d’1,5 m, escatat des del cap fins a la cua i sense dents, que s’alimenta de formigues i tèrmits gràcies a la seva llengua llarga, estreta i mucosa, que fa servir per a extraure’ls dels nius. acredita la seva condició d’immunitat respecte a una malaltia determinada. Europea ha posat en marxa el com a passaport immunitari per a regular la mobilitat i les activitats en el seu territori.",
         "Citação": "Nota: En el cas de la COVID-19, l’any 2021 la Unió Europea ha posat en marxa el certificat COVID digital europeu com a passaport immunitari per a regular la mobilitat i les activitats en el seu territori.",
         "Categoria": "Termos Gerais"
       }
@@ -16859,7 +16994,7 @@
           "nl: gelaatsscherm"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; visèra de proteccion   viseira de protección ; viseira facial   ; facial screen ; medical face shield  ; visière de protection ; visière médicale  viseira ; viseira de proteção  ; protetor facial  ; gezichtsscherm  PREVENCIÓ. Accessori en forma de visera transparent que serveix per a protegir la cara de l’impacte de partícules externes. davant el contagi d’una malaltia per aerosols, com és el cas de la COVID-19.",
+        "Descricao": "PREVENCIÓ. Accessori en forma de visera transparent que serveix per a protegir la cara de l’impacte de partícules externes. davant el contagi d’una malaltia per aerosols, com és el cas de la COVID-19.",
         "Citação": "Nota: La pantalla facial per si sola no confereix protecció davant el contagi d’una malaltia per aerosols, com és el cas de la COVID-19.",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -16896,7 +17031,7 @@
           "nl: parasiet"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ",
+        "Descricao": "Organisme que viu a costa d’un altre (hoste), del qual obté nutrients o beneficis, sovint causant-li perjudicis o malalties.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -16908,9 +17043,19 @@
       "covid": {
         "Conceito": "passaport d’immunitat",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: passapòrt d’immunitat",
+          "eu: immunitate-pasaporte",
+          "gl: pasaporte de inmunidade",
+          "es: pasaporte de inmunidad",
+          "en: immunity passport",
+          "fr: passeport d’immunité",
+          "pt: passaporte de imunidade",
+          "nl: immuniteitspaspoort",
+          "pl: paszport odporności"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Document que certifica que una persona té immunitat contra una malaltia, generalment després de superar la infecció o per vacunació, i que pot permetre excepcions a certes restriccions sanitàries.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -16937,7 +17082,7 @@
           "nl: pemziviptadil"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; passapòrt immunitari ; passapòrt immunologic  ; immunitate-ziurtagiri  ; pasaporte inmunitario ; pasaporte inmunolóxico  ; pasaporte de inmunidad ; pasaporte inmunitario ; pasaporte inmunológico  ; immunity passport ; risk-free certificate  ; passeport immunitaire ; passeport immunologique   certificado COVID ;  certificado digital COVID  passaporte da vacina ;  passaporte de imunidade ;  passaporte imunológico  ; coronapaspoort ; immuniteitsbewijs ; immuniteitscertificaat ; immuniteitspaspoort ; vaccinatiebewijs ; vaccinatiecertificaat ; vaccinatiepaspoort  EPIDEMIOLOGIA. Document atorgat a una persona per una autoritat sanitària o governamental que      1265655-87-5 PRINCIPIS ACTIUS. Fàrmac en investigació, anàleg del pèptid intestinal vasoactiu, que produeix efectes vasodilatadors. de la hipertensió arterial pulmonar. S’ha suggerit com a possible tractament per a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "EPIDEMIOLOGIA. Document atorgat a una persona per una autoritat sanitària o governamental que      1265655-87-5 PRINCIPIS ACTIUS. Fàrmac en investigació, anàleg del pèptid intestinal vasoactiu, que produeix efectes vasodilatadors. de la hipertensió arterial pulmonar. S’ha suggerit com a possible tractament per a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El pemziviptadil s’ha orientat cap al tractament de la hipertensió arterial pulmonar. S’ha suggerit com a possible tractament per a la COVID-19. És d’origen biotecnològic.2. La denominació pemziviptadil és la forma catalana corresponent a la DCI.",
         "Categoria": "Vacinas e Imunização"
       }
@@ -16949,9 +17094,19 @@
       "covid": {
         "Conceito": "passaport immunològic",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: passapòrt d’immunitat",
+          "eu: immunitate-pasaporte",
+          "gl: pasaporte de inmunidade",
+          "es: pasaporte inmunológico",
+          "en: immunity passport",
+          "fr: passeport immunitaire",
+          "pt: passaporte imunológico",
+          "nl: immuniteitspaspoort",
+          "pl: paszport odporności"
+        ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Document que acredita que una persona ha desenvolupat immunitat davant d’una malaltia, generalment mitjançant vacunació o superació de la infecció.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -16978,28 +17133,16 @@
         "Conceito": "patogen -ògena",
         "Substantivo": "",
         "Traduções": [
-          "adj: ",
-          "oc: patogèn -a",
-          "adj: ",
+          "oc: patogèn",
           "eu: patogeno",
-          "adj: ",
-          "gl: patóxeno -a",
-          "adj: ",
-          "es: morbígeno -na",
-          "adj: ; patógeno -na",
-          "adj: ",
+          "gl: patóxeno",
+          "es: morbígeno",
           "en: pathogenic",
-          "adj: ",
           "fr: pathogène",
-          "adj: ",
-          "adj: ",
-          "adj: ",
-          "nl: pathogeen -gene",
-          "adj: ; ziekteverwekkend -e",
-          "adj: "
+          "nl: pathogeen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "patogénico patogênico ETIOPATOGÈNIA. Dit del microorganisme susceptible de causar una malaltia o alteracions més o menys greus a un organisme.",
+        "Descricao": "ETIOPATOGÈNIA. Dit del microorganisme susceptible de causar una malaltia o alteracions més o menys greus a un organisme.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -17022,7 +17165,7 @@
           "nl: pathogeniteit"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; ziekteverwekkend vermogen  ETIOPATOGÈNIA. Capacitat que posseeixen els microorganismes per a produir una malaltia, ja sigui espontàniament en animals i en l'espècie humana o bé experimentalment en animals de laboratori. ETIOPATOGÈNIA. Organisme que viu temporalment o permanent damunt o dins d’un altre organisme d’una espècie diferent, del qual obté l’aliment necessari per a la seva subsistència sense aportar-li cap benefici a canvi i, sovint, perjudicant-lo.",
+        "Descricao": "ETIOPATOGÈNIA. Capacitat que posseeixen els microorganismes per a produir una malaltia, ja sigui espontàniament en animals i en l'espècie humana o bé experimentalment en animals de laboratori. ETIOPATOGÈNIA. Organisme que viu temporalment o permanent damunt o dins d’un altre organisme d’una espècie diferent, del qual obté l’aliment necessari per a la seva subsistència sense aportar-li cap benefici a canvi i, sovint, perjudicant-lo.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -17054,7 +17197,7 @@
           "nl: vaccinatieprogramma"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.    ; pauta vacinal  ; pauta vacunal  ; vaccination schedule  ; schéma vaccinal  calendário de vacinação ;  calendário vacinal  esquema de vacinação ;  esquema vacinal  ; vaccinatieschema  PREVENCIÓ. Règim d’administració d’una vacuna, en relació amb el nombre de dosis i l’interval d’administració de cada dosi. primovacunació com les dosis de record d’una vacuna.",
+        "Descricao": "PREVENCIÓ. Règim d’administració d’una vacuna, en relació amb el nombre de dosis i l’interval d’administració de cada dosi. primovacunació com les dosis de record d’una vacuna.",
         "Citação": "Nota: La pauta de vacunació inclou tant les dosis de primovacunació com les dosis de record d’una vacuna.",
         "Categoria": "Vacinas e Imunização"
       }
@@ -17066,9 +17209,19 @@
       "covid": {
         "Conceito": "pauta vacunal",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: pauta vaccinau",
+          "eu: txerto-eskema",
+          "gl: pauta vacinal",
+          "es: pauta de vacunación",
+          "en: vaccination schedule",
+          "fr: schéma vaccinal",
+          "pt: esquema vacinal",
+          "nl: vaccinatieschema",
+          "pl: schemat szczepień"
+        ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Conjunt de dosis i intervals temporals establerts per a l’administració d’una vacuna per tal d’assegurar-ne l’eficàcia i la protecció.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -17082,7 +17235,7 @@
         "Substantivo": "",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Tècnica de laboratori que permet amplificar fragments específics d’ADN per tal de facilitar-ne l’anàlisi i la detecció.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -17125,7 +17278,7 @@
           "es: pemziviptadil"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    EPIDEMIOLOGIA. Temps en què una persona pot transmetre una malaltia, un cop ha estat infectada per un microorganisme patogen. infecció es pot donar 1-2 dies abans dels símptomes, durant tot el període simptomàtic i fins a 5-6 dies després que els símptomes remetin. 2. Normalment, des que el SARS-CoV-2 infecta una persona fins que apareixen els primers símptomes passen entre 4 i 7 dies, si bé aquest període pot escurçar-se a 2 o 3 dies, depenent de la variant.",
+        "Descricao": "EPIDEMIOLOGIA. Temps en què una persona pot transmetre una malaltia, un cop ha estat infectada per un microorganisme patogen. infecció es pot donar 1-2 dies abans dels símptomes, durant tot el període simptomàtic i fins a 5-6 dies després que els símptomes remetin. 2. Normalment, des que el SARS-CoV-2 infecta una persona fins que apareixen els primers símptomes passen entre 4 i 7 dies, si bé aquest període pot escurçar-se a 2 o 3 dies, depenent de la variant.",
         "Citação": "Nota: 1. En el cas de la COVID-19, la transmissió de la infecció es pot donar 1-2 dies abans dels símptomes, durant tot el període simptomàtic i fins a 5-6 dies després que els símptomes remetin.2. Normalment, des que el SARS-CoV-2 infecta una persona fins que apareixen els primers símptomes passen entre 4 i 7 dies, si bé aquest període pot escurçar-se a 2 o 3 dies, depenent de la variant.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -17146,13 +17299,10 @@
           "fr: engelure",
           "pt: eritema pérnio",
           "nl: perniones",
-          "n pl: ; perniosis",
-          "pl: ; wintertenen",
-          "n pl: ; wintervoeten",
-          "n pl: "
+          "pl: perniosis"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. compl. ; ; sabanhon ; frieira ; perniose frieira ; perniose ; winterhanden CLÍNICA. Eritema blavós amb tumefacció, habitualment circumscrit, a vegades més difús i poc delimitat, que es presenta principalment en els dits de les mans i dels peus, les orelles, la cara interna dels genolls i les parts laterals de les cuixes i els malucs, ocasionat per l’exposició al fred.",
+        "Descricao": "CLÍNICA. Eritema blavós amb tumefacció, habitualment circumscrit, a vegades més difús i poc delimitat, que es presenta principalment en els dits de les mans i dels peus, les orelles, la cara interna dels genolls i les parts laterals de les cuixes i els malucs, ocasionat per l’exposició al fred.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -17166,7 +17316,7 @@
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. referit a una espècie de microorganisme determinada, que permet de comparar-la amb altres i es relaciona amb el tipus de malaltia que produeix. Per exemple, l’estafilococ daurat i la neissèria de la meningitis són patògens, mentre que els lactobacils no ho són.",
+        "Descricao": "Glicoproteïna present a la superfície de la càpside o de l’embolcall d’alguns virus, que facilita la unió i l’entrada a la cèl·lula hoste.",
         "Citação": "Nota: La patogenicitat és un atribut general o qualitatiu referit a una espècie de microorganisme determinada, que permet de comparar-la amb altres i es relaciona amb el tipus de malaltia que produeix. Per exemple, l’estafilococ daurat i la neissèria de la meningitis són patògens, mentre que els lactobacils no ho són.",
         "Categoria": "Anatomia"
       }
@@ -17199,7 +17349,7 @@
           "nl: medische expertise"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; peritatge medicau        perícia médico-legal   ENTORN SOCIAL. Activitat mèdica, que uneix la medicina i el dret, que s’ocupa de l’avaluació de la pràctica mèdica i de la valoració del dany corporal que ha patit una persona.",
+        "Descricao": "ENTORN SOCIAL. Activitat mèdica, que uneix la medicina i el dret, que s’ocupa de l’avaluació de la pràctica mèdica i de la valoració del dany corporal que ha patit una persona.",
         "Citação": "",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -17227,7 +17377,7 @@
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Lesió de la pell causada per l’exposició prolongada al fred i a la humitat, caracteritzada per envermelliment, inflor, picor i, de vegades, dolor.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -17241,7 +17391,7 @@
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Lesioni cutanee causate dall’esposizione prolungata al freddo e all’umidità, caratterizzate da arrossamento, gonfiore e prurito.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -17263,7 +17413,7 @@
           "nl: coronarisicopatiënt | coronarisicopatiënte"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ara COVID-19 ; persona vulnerabla ara COVID-19  ; COVID-19arekiko pertsona zaurgarri  ; persoa especialmente sensible á COVID-19 ; persoa vulnerable á COVID-19  ; persona especialmente sensible a la COVID-19 ; persona vulnerable a la COVID-19  ; COVID-19 sensitive person ; COVID-19 vulnerable person  ; personne sensible au COVID-19 ; personne vulnérable au COVID-19  pessoa com maior risco de contrair COVID-19 ; pessoa particularmente   suscetível à COVID-19 ;  pessoa vulnerável à COVID-19  pessoa com maior risco de ter COVID-19  |  ENTORN SOCIAL. Persona que té més vulnerabilitat per infectar-se pel SARS-CoV-2 o per emmalaltir de COVID-19 de manera greu. a la COVID-19 es tenen en compte diversos factors, entre els quals: tenir 65 anys o més; patir diabetis,",
+        "Descricao": "ENTORN SOCIAL. Persona que té més vulnerabilitat per infectar-se pel SARS-CoV-2 o per emmalaltir de COVID-19 de manera greu. a la COVID-19 es tenen en compte diversos factors, entre els quals: tenir 65 anys o més; patir diabetis,",
         "Citação": "Nota: Per a considerar algú com a persona de risc per a la COVID-19 es tenen en compte diversos factors, entre els quals: tenir 65 anys o més; patir diabetis, P131QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -17277,7 +17427,7 @@
         "Substantivo": "",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Individuo che presenta una maggiore suscettibilità al COVID-19 per fattori individuali come età, malattie croniche o sistema immunitario indebolito.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -17291,7 +17441,7 @@
         "Substantivo": "",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Individuo con maggiore rischio di sviluppare forme gravi di COVID-19 a causa di età avanzata, patologie pregresse o condizioni di salute compromesse.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -17305,7 +17455,7 @@
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Intervallo di tempo tra l’esposizione a un agente patogeno o a uno stimolo e la comparsa dei primi sintomi o effetti.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -17319,7 +17469,7 @@
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Intervallo di tempo in cui l'organismo risponde a uno stimolo, a un'infezione o a un trattamento.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -17341,7 +17491,7 @@
           "nl: incubatieperiode"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ; ; ;  ; periòde d’incubacion ; periòde de laténcia ; periòde de reaccion ; periòde latent   ; fase de latencia ; período de incubación ; período de latencia  ; fase de latencia ; período de incubación ; período de latencia  ; incubative stage ; latent period  ; période de latence  fase de incubação ;  período de latência  período de incubação  ; incubatietijd ; latentieperiode ; latentietijd  EPIDEMIOLOGIA. Temps que transcorre entre l’entrada del germen i l’aparició dels símptomes en el curs d’una malaltia infecciosa.",
+        "Descricao": "EPIDEMIOLOGIA. Temps que transcorre entre l’entrada del germen i l’aparició dels símptomes en el curs d’una malaltia infecciosa.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -17363,7 +17513,7 @@
           "nl: besmettelijke periode"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       período de infeção  período de transmissibilidade  ; besmettingsduur ; besmettingstijd ; infectieduur ; infectieperiode ; infectietijd  hipertensió arterial, obesitat mòrbida o alguna malaltia crònica (de tipus cardiovascular, hepàtic, pulmonar, renal, neurològica o neuromuscular); alguna immunodeficiència congènita o adquirida, o un càncer.",
+        "Descricao": "Intervallo di tempo durante il quale un individuo è infetto e può trasmettere l'agente patogeno ad altri.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -17493,7 +17643,7 @@
           "nl: besmettingspiek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; pic epidemic   ; pico epidémico     pico de contágio ;   pico epidêmico  ; coronapiek  EPIDEMIOLOGIA. Moment de màxima intensitat d’una epidèmia que, gràficament, es representa en el punt més alt de la corba epidèmica.",
+        "Descricao": "EPIDEMIOLOGIA. Moment de màxima intensitat d’una epidèmia que, gràficament, es representa en el punt més alt de la corba epidèmica.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -17574,7 +17724,7 @@
           "es: plan de contingencia frente a la COVID-19"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " dera COVID-19   ",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -17602,7 +17752,7 @@
           "nl: peilgroep"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; neppil ; placebo ; schijngeneesmiddel  CONCEPTES GENERALS. Substància farmacològicament inerta, sense cap principi actiu, preparada amb els mateixos aspecte, gust, olor i forma d’administració que una substància activa, que s’utilitza en la investigació farmacològica per a mesurar per comparació l’acció real d’aquesta substància. un efecte psicoterapèutic, a fi de diferenciar l’efecte real d’un medicament en assaig de l’efecte degut a la suggestió.    ; sentinel population   população sentinela  grupo-sentinela ; população-sentinela  ; peilpopulatie  EPIDEMIOLOGIA. Conjunt d’habitants d’una àrea geogràfica o d’un grup de població concrets el monitoratge dels quals permet obtenir informació per a interpretar adequadament la situació epidemiològica d’una determinada malaltia en aquella àrea o grup i actuar en conseqüència.",
+        "Descricao": "CONCEPTES GENERALS. Substància farmacològicament inerta, sense cap principi actiu, preparada amb els mateixos aspecte, gust, olor i forma d’administració que una substància activa, que s’utilitza en la investigació farmacològica per a mesurar per comparació l’acció real d’aquesta substància. un efecte psicoterapèutic, a fi de diferenciar l’efecte real d’un medicament en assaig de l’efecte degut a la suggestió.    ; sentinel population   população sentinela  grupo-sentinela ; população-sentinela  ; peilpopulatie  EPIDEMIOLOGIA. Conjunt d’habitants d’una àrea geogràfica o d’un grup de població concrets el monitoratge dels quals permet obtenir informació per a interpretar adequadament la situació epidemiològica d’una determinada malaltia en aquella àrea o grup i actuar en conseqüència.",
         "Citação": "Nota: En farmacologia clínica, s’utilitza per a aconseguir un efecte psicoterapèutic, a fi de diferenciar l’efecte real d’un medicament en assaig de l’efecte degut a la suggestió.132",
         "Categoria": "Psicologia e Psiquiatria"
       }
@@ -17699,7 +17849,7 @@
           "nl: plitidepsin"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; plitidepsina  ; plitidepsina  ; plitidepsina  ; plitidepsina  ; plitidepsin  ; plitidepsine     137219-37-5 PRINCIPIS ACTIUS. Fàrmac antineoplàstic en investigació que atura el creixement cel·lular i indueix l’apoptosi mitjançant la inhibició de la secreció del factor de creixement de l’endoteli vascular. com a tractament experimental contra diversos tipus de càncer, com el mieloma múltiple. Se n’ha suggerit l’ús per al tractament de la COVID-19. És un pèptid d’origen natural que s’extreu del tunicat marí . 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antineoplàstic en investigació que atura el creixement cel·lular i indueix l’apoptosi mitjançant la inhibició de la secreció del factor de creixement de l’endoteli vascular. com a tractament experimental contra diversos tipus de càncer, com el mieloma múltiple. Se n’ha suggerit l’ús per al tractament de la COVID-19. És un pèptid d’origen natural que s’extreu del tunicat marí . 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. La plitidepsina és una didemnina que s’utilitza com a tractament experimental contra diversos tipus de càncer, com el mieloma múltiple. Se n’ha suggerit l’ús per al tractament de la COVID-19. És un pèptid d’origen natural que s’extreu del tunicat marí Aplidium albicans.2. La denominació plitidepsina és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -17763,7 +17913,7 @@
           "nl: coronanoodplan"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; paumonia ;   ; pulmonía  ; pulmonía     ; pneumonie     plano de contingência para  a COVID-19  plano de contingência para COVID-19  ; noodplan  ENTORN SOCIAL. Conjunt de procediments i instruccions alternatives a les condicions operatives normals d’una empresa, de manera que se’n permeti el funcionament, malgrat que determinats departaments, seccions, llocs de treball o funcions hagin d’interrompre la seva activitat a causa d’algun incident o per causes alienes a l’organització, en relació amb les restriccions per la pandèmia de COVID-19.",
+        "Descricao": "ENTORN SOCIAL. Conjunt de procediments i instruccions alternatives a les condicions operatives normals d’una empresa, de manera que se’n permeti el funcionament, malgrat que determinats departaments, seccions, llocs de treball o funcions hagin d’interrompre la seva activitat a causa d’algun incident o per causes alienes a l’organització, en relació amb les restriccions per la pandèmia de COVID-19.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -17800,7 +17950,7 @@
           "nl: doelgroep"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  ; poblacion objectiu   ; poboación obxectivo  ; población objetivo   ; population cible   ; doelpubliek  EPIDEMIOLOGIA. Conjunt de persones que són objecte d’estudi en una recerca.",
+        "Descricao": "EPIDEMIOLOGIA. Conjunt de persones que són objecte d’estudi en una recerca.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -17814,7 +17964,7 @@
         "Substantivo": "",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -17831,7 +17981,7 @@
           "eu: populazio zelatari"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  factor de risc determinat, en un període de temps concret amb relació al nombre total d’habitants d’una àrea geogràfica o social.",
+        "Descricao": "Factor de risc determinat, en un període de temps concret amb relació al nombre total d’habitants d’una àrea geogràfica o social.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -17863,7 +18013,7 @@
           "nl: overlaars"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; polaina  ; shoe cover    propés  ; overschoen ; schoenbeschermer ; schoenhoes ; schoenovertrek  PREVENCIÓ. Cadascuna de les dues fundes protectores que utilitza el personal sanitari per a cobrir-se les sabates i part de les cames quan ha de treballar en zones d’un hospital que requereixen un alt nivell d’asèpsia. davantals, els maneguets, els guants i els casquets, formen part de la roba de l’equip de protecció individual en entorns sanitaris. CLÍNICA. Inflamació pulmonar aguda, sense participació bronquial, causada per un agent infecciós i caracteritzada per l’ocupació dels alvèols per un exsudat que es consolida i dona al pulmó una consistència semblant a la del fetge, que s’associa a una simptomatologia variable, com ara febre alta, cefalea, tos productiva, dispnea i dolor agut i punxant al tòrax. pneumònia es classifica en lobar, lobel·lar i intersticial. La malaltia és produïda per un agent variable segons l’edat del malalt, el lloc on s’ha agafat la malaltia (pot ser per infecció comunitària o infecció hospitalària) i la presència d’una malaltia de base (diabetis, bronquitis crònica, grip, etc.).",
+        "Descricao": "PREVENCIÓ. Cadascuna de les dues fundes protectores que utilitza el personal sanitari per a cobrir-se les sabates i part de les cames quan ha de treballar en zones d’un hospital que requereixen un alt nivell d’asèpsia. davantals, els maneguets, els guants i els casquets, formen part de la roba de l’equip de protecció individual en entorns sanitaris. CLÍNICA. Inflamació pulmonar aguda, sense participació bronquial, causada per un agent infecciós i caracteritzada per l’ocupació dels alvèols per un exsudat que es consolida i dona al pulmó una consistència semblant a la del fetge, que s’associa a una simptomatologia variable, com ara febre alta, cefalea, tos productiva, dispnea i dolor agut i punxant al tòrax. pneumònia es classifica en lobar, lobel·lar i intersticial. La malaltia és produïda per un agent variable segons l’edat del malalt, el lloc on s’ha agafat la malaltia (pot ser per infecció comunitària o infecció hospitalària) i la presència d’una malaltia de base (diabetis, bronquitis crònica, grip, etc.).",
         "Citação": "Nota: Les polaines, juntament amb les bates, els davantals, els maneguets, els guants i els casquets, formen part de la roba de l’equip de protecció individual en entorns sanitaris.",
         "Categoria": "Termos Gerais"
       }
@@ -17992,7 +18142,7 @@
           "nl: prednisolon"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         50-24-8 PRINCIPIS ACTIUS. Fàrmac antiinflamatori, antial·lèrgic, immunosupressor i antineoplàstic que inhibeix la síntesi de les prostaglandines i dels leucotriens. derivat del cortisol, que s’empra en el tractament de nombroses malalties endocrines, reumàtiques, hematològiques, relacionades amb el col·lagen, dermatològiques, oftàlmiques, respiratòries, gastrointestinals i neoplàstiques. També s’utilitza en processos al·lèrgics i edematosos. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antiinflamatori, antial·lèrgic, immunosupressor i antineoplàstic que inhibeix la síntesi de les prostaglandines i dels leucotriens. derivat del cortisol, que s’empra en el tractament de nombroses malalties endocrines, reumàtiques, hematològiques, relacionades amb el col·lagen, dermatològiques, oftàlmiques, respiratòries, gastrointestinals i neoplàstiques. També s’utilitza en processos al·lèrgics i edematosos. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. La prednisolona és un glucocorticoide sintètic derivat del cortisol, que s’empra en el tractament de nombroses malalties endocrines, reumàtiques, hematològiques, relacionades amb el col·lagen, dermatològiques, oftàlmiques, respiratòries, gastrointestinals i neoplàstiques. També s’utilitza en processos al·lèrgics i edematosos. És d’origen sintètic.2. La denominació prednisolona és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -18039,7 +18189,7 @@
           "nl: voorzorgsbeginsel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         EPIDEMIOLOGIA. Nombre de persones afectades per una malaltia determinada, o exposades a un      TRACTAMENT. Principi segons el qual s’han de promoure mesures protectores quan se sospita que una acció pot tenir conseqüències adverses per a la salut humana, per als animals o per al medi ambient, encara que no se’n tingui la certesa absoluta des d’un punt de vista científic.",
+        "Descricao": "TRACTAMENT. Principi segons el qual s’han de promoure mesures protectores quan se sospita que una acció pot tenir conseqüències adverses per a la salut humana, per als animals o per al medi ambient, encara que no se’n tingui la certesa absoluta des d’un punt de vista científic.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -18072,7 +18222,7 @@
           "nl: primaire immunisatie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.    ; vacinación primaria  ; vacunación primaria  ; primary vaccination ; primovaccination  ; vaccination primaire   primo vacinação ; primaire vaccinatie ; primovaccinatie  PREVENCIÓ. Administració de la dosi inicial o del conjunt de dosis inicials d’una vacuna a una persona susceptible amb l’objectiu que adquireixi una immunitat adequada contra la malaltia o les malalties que combat la vacuna. necessari administrar una o diverses dosis de record, d’acord amb la pauta de vacunació de cada vacuna.",
+        "Descricao": "PREVENCIÓ. Administració de la dosi inicial o del conjunt de dosis inicials d’una vacuna a una persona susceptible amb l’objectiu que adquireixi una immunitat adequada contra la malaltia o les malalties que combat la vacuna. necessari administrar una o diverses dosis de record, d’acord amb la pauta de vacunació de cada vacuna.",
         "Citação": "Nota: Posteriorment a la primovacunació pot ser necessari administrar una o diverses dosis de record, d’acord amb la pauta de vacunació de cada vacuna.",
         "Categoria": "Vacinas e Imunização"
       }
@@ -18095,7 +18245,7 @@
           "nl: beginsel van weldoen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; principi de beneficéncia  ; ongintza-printzipio   ; principio de beneficencia  ; principle of beneficence    beneficência  ; principe van weldoen ",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Bioética e Leis"
       }
@@ -18118,7 +18268,7 @@
           "nl: beginsel van niet schaden"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; principi de non-maleficéncia    ; principio de no maleficencia  ; principle of nonmaleficence  ; principe de non-malfaisance   não maleficência  ; principe van niet schaden  TRACTAMENT. Principi bioètic que implica l’obligació de no fer mal a les persones ateses. quatre principis fonamentals en què es basa la bioètica, juntament amb el principi de beneficència, el principi d’autonomia i el principi de justícia. 2. El principi de no-maleficència es basa en la màxima (‘primer, no fer mal’).",
+        "Descricao": "TRACTAMENT. Principi bioètic que implica l’obligació de no fer mal a les persones ateses. quatre principis fonamentals en què es basa la bioètica, juntament amb el principi de beneficència, el principi d’autonomia i el principi de justícia. 2. El principi de no-maleficència es basa en la màxima (‘primer, no fer mal’).",
         "Citação": "Nota: 1. El principi de no-maleficència és un dels quatre principis fonamentals en què es basa la bioètica, juntament amb el principi de beneficència, el principi d’autonomia i el principi de justícia.2. El principi de no-maleficència es basa en la màxima primum non nocere (‘primer, no fer mal’).",
         "Categoria": "Bioética e Leis"
       }
@@ -18143,7 +18293,7 @@
           "nl: structureel eiwit"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; principio de precaución ; principio precautorio       ; structureel proteïne  ETIOPATOGÈNIA. Proteïna la funció principal de la qual és contribuir a donar la forma i l’estructura de les cèl·lules i dels teixits.",
+        "Descricao": "ETIOPATOGÈNIA. Proteïna la funció principal de la qual és contribuir a donar la forma i l’estructura de les cèl·lules i dels teixits.",
         "Citação": "",
         "Categoria": "Bioética e Leis"
       }
@@ -18176,7 +18326,7 @@
           "nl: prioritering"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; prioritization    ; triage  TRACTAMENT. Decisió en virtut de la qual es dona atenció preferent a una persona, a una situació o a un tema per davant d’altres, segons determinats valors, oportunitats o preferències. hauria de ser conscient de la priorització que fa sovint, la qual hauria de basar-se al màxim possible en el criteri de les diferents necessitats dels pacients. 2. En l’àmbit de la recerca, la priorització entre el que es fa i el que es deixa de fer és ineludible, tenint en compte la necessitat inabastable del coneixement, els recursos limitats i el cost d’oportunitat. No és inhabitual que l’investigador no sigui conscient de les raons de priorització d’una línia de recerca respecte d’altres possibles; ni tampoc és inhabitual que els interessos que dirigeixen aquella priorització no coincideixin amb l’interès comú. TRACTAMENT. Principi segons el qual els professionals de la salut tenen el deure d’oferir l’actuació sanitària que aporti el bé més gran possible a la persona atesa. principis fonamentals en què es basa la bioètica, juntament amb el principi de no-maleficència, el principi d’autonomia i el principi de justícia.",
+        "Descricao": "TRACTAMENT. Decisió en virtut de la qual es dona atenció preferent a una persona, a una situació o a un tema per davant d’altres, segons determinats valors, oportunitats o preferències. hauria de ser conscient de la priorització que fa sovint, la qual hauria de basar-se al màxim possible en el criteri de les diferents necessitats dels pacients. 2. En l’àmbit de la recerca, la priorització entre el que es fa i el que es deixa de fer és ineludible, tenint en compte la necessitat inabastable del coneixement, els recursos limitats i el cost d’oportunitat. No és inhabitual que l’investigador no sigui conscient de les raons de priorització d’una línia de recerca respecte d’altres possibles; ni tampoc és inhabitual que els interessos que dirigeixen aquella priorització no coincideixin amb l’interès comú. TRACTAMENT. Principi segons el qual els professionals de la salut tenen el deure d’oferir l’actuació sanitària que aporti el bé més gran possible a la persona atesa. principis fonamentals en què es basa la bioètica, juntament amb el principi de no-maleficència, el principi d’autonomia i el principi de justícia.",
         "Citação": "Nota: 1. En l’atenció sanitària, el professional de la salut hauria de ser conscient de la priorització que fa sovint, la qual hauria de basar-se al màxim possible en el criteri de les diferents necessitats dels pacients.2. En l’àmbit de la recerca, la priorització entre el que es fa i el que es deixa de fer és ineludible, tenint en compte la necessitat inabastable del coneixement, els recursos limitats i el cost d’oportunitat. No és inhabitual que l’investigador no sigui conscient de les raons de priorització d’una línia de recerca respecte d’altres possibles; ni tampoc és inhabitual que els interessos que dirigeixen aquella priorització no coincideixin amb l’interès comú.",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -18532,7 +18682,7 @@
           "nl: C-reactief proteïne"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       proteína C-reativa  proteína C reativa  ; CRP  DIAGNÒSTIC. Pentraxina que s’uneix a la fosforilcolina constituent del polisacàrid C dels pneumococs, i actua com a opsonina.",
+        "Descricao": "DIAGNÒSTIC. Pentraxina que s’uneix a la fosforilcolina constituent del polisacàrid C dels pneumococs, i actua com a opsonina.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -18582,7 +18732,7 @@
           "nl: mengmonster"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "   ; test de agrupamento de mostras   ; pooling ; pooling samples  ; regroupement d’échantillons ; test de groupage d’échantillons  teste combinado  teste de amostras combinadas  ; verzamelmonster  DIAGNÒSTIC. Sistema de cribratge que consisteix a combinar diverses mostres en una única mescla, de manera que es fa una única prova diagnòstica sobre la mostra combinada. per a detectar la infecció pel SARS-CoV-2, aplicada a les PCR fetes sobre població asimptomàtica. És útil per a col·lectius de baixa incidència, en què es fa una única PCR d’un conjunt de mostres d’entre 8 i 10 persones. Si el resultat és negatiu, s’entén que totes les persones estan lliures del coronavirus; si resulta positiu, cal repetir la prova individualment a cadascuna de les persones de la mostra. 2. La prova de mostres combinades permet realitzar cribratges més grans a la població en zones de baixa prevalença, fent servir menys reactius, a un cost menor i amb menys ocupació dels laboratoris.",
+        "Descricao": "DIAGNÒSTIC. Sistema de cribratge que consisteix a combinar diverses mostres en una única mescla, de manera que es fa una única prova diagnòstica sobre la mostra combinada. per a detectar la infecció pel SARS-CoV-2, aplicada a les PCR fetes sobre població asimptomàtica. És útil per a col·lectius de baixa incidència, en què es fa una única PCR d’un conjunt de mostres d’entre 8 i 10 persones. Si el resultat és negatiu, s’entén que totes les persones estan lliures del coronavirus; si resulta positiu, cal repetir la prova individualment a cadascuna de les persones de la mostra. 2. La prova de mostres combinades permet realitzar cribratges més grans a la població en zones de baixa prevalença, fent servir menys reactius, a un cost menor i amb menys ocupació dels laboratoris.",
         "Citação": "Nota: 1. La prova de mostres combinades es fa servir per a detectar la infecció pel SARS-CoV-2, aplicada a les PCR fetes sobre població asimptomàtica. És útil per a col·lectius de baixa incidència, en què es fa una única PCR d’un conjunt de mostres d’entre 8 i 10 persones. Si el resultat és negatiu, s’entén que totes les persones estan lliures del coronavirus; si resulta positiu, cal repetir la prova individualment a cadascuna de les persones de la mostra.2. La prova de mostres combinades permet realitzar cribratges més grans a la població en zones de baixa prevalença, fent servir menys reactius, a un cost menor i amb menys ocupació dels laboratoris.",
         "Categoria": "Anatomia"
       }
@@ -18605,7 +18755,7 @@
           "nl: spike-eiwit"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; proteïna espicula ; proteïna S  ; spike proteina  ; proteína espícula ;  ; proteína S  ; spike glycoprotein ; spike protein  ; protéine spike   proteína spike  ;  proteína de espícula  ; stekeleiwit  ETIOPATOGÈNIA. Proteïna transmembrana constituent de les espícules dels coronavirus que conté el domini d’unió al receptor cel·lular i possibilita la fusió de la membrana del virus amb la membrana cel·lular, de manera que l’RNA víric s’allibera dins la cèl·lula infectada. neutralitzants contra els coronavirus. Bona part de les vacunes i fàrmacs contra la COVID-19, ja aprovats o en assaigs clínics en curs, s'adrecen cap a la proteïna S del SARS-CoV-2.",
+        "Descricao": "ETIOPATOGÈNIA. Proteïna transmembrana constituent de les espícules dels coronavirus que conté el domini d’unió al receptor cel·lular i possibilita la fusió de la membrana del virus amb la membrana cel·lular, de manera que l’RNA víric s’allibera dins la cèl·lula infectada. neutralitzants contra els coronavirus. Bona part de les vacunes i fàrmacs contra la COVID-19, ja aprovats o en assaigs clínics en curs, s'adrecen cap a la proteïna S del SARS-CoV-2.",
         "Citação": "Nota: La proteïna S és una diana comuna per a anticossos neutralitzants contra els coronavirus. Bona part de les vacunes i fàrmacs contra la COVID-19, ja aprovats o en assaigs clínics en curs, s'adrecen cap a la proteïna S del SARS-CoV-2.",
         "Categoria": "Anatomia"
       }
@@ -18673,7 +18823,7 @@
           "nl: sneltest"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  sin. compl. ;  ; pròva de mòstres combinades ; tèst per agropament de mòstres ; tèst per combinacion de mòstres  ; pooling  ; test rapide immunochromatographique   teste de diagnóstico rápido ;  teste rápido de antigénio   DIAGNÒSTIC. Prova qualitativa de diagnòstic o de cribratge de la COVID-19, en què es detecta mitjançant immunocromatografia la presència d’antígens en una mostra de mucosa orofaríngia o nasofaríngia o la presència d’anticossos en una gota de sang, respectivament, de manera senzilla i en uns 10-15 minuts.",
+        "Descricao": "DIAGNÒSTIC. Prova qualitativa de diagnòstic o de cribratge de la COVID-19, en què es detecta mitjançant immunocromatografia la presència d’antígens en una mostra de mucosa orofaríngia o nasofaríngia o la presència d’anticossos en una gota de sang, respectivament, de manera senzilla i en uns 10-15 minuts.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -18705,7 +18855,7 @@
           "gl: proba diagnóstica con PCR"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;   ; PCR proba  ; proba PCR ; test PCR",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -18741,7 +18891,7 @@
           "nl: antigeen-sneltest"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  sin. compl.  ; tèst d’antigens   ; proba de antíxenos ; test de antíxenos  ; test de antígenos  ; antigen test   teste de antigénio  teste de antígeno  ; antigeentest ; sneltest  DIAGNÒSTIC. Prova de detecció de proteïnes de microorganismes presents en una mostra biològica. la infecció pel SARS-CoV-2, es fa servir una mostra nasofaríngia o de saliva recollida amb un escovilló. En uns 10-15 minuts es pot tenir el resultat, amb una fiabilitat propera al 98% i amb un cost menor que altres proves de detecció.",
+        "Descricao": "DIAGNÒSTIC. Prova de detecció de proteïnes de microorganismes presents en una mostra biològica. la infecció pel SARS-CoV-2, es fa servir una mostra nasofaríngia o de saliva recollida amb un escovilló. En uns 10-15 minuts es pot tenir el resultat, amb una fiabilitat propera al 98% i amb un cost menor que altres proves de detecció.",
         "Citação": "Nota: En el cas de les proves d’antígens per a detectar la infecció pel SARS-CoV-2, es fa servir una mostra nasofaríngia o de saliva recollida amb un escovilló. En uns 10-15 minuts es pot tenir el resultat, amb una fiabilitat propera al 98% i amb un cost menor que altres proves de detecció.",
         "Categoria": "Diagnóstico"
       }
@@ -18789,7 +18939,7 @@
           "en: immunochromatographic rapid test"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  immunocromatografia ; pròva rapida ; tèst rapid  ; test laster  ; proba rápida ; test rápido inmunocromatográfico  ; prueba rápida inmunocromatográfica ; test rápido  ; rapid test activa, mentre que la detecció d’anticossos és una prova indirecta d’immunitat o de malaltia que està en fase activa o passada.",
+        "Descricao": "Immunocromatografia ; pròva rapida ; tèst rapid  ; test laster  ; proba rápida ; test rápido inmunocromatográfico  ; prueba rápida inmunocromatográfica ; test rápido  ; rapid test activa, mentre que la detecció d’anticossos és una prova indirecta d’immunitat o de malaltia que està en fase activa o passada.",
         "Citação": "Nota: La detecció d’antígens és una prova d’infecció activa, mentre que la detecció d’anticossos és una prova indirecta d’immunitat o de malaltia que està en fase activa o passada.",
         "Categoria": "Diagnóstico"
       }
@@ -18816,7 +18966,7 @@
           "nl: PCR-test"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ; ; ;  ; tèst serologic  ; test serologiko  ; proba inmunolóxica ; proba serolóxica ; test inmunolóxico ; test serolóxico  ; prueba inmunológica ; prueba serológica  ; serological test ; serum test  ; test sérologique  teste serológico ; TRAg  prova sorológica ; teste sorológico   DIAGNÒSTIC. Prova quantitativa de diagnòstic o de cribratge, en què es detecta la presència d’antígens o d’anticossos en la sang, en unes 48-72 hores.  ; prueba de reacción en cadena de la polimerasa ; prueba diagnóstica mediante PCR ; test de PCR  ; PCR test ; polymerase chain reaction test  ; test PCR   teste de diagnóstico por PCR ;  teste de PCR  teste de reação em cadeia da polimerase  ; PCR  DIAGNÒSTIC. Prova diagnòstica que, a partir d’una mostra mucosa orofaríngia o nasofaríngia, detecta la presència de material genètic del virus en unes 4 hores mitjançant una PCR.",
+        "Descricao": "DIAGNÒSTIC. Prova quantitativa de diagnòstic o de cribratge, en què es detecta la presència d’antígens o d’anticossos en la sang, en unes 48-72 hores.  ; prueba de reacción en cadena de la polimerasa ; prueba diagnóstica mediante PCR ; test de PCR  ; PCR test ; polymerase chain reaction test  ; test PCR   teste de diagnóstico por PCR ;  teste de PCR  teste de reação em cadeia da polimerase  ; PCR  DIAGNÒSTIC. Prova diagnòstica que, a partir d’una mostra mucosa orofaríngia o nasofaríngia, detecta la presència de material genètic del virus en unes 4 hores mitjançant una PCR.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -18849,7 +18999,7 @@
           "nl: prodromaal verschijnsel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; prodroom ; voorloper  CLÍNICA. Senyal precursor d’alguna malaltia.",
+        "Descricao": "CLÍNICA. Senyal precursor d’alguna malaltia.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -18950,7 +19100,7 @@
           "nl: injectieplaats"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; punt d’inoculacion   ; punto de inxección  ; punto de inoculación ; punto de inyección  ; site of injection ; site of inoculation  ; point d’inoculation ; site d’injection  local de injeção ;  ponto de inoculação  local da aplicação ; local da injeção   TRACTAMENT. Punt anatòmic en què s’injecta una vacuna.",
+        "Descricao": "TRACTAMENT. Punt anatòmic en què s’injecta una vacuna.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -18964,7 +19114,7 @@
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg. és transmissible, amb l’objectiu d’evitar-ne la propagació durant el període d’incubació. certes activitats. En el cas de la COVID-19, el període de quarantena pot variar entre 7 i 14 dies a partir del darrer dia d’exposició, segons les circumstàncies.",
+        "Descricao": "És transmissible, amb l’objectiu d’evitar-ne la propagació durant el període d’incubació. certes activitats. En el cas de la COVID-19, el període de quarantena pot variar entre 7 i 14 dies a partir del darrer dia d’exposició, segons les circumstàncies.",
         "Citação": "Nota: La quarantena pot ser completa o limitada a certes activitats. En el cas de la COVID-19, el període de quarantena pot variar entre 7 i 14 dies a partir del darrer dia d’exposició, segons les circumstàncies.",
         "Categoria": "Termos Gerais"
       }
@@ -19027,7 +19177,7 @@
           "nl: levenskwaliteit"
         ],
         "Sigla": "QV",
-        "Descricao": " ; QV  ; BK  ; CV  ; CV  ; QOL   QdV   TRACTAMENT. Percepció que té una persona de la seva condició de vida, determinada a partir de l’escala de valors, les aspiracions i les expectatives personals en els diferents àmbits de la vida personal, familiar i social. entre d’altres, són: benestar emocional, relacions interpersonals, benestar material, desenvolupament personal, benestar físic, autodeterminació, inclusió social i drets.",
+        "Descricao": "TRACTAMENT. Percepció que té una persona de la seva condició de vida, determinada a partir de l’escala de valors, les aspiracions i les expectatives personals en els diferents àmbits de la vida personal, familiar i social. entre d’altres, són: benestar emocional, relacions interpersonals, benestar material, desenvolupament personal, benestar físic, autodeterminació, inclusió social i drets.",
         "Citação": "Nota: Els àmbits en què s’avalua la qualitat de vida, entre d’altres, són: benestar emocional, relacions interpersonals, benestar material, desenvolupament personal, benestar físic, autodeterminació, inclusió social i drets.",
         "Categoria": "Termos Gerais"
       }
@@ -19060,7 +19210,7 @@
           "nl: quarantaine"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         PREVENCIÓ. Restricció de les activitats de persones o animals sans que han estat en contacte amb una persona o un animal amb una malaltia contagiosa durant la fase en què la malaltia que identifica les característiques pròpies de la infecció pulmonar dels pacients amb COVID-19.",
+        "Descricao": "PREVENCIÓ. Restricció de les activitats de persones o animals sans que han estat en contacte amb una persona o un animal amb una malaltia contagiosa durant la fase en què la malaltia que identifica les característiques pròpies de la infecció pulmonar dels pacients amb COVID-19.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -19083,7 +19233,7 @@
           "nl: in quarantaine gaan"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "placer en quarantaine PREVENCIÓ. Posar algú en quarantena.",
+        "Descricao": "PREVENCIÓ. Posar algú en quarantena.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -19181,7 +19331,7 @@
           "nl: radiografie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         DIAGNÒSTIC. Tècnica exploratòria que consisteix a sotmetre un cos o un objecte a l’acció dels raigs X per a obtenir-ne una imatge sobre una superfície sensible, com ara una placa radiogràfica.",
+        "Descricao": "DIAGNÒSTIC. Tècnica exploratòria que consisteix a sotmetre un cos o un objecte a l’acció dels raigs X per a obtenir-ne una imatge sobre una superfície sensible, com ara una placa radiogràfica.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -19203,7 +19353,7 @@
           "nl: radiomics"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        radiômica  ; radiomics-beeldanalyse  DIAGNÒSTIC. Tècnica que aprofita els avenços en les aplicacions d’intel·ligència artificial per a oferir un rendiment més alt en les proves d’imatge clàssiques. de la infecció pel SARS-CoV-2 gràcies a un algorisme amb les ales formades per una membrana que va des de les extremitats anteriors fins a la cua, de costums nocturns i amb capacitat d’orientar-se en la foscor mitjançant l’emissió de vibracions, que té una dieta insectívora. de coronavirus. Alguns estudis apunten que pot fer entre 40 i 70 anys que el SARS-CoV-2 infecta aquests mamífers.",
+        "Descricao": "DIAGNÒSTIC. Tècnica que aprofita els avenços en les aplicacions d’intel·ligència artificial per a oferir un rendiment més alt en les proves d’imatge clàssiques. de la infecció pel SARS-CoV-2 gràcies a un algorisme amb les ales formades per una membrana que va des de les extremitats anteriors fins a la cua, de costums nocturns i amb capacitat d’orientar-se en la foscor mitjançant l’emissió de vibracions, que té una dieta insectívora. de coronavirus. Alguns estudis apunten que pot fer entre 40 i 70 anys que el SARS-CoV-2 infecta aquests mamífers.",
         "Citação": "Nota: La radiòmica permet de millorar el diagnòstic de la infecció pel SARS-CoV-2 gràcies a un algorisme R141QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19",
         "Categoria": "Tecnologia em Saúde"
       }
@@ -19277,7 +19427,7 @@
           "nl: contactonderzoek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; tralha de contactes  ; kontaktuen jarraipen  ; seguimento de contactos  ; seguimiento de contactos  ; contact tracing ; contact tracking  ; traçage des contacts  rastreio de contactos  rastreamento de contatos  ; contactopvolging ; contacttracering ; contacttracing  EPIDEMIOLOGIA. Tècnica per a fer el seguiment i tractament de les persones que han tingut contacte estret amb una persona infectada per una malaltia epidèmica, amb la finalitat de frenar la progressió de la malaltia. que han tingut contacte amb persones infectades siguin supervisades durant un cert període de temps i finalment aïllades si s’infecten. En el context d’una epidèmia és fonamental com a mesura de control.",
+        "Descricao": "EPIDEMIOLOGIA. Tècnica per a fer el seguiment i tractament de les persones que han tingut contacte estret amb una persona infectada per una malaltia epidèmica, amb la finalitat de frenar la progressió de la malaltia. que han tingut contacte amb persones infectades siguin supervisades durant un cert període de temps i finalment aïllades si s’infecten. En el context d’una epidèmia és fonamental com a mesura de control.",
         "Citação": "Nota: El rastreig de contactes intenta que les persones que han tingut contacte amb persones infectades siguin supervisades durant un cert període de temps i finalment aïllades si s’infecten. En el context d’una epidèmia és fonamental com a mesura de control.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -19299,7 +19449,7 @@
           "nl: contactonderzoeker"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " contactes   contactos  contactos    rastreador | rastreadora  rastreador de contato | rastreadora de contato  contactonderzoekster  contactopvolger | contactopvolgster  EPIDEMIOLOGIA. Persona que s’encarrega d’entrevistar els contactes estrets d’una persona amb una malaltia infecciosa per a fer-ne el rastreig.",
+        "Descricao": "EPIDEMIOLOGIA. Persona que s’encarrega d’entrevistar els contactes estrets d’una persona amb una malaltia infecciosa per a fer-ne el rastreig.",
         "Citação": ""
       }
     }
@@ -19335,7 +19485,7 @@
           "nl: vleermuis"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  sin. compl. ; ; ;    ; muricego       ETIOPATOGÈNIA. Mamífer volador de l’ordre quiròpters, de mida petita i d’orelles grosses,",
+        "Descricao": "ETIOPATOGÈNIA. Mamífer volador de l’ordre quiròpters, de mida petita i d’orelles grosses,",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -19373,7 +19523,7 @@
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -19395,7 +19545,7 @@
           "nl: kleine hoefijzerneus"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; ferra-saguzar txiki   ; rinolofo menor    morcego-de-ferradura-pequeno  morcego de ferradura pequeno  ; kleine hoefijzerneusvleermuis   ETIOPATOGÈNIA. Ratapinyada molt petita, d’entre 35 i 45 cm, d’orelles doblegades cap endavant i de color marró grisós pel dors i gris o blanc grisós pel ventre, que es distribueix des de l’Europa occidental fins a Àsia central i des d’Europa central fins a l’Àfrica del nord. des de la qual s’hauria transmès el SARS-CoV-2 a l’inici del salt d’espècie que l’ha dut a infectar els éssers humans.",
+        "Descricao": "ETIOPATOGÈNIA. Ratapinyada molt petita, d’entre 35 i 45 cm, d’orelles doblegades cap endavant i de color marró grisós pel dors i gris o blanc grisós pel ventre, que es distribueix des de l’Europa occidental fins a Àsia central i des d’Europa central fins a l’Àfrica del nord. des de la qual s’hauria transmès el SARS-CoV-2 a l’inici del salt d’espècie que l’ha dut a infectar els éssers humans.",
         "Citação": "Nota: El ratpenat de ferradura petit podria ser l’espècie des de la qual s’hauria transmès el SARS-CoV-2 a l’inici del salt d’espècie que l’ha dut a infectar els éssers humans.",
         "Categoria": "Termos Gerais"
       }
@@ -19432,7 +19582,7 @@
           "nl: ravulizumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ravulizumabe   1803171-55-2 PRINCIPIS ACTIUS. Fàrmac contra la proteïna factor del complement 5 que, potencialment, impedeix la destrucció de glòbuls vermells i la formació de coàguls. s’empra en el tractament de l’hemoglobinúria paroxística nocturna. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac contra la proteïna factor del complement 5 que, potencialment, impedeix la destrucció de glòbuls vermells i la formació de coàguls. s’empra en el tractament de l’hemoglobinúria paroxística nocturna. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El ravulizumab és un anticòs monoclonal que s’empra en el tractament de l’hemoglobinúria paroxística nocturna. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.2. La denominació ravulizumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -19493,7 +19643,7 @@
           "nl: nieuwe corona-uitbraak"
         ],
         "Sigla": "RAV",
-        "Descricao": " ; RAV  ; TOK  ; RAV  ; RAV       PREVENCIÓ. Efecte desfavorable atribuïble a l’administració d’una vacuna.  nova onda epidêmica ;  novo surto epidêmico  ; nieuwe uitbraak ; nieuwe virusuitbraak  EPIDEMIOLOGIA. Brot epidèmic d’una malaltia que es produeix en un territori durant la fase de remissió d’una epidèmia d’aquesta mateixa malaltia.",
+        "Descricao": "PREVENCIÓ. Efecte desfavorable atribuïble a l’administració d’una vacuna.  nova onda epidêmica ;  novo surto epidêmico  ; nieuwe uitbraak ; nieuwe virusuitbraak  EPIDEMIOLOGIA. Brot epidèmic d’una malaltia que es produeix en un territori durant la fase de remissió d’una epidèmia d’aquesta mateixa malaltia.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -19516,7 +19666,7 @@
           "nl: polymerasekettingreactie"
         ],
         "Sigla": "PCR",
-        "Descricao": " ; PCR  ; PCR  ; PCR  ; reacción en cadena por la polimerasa ;  ; PCR  ; réaction de polymérisation en chaîne ; réaction en chaîne de la polymérase ; ; PCR   ; PCR  DIAGNÒSTIC. Tècnica de genètica molecular consistent en cicles repetits de separació, associació i síntesi de DNA conduïts per parells d’encebadors orientats recíprocament, que permet copiar i amplificar in vitro seqüències de DNA específiques. d’investigació mèdica i biològica que permet obtenir grans quantitats d’un fragment determinat de DNA o RNA a partir d’una petita quantitat de material o, fins i tot, d’una sola molècula original. Té una gran varietat d’aplicacions: la clonació d’àcids nucleics per a seqüenciar- los posteriorment, la filogènia basada en el DNA, l’anàlisi funcional de gens, el diagnòstic de trastorns hereditaris, la identificació d’empremtes genètiques i la detecció i el diagnòstic de malalties infeccioses. correspon a l’anglès ( ).",
+        "Descricao": "DIAGNÒSTIC. Tècnica de genètica molecular consistent en cicles repetits de separació, associació i síntesi de DNA conduïts per parells d’encebadors orientats recíprocament, que permet copiar i amplificar in vitro seqüències de DNA específiques. d’investigació mèdica i biològica que permet obtenir grans quantitats d’un fragment determinat de DNA o RNA a partir d’una petita quantitat de material o, fins i tot, d’una sola molècula original. Té una gran varietat d’aplicacions: la clonació d’àcids nucleics per a seqüenciar- los posteriorment, la filogènia basada en el DNA, l’anàlisi funcional de gens, el diagnòstic de trastorns hereditaris, la identificació d’empremtes genètiques i la detecció i el diagnòstic de malalties infeccioses. correspon a l’anglès ( ).",
         "Citação": "Nota: 1. La PCR és una tècnica comuna en els laboratoris d’investigació mèdica i biològica que permet obtenir grans quantitats d’un fragment determinat de DNA o RNA a partir d’una petita quantitat de material o, fins i tot, d’una sola molècula original. Té una gran varietat d’aplicacions: la clonació d’àcids nucleics per a seqüenciar-los posteriorment, la filogènia basada en el DNA, l’anàlisi funcional de gens, el diagnòstic de trastorns hereditaris, la identificació d’empremtes genètiques i la detecció i el diagnòstic de malalties infeccioses.2. La sigla PCR correspon a l’anglès polymerase chain reaction (‛reacció en cadena per la polimerasa’).",
         "Categoria": "Diagnóstico"
       }
@@ -19533,7 +19683,7 @@
           "eu: erreakzio orokor"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  ; reaccion sistemica  ; erreakzio sistemiko",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -19556,7 +19706,7 @@
           "nl: locale reactie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; local reaction    ; plaatselijke reactie  CLÍNICA. Reacció a una vacuna que apareix al punt d’injecció, consistent generalment en una inflamació.",
+        "Descricao": "CLÍNICA. Reacció a una vacuna que apareix al punt d’injecció, consistent generalment en una inflamació.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -19570,7 +19720,7 @@
         "Substantivo": "",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Sem Descrição Associada",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -19601,7 +19751,7 @@
           "fr: nouvelle flambée épidémique"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; rebrotada epidemica   ; repunta epidémica   ; new wave   nova vaga epidémica ;  novo surto epidémico superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic.",
+        "Descricao": "Novo surto epidémico superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic.",
         "Citação": "Nota: El regdanvimab és un anticòs monoclonal que està en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -19637,7 +19787,7 @@
           "nl: hervallen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; birgaixotze       recidiva  ; relaps ; terugval  CLÍNICA. Represa evolutiva d’una malaltia en el període de convalescència, quan era aparentment en vies de guarició.",
+        "Descricao": "CLÍNICA. Represa evolutiva d’una malaltia en el període de convalescència, quan era aparentment en vies de guarició.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -19691,7 +19841,7 @@
           "nl: systeemreactie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; recidivism ; relapse  ; reacción xeral  ; reacción sistémica  ; systemic reaction  ; réaction systémique   reação sistémica  reação sistêmica  ; systemische reactie  CLÍNICA. Reacció a una vacuna que afecta tot l’organisme o un o més dels seus sistemes.",
+        "Descricao": "CLÍNICA. Reacció a una vacuna que afecta tot l’organisme o un o més dels seus sistemes.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -19724,7 +19874,7 @@
           "nl: recrudescentie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        exacerbação   CLÍNICA. Exacerbació d’un símptoma o d’una malaltia després d’una remissió temporal, sense que hi hagi hagut convalescència, i que pot produir-se després d’alguns dies o setmanes de remissió.",
+        "Descricao": "CLÍNICA. Exacerbació d’un símptoma o d’una malaltia després d’una remissió temporal, sense que hi hagi hagut convalescència, i que pot produir-se després d’alguns dies o setmanes de remissió.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -19820,7 +19970,7 @@
           "nl: regdanvimab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        regdanvimabe   2444308-95-4 PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la ratapinyades es comporten com un reservori natural per als coronavirus.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la ratapinyades es comporten com un reservori natural per als coronavirus.",
         "Citação": "Nota: Per exemple, en el cas de la COVID-19, les ratapinyades es comporten com un reservori natural per als coronavirus.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -19882,7 +20032,7 @@
           "nl: ademhalingsrevalidatie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       reabilitação respiratória  fisioterapia respiratória   TRACTAMENT. Maniobres i exercicis per a entrenar els músculs respiratoris amb l’objectiu de millorar la capacitat pulmonar, la dispnea, la tolerància a l’esforç i la qualitat de vida de les persones amb patologies respiratòries.",
+        "Descricao": "TRACTAMENT. Maniobres i exercicis per a entrenar els músculs respiratoris amb l’objectiu de millorar la capacitat pulmonar, la dispnea, la tolerància a l’esforç i la qualitat de vida de les persones amb patologies respiratòries.",
         "Citação": "",
         "Categoria": "Reabilitação"
       }
@@ -19906,7 +20056,7 @@
           "nl: recidief"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       reinfeção  reinfecção  ; herinfectie ; re-infectie  CLÍNICA. Infecció nova, en una persona ja infectada per un bacteri o un virus determinat, per una soca o una variant diferent de la mateixa espècie de l’agent infecciós actiu.   recidiva ; recorrência  ; recidieve  CLÍNICA. Increment nou d’un símptoma o d’una malaltia després d’una remissió temporal, sense que hi hagi hagut convalescència.",
+        "Descricao": "CLÍNICA. Infecció nova, en una persona ja infectada per un bacteri o un virus determinat, per una soca o una variant diferent de la mateixa espècie de l’agent infecciós actiu.   recidiva ; recorrência  ; recidieve  CLÍNICA. Increment nou d’un símptoma o d’una malaltia després d’una remissió temporal, sense que hi hagi hagut convalescència.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -19959,7 +20109,7 @@
           "nl: remdesivir"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         1809249-37-3 PRINCIPIS ACTIUS. Fàrmac antivíric que provoca un decrement de la producció d’RNA víric mitjançant la inhibició de l’RNA-polimerasa dirigida per RNA. s’empra en el tractament de la malaltia de l’Ebola. A l’Estat espanyol i a altres països se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric que provoca un decrement de la producció d’RNA víric mitjançant la inhibició de l’RNA-polimerasa dirigida per RNA. s’empra en el tractament de la malaltia de l’Ebola. A l’Estat espanyol i a altres països se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El remdesivir és un anàleg de nucleòtid que s’empra en el tractament de la malaltia de l’Ebola. A l’Estat espanyol i a altres països se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació remdesivir és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }

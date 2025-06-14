@@ -13769,7 +13769,7 @@
           "nl: artificiële intelligentie"
         ],
         "Sigla": "IA",
-        "Descricao": " ; IA  ; AA  ; IA  ; IA  ; AI  ; IA   ; kunstmatige intelligentie ; AI ; KI  DIAGNÒSTIC. Tecnologia que permet a les màquines analitzar i processar una gran quantitat de dades, que en el camp de la salut poden abastar des de la recerca fins al tractament, passant pel diagnòstic i la prevenció.",
+        "Descricao": "DIAGNÒSTIC. Tecnologia que permet a les màquines analitzar i processar una gran quantitat de dades, que en el camp de la salut poden abastar des de la recerca fins al tractament, passant pel diagnòstic i la prevenció.",
         "Citação": "",
         "Categoria": "Tecnologia em Saúde"
       }
@@ -13816,7 +13816,7 @@
           "sbl: IFN"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       interferão     ETIOPATOGÈNIA. Citocina amb un efecte inhibidor sobre la replicació vírica que és sintetitzada per algunes cèl·lules en resposta a infeccions víriques o a agents patògens intracel·lulars.",
+        "Descricao": "ETIOPATOGÈNIA. Citocina amb un efecte inhibidor sobre la replicació vírica que és sintetitzada per algunes cèl·lules en resposta a infeccions víriques o a agents patògens intracel·lulars.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -13830,11 +13830,17 @@
         "Substantivo": "n m",
         "Traduções": [
           "oc: interferon beta",
-          "eu: beta interferon",
-          "gl: interferón beta"
-        ],
+          "eu: beta interferoia",
+          "gl: interferón beta",
+          "es: interferón beta",
+          "en: interferon beta",
+          "fr: interféron bêta",
+          "pt: interferão beta",
+          "nl: interferon bèta",
+          "pl: interferon beta"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ",
+        "Descricao": "Proteïna del grup dels interferons produïda per l’organisme amb funcions antivirals i immunomoduladores; també s’utilitza com a medicament en diverses malalties autoimmunitàries com l’esclerosi múltiple.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -13887,7 +13893,7 @@
           "nl: intubatie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; intubación      TRACTAMENT. Col·locació temporal o permanent d’un tub en un conducte, un òrgan buit o en una cavitat orgànica en el cos d’un pacient.",
+        "Descricao": "TRACTAMENT. Col·locació temporal o permanent d’un tub en un conducte, un òrgan buit o en una cavitat orgànica en el cos d’un pacient.",
         "Citação": "",
         "Categoria": "Procedimentos Médicos"
       }
@@ -13900,20 +13906,6 @@
         "Conceito": "Investigação epidemiológica",
         "Categoria": "Epidemiologia",
         "Descrição": "Trabalho de campo realizado a partir de casos notiﬁ cados (clinicamente declarados ou suspeitos) e seus contatos, que tem como principais objetivos: identiﬁ car fonte e modo de transmissão; grupos expostos a maior risco; fatores determinantes; conﬁ rmar o diagnóstico; e determinar as principais características epidemiológicas e seu propósito ﬁ nal é orientar medidas de controle para impedir a ocorrência de novos casos."
-      }
-    }
-  },
-  {
-    "Conceito": "IP",
-    "Fontes": {
-      "covid": {
-        "Conceito": "IP",
-        "Substantivo": "",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Termos Gerais"
       }
     }
   },
@@ -13942,20 +13934,6 @@
         "Descrição": "acidente vascular cerebral isquêmico.",
         "Citação": "“...Conhecido  como  acidente  vascular  cerebral  isquêmico  (AVC)  ou isquemia  cerebral,  esse  problema  pode  levar  à  imobilidade  de  braços  e pernas e até mesmo à perda da fala...”",
         "Categoria": "Doenças"
-      }
-    }
-  },
-  {
-    "Conceito": "IT",
-    "Fontes": {
-      "covid": {
-        "Conceito": "IT",
-        "Substantivo": "",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Termos Gerais"
       }
     }
   },
@@ -14017,7 +13995,7 @@
           "nl: lanadelumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; verdelende recchtvbaardigheid  TRACTAMENT. Principi de justícia aplicat a la distribució del bé comú, que estableix un repartiment proporcional i un ús adequat dels recursos.     lanadelumabe   1426055-14-2 PRINCIPIS ACTIUS. Fàrmac antiinflamatori i immunomodulador que inhibeix l’activitat proteolítica de la calicreïna plasmàtica. que s’empra en el tractament de l'angioedema hereditari. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "TRACTAMENT. Principi de justícia aplicat a la distribució del bé comú, que estableix un repartiment proporcional i un ús adequat dels recursos.     lanadelumabe   1426055-14-2 PRINCIPIS ACTIUS. Fàrmac antiinflamatori i immunomodulador que inhibeix l’activitat proteolítica de la calicreïna plasmàtica. que s’empra en el tractament de l'angioedema hereditari. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El lanadelumab és un anticòs monoclonal IgG1 que s’empra en el tractament de l'angioedema hereditari. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.2. La denominació lanadelumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Bioética e Leis"
       }
@@ -14063,7 +14041,7 @@
           "nl: lactaatdehydrogenase"
         ],
         "Sigla": "LDH",
-        "Descricao": " ; lacticodesidrogenasa ; lactodesidrogenasa ; LDH  ; LDH  ; lacticodeshidroxenase ; lactodeshidroxenase ; LDH  ; lactato-deshidrogenasa ; LDH  ; lactic dehydrogenase ; LDH  ; lacticodéshydrogénase ; LDH  desidrogenase láctica ;  lactato desidrogenase  desidrogenase lática ; DHL  ; lactodehydrogenase ; melkzuurdehydrogenase ; LDH  DIAGNÒSTIC. Enzim del grup de les deshidrogenases que catalitza la reducció reversible del piruvat a L-lactat pel coenzim NADH en l’última etapa de la glucòlisi. com a marcador de la progressió de gravetat de la COVID-19.",
+        "Descricao": "DIAGNÒSTIC. Enzim del grup de les deshidrogenases que catalitza la reducció reversible del piruvat a L-lactat pel coenzim NADH en l’última etapa de la glucòlisi. com a marcador de la progressió de gravetat de la COVID-19.",
         "Citação": "Nota: El nivell de lactat-deshidrogenasa s’ha fet servir com a marcador de la progressió de gravetat de la COVID-19.",
         "Categoria": "Diagnóstico"
       }
@@ -14083,7 +14061,7 @@
           "leronlimab: és la forma catalana"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    que inhibeix el receptor del lligand 5 de les quimiocines CC. humanitzat que s’empra com a tractament experimental de diversos tipus de càncer i de la infecció pel virus de la immunodeficiència humana 1. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació corresponent a la DCI.",
+        "Descricao": "Que inhibeix el receptor del lligand 5 de les quimiocines CC. humanitzat que s’empra com a tractament experimental de diversos tipus de càncer i de la infecció pel virus de la immunodeficiència humana 1. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació corresponent a la DCI.",
         "Citação": "Nota: 1. El leronlimab és un anticòs monoclonal humanitzat que s’empra com a tractament experimental de diversos tipus de càncer i de la infecció pel virus de la immunodeficiència humana 1. Se n’ha suggerit l’ús per al tractament de la COVID-19.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -14106,7 +14084,7 @@
           "nl: latentie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         EPIDEMIOLOGIA. Període d’una malaltia en què no dona símptomes i aparentment no és activa.",
+        "Descricao": "EPIDEMIOLOGIA. Període d’una malaltia en què no dona símptomes i aparentment no és activa.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -14128,9 +14106,19 @@
       "covid": {
         "Conceito": "LDH",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: LDH (Lactat Desidrogenasa)",
+          "eu: LDH (Laktato Deshidrogenasa)",
+          "gl: LDH (Lactato Deshidroxenase)",
+          "es: LDH (Lactato Deshidrogenasa)",
+          "en: LDH (Lactate Dehydrogenase)",
+          "fr: LDH (Lactate Déshydrogénase)",
+          "pt: LDH (Lactato Desidrogenase)",
+          "nl: LDH (Lactaatdehydrogenase)",
+          "pl: LDH (Dehydrogenaza mleczanowa)"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Enzim present en molts teixits del cos que participa en el metabolisme del lactat; els seus nivells en sang poden augmentar en cas de dany tissular o malalties diverses.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -14200,7 +14188,7 @@
           "nl: lenzilumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        lenzilumabe   1229575-09-0 PRINCIPIS ACTIUS. Fàrmac immunomodulador en investigació que s’uneix al factor estimulant de colònies de granulòcits i macròfags. humanitzat que s’empra com a tractament experimental de l’asma, l’artritis reumatoide i la leucèmia limfocítica crònica. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador en investigació que s’uneix al factor estimulant de colònies de granulòcits i macròfags. humanitzat que s’empra com a tractament experimental de l’asma, l’artritis reumatoide i la leucèmia limfocítica crònica. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El lenzilumab és un anticòs monoclonal humanitzat que s’empra com a tractament experimental de l’asma, l’artritis reumatoide i la leucèmia limfocítica crònica. Se n’ha suggerit l’ús per al tractament de la COVID-19.2. La denominació lenzilumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -14251,7 +14239,7 @@
           "nl: B-cel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        leronlimabe   674782-26-4 PRINCIPIS ACTIUS. Fàrmac immunomodulador, antineoplàstic i antiretroviral en investigació  ; linfocito B  ; B lymphocyte ; B-cell  ; lymphocyte B  ; linfócito B  ; B-lymfocyt  CONCEPTES GENERALS. Limfòcit produït a la medul·la òssia en els mamífers que té capacitat de produir anticossos i és responsable de la resposta immunitària humoral. prové de la denominació clàssica d'aquest tipus de cèl·lula, , en contraposició al terme .",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador, antineoplàstic i antiretroviral en investigació  ; linfocito B  ; B lymphocyte ; B-cell  ; lymphocyte B  ; linfócito B  ; B-lymfocyt  CONCEPTES GENERALS. Limfòcit produït a la medul·la òssia en els mamífers que té capacitat de produir anticossos i és responsable de la resposta immunitària humoral. prové de la denominació clàssica d'aquest tipus de cèl·lula, , en contraposició al terme .",
         "Citação": "Nota: El nom limfòcit B prové de la denominació clàssica d'aquest tipus de cèl·lula, limfòcit bursodependent, en contraposició al terme limfòcit timodependent.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -14268,20 +14256,6 @@
         "Descrição": "Lesão  das  estruturas  medulares  que  causa  a  interrupção  da  passagem  de estímulos nervosos através da medula. Inf. encicl.: a lesão pode ser completa ou incompleta. A lesão é completa quando  não  existe  movimento  voluntário  abaixo  do  nível  da  lesão  e  é incompleta  quando  há  algum  movimento  voluntário  ou  sensação  abaixo do nível da lesão. Esse tipo de lesão geralmente ocorre em virtude de um evento  traumático,  como  acidentes  automobilísticos,  mergulho,  agressão com  arma  de  fogo  ou  queda.  Também  pode  ser  causada  por  algumas doenças  (causas  não  traumáticas),  como  por  exemplo,  hemorragias, tumores e infecções por vírus.",
         "Citação": "“...No  início  do  tratamento,  o  pesquisador  fez  o  exame  de  potencial evocado  na  publicitária  e  viu  que  os  sinais  nervosos  provenientes  da região  abaixo  da  lesão  medular  não  alcançavam  o  cérebro,  algo totalmente esperado devido à sua condição de paraplégica...”",
         "Categoria": "Doenças"
-      }
-    }
-  },
-  {
-    "Conceito": "LET",
-    "Fontes": {
-      "covid": {
-        "Conceito": "LET",
-        "Substantivo": "",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Termos Gerais"
       }
     }
   },
@@ -14339,9 +14313,19 @@
       "covid": {
         "Conceito": "limfocitopènia",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: linfocitopènia",
+          "eu: linfozitopenia",
+          "gl: linfocitopenia",
+          "es: linfocitopenia",
+          "en: lymphocytopenia",
+          "fr: lymphopénie",
+          "pt: linfocitopenia",
+          "nl: lymfocytopenie",
+          "pl: limfocytopenia"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Disminució anormal del nombre de limfòcits a la sang, que pot augmentar la susceptibilitat a infeccions i estar associada a diverses malalties o tractaments.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -14364,7 +14348,7 @@
           "nl: lymfocytopenie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; limfopenia  ; linfozitopenia  ; linfopenia  ; linfopenia  ; lymphopenia  ; lymphopénie    ; lymfopenie  DIAGNÒSTIC. Disminució del nombre de limfòcits a la sang circulant.",
+        "Descricao": "DIAGNÒSTIC. Disminució del nombre de limfòcits a la sang circulant.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -14387,7 +14371,7 @@
           "nl: lymfecel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; lymfocyt  CONCEPTES GENERALS. Leucòcit mononucleat de dimensions petites, amb el citoplasma sense granulacions, present normalment a la sang circulant i als teixits limfoides, que és responsable dels mecanismes de resposta immunitària. els limfòcits T i les cèl·lules NK.",
+        "Descricao": "CONCEPTES GENERALS. Leucòcit mononucleat de dimensions petites, amb el citoplasma sense granulacions, present normalment a la sang circulant i als teixits limfoides, que és responsable dels mecanismes de resposta immunitària. els limfòcits T i les cèl·lules NK.",
         "Citação": "Nota: Existeixen tres tipus de limfòcits: els limfòcits B, els limfòcits T i les cèl·lules NK.",
         "Categoria": "Imunologia"
       }
@@ -14405,7 +14389,7 @@
           "gl: célula B"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; limfòcit B  ; B zelula  ; linfocito B",
+        "Descricao": "Cèl·lula del sistema immunitari responsable de la producció d’anticossos, que tenen un paper clau en la defensa contra infeccions i en la memòria immunològica.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -14428,7 +14412,7 @@
           "nl: geheugencel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; oroimen-zelula     ; lymphocyte à mémoire ; lymphocyte mémoire   linfócito de memória  ; geheugenlymfocyt ; herinneringscel  CONCEPTES GENERALS. Limfòcit T o limfòcit B producte d’una resposta anterior contra un antigen i amb capacitat de produir una resposta immunitària secundària quan es troba de nou amb aquest antigen.",
+        "Descricao": "CONCEPTES GENERALS. Limfòcit T o limfòcit B producte d’una resposta anterior contra un antigen i amb capacitat de produir una resposta immunitària secundària quan es troba de nou amb aquest antigen.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -14451,7 +14435,7 @@
           "nl: T-cel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; limfòcit T  ; T zelula  ; linfocito T  ; linfocito T  ; T lymphocyte ; T-cell  ; lymphocyte T  ; linfócito T  ; T-helpercel ; T-lymfocyt  CONCEPTES GENERALS. Limfòcit diferenciat en el timus que no té capacitat de produir anticossos i és responsable de la resposta immunitària cel·lular. prové de la denominació clàssica d’aquest tipus de cèl·lula, , en contraposició al terme .",
+        "Descricao": "CONCEPTES GENERALS. Limfòcit diferenciat en el timus que no té capacitat de produir anticossos i és responsable de la resposta immunitària cel·lular. prové de la denominació clàssica d’aquest tipus de cèl·lula, , en contraposició al terme .",
         "Citação": "Nota: El nom limfòcit T prové de la denominació clàssica d’aquest tipus de cèl·lula, limfòcit timodependent, en contraposició al terme limfòcit bursodependent.",
         "Categoria": "Imunologia"
       }
@@ -14549,7 +14533,7 @@
           "nl: ontstekingsmarker"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         192725-17-0 PRINCIPIS ACTIUS. Fàrmac antiretroviral inhibidor de la proteasa 1 del virus de la immunodeficiència humana 1. i s’administra en combinació amb el ritonavir per a augmentar les concentracions plasmàtiques d’ambdós fàrmacs. Se n’ha suggerit l’ús, juntament amb el ritonavir, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.     DIAGNÒSTIC. Molècula que es fa servir com a indici per a valorar el grau d’inflamació d’un organisme. el dímer-D i la procalcitonina són marcadors inflamatoris relacionats amb la COVID-19.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antiretroviral inhibidor de la proteasa 1 del virus de la immunodeficiència humana 1. i s’administra en combinació amb el ritonavir per a augmentar les concentracions plasmàtiques d’ambdós fàrmacs. Se n’ha suggerit l’ús, juntament amb el ritonavir, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.     DIAGNÒSTIC. Molècula que es fa servir com a indici per a valorar el grau d’inflamació d’un organisme. el dímer-D i la procalcitonina són marcadors inflamatoris relacionats amb la COVID-19.",
         "Citação": "Nota: 1. El lopinavir s’empra en el tractament de la sida i s’administra en combinació amb el ritonavir per a augmentar les concentracions plasmàtiques d’ambdós fàrmacs. Se n’ha suggerit l’ús, juntament amb el ritonavir, per al tractament de la COVID-19. És d’origen sintètic.2. La denominació lopinavir és la forma catalana corresponent a la DCI.L113QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19",
         "Categoria": "Fármacos e Terapias"
       }
@@ -14624,7 +14608,7 @@
           "nl: macrofaag"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         CONCEPTES GENERALS. Cèl·lula del sistema mononuclear fagocític derivada d’un monòcit, de grans dimensions i localitzada als teixits, que es caracteritza per una gran activitat fagocítica i per la capacitat migratòria a través del teixit connectiu. estímuls i adquirir una gran capacitat de presentació antigènica i de producció de substàncies bioactives.",
+        "Descricao": "CONCEPTES GENERALS. Cèlulula del sistema mononuclear fagocític derivada d’un monòcit, de grans dimensions i localitzada als teixits, que es caracteritza per una gran activitat fagocítica i per la capacitat migratòria a través del teixit connectiu. estímuls i adquirir una gran capacitat de presentació antigènica i de producció de substàncies bioactives.",
         "Citação": "Nota: Un macròfag pot activar-se per diversos estímuls i adquirir una gran capacitat de presentació antigènica i de producció de substàncies bioactives.",
         "Categoria": "Imunologia"
       }
@@ -14664,9 +14648,19 @@
       "covid": {
         "Conceito": "mal de cap",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: dolor de cap",
+          "eu: buruko mina",
+          "gl: dor de cabeza",
+          "es: dolor de cabeza",
+          "en: headache",
+          "fr: mal de tête",
+          "pt: dor de cabeça",
+          "nl: hoofdpijn",
+          "pl: ból głowy"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Dolor localitzat al cap, que pot tenir diverses causes, des de tensions musculars i migranyes fins a problemes neurològics o infecciosos.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -14692,9 +14686,19 @@
       "covid": {
         "Conceito": "mal de costat",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: dolor de costat",
+          "eu: alboko mina",
+          "gl: dor de costado",
+          "es: dolor de costado",
+          "en: side pain",
+          "fr: douleur sur le côté",
+          "pt: dor de lado",
+          "nl: pijn in de zij",
+          "pl: ból z boku"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Dolor localitzat a un costat de l’abdomen o del tòrax, que pot tenir origen muscular, digestiu, respiratori o renal, entre d’altres.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -14734,9 +14738,19 @@
       "covid": {
         "Conceito": "mal de pit",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: dolor al pit",
+          "eu: bularreko mina",
+          "gl: dor no peito",
+          "es: dolor en el pecho",
+          "en: chest pain",
+          "fr: douleur thoracique",
+          "pt: dor no peito",
+          "nl: pijn op de borst",
+          "pl: ból w klatce piersiowej"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Dolor localitzat al tòrax, que pot tenir múltiples causes, des de trastorns musculars o digestius fins a problemes cardíacs o respiratoris.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -14748,9 +14762,19 @@
       "covid": {
         "Conceito": "malaltia del coronavirus 2019",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: malautiá del coronavirus 2019",
+          "eu: 2019ko koronabirus gaixotasuna",
+          "gl: enfermidade do coronavirus de 2019",
+          "es: enfermedad por coronavirus de 2019",
+          "en: coronavirus disease 2019",
+          "fr: maladie à coronavirus 2019",
+          "pt: doença do coronavírus 2019",
+          "nl: coronavirusziekte 2019",
+          "pl: choroba koronawirusowa 2019"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Malaltia infecciosa causada pel coronavirus SARS-CoV-2, identificada per primera vegada el 2019, que pot provocar des de símptomes lleus fins a formes greus amb complicacions respiratòries.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -14804,7 +14828,7 @@
           "en: inflammatory marker"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; inflamazio-markatzaile   ",
+        "Descricao": "Substància present a la sang o als teixits que indica la presència i el grau d’inflamació en l’organisme, com ara la proteïna C reactiva o la interleucina-6.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -14827,7 +14851,7 @@
           "nl: duizeligheid"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "tonturas tontura CLÍNICA. Estat vegetatiu distònic molt molest, de predomini vagotònic, que apareix quan el cos és sotmès a canvis posturals passivament adquirits i repetits durant el moviment. i repetit de l’aparell vestibular en els seus canals semicirculars.",
+        "Descricao": "CLÍNICA. Estat vegetatiu distònic molt molest, de predomini vagotònic, que apareix quan el cos és sotmès a canvis posturals passivament adquirits i repetits durant el moviment. i repetit de l’aparell vestibular en els seus canals semicirculars.",
         "Citação": "Nota: El mareig és conseqüència d’un estímul normal i repetit de l’aparell vestibular en els seus canals semicirculars.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -14844,48 +14868,6 @@
     }
   },
   {
-    "Conceito": "mascareta",
-    "Fontes": {
-      "covid": {
-        "Conceito": "mascareta",
-        "Substantivo": "",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Equipamentos e Dispositivos"
-      }
-    }
-  },
-  {
-    "Conceito": "mascareta higiènica",
-    "Fontes": {
-      "covid": {
-        "Conceito": "mascareta higiènica",
-        "Substantivo": "",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Equipamentos e Dispositivos"
-      }
-    }
-  },
-  {
-    "Conceito": "mascareta quirúrgica",
-    "Fontes": {
-      "covid": {
-        "Conceito": "mascareta quirúrgica",
-        "Substantivo": "",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Equipamentos e Dispositivos"
-      }
-    }
-  },
-  {
     "Conceito": "MEDI 3506",
     "Fontes": {
       "covid": {
@@ -14895,7 +14877,7 @@
           "oc: MEDI 3506"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " 2. Segons la capacitat de filtració, hi ha màscares autofiltrants FFP1 (eficàcia de filtració mínima del 78%), FFP2 (eficàcia de filtració mínima del 92%) o FFP3 (eficàcia de filtració mínima del 98%). 3. Les màscares FFP2 i FFP3 poden ser amb vàlvula d’exhalació o sense vàlvula d’exhalació. Cal tenir en compte que les primeres protegeixen només la persona que les porta.",
+        "Descricao": "Anticòs monoclonal experimental dirigit contra la interleucina-33 (IL-33), estudiat en el tractament de malalties inflamatòries i respiratòries.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -14908,27 +14890,17 @@
         "Conceito": "medicalitzar",
         "Substantivo": "",
         "Traduções": [
-          "v tr: ",
           "oc: medicalizar",
-          "v tr: ",
           "eu: medikalizatu",
-          "v tr: ",
           "gl: medicalizar",
-          "v tr: ",
           "es: medicalizar",
-          "v tr: ",
           "en: medicalize",
-          "v tr: ",
           "fr: médicaliser",
-          "v tr: ",
           "pt: medicalizar",
-          "v tr: ",
-          "nl: medisch uitrusten",
-          "v tr: ;",
-          "v tr: "
+          "nl: medisch uitrusten"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "met medische voorzieningen uitrusten ENTORN SOCIAL. Dotar de personal sanitari i d’equipament mèdic un vehicle o un espai. un tren, un helicòpter, un hotel o un càmping.",
+        "Descricao": "ENTORN SOCIAL. Dotar de personal sanitari i d’equipament mèdic un vehicle o un espai. un tren, un helicòpter, un hotel o un càmping.",
         "Citação": "Nota: Per exemple, es pot medicalitzar una ambulància, un tren, un helicòpter, un hotel o un càmping.",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -15109,7 +15081,7 @@
           "fr: médecine évaluatrice"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; evaluating medicine ",
+        "Descricao": "Especialitat mèdica que s’encarrega de valorar l’estat de salut, la capacitat funcional i la discapacitat de les persones amb finalitats laborals, asseguradores o administratives.",
         "Citação": "",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -15184,7 +15156,7 @@
           "nl: immunologisch geheugen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; oroimen immunologiko       memória imunitária   EPIDEMIOLOGIA. Capacitat desenvolupada per un organisme, com a conseqüència del contacte amb un agent patogen, que li permet respondre posteriorment amb més rapidesa i eficàcia a un contacte específic amb l'antigen o antígens d'aquest agent patogen o a un contacte inespecífic amb aquest agent patogen o altres de similars. resposta immunitària al contacte específic amb el mateix antigen, mentre que la immunitat innata pot vehicular la resposta al contacte inespecífic amb el mateix agent patogen.",
+        "Descricao": "EPIDEMIOLOGIA. Capacitat desenvolupada per un organisme, com a conseqüència del contacte amb un agent patogen, que li permet respondre posteriorment amb més rapidesa i eficàcia a un contacte específic amb l'antigen o antígens d'aquest agent patogen o a un contacte inespecífic amb aquest agent patogen o altres de similars. resposta immunitària al contacte específic amb el mateix antigen, mentre que la immunitat innata pot vehicular la resposta al contacte inespecífic amb el mateix agent patogen.",
         "Citação": "Nota: Concretament, la immunitat adaptativa vehicula la resposta immunitària al contacte específic amb el mateix antigen, mentre que la immunitat innata pot vehicular la resposta al contacte inespecífic amb el mateix agent patogen.",
         "Categoria": "Imunologia"
       }
@@ -15220,7 +15192,7 @@
           "ar: MEDI 3506"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "           PRINCIPIS ACTIUS. Fàrmac en investigació que actua contra la interleucina 33 i interfereix en els mecanismes de la inflamació. en procés d’avaluació com a possible antiinflamatori. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació que actua contra la interleucina 33 i interfereix en els mecanismes de la inflamació. en procés d’avaluació com a possible antiinflamatori. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.",
         "Citação": "Nota: El MEDI 3506 és un anticòs monoclonal que està en procés d’avaluació com a possible antiinflamatori. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen biotecnològic.",
         "Categoria": "Fármacos e Terapias"
       }

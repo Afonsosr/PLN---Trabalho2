@@ -8287,7 +8287,7 @@
           "gl: enoxaparina"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "   malalties immunitàries. Està en una fase clínica de desenvolupament avançada com a possible tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": " forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’enpatoran s’empra en el tractament de les malalties immunitàries. Està en una fase clínica de desenvolupament avançada com a possible tractament per a la COVID-19. És d’origen sintètic.2. La denominació enpatoran és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -8307,15 +8307,10 @@
           "en: enpatoran",
           "fr: enpatoran",
           "pt: enpatoran",
-          "nl: enpatoran",
-          "en: enzyme-linked immunosorbent assay",
-          "fr: analyse ELISA",
-          "pt: ensaio de imunoadsorção enzimática",
-          ": ELISA",
-          "nl: enzymgebonden immuunadsorbent-techniek"
+          "nl: enpatoran"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         2101938-42-3 PRINCIPIS ACTIUS. Fàrmac en investigació que inhibeix la immunitat innata i l’autoimmunitat mitjançant el blocatge dels receptors de tipus Toll i l’impediment per a detectar de cadenes simples d’RNA víric.  ; ELISA  essai d'immuno-adsorption enzymatique essai immuno-enzymatique essai par immunoadsorbant lié à une enzyme ; test ELISA   ensaio imunoenzimático  ;   enzymgekoppelde immuunadsorbent- techniek ; ELISA  DIAGNÒSTIC. Enzimoimmunoassaig en què un dels dos elements de la reacció, l’antigen o l’anticòs, és unit a un suport sòlid. correspon a l’anglès (‘assaig d’immunoadsorció lligat a enzims’).",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació que inhibeix la immunitat innata i l’autoimmunitat mitjançant el blocatge dels receptors de tipus Toll i l’impediment per a detectar de cadenes simples d’RNA víric.  ; ELISA  essai d'immuno-adsorption enzymatique essai immuno-enzymatique essai par immunoadsorbant lié à une enzyme ; test ELISA   ensaio imunoenzimático  ;   enzymgekoppelde immuunadsorbent- techniek ; ELISA  DIAGNÒSTIC. Enzimoimmunoassaig en què un dels dos elements de la reacció, l’antigen o l’anticòs, és unit a un suport sòlid. correspon a l’anglès (‘assaig d’immunoadsorció lligat a enzims’).",
         "Citação": "Nota: La sigla ELISA correspon a l’anglès enzyme-linked immunosorbent assay (‘assaig d’immunoadsorció lligat a enzims’).",
         "Categoria": "Fármacos e Terapias"
       }
@@ -8392,7 +8387,7 @@
           "nl: ensovibep"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         2451126-06-8 PRINCIPIS ACTIUS. Fàrmac en investigació basat en una proteïna mimètica d’anticòs modificada genèticament, amb capacitat neutralitzant contra el SARS-CoV-2, que s’uneix a la proteïna S per a inhibir l’entrada del virus a la cèl·lula hoste. desenvolupament avançada com a possible tractament per a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació basat en una proteïna mimètica d’anticòs modificada genèticament, amb capacitat neutralitzant contra el SARS-CoV-2, que s’uneix a la proteïna S per a inhibir l’entrada del virus a la cèl·lula hoste. desenvolupament avançada com a possible tractament per a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’ensovibep està en una fase clínica de desenvolupament avançada com a possible tractament per a la COVID-19. És d’origen biotecnològic.2. La denominació ensovibep és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -8510,23 +8505,9 @@
           "nl: enoxaparine"
         ],
         "Sigla": "ELISA",
-        "Descricao": " ;  saiakuntza ; ELISA  sólida ; ELISA  enzimas ; inmunoensayo enzimático sobre fase sólida ; ELISA       9005-49-6 PRINCIPIS ACTIUS. Fàrmac anticoagulant que potencia l’efecte inhibidor de l’antitrombina III sobre els factors IIa i Xa. tractament dels fenòmens tromboembòlics venosos. També es coadministra amb l’àcid acetilsalicílic en la prevenció de la trombosi coronària associada a una angina inestable o a un infart de miocardi sense onda Q. L’enoxaparina és una heparina de pes molecular baix que s’obté per fraccionament a partir de l’heparina convencional o no fraccionada. Presenta una activitat anti-Xa/IIa superior a l’heparina no fraccionada. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac anticoagulant que potencia l’efecte inhibidor de l’antitrombina III sobre els factors IIa i Xa. tractament dels fenòmens tromboembòlics venosos. També es coadministra amb l’àcid acetilsalicílic en la prevenció de la trombosi coronària associada a una angina inestable o a un infart de miocardi sense onda Q. L’enoxaparina és una heparina de pes molecular baix que s’obté per fraccionament a partir de l’heparina convencional o no fraccionada. Presenta una activitat anti-Xa/IIa superior a l’heparina no fraccionada. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’enoxaparina s’empra en la profilaxi i el tractament dels fenòmens tromboembòlics venosos. També es coadministra amb l’àcid acetilsalicílic en la prevenció de la trombosi coronària associada a una angina inestable o a un infart de miocardi sense onda Q. L’enoxaparina és una heparina de pes molecular baix que s’obté per fraccionament a partir de l’heparina convencional o no fraccionada. Presenta una activitat anti-Xa/IIa superior a l’heparina no fraccionada. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació enoxaparina és la forma catalana corresponent a la DCI.",
         "Categoria": "Diagnóstico"
-      }
-    }
-  },
-  {
-    "Conceito": "EPI",
-    "Fontes": {
-      "covid": {
-        "Conceito": "EPI",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Equipamentos e Dispositivos"
       }
     }
   },
@@ -8556,7 +8537,7 @@
           "nl: epidemiologie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         EPIDEMIOLOGIA. Disciplina que estudia la distribució, la incidència i la prevalença dels estats relacionats amb la salut en una població, els seus determinants i l’aplicació del coneixement obtingut al control de problemes sanitaris.",
+        "Descricao": "EPIDEMIOLOGIA. Disciplina que estudia la distribució, la incidència i la prevalença dels estats relacionats amb la salut en una població, els seus determinants i l’aplicació del coneixement obtingut al control de problemes sanitaris.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -8603,7 +8584,7 @@
           "nl: epidemie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         EPIDEMIOLOGIA. Aparició, en una comunitat o una àrea geogràfica, durant un període de temps concret, d’un nombre inesperat de casos d’una determinada malaltia, que excedeixen clarament els valors habituals. ser per contacte directe, a través del malalt, o per contacte indirecte, mitjançant vectors o objectes contaminats.",
+        "Descricao": "EPIDEMIOLOGIA. Aparició, en una comunitat o una àrea geogràfica, durant un període de temps concret, d’un nombre inesperat de casos d’una determinada malaltia, que excedeixen clarament els valors habituals. ser per contacte directe, a través del malalt, o per contacte indirecte, mitjançant vectors o objectes contaminats.",
         "Citação": "Nota: En les epidèmies, la propagació de la malaltia pot ser per contacte directe, a través del malalt, o per contacte indirecte, mitjançant vectors o objectes contaminats.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -8685,16 +8666,12 @@
           "en: personal protective equipment",
           "fr: équipement de protection individuelle",
           "pt: equipamento de proteção individual",
-          ": EPI",
           "nl: individuele beschermingsmiddelen",
-          "n pl: ;",
-          "n pl: ;",
-          "n pl: ",
           "fr: écouvillon",
           "nl: kweekstokje"
         ],
         "Sigla": "EPI",
-        "Descricao": "sin. compl. equip de proteccion personau ; EPI ; NBE equipo de protección persoal ; EPI equipo de protección personal ; EPI ; PPE persoonlijke beschermingsmiddelen zaragatoa cotonete ; haste flexível ; swab ; swab ; wattenstaafje ; wisser DIAGNÒSTIC. Tija metàl·lica o de plàstic, amb l’extremitat coberta de cotó estèril, utilitzada per a aplicar medicacions en forma de tocs o per a obtenir mostres en un examen citològic, bacteriològic o genètic. de mostres de la cavitat nasofaríngia destinades al diagnòstic de la COVID-19 amb una PCR o una prova d'antigens.",
+        "Descricao": "DIAGNÒSTIC. Tija metàl·lica o de plàstic, amb l’extremitat coberta de cotó estèril, utilitzada per a aplicar medicacions en forma de tocs o per a obtenir mostres en un examen citològic, bacteriològic o genètic. de mostres de la cavitat nasofaríngia destinades al diagnòstic de la COVID-19 amb una PCR o una prova d'antigens.",
         "Citação": "Nota: Els escovillons s’usen, per exemple, per a l’obtenció de mostres de la cavitat nasofaríngia destinades al diagnòstic de la COVID-19 amb una PCR o una prova d'antigens.",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -8775,23 +8752,9 @@
           "nl: uitbanning"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         EPIDEMIOLOGIA. Eliminació completa d’una malaltia, especialment una malaltia infecciosa.",
+        "Descricao": "EPIDEMIOLOGIA. Eliminació completa d’una malaltia, especialment una malaltia infecciosa.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
-      }
-    }
-  },
-  {
-    "Conceito": "ERTO",
-    "Fontes": {
-      "covid": {
-        "Conceito": "ERTO",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Termos Gerais"
       }
     }
   },
@@ -8875,7 +8838,7 @@
           "en: swab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; bròssa ; escobilhon   ; bastonete  ; hisopo ",
+        "Descricao": "Instrument en forma de bastonet amb un capçal suau utilitzat per recollir mostres biològiques de mucoses, com ara la nasofaringe o la bucofaringe, per a anàlisis diagnòstiques.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -8897,7 +8860,7 @@
           "nl: ongewenst voorval"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; eveniment desfavorable      ; événement indésirable  acontecimento adverso  evento adverso   CONCEPTES GENERALS. Experiència clínica no desitjada que pateix una persona que participa en un assaig clínic. s’utilitza durant la fase de recerca d’un fàrmac quan no s’ha establert cap relació d’imputabilitat entre el principi actiu i l’esdeveniment advers. Si després d’aplicar els algorismes habituals es comprova que el fàrmac ha estat la causa de l’esdeveniment advers s’utilitza el terme .",
+        "Descricao": "CONCEPTES GENERALS. Experiència clínica no desitjada que pateix una persona que participa en un assaig clínic. s’utilitza durant la fase de recerca d’un fàrmac quan no s’ha establert cap relació d’imputabilitat entre el principi actiu i l’esdeveniment advers. Si després d’aplicar els algorismes habituals es comprova que el fàrmac ha estat la causa de l’esdeveniment advers s’utilitza el terme .",
         "Citação": "Nota: El terme esdeveniment advers s’utilitza durant la fase de recerca d’un fàrmac quan no s’ha establert cap relació d’imputabilitat entre el principi actiu i l’esdeveniment advers. Si després d’aplicar els algorismes habituals es comprova que el fàrmac ha estat la causa de l’esdeveniment advers s’utilitza el terme reacció adversa.",
         "Categoria": "Termos Gerais"
       }
@@ -8909,9 +8872,19 @@
       "covid": {
         "Conceito": "esgotament",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: esgotament",
+          "eu: nekea",
+          "gl: esgotamento",
+          "es: agotamiento",
+          "en: exhaustion",
+          "fr: épuisement",
+          "pt: esgotamento",
+          "nl: uitputting",
+          "pl: wyczerpanie"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg. PREVENCIÓ. Equipament que un treballador subjecta o porta amb l’objectiu que el protegeixi contra un o diversos riscos laborals que puguin amenaçar la seva salut i seguretat. riscos laborals modificant l’organització del treball, ja que són intrínsecs a les característiques de la tasca que es desenvolupa: per exemple, en l’àmbit de la salut, la cura dels pacients afectats per malalties infeccioses amb risc alt de contagi. L’ús d’EPI ha d’anar acompanyat d’altres mesures complementàries per a l’eliminació i la reducció dels riscos.",
+        "Descricao": "PREVENCIÓ. Equipament que un treballador subjecta o porta amb l’objectiu que el protegeixi contra un o diversos riscos laborals que puguin amenaçar la seva salut i seguretat. riscos laborals modificant l’organització del treball, ja que són intrínsecs a les característiques de la tasca que es desenvolupa: per exemple, en l’àmbit de la salut, la cura dels pacients afectats per malalties infeccioses amb risc alt de contagi. L’ús d’EPI ha d’anar acompanyat d’altres mesures complementàries per a l’eliminació i la reducció dels riscos.",
         "Citação": "Nota: Els EPI es fan servir quan no és possible evitar riscos laborals modificant l’organització del treball, ja que són intrínsecs a les característiques de la tasca que es desenvolupa: per exemple, en l’àmbit de la salut, la cura dels pacients afectats per malalties infeccioses amb risc alt de contagi. L’ús d’EPI ha d’anar acompanyat d’altres mesures complementàries per a l’eliminació i la reducció dels riscos.",
         "Categoria": "Psicologia e Psiquiatria"
       }
@@ -8923,9 +8896,19 @@
       "covid": {
         "Conceito": "esgotament mental",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: esgotament mental",
+          "eu: nekea mentala",
+          "gl: esgotamento mental",
+          "es: agotamiento mental",
+          "en: mental exhaustion",
+          "fr: épuisement mental",
+          "pt: esgotamento mental",
+          "nl: mentale uitputting",
+          "pl: wyczerpanie psychiczne"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Estat de fatiga psicològica caracteritzat per dificultat per concentrar-se, pèrdua d’energia, estrès i disminució del rendiment cognitiu, sovint resultat de sobrecàrrega emocional o laboral.",
         "Citação": "",
         "Categoria": "Psicologia e Psiquiatria"
       }
@@ -8989,7 +8972,7 @@
           "nl: levensverwachting"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        expectativa de vida   TRACTAMENT. Indicador dels anys que viuria una persona si les taxes de mortalitat de la població a la qual pertany es mantinguessin estables. l’esperança de vida en néixer, si bé també es pot calcular l’esperança de vida a una determinada edat.",
+        "Descricao": "TRACTAMENT. Indicador dels anys que viuria una persona si les taxes de mortalitat de la població a la qual pertany es mantinguessin estables. l’esperança de vida en néixer, si bé també es pot calcular l’esperança de vida a una determinada edat.",
         "Citação": "Nota: Normalment s’utilitza com a indicador de salut l’esperança de vida en néixer, si bé també es pot calcular l’esperança de vida a una determinada edat.",
         "Categoria": "Termos Gerais"
       }
@@ -9011,7 +8994,7 @@
           "nl: gezonde levensverwachting"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       esperança de vida sem incapacidade  expectativa de vida saudável  ; levensverwachting in goede gezondheid  TRACTAMENT. Esperança de vida ajustada segons la qualitat de vida, tenint en compte les dades sobre autopercepció de la salut en enquestes de població. l’esforç de prolongar la vida a una persona.",
+        "Descricao": "TRACTAMENT. Esperança de vida ajustada segons la qualitat de vida, tenint en compte les dades sobre autopercepció de la salut en enquestes de població. l’esforç de prolongar la vida a una persona.",
         "Citação": "Nota: L’esperança de vida en bona salut permet valorar l’esforç de prolongar la vida a una persona.",
         "Categoria": "Termos Gerais"
       }
@@ -9034,7 +9017,7 @@
           "nl: peplomeer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  ; peplomèr   ; peplómero  ; peplómero  ; spike  ; spicule   peplómero  peplômero  ; piekeiwit ; spike-eiwit ; stekeleiwit  ETIOPATOGÈNIA. Protuberància proteica de l’embolcall víric que té la funció de reconèixer determinades estructures de la membrana cel·lular per a facilitar l’entrada del virus a les cèl·lules susceptibles d’infecció.",
+        "Descricao": "ETIOPATOGÈNIA. Protuberància proteica de l’embolcall víric que té la funció de reconèixer determinades estructures de la membrana cel·lular per a facilitar l’entrada del virus a les cèl·lules susceptibles d’infecció.",
         "Citação": "",
         "Categoria": "Anatomia"
       }
@@ -9081,7 +9064,7 @@
           "nl: seizoengebondenheid"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; seizoengevoeligheid ;  seizoensgebondenheid ; seizoensgevoeligheid  EPIDEMIOLOGIA. Variació previsible i de caràcter repetitiu en el comportament d’una malaltia, que s’associa a un període de temps determinat, pròpia de la majoria de malalties infeccioses.",
+        "Descricao": "EPIDEMIOLOGIA. Variació previsible i de caràcter repetitiu en el comportament d’una malaltia, que s’associa a un període de temps determinat, pròpia de la majoria de malalties infeccioses.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -9095,7 +9078,7 @@
         "Substantivo": "n m",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg. concepte. La distinció conceptual entre  ( ) i ( ) és variable segons els especialistes, els països i les legislacions.",
+        "Descricao": "La distinció conceptual entre  ( ) i ( ) és variable segons els especialistes, els països i les legislacions.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -9117,7 +9100,7 @@
           "nl: noodtoestand"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       estado de alerta  estado de alarme   ENTORN SOCIAL. Situació d’excepció decretada pel govern d’un estat, el qual suspèn determinades garanties i llibertats personals. una situació d’emergència en salut pública, com el cas del confinament per la pandèmia de COVID-19 durant la primavera de 2020 a l’Estat espanyol.",
+        "Descricao": "ENTORN SOCIAL. Situació d’excepció decretada pel govern d’un estat, el qual suspèn determinades garanties i llibertats personals. una situació d’emergència en salut pública, com el cas del confinament per la pandèmia de COVID-19 durant la primavera de 2020 a l’Estat espanyol.",
         "Citação": "Nota: L’estat d’alarma es pot declarar, per exemple, per una situació d’emergència en salut pública, com el cas del confinament per la pandèmia de COVID-19 durant la primavera de 2020 a l’Estat espanyol.",
         "Categoria": "Termos Gerais"
       }
@@ -9165,7 +9148,7 @@
           "nl: fase-2-onderzoek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; klinische proef ; klinische studie  CONCEPTES GENERALS. Estudi realitzat en éssers humans que es duu a terme amb finalitats mèdiques o de salut. un tractament, una tècnica diagnòstica, una tècnica terapèutica, etc. 2. De vegades, impròpiament, també s’utilitza la denominació per a designar aquest  estudo clínico de fase 2 ;  estudo clinico de fase II ;  estudo de fase II  ; fase-2-studie ; fase-II-onderzoek ; fase-II-studie  CONCEPTES GENERALS. Cadascun dels estudis que formen part del segon estadi de la prova d’un nou fàrmac en humans, que es realitzen en malalts potencials amb l’objectiu de conèixer la farmacocinètica i la farmacodinàmica del fàrmac. de fase IIA, quan es duen a terme amb un seguiment molt estricte i en un nombre reduït de pacients, i en estudis de fase IIB, quan les condicions són més properes als estudis de fase III.",
+        "Descricao": "CONCEPTES GENERALS. Estudi realitzat en éssers humans que es duu a terme amb finalitats mèdiques o de salut. un tractament, una tècnica diagnòstica, una tècnica terapèutica, etc. 2. De vegades, impròpiament, també s’utilitza la denominació per a designar aquest  estudo clínico de fase 2 ;  estudo clinico de fase II ;  estudo de fase II  ; fase-2-studie ; fase-II-onderzoek ; fase-II-studie  CONCEPTES GENERALS. Cadascun dels estudis que formen part del segon estadi de la prova d’un nou fàrmac en humans, que es realitzen en malalts potencials amb l’objectiu de conèixer la farmacocinètica i la farmacodinàmica del fàrmac. de fase IIA, quan es duen a terme amb un seguiment molt estricte i en un nombre reduït de pacients, i en estudis de fase IIB, quan les condicions són més properes als estudis de fase III.",
         "Citação": "Nota: 1. Poden ser objecte d’estudi clínic un fàrmac, un tractament, una tècnica diagnòstica, una tècnica terapèutica, etc.2. De vegades, impròpiament, també s’utilitza la denominació assaig clínic per a designar aquest E79QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19",
         "Categoria": "Pesquisa Clínica"
       }
@@ -9177,9 +9160,19 @@
       "covid": {
         "Conceito": "estudi de confirmació terapèutica",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: estudi de confirmacion terapèutica",
+          "eu: baieztapen terapeutikoko ikerketa",
+          "gl: estudo de confirmación terapéutica",
+          "es: estudio de confirmación terapéutica",
+          "en: therapeutic confirmation study",
+          "fr: étude de confirmation thérapeutique",
+          "pt: estudo de confirmação terapêutica",
+          "nl: therapeutisch bevestigingsonderzoek",
+          "pl: badanie potwierdzające skuteczność leczenia"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Assaig clínic dissenyat per confirmar l’eficàcia i la seguretat d’un tractament en una població de pacients més gran, sovint corresponent a la fase III dels assaigs clínics.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -9191,9 +9184,19 @@
       "covid": {
         "Conceito": "estudi de farmacologia humana",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: estudi de farmacologia umana",
+          "eu: giza farmakologia ikerketa",
+          "gl: estudo de farmacoloxía humana",
+          "es: estudio de farmacología humana",
+          "en: human pharmacology study",
+          "fr: étude de pharmacologie humaine",
+          "pt: estudo de farmacologia humana",
+          "nl: humaan farmacologisch onderzoek",
+          "pl: badanie farmakologii człowieka"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Assaig clínic inicial en humans destinat a investigar com es comporta un fàrmac al cos, incloent-hi la seva absorció, distribució, metabolisme i eliminació.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -9215,7 +9218,7 @@
           "nl: fase-0-onderzoek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; estudi de microdòsi ; fasa 0  ; 0. faseko saiakuntza   ; estudio de microdosis ; fase 0  ; phase 0 study  ; phase 0   estudo clínico de fase 0  ; fase-0-studie ",
+        "Descricao": "Fase preliminar dels assaigs clínics en la qual s’administren dosis molt baixes d’un fàrmac per obtenir dades inicials de farmacocinètica i seguretat abans de les fases clíniques posteriors.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -9238,7 +9241,7 @@
           "nl: fase-1-onderzoek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; estudi de fasa I ; fasa I  ; I. faseko saiakuntza  ; estudo de fase I  ; estudio de fase I ; fase I  ; phase I ; phase I study  ; phase I   estudo farmacológico  estudo clinico de fase 1 ; estudo  clínico de fase I ; estudo de fase I  ; fase-1-studie ; fase-I-onderzoek ; fase-I-studie ",
+        "Descricao": "Primera fase dels assaigs clínics, destinada a avaluar la seguretat, la tolerabilitat, la farmacocinètica i la farmacodinàmica d’un fàrmac nou en un petit nombre de voluntaris sans o pacients.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -9260,7 +9263,7 @@
           "pt: estudo de fase 2"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; estudi de fasa II ; fasa II  ; II. faseko saiakuntza  ; estudo de fase II  ; estudio de fase II ; fase II  ; phase II study ; therapeutic exploratory study  ; phase II   estudo exploratório",
+        "Descricao": "Fase de l’assaig clínic en què s’avalua l’eficàcia i la seguretat preliminar d’un fàrmac en un nombre reduït de pacients que presenten la malaltia a tractar.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -9283,7 +9286,7 @@
           "nl: fase-3-onderzoek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; estudi de fasa III ; fasa III  ; III. faseko saiakuntza  ; estudo de fase III  ; estudio de fase III ; fase III  ; phase III study ; therapeutic confirmatory study  ; phase Ill   estudo de confirmação  estudo clínico de fase 3 ;  estudo clínico de fase III ;  estudo de fase III  ; fase-3-studie ; fase-III-onderzoek ; fase-III-studie  CONCEPTES GENERALS. Cadascun dels estudis que formen part de l’últim estadi de la prova d’un",
+        "Descricao": "CONCEPTES GENERALS. Cadascun dels estudis que formen part de l’últim estadi de la prova d’un",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -9307,7 +9310,7 @@
           "nl: coronawerkloosheid"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; estudi de fasa IV ; fasa IV  ; IV. faseko saiakuntza  ; estudo de uso terapéutico ; fase IV  ; estudio de uso terapéutico ; fase IV  ; phase IV study ; therapeutic use study  ; phase IV   estudo de vigilância pós-comercialização ; fase 4  estudo clínico de fase 4 ;  estudo clínico de fase IV ;   ; fase-4-studie ; fase-IV-onderzoek ; fase-IV-studie  CONCEPTES GENERALS. Cadascun dels estudis que es duen a terme després del registre d’un producte, que tenen com a objectiu adquirir més experiència en el seu ús respecte a la seguretat, l’eficàcia i les noves indicacions.  apoio extraordinário à manutenção  de contrato de trabalho ;  lay-off simplificado  decreto de regulamentação de trabalho temporário  ; NOW-regeling ; tijdelijke noodmaatregel overbrugging voor behoud van werkgelegenheid (NOW) ; tijdelijke werkloosheidsregeling wegens overmacht  ENTORN SOCIAL. Procediment administratiu mitjançant el qual una organització, per causes econòmiques, tècniques, organitzatives o de producció, pot procedir a la suspensió temporal del contracte de treball o a la reducció de la jornada laboral d’una part significativa de la plantilla. diferència de l’expedient de regulació d’ocupació, no implica necessàriament l’extinció del contracte de treball.",
+        "Descricao": "CONCEPTES GENERALS. Cadascun dels estudis que es duen a terme després del registre d’un producte, que tenen com a objectiu adquirir més experiència en el seu ús respecte a la seguretat, l’eficàcia i les noves indicacions.  apoio extraordinário à manutenção  de contrato de trabalho ;  lay-off simplificado  decreto de regulamentação de trabalho temporário  ; NOW-regeling ; tijdelijke noodmaatregel overbrugging voor behoud van werkgelegenheid (NOW) ; tijdelijke werkloosheidsregeling wegens overmacht  ENTORN SOCIAL. Procediment administratiu mitjançant el qual una organització, per causes econòmiques, tècniques, organitzatives o de producció, pot procedir a la suspensió temporal del contracte de treball o a la reducció de la jornada laboral d’una part significativa de la plantilla. diferència de l’expedient de regulació d’ocupació, no implica necessàriament l’extinció del contracte de treball.",
         "Citação": "Nota: L’expedient de regulació temporal d’ocupació, a diferència de l’expedient de regulació d’ocupació, no implica necessàriament l’extinció del contracte de treball.",
         "Categoria": "Pesquisa Clínica"
       }
@@ -9319,9 +9322,19 @@
       "covid": {
         "Conceito": "estudi de microdosi",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: estudi de microdòsi",
+          "eu: mikrodosiko ikerketa",
+          "gl: estudo de microdose",
+          "es: estudio de microdosis",
+          "en: microdosing study",
+          "fr: étude de microdose",
+          "pt: estudo de microdose",
+          "nl: microdosisonderzoek",
+          "pl: badanie mikrodawkowania"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Tipus d’estudi clínic en el qual s’administra una dosi molt baixa d’un fàrmac a voluntaris sans per estudiar-ne la farmacocinètica i la biodisponibilitat sense efectes terapèutics significatius.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -9333,9 +9346,19 @@
       "covid": {
         "Conceito": "estudi d’exploració terapèutica",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: estudi d’exploracion terapèutica",
+          "eu: esplorazio terapeutikoko ikerketa",
+          "gl: estudo de exploración terapéutica",
+          "es: estudio de exploración terapéutica",
+          "en: therapeutic exploratory study",
+          "fr: étude d’exploration thérapeutique",
+          "pt: estudo de exploração terapêutica",
+          "nl: therapeutisch verkennend onderzoek",
+          "pl: badanie eksploracyjne terapii"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Fase inicial de la investigació clínica destinada a avaluar la seguretat, la dosi i els efectes preliminars d’un tractament nou abans dels estudis confirmatoris més amplis.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -9347,9 +9370,19 @@
       "covid": {
         "Conceito": "estudi d’ús terapèutic",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: estudi d’us terapèutic",
+          "eu: erabilera terapeutikoko ikerketa",
+          "gl: estudo de uso terapéutico",
+          "es: estudio de uso terapéutico",
+          "en: therapeutic use study",
+          "fr: étude d’utilisation thérapeutique",
+          "pt: estudo de uso terapêutico",
+          "nl: therapeutisch gebruiksonderzoek",
+          "pl: badanie zastosowania terapeutycznego"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Investigació clínica que avalua l’eficàcia i la seguretat d’un tractament o medicament quan s’utilitza en condicions reals de pràctica mèdica.",
         "Citação": "",
         "Categoria": "Pesquisa Clínica"
       }
@@ -10769,7 +10802,7 @@
           "en: galidesivir",
           "fr: galidésivir",
           "pt: galidesivir",
-          "nl: galidesivir",
+          "nl: galidesivir"
         ],
         "Sigla": "Sem Sigla Associada",
         "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric en investigació, anàleg de l’adenosina, que inhibeix l’RNA- polimerasa amb la incorporació a l’RNA durant la replicació, de manera que en força l’aturada. dels filovirus més comuns, com el virus de l’Ebola i el virus de Marburg. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació corresponent a la DCI.",

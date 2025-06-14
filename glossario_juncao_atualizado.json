@@ -9840,7 +9840,7 @@
           "fr: échec vaccinal secondaire"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ",
+        "Descricao": "Pèrdua de la protecció immunitària després d’haver assolit inicialment una resposta adequada a la vacuna, habitualment a causa de la disminució de la memòria immunològica amb el temps.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -9863,7 +9863,7 @@
           "nl: fout negatief resultaat"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; foutnegatief resultaat ; vals negatief resultaat ; valsnegatief resultaat  DIAGNÒSTIC. Resultat negatiu d’una prova diagnòstica en una persona que posseeix efectivament l’atribut o la malaltia que es vol detectar amb aquesta prova. a sana una persona malalta quan es fa una prova de cribratge per a detectar la malaltia.",
+        "Descricao": "DIAGNÒSTIC. Resultat negatiu d’una prova diagnòstica en una persona que posseeix efectivament l’atribut o la malaltia que es vol detectar amb aquesta prova. a sana una persona malalta quan es fa una prova de cribratge per a detectar la malaltia.",
         "Citação": "Nota: Per exemple, és un fals negatiu catalogar com a sana una persona malalta quan es fa una prova de cribratge per a detectar la malaltia.",
         "Categoria": "Diagnóstico"
       }
@@ -9886,7 +9886,7 @@
           "nl: fout positief resultaat"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; foutpositief resultaat ; vals positief resultaat valspositief resultaat  infecciós nou o desconegut, amb l’objectiu de trencar la cadena de transmissió i eliminar-lo, si és possible, abans no s’escampi d’una manera descontrolada. dels contactes, aïllament de persones i seguiment individualitzat.",
+        "Descricao": "Resultat d’una prova diagnòstica que indica incorrectament la presència d’una malaltia o condició quan en realitat no hi és.",
         "Citação": "Nota: La fase de contenció inclou mesures d’identificació dels contactes, aïllament de persones i seguiment individualitzat.",
         "Categoria": "Diagnóstico"
       }
@@ -9937,7 +9937,7 @@
           "nl: concentratiegebrek"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; gebrek aan concentratie  CLÍNICA. Dificultat per a mantenir l’atenció en alguna cosa. pateixen sovint les persones que han patit la COVID-19 o un símptoma freqüent de les persones amb COVID persistent.",
+        "Descricao": "CLÍNICA. Dificultat per a mantenir l’atenció en alguna cosa. pateixen sovint les persones que han patit la COVID-19 o un símptoma freqüent de les persones amb COVID persistent.",
         "Citação": "Nota: La falta de concentració és una de les seqüeles que pateixen sovint les persones que han patit la COVID-19 o un símptoma freqüent de les persones amb COVID persistent.",
         "Categoria": "Psicologia e Psiquiatria"
       }
@@ -10062,7 +10062,7 @@
           "nl: secundair vaccinfalen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; indamfase ; inperkingsfase  EPIDEMIOLOGIA. Primera etapa que activen les autoritats sanitàries davant l’aparició d’un agent    PREVENCIÓ. Fallada vacunal en una persona que, malgrat haver generat resposta immunitària després de l’administració d’una vacuna, ha perdut immunitat amb el pas del temps.",
+        "Descricao": "EPIDEMIOLOGIA. Primera etapa que activen les autoritats sanitàries davant l’aparició d’un agent    PREVENCIÓ. Fallada vacunal en una persona que, malgrat haver generat resposta immunitària després de l’administració d’una vacuna, ha perdut immunitat amb el pas del temps.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -10085,23 +10085,9 @@
           "nl: mitigatiefase"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         EPIDEMIOLOGIA. Segona etapa que activen les autoritats sanitàries davant l’aparició d’un agent infecciós nou o desconegut, quan la fase de contenció no aconsegueix contenir la propagació de l’agent. població general per a reduir l’impacte sanitari, social i econòmic de la propagació de l’agent infecciós. 2. La fase de mitigació s’activa quan es perd la traçabilitat dels casos i ja no és possible identificar l’origen d’alguns dels contactes, amb increment constant de casos autòctons o transmissions locals.",
+        "Descricao": "EPIDEMIOLOGIA. Segona etapa que activen les autoritats sanitàries davant l’aparició d’un agent infecciós nou o desconegut, quan la fase de contenció no aconsegueix contenir la propagació de l’agent. població general per a reduir l’impacte sanitari, social i econòmic de la propagació de l’agent infecciós. 2. La fase de mitigació s’activa quan es perd la traçabilitat dels casos i ja no és possible identificar l’origen d’alguns dels contactes, amb increment constant de casos autòctons o transmissions locals.",
         "Citação": "Nota: 1. La fase de mitigació inclou mesures sobre la població general per a reduir l’impacte sanitari, social i econòmic de la propagació de l’agent infecciós.2. La fase de mitigació s’activa quan es perd la traçabilitat dels casos i ja no és possible identificar l’origen d’alguns dels contactes, amb increment constant de casos autòctons o transmissions locals.",
         "Categoria": "Epidemiologia e Saúde Pública"
-      }
-    }
-  },
-  {
-    "Conceito": "fase IV",
-    "Fontes": {
-      "covid": {
-        "Conceito": "fase IV",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Pesquisa Clínica"
       }
     }
   },
@@ -10122,7 +10108,7 @@
           "nl: uitputting"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.    ; fatiga  ; fatiga   ; fatigue   exaustão  ; vermoeidheid  CLÍNICA. Disminució de les forces o de la resistència física o mental com a conseqüència d’un esforç, d’una feina o d’una tensió intensos i perllongats.",
+        "Descricao": "CLÍNICA. Disminució de les forces o de la resistència física o mental com a conseqüència d’un esforç, d’una feina o d’una tensió intensos i perllongats.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -10145,7 +10131,7 @@
           "nl: mentale uitputting"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.    ; fatiga mental  ; fatiga mental    ; fadiga mental  cansaço mental ;   ; mentale vermoeidheid  CLÍNICA. Fatiga caracteritzada per un estat de saturació mental en què es manifesten una sèrie de símptomes psíquics i físics molt diversos, com ara estrès, irritabilitat, ansietat, depressió, desconcentració, cefalea, malestar digestiu o parestèsies a les extremitats.",
+        "Descricao": "CLÍNICA. Fatiga caracteritzada per un estat de saturació mental en què es manifesten una sèrie de símptomes psíquics i físics molt diversos, com ara estrès, irritabilitat, ansietat, depressió, desconcentració, cefalea, malestar digestiu o parestèsies a les extremitats.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -10167,7 +10153,7 @@
           "nl: koorts"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; fatiga pandemica        CLÍNICA. Augment de la temperatura corporal per damunt de la xifra màxima normal, que manifesta la reacció de l’organisme a algun procés patològic. temperatura bucal.",
+        "Descricao": "CLÍNICA. Augment de la temperatura corporal per damunt de la xifra màxima normal, que manifesta la reacció de l’organisme a algun procés patològic. temperatura bucal.",
         "Citação": "Nota: Es considera febre per damunt dels 37 °C de temperatura bucal.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -10228,7 +10214,7 @@
           "nl: favipiravir"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         259793-96-9 PRINCIPIS ACTIUS. Fàrmac antivíric que, en inhibir l’RNA-polimerasa, impedeix la replicació del genoma víric. grip A i B, i ha obtingut resultats prometedors en el tractament de la grip aviària. Es fa servir en el tractament experimental d’altres infeccions víriques com la malaltia de l’Ebola, la febre de Lassa o la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric que, en inhibir l’RNA-polimerasa, impedeix la replicació del genoma víric. grip A i B, i ha obtingut resultats prometedors en el tractament de la grip aviària. Es fa servir en el tractament experimental d’altres infeccions víriques com la malaltia de l’Ebola, la febre de Lassa o la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El favipiravir s’empra en el tractament de la grip A i B, i ha obtingut resultats prometedors en el tractament de la grip aviària. Es fa servir en el tractament experimental d’altres infeccions víriques com la malaltia de l’Ebola, la febre de Lassa o la COVID-19. És d’origen sintètic.2. La denominació favipiravir és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -10251,7 +10237,7 @@
           "nl: fibrinogeen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         DIAGNÒSTIC. Proteïna fibrosa soluble del plasma sanguini i de la limfa, causant de la coagulació, que se sintetitza en el fetge i es transforma en fibrina per l'acció de la trombina. són tres paràmetres de coagulació que poden orientar sobre el pronòstic de la pneumònia per COVID-19.",
+        "Descricao": "DIAGNÒSTIC. Proteïna fibrosa soluble del plasma sanguini i de la limfa, causant de la coagulació, que se sintetitza en el fetge i es transforma en fibrina per l'acció de la trombina. són tres paràmetres de coagulació que poden orientar sobre el pronòstic de la pneumònia per COVID-19.",
         "Citação": "Nota: El dímer-D, el fibrinogen i el temps de protrombina són tres paràmetres de coagulació que poden orientar sobre el pronòstic de la pneumònia per COVID-19.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -10332,7 +10318,7 @@
           "nl: lichte koorts"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         CLÍNICA. Febre lleugera. i 38 °C, mantinguda durant 24 hores.",
+        "Descricao": "CLÍNICA. Febre lleugera. i 38 °C, mantinguda durant 24 hores.",
         "Citação": "Nota: Es considera febrícula la temperatura entre 37 °C i 38 °C, mantinguda durant 24 hores.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -10377,7 +10363,7 @@
           "nl: coronamoeheid"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         49562-28-9 PRINCIPIS ACTIUS. Fàrmac hipolipemiant que afavoreix la lipòlisi i redueix els nivells plasmàtics de triglicèrids mitjançant l’activació dels receptors activats pels proliferadors de peroxisoma alfa   ; coronavermoeidheid  CLÍNICA. Fatiga mental provocada pels efectes de la pandèmia en la societat, tant localment com globalment.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac hipolipemiant que afavoreix la lipòlisi i redueix els nivells plasmàtics de triglicèrids mitjançant l’activació dels receptors activats pels proliferadors de peroxisoma alfa   ; coronavermoeidheid  CLÍNICA. Fatiga mental provocada pels efectes de la pandèmia en la societat, tant localment com globalment.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -10400,7 +10386,7 @@
           "nl: ferritine"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         DIAGNÒSTIC. Ferroproteïna que es presenta en els macròfags i també en les cèl·lules epitelials de la mucosa gastrointestinal, on regula l’absorció de ferro de la dieta. emmagatzemador fisiològic del ferro.",
+        "Descricao": "DIAGNÒSTIC. Ferroproteïna que es presenta en els macròfags i també en les cèl·lules epitelials de la mucosa gastrointestinal, on regula l’absorció de ferro de la dieta. emmagatzemador fisiològic del ferro.",
         "Citação": "Nota: Es considera que la ferritina constitueix el principal emmagatzemador fisiològic del ferro.",
         "Categoria": "Diagnóstico"
       }
@@ -10445,7 +10431,7 @@
           "fr: fibrinogène"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       fibrinogénio  fibrinogênio",
+        "Descricao": "Proteïna plasmàtica produïda pel fetge, essencial en el procés de coagulació sanguínia, ja que es converteix en fibrina per formar el coàgul.",
         "Citação": "",
         "Categoria": "Substâncias Químicas"
       }
@@ -10468,7 +10454,7 @@
           "nl: fibrose"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; verbindweefseling  CLÍNICA. Formació de teixit fibrós, per una producció excessiva de col·lagen per causes diverses. designa, a la pràctica, un procés patològic caracteritzat per hiperplàsia o degeneració del teixit conjuntiu, per reacció o per reparació.",
+        "Descricao": "CLÍNICA. Formació de teixit fibrós, per una producció excessiva de col·lagen per causes diverses. designa, a la pràctica, un procés patològic caracteritzat per hiperplàsia o degeneració del teixit conjuntiu, per reacció o per reparació.",
         "Citação": "Nota: El terme fibrosi designa, a la pràctica, un procés patològic caracteritzat per hiperplàsia o degeneració del teixit conjuntiu, per reacció o per reparació.",
         "Categoria": "Doenças"
       }
@@ -10490,7 +10476,7 @@
           "nl: fingolimod"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        cloridrato de fingolimode ; fingolimode   i el subsegüent augment de l’activitat de la lipoproteïna-lipasa i la reducció de la síntesi de l’apoproteïna C-III. en el tractament de diversos trastorns lipídics, com en la hipercolesterolèmia primària, la dislipèmia mixta i la hipertrigliceridèmia greu. És un profàrmac que s’hidrolitza a àcid fenofíbric, el seu metabòlit actiu. Se n’ha suggerit l’ús per al tractament de la COVID-19. És un derivat de l’àcid fíbric d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "El subsegüent augment de l’activitat de la lipoproteïna-lipasa i la reducció de la síntesi de l’apoproteïna C-III. en el tractament de diversos trastorns lipídics, com en la hipercolesterolèmia primària, la dislipèmia mixta i la hipertrigliceridèmia greu. És un profàrmac que s’hidrolitza a àcid fenofíbric, el seu metabòlit actiu. Se n’ha suggerit l’ús per al tractament de la COVID-19. És un derivat de l’àcid fíbric d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El fenofibrat s’empra com a adjuvant a la dieta en el tractament de diversos trastorns lipídics, com en la hipercolesterolèmia primària, la dislipèmia mixta i la hipertrigliceridèmia greu. És un profàrmac que s’hidrolitza a àcid fenofíbric, el seu metabòlit actiu. Se n’ha suggerit l’ús per al tractament de la COVID-19. És un derivat de l’àcid fíbric d’origen sintètic.2. La denominació fenofibrat és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -10502,9 +10488,19 @@
       "covid": {
         "Conceito": "fluid bucofaringi",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: fluid bucofaringian",
+          "eu: aho-faringe-fluidoa",
+          "gl: fluído bucofarínxeo",
+          "es: fluido bucofaríngeo",
+          "en: oropharyngeal fluid",
+          "fr: fluide oropharyngé",
+          "pt: fluido orofaríngeo",
+          "nl: orofaryngeale vloeistof",
+          "pl: płyn ustno-gardłowy"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Mostra líquida obtinguda de la bucofaringe, emprada habitualment per a la detecció de microorganismes respiratoris o per a proves diagnòstiques.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -10516,9 +10512,19 @@
       "covid": {
         "Conceito": "fluid nasofaringi",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: fluid nasofaringian",
+          "eu: nasofaringe-fluidoa",
+          "gl: fluído nasofarínxeo",
+          "es: fluido nasofaríngeo",
+          "en: nasopharyngeal fluid",
+          "fr: fluide nasopharyngé",
+          "pt: fluido nasofaríngeo",
+          "nl: nasofaryngeale vloeistof",
+          "pl: płyn nosowo-gardłowy"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Mostra líquida recollida de la nasofaringe, sovint utilitzada per a l’anàlisi i detecció de patògens respiratoris.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -10615,7 +10621,7 @@
           "nl: uitstrijkje"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "   ; frotis       DIAGNÒSTIC. Preparació microscòpica, prima i transparent, d’una mostra de líquid orgànic espès o un teixit semilíquid o pastós, obtinguda estenent-la damunt el portaobjectes i assecant-la a l’aire o amb alguna substància. i les mostres que es preparen poden ser de sang, de secrecions, d’exsudats, de cultiu de bacteris, etc. En el cas de la COVID-19, el frotis d’exsudat orofaringi es fa servir per a diagnosticar la infecció pel SARS-CoV-2. 162359-55-9 PRINCIPIS ACTIUS. Fàrmac immunomodulador que s’uneix al receptor de l’esfingosina-1-fosfat per a inhibir la migració de limfòcits al sistema nerviós central. neuroinflamació en el tractament de l’esclerosi múltiple remitent o recurrent. Se n’ha suggerit l’ús per al tractament de la dificultat respiratòria aguda associada a la COVID-19. És d’origen sintètic. 2. La denominació es la forma catalana corresponent a la DCI.",
+        "Descricao": "DIAGNÒSTIC. Preparació microscòpica, prima i transparent, d’una mostra de líquid orgànic espès o un teixit semilíquid o pastós, obtinguda estenent-la damunt el portaobjectes i assecant-la a l’aire o amb alguna substància. i les mostres que es preparen poden ser de sang, de secrecions, d’exsudats, de cultiu de bacteris, etc. En el cas de la COVID-19, el frotis d’exsudat orofaringi es fa servir per a diagnosticar la infecció pel SARS-CoV-2. 162359-55-9 PRINCIPIS ACTIUS. Fàrmac immunomodulador que s’uneix al receptor de l’esfingosina-1-fosfat per a inhibir la migració de limfòcits al sistema nerviós central. neuroinflamació en el tractament de l’esclerosi múltiple remitent o recurrent. Se n’ha suggerit l’ús per al tractament de la dificultat respiratòria aguda associada a la COVID-19. És d’origen sintètic. 2. La denominació es la forma catalana corresponent a la DCI.",
         "Citação": "Nota: El frotis es pot protegir amb un cobreobjectes i les mostres que es preparen poden ser de sang, de secrecions, d’exsudats, de cultiu de bacteris, etc. En el cas de la COVID-19, el frotis d’exsudat orofaringi es fa servir per a diagnosticar la infecció pel SARS-CoV-2.CAS",
         "Categoria": "Diagnóstico"
       }
@@ -10700,7 +10706,7 @@
           "nl: Gam-COVID-Vac"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; fómite  ; fomite  ; réceptacle de germes infectieux ; vecteur passif ; véhicule dispersant d’agents pathogènes   fômite  ; fomiet ; geïnfecteerd oppervlak  EPIDEMIOLOGIA. Objecte o superfície que pot hostatjar microorganismes patògens i convertir-se en un agent transmissor d’infeccions.  ; Sputnik V ; vaccin Gamaleya  ; Sputnik V  ; vacina Gamaleya  vacina Sputnik ; Sputnik  ; Spoetnik V-vaccin ; Spoetnikvaccin ; Sputnik V-vaccin ; Sputnik-vaccin ; Sputnik ; Sputnik V  PREVENCIÓ. Vacuna anti COVID-19 de vectors vírics no replicatius preparada amb adenovirus humans Ad26 i Ad5, que introdueixen en l’organisme el material genètic que expressa la proteïna S del SARS-CoV-2. intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. En la primera dosi s’inocula el vector Ad26 i en la segona dosi s’inocula el vector Ad5. No està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
+        "Descricao": "EPIDEMIOLOGIA. Objecte o superfície que pot hostatjar microorganismes patògens i convertir-se en un agent transmissor d’infeccions.  ; Sputnik V ; vaccin Gamaleya  ; Sputnik V  ; vacina Gamaleya  vacina Sputnik ; Sputnik  ; Spoetnik V-vaccin ; Spoetnikvaccin ; Sputnik V-vaccin ; Sputnik-vaccin ; Sputnik ; Sputnik V  PREVENCIÓ. Vacuna anti COVID-19 de vectors vírics no replicatius preparada amb adenovirus humans Ad26 i Ad5, que introdueixen en l’organisme el material genètic que expressa la proteïna S del SARS-CoV-2. intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. En la primera dosi s’inocula el vector Ad26 i en la segona dosi s’inocula el vector Ad5. No està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
         "Citação": "Nota: La Gam-COVID-Vac s’administra per via intramuscular i són necessàries dues dosis per a completar la pauta de vacunació. En la primera dosi s’inocula el vector Ad26 i en la segona dosi s’inocula el vector Ad5. No està autoritzada a l’Estat espanyol. És d’origen biotecnològic.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -10735,10 +10741,9 @@
           "fr: galidésivir",
           "pt: galidesivir",
           "nl: galidesivir",
-          "galidesivir: és la forma catalana"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         249503-25-1 PRINCIPIS ACTIUS. Fàrmac antivíric en investigació, anàleg de l’adenosina, que inhibeix l’RNA- polimerasa amb la incorporació a l’RNA durant la replicació, de manera que en força l’aturada. dels filovirus més comuns, com el virus de l’Ebola i el virus de Marburg. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric en investigació, anàleg de l’adenosina, que inhibeix l’RNA- polimerasa amb la incorporació a l’RNA durant la replicació, de manera que en força l’aturada. dels filovirus més comuns, com el virus de l’Ebola i el virus de Marburg. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació corresponent a la DCI.",
         "Citação": "Nota: 1. El galidesivir s’empra en el tractament",
         "Categoria": "Fármacos e Terapias"
       }
@@ -10760,7 +10765,7 @@
           "nl: genoom"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. den. com.  ; vacuna Gamaleya ; Sputnik V  ; Gamaleya txerto ; Sputnik  ; vacina Gamaleya ; vacina Sputnik V ; Sputnik V  ; vacuna Gamaleya ; Sputnik V  ; Gamaleya vaccine ; Sputnik V    ETIOPATOGÈNIA. Contingut total de gens propis en el conjunt de cromosomes d’una espècie. constituït de DNA, molts virus, com el SARS-CoV-2, tenen un genoma d’RNA.",
+        "Descricao": "ETIOPATOGÈNIA. Contingut total de gens propis en el conjunt de cromosomes d’una espècie. constituït de DNA, molts virus, com el SARS-CoV-2, tenen un genoma d’RNA.",
         "Citação": "Nota: Tot i que el genoma de la majoria d’organismes és constituït de DNA, molts virus, com el SARS-CoV-2, tenen un genoma d’RNA.",
         "Categoria": "Vacinas e Imunização"
       }
@@ -10772,23 +10777,19 @@
       "covid": {
         "Conceito": "gat d’algàlia",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: gat d’algàlia",
+          "eu: algali katu",
+          "gl: gato de algalia",
+          "es: civeta",
+          "en: civet",
+          "fr: civette",
+          "pt: civeta",
+          "nl: civetkat",
+          "pl: cyweta"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Termos Gerais"
-      }
-    }
-  },
-  {
-    "Conceito": "GCE",
-    "Fontes": {
-      "covid": {
-        "Conceito": "GCE",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Mamífer carnívor nocturn de la família dels vivèrrids, que pot actuar com a hoste intermediari en la transmissió de certs coronavirus als humans.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -10800,9 +10801,19 @@
       "covid": {
         "Conceito": "gel antisèptic",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: gel antiseptic",
+          "eu: gel antiszeptikoa",
+          "gl: xel antiséptico",
+          "es: gel antiséptico",
+          "en: antiseptic gel",
+          "fr: gel antiseptique",
+          "pt: gel antisséptico",
+          "nl: antiseptische gel",
+          "pl: żel antyseptyczny"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Producte tòpic en forma de gel utilitzat per eliminar o inhibir el creixement de microorganismes a la pell i prevenir infeccions.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -10814,9 +10825,19 @@
       "covid": {
         "Conceito": "gel desinfectant",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: gel desinfectant",
+          "eu: gel desinfektatzailea",
+          "gl: xel desinfectante",
+          "es: gel desinfectante",
+          "en: disinfectant gel",
+          "fr: gel désinfectant",
+          "pt: gel desinfetante",
+          "nl: desinfecterende gel",
+          "pl: żel dezynfekujący"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Preparat tòpic en forma de gel utilitzat per a la desinfecció de la pell, especialment de les mans, eliminant microorganismes i reduint el risc de transmissió d’infeccions.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -10829,24 +10850,18 @@
         "Conceito": "gel hidroalcohòlic",
         "Substantivo": "n m",
         "Traduções": [
-          "oc: gèl antiseptic"
-        ],
+          "oc: gel idroalcoòlic",
+          "eu: gel hidroalkoholikoa",
+          "gl: xel hidroalcohólico",
+          "es: gel hidroalcohólico",
+          "en: hydroalcoholic gel",
+          "fr: gel hydroalcoolique",
+          "pt: gel hidroalcoólico",
+          "nl: hydroalcoholische gel",
+          "pl: żel hydroalkoholowy"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ; ;  ; gèl desinfectant ; gèl idroalcoolic ; gèl igienizant",
-        "Citação": "",
-        "Categoria": "Equipamentos e Dispositivos"
-      }
-    }
-  },
-  {
-    "Conceito": "gel higienitzant",
-    "Fontes": {
-      "covid": {
-        "Conceito": "gel higienitzant",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Producte desinfectant a base d’alcohol utilitzat per a l’antisepsi de mans, eficaç per eliminar microorganismes i prevenir infeccions.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -10919,7 +10934,7 @@
           "fr: génome"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "      transportar gèrmens infecciosos d’un individu a un altre.",
+        "Descricao": "Conjunt complet de material genètic d’un organisme, format per ADN o ARN, que conté tota la informació necessària per al seu funcionament i reproducció.",
         "Citação": "",
         "Categoria": "Genética e Biologia Molecular"
       }
@@ -11089,7 +11104,7 @@
           "nl: gimsilumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        gimsilumabe   1648796-29-5 PRINCIPIS ACTIUS. Fàrmac immunomodulador en investigació que s’uneix al factor estimulant de colònies de granulòcits i macròfags. humanitzat que s’empra com a tractament experimental de l’asma, l’artritis reumatoide i l’esclerosi múltiple. També s’estudia com a possible tractament antineoplàstic. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador en investigació que s’uneix al factor estimulant de colònies de granulòcits i macròfags. humanitzat que s’empra com a tractament experimental de l’asma, l’artritis reumatoide i l’esclerosi múltiple. També s’estudia com a possible tractament antineoplàstic. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El gimsilumab és un anticòs monoclonal humanitzat que s’empra com a tractament experimental de l’asma, l’artritis reumatoide i l’esclerosi múltiple. També s’estudia com a possible tractament antineoplàstic. Se n’ha suggerit l’ús per al tractament de la COVID-19.2. La denominació gimsilumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -11144,7 +11159,7 @@
           "nl: alcoholgel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       ; gel desinfektatzaile ; gel hidroalkoholiko  ; xel desinfectante ; xel hidroalcólico ; xel hixienizante  ; gel desinfectante ; gel hidroalcohólico ; gel higienizante  ; antiseptic gel ; disinfectant gel ; hand disinfectant gel ; hand sanitiser gel ; hand sanitizer gel ; sanitizing gel  ; gel antiseptique ; gel désinfectant ; gel hydroalcoolique  desinfetante das mãos ;  gel anti-séptico ; gel desinfetante ;  gel higienizador  álcool gel ; álcool-gel  ; desinfecterende handgel ; handalcohol ; handgel ;  hydroalcoholische gel  PREVENCIÓ. Gel aquós amb una elevada concentració d’alcohol que permet eliminar microorganismes patògens de les mans i de superfícies. higiene de mans feta amb aigua i sabó en determinades circumstàncies, com ara en l’activitat clínica o si hi ha manca d’aigua, però no la substitueix.",
+        "Descricao": "PREVENCIÓ. Gel aquós amb una elevada concentració d’alcohol que permet eliminar microorganismes patògens de les mans i de superfícies. higiene de mans feta amb aigua i sabó en determinades circumstàncies, com ara en l’activitat clínica o si hi ha manca d’aigua, però no la substitueix.",
         "Citação": "Nota: El gel hidroalcohòlic és una alternativa a la higiene de mans feta amb aigua i sabó en determinades circumstàncies, com ara en l’activitat clínica o si hi ha manca d’aigua, però no la substitueix.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -11180,9 +11195,19 @@
       "covid": {
         "Conceito": "gota de Flügge",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: gota de Flügge",
+          "eu: Flügge tantaka",
+          "gl: gota de Flügge",
+          "es: gota de Flügge",
+          "en: Flügge droplet",
+          "fr: gouttelette de Flügge",
+          "pt: gota de Flügge",
+          "nl: Flügge-druppel",
+          "pl: kropla Flüggego"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Goteta respiratòria emesa en parlar, tossir o esternudar, que pot contenir microorganismes i és un dels principals mecanismes de transmissió de malalties respiratòries.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -11194,9 +11219,19 @@
       "covid": {
         "Conceito": "goteta",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: goteta",
+          "eu: tantaka",
+          "gl: gota",
+          "es: gota",
+          "en: droplet",
+          "fr: gouttelette",
+          "pt: gotícula",
+          "nl: druppel",
+          "pl: kropelka"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Petita partícula líquida en suspensió, generalment emesa durant la respiració, la parla, la tos o l’esternut, que pot transportar agents infecciosos.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -11219,7 +11254,7 @@
           "nl: druppeltje van Flügge"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  sin. compl. ;  ; goteta de Flügge ;  ; Flügge-ren tanta  ; gotícula respiratoria ; gotiña de Flügge ; gotiña respiratoria  ; gotícula respiratoria ; gotita de Flügge  ; respiratory droplet     ETIOPATOGÈNIA. Cadascuna de les petites gotes de saliva o de fluid respiratori de mida superior a 100 micròmetres que s’expulsen en tossir, esternudar, parlar o respirar, i que poden econòmiques o pel seu comportament, tenen una gran probabilitat de contraure algun tipus de malaltia o de patir algun accident.",
+        "Descricao": "ETIOPATOGÈNIA. Cadascuna de les petites gotes de saliva o de fluid respiratori de mida superior a 100 micròmetres que s’expulsen en tossir, esternudar, parlar o respirar, i que poden econòmiques o pel seu comportament, tenen una gran probabilitat de contraure algun tipus de malaltia o de patir algun accident.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -11231,9 +11266,19 @@
       "covid": {
         "Conceito": "gotícula respiratòria",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: goteta respiratòria",
+          "eu: arnas tantaka",
+          "gl: gota respiratoria",
+          "es: gota respiratoria",
+          "en: respiratory droplet",
+          "fr: gouttelette respiratoire",
+          "pt: gotícula respiratória",
+          "nl: respiratoire druppel",
+          "pl: kropla oddechowa"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Partícula de líquid de mida petita emesa durant la respiració, la parla, la tos o els esternuts, que pot contenir agents infecciosos i contribuir a la transmissió de malalties.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -11246,35 +11291,17 @@
         "Conceito": "greu",
         "Substantivo": "",
         "Traduções": [
-          "adj: ",
           "oc: agut -uda",
-          "adj: ; fòrt -a",
-          "adj: ; grèu",
-          "adj: ; sevèr -a",
-          "adj: ",
           "eu: larri",
-          "adj: ",
           "gl: grave",
-          "adj: ",
           "es: agudo -da",
-          "adj: ; fuerte",
-          "adj: ; grave",
-          "adj: ",
           "en: severe",
-          "adj: ",
           "fr: fort, forte",
-          "adj: ; grave",
-          "adj: ; intense",
-          "adj: ",
           "pt: grave",
-          "adj: ",
-          "adj: ",
-          "nl: acuut, acute",
-          "adj: ; ernstig -e",
-          "adj: "
+          "nl: acuut, acute"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "agudo CLÍNICA. Dit del mal o de la malaltia que es manifesta de manera intensa o amb possibles conseqüències importants. és una de les formes adequades per a traduir l’adjectiu anglès en l’àmbit mèdic, en lloc de l’adjectiu que té un significat diferent. Segons el context, també poden ser adequades les formes , etc.",
+        "Descricao": "CLÍNICA. Dit del mal o de la malaltia que es manifesta de manera intensa o amb possibles conseqüències importants. és una de les formes adequades per a traduir l’adjectiu anglès en l’àmbit mèdic, en lloc de l’adjectiu que té un significat diferent. Segons el context, també poden ser adequades les formes , etc.",
         "Citação": "Nota: L’adjectiu greu és una de les formes adequades per a traduir l’adjectiu anglès severe en l’àmbit mèdic, en lloc de l’adjectiu sever -a, que té un significat diferent. Segons el context, també poden ser adequades les formes intens -a, fort -a, agut -uda, etc.",
         "Categoria": "Termos Gerais"
       }
@@ -11297,7 +11324,7 @@
           "nl: goflikicept"
         ],
         "Sigla": "GCE",
-        "Descricao": "sin.  sin. compl.    ; grupo burbulla ; grupo de convivencia estable ; GCE  ; grupo de convivencia estable ; GCE   ; bulle sociale ; groupe de bulles    2416984-26-2 PRINCIPIS ACTIUS. Fàrmac en investigació que inhibeix la via de senyalització i també bloca la interleucina 1 beta humana. a possible tractament per a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació que inhibeix la via de senyalització i també bloca la interleucina 1 beta humana. a possible tractament per a la COVID-19. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El goflikicept està en procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic.2. La denominació goflikicept és la forma catalana corresponent a la DCI.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -11309,9 +11336,19 @@
       "covid": {
         "Conceito": "grup de convivència",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: grop de convivéncia",
+          "eu: elkarbizitza taldea",
+          "gl: grupo de convivencia",
+          "es: grupo de convivencia",
+          "en: cohabitation group",
+          "fr: groupe de cohabitation",
+          "pt: grupo de convivência",
+          "nl: leefgroep",
+          "pl: grupa współżycia"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Conjunt de persones que comparteixen l’espai de vida habitualment, com ara una unitat familiar o grup domèstic, amb interaccions freqüents i properes.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -11323,9 +11360,19 @@
       "covid": {
         "Conceito": "grup de convivència ampliada",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: grop de convivéncia ampliada",
+          "eu: elkarbizitza talde zabaldua",
+          "gl: grupo de convivencia ampliada",
+          "es: grupo de convivencia ampliado",
+          "en: extended cohabitation group",
+          "fr: groupe de cohabitation élargi",
+          "pt: grupo de convivência alargado",
+          "nl: uitgebreide leefgroep",
+          "pl: rozszerzona grupa współżycia"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Col·lectiu format per diversos grups de convivència estable que interaccionen entre ells de manera controlada, habitualment amb protocols per reduir el risc de transmissió.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -11337,9 +11384,19 @@
       "covid": {
         "Conceito": "grup de convivència estable",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: grop de convivéncia establa",
+          "eu: elkarbizitza talde egonkorra",
+          "gl: grupo de convivencia estable",
+          "es: grupo de convivencia estable",
+          "en: stable cohabitation group",
+          "fr: groupe de cohabitation stable",
+          "pt: grupo de convivência estável",
+          "nl: stabiele leefgroep",
+          "pl: stabilna grupa współżycia"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Col·lectiu reduït de persones que mantenen contacte regular i exclusiu entre elles, amb l’objectiu de minimitzar el risc de transmissió de malalties infeccioses.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -11362,7 +11419,7 @@
           "nl: risicogroep"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "      ; groupe exposé    EPIDEMIOLOGIA. Grup de persones que, per les seves característiques biològiques, socials i i la prevenció de la trombosi. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen natural. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "EPIDEMIOLOGIA. Grup de persones que, per les seves característiques biològiques, socials i i la prevenció de la trombosi. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen natural. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -11405,7 +11462,7 @@
           "nl: bubbel"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        luvas   PREVENCIÓ. Coberta protectora de la mà o la mà i el puny i a vegades l’avantbraç, que s’adapta a la forma de la mà i presenta una beina per a cada dit, o almenys per al dit gros, i que pot ser feta de materials diversos segons les necessitats de protecció.  grupo bolha  grupo bolha social   EPIDEMIOLOGIA. Grup de persones que, en el context d’una pandèmia, es relacionen entre si d’una manera estable generant un espai de confiança i seguretat. partir de grups bombolla és una mesura de moderació social intermèdia entre l’aïllament complet i la relació interpersonal sense restriccions. 2. La denominació s’usa especialment en l’àmbit educatiu per a referir-se a un grup estable d’alumnes, amb el seu tutor o tutora, en el marc del qual es produeix la socialització de les persones que l’integren.",
+        "Descricao": "PREVENCIÓ. Coberta protectora de la mà o la mà i el puny i a vegades l’avantbraç, que s’adapta a la forma de la mà i presenta una beina per a cada dit, o almenys per al dit gros, i que pot ser feta de materials diversos segons les necessitats de protecció.  grupo bolha  grupo bolha social   EPIDEMIOLOGIA. Grup de persones que, en el context d’una pandèmia, es relacionen entre si d’una manera estable generant un espai de confiança i seguretat. partir de grups bombolla és una mesura de moderació social intermèdia entre l’aïllament complet i la relació interpersonal sense restriccions. 2. La denominació s’usa especialment en l’àmbit educatiu per a referir-se a un grup estable d’alumnes, amb el seu tutor o tutora, en el marc del qual es produeix la socialització de les persones que l’integren.",
         "Citação": "Nota: 1. L’organització dels contactes personals a partir de grups bombolla és una mesura de moderació social intermèdia entre l’aïllament complet i la relació interpersonal sense restriccions.2. La denominació grup bombolla s’usa especialment en l’àmbit educatiu per a referir-se a un grup estable d’alumnes, amb el seu tutor o tutora, en el marc del qual es produeix la socialització de les persones que l’integren.",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -11526,7 +11583,7 @@
           "nl: bloedbeeld"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; emograma     ; hemogram    contagem sanguínea  ; hemogram  DIAGNÒSTIC. Resultat de l’estudi quantitatiu i qualitatiu dels elements que constitueixen la sang, com ara eritròcits, leucòcits i plaquetes.",
+        "Descricao": "DIAGNÒSTIC. Resultat de l’estudi quantitatiu i qualitatiu dels elements que constitueixen la sang, com ara eritròcits, leucòcits i plaquetes.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -11609,7 +11666,7 @@
           "nl: handhygiëne"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         9005-49-6 PRINCIPIS ACTIUS. Fàrmac anticoagulant, produït per les cèl·lules encebades, que s’uneix reversiblement a l’antitrombina III i augmenta la velocitat amb què inactiva els enzims responsables de la coagulació, com la trombina i el factor Xa. sistema reticuloendotelial. S’empra en el tractament   higienização das mãos ; lavagem das mãos   PREVENCIÓ. Conjunt de normes, tècniques i hàbits d’higiene aplicat a les mans, destinat a evitar les infeccions. fonamental perquè està demostrat que les mans són la via principal de transmissió dels microorganismes. En el cas dels professionals sanitaris, s’hauria de fer sempre abans i després de tocar un pacient, abans de realitzar una tècnica que requereixi asèpsia, després del risc d’exposició a fluids corporals d’un pacient i després de tenir contacte amb l’entorn del pacient.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac anticoagulant, produït per les cèl·lules encebades, que s’uneix reversiblement a l’antitrombina III i augmenta la velocitat amb què inactiva els enzims responsables de la coagulació, com la trombina i el factor Xa. sistema reticuloendotelial. S’empra en el tractament   higienização das mãos ; lavagem das mãos   PREVENCIÓ. Conjunt de normes, tècniques i hàbits d’higiene aplicat a les mans, destinat a evitar les infeccions. fonamental perquè està demostrat que les mans són la via principal de transmissió dels microorganismes. En el cas dels professionals sanitaris, s’hauria de fer sempre abans i després de tocar un pacient, abans de realitzar una tècnica que requereixi asèpsia, després del risc d’exposició a fluids corporals d’un pacient i després de tenir contacte amb l’entorn del pacient.",
         "Citação": "Nota: 1. L’heparina es troba principalment al fetge i al sistema reticuloendotelial. S’empra en el tractament H94",
         "Categoria": "Fármacos e Terapias"
       }
@@ -11702,7 +11759,7 @@
           "nl: hepatotoxiciteit"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; leverschade  CLÍNICA. Propietat d’exercir una acció tòxica sobre els hepatòcits.",
+        "Descricao": "CLÍNICA. Propietat d’exercir una acció tòxica sobre els hepatòcits.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -11773,7 +11830,7 @@
           "nl: hydroxychloroquine"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        sulfato de hidroxicloroquina   118-42-3 PRINCIPIS ACTIUS. Fàrmac antipalúdic, antiprotozoari i antireumàtic, del grup de les 4-aminoquinolines, que causa la mort dels paràsits del gènere mitjançant la inhibició de l’enzim hemopolimerasa i la consegüent acumulació tòxica del grup hemo dins el paràsit.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antipalúdic, antiprotozoari i antireumàtic, del grup de les 4-aminoquinolines, que causa la mort dels paràsits del gènere mitjançant la inhibició de l’enzim hemopolimerasa i la consegüent acumulació tòxica del grup hemo dins el paràsit.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -11805,7 +11862,7 @@
           "nl: gezondheidsleer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; profilactica   ; profiláctica  ; profiláctica  ; public health   saúde pública   ; hygiëne ; profylaxe ; profylaxis  PREVENCIÓ. Ciència que estudia les condicions i els factors personals o ambientals que influeixen en la salut física i mental i prescriu les normes que se’n dedueixen, amb la voluntat de prevenir l’aparició i la difusió de malalties i de conservar millors condicions de vida tant individuals com poblacionals.",
+        "Descricao": "PREVENCIÓ. Ciència que estudia les condicions i els factors personals o ambientals que influeixen en la salut física i mental i prescriu les normes que se’n dedueixen, amb la voluntat de prevenir l’aparició i la difusió de malalties i de conservar millors condicions de vida tant individuals com poblacionals.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -11827,7 +11884,7 @@
           "nl: hypoxie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; lauada de mans ; lauat de mans   ; lavado de mans ; lavadura de mans  ; lavado de manos    hipoxia  hipóxia  CLÍNICA. Disminució de la concentració d’oxigen a les cèl·lules i els teixits. intrínseques (per exemple, apnea del son, pneumònia o emfisema) o externes a l’organisme (per exemple, hàbit de tabaquisme, alçada o fred extrem).",
+        "Descricao": "CLÍNICA. Disminució de la concentració d’oxigen a les cèl·lules i els teixits. intrínseques (per exemple, apnea del son, pneumònia o emfisema) o externes a l’organisme (per exemple, hàbit de tabaquisme, alçada o fred extrem).",
         "Citação": "Nota: La hipòxia pot ser deguda a múltiples causes intrínseques (per exemple, apnea del son, pneumònia o emfisema) o externes a l’organisme (per exemple, hàbit de tabaquisme, alçada o fred extrem).",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -11891,9 +11948,19 @@
       "covid": {
         "Conceito": "hipoestèsia gustativa",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: ipoestesia gustativa",
+          "eu: dastamenaren hipoestesia",
+          "gl: hipoestesia gustativa",
+          "es: hipoestesia gustativa",
+          "en: gustatory hypoesthesia",
+          "fr: hypoesthésie gustative",
+          "pt: hipoestesia gustativa",
+          "nl: gustatoire hypo-esthesie",
+          "pl: hipoestezja smakowa"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Disminució parcial de la capacitat per percebre els sabors, que pot ser causada per infeccions, trastorns neurològics o lesions.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -11905,9 +11972,19 @@
       "covid": {
         "Conceito": "hipoestèsia olfactòria",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: ipoestesia olfactòria",
+          "eu: usaimenaren hipoestesia",
+          "gl: hipoestesia olfactoria",
+          "es: hipoestesia olfatoria",
+          "en: olfactory hypoesthesia",
+          "fr: hypoesthésie olfactive",
+          "pt: hipoestesia olfativa",
+          "nl: olfactoire hypo-esthesie",
+          "pl: hipoestezja węchowa"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Reducció parcial de la sensibilitat olfactòria, que dificulta la percepció normal de les olors.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -11930,7 +12007,7 @@
           "nl: hypogeusie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; ipogeusestesia ; ipogeusia  ; hipogeusia   ; hipogeusia  ; hypogeusesthesia ; hypogeusia     ; verminderd smaakvermogen ; verminderde smaak  CLÍNICA. Disminució de la sensibilitat gustativa. que interfereix en l’activitat de l’enzim hemopolimerasa. Tradicionalment s’ha emprat en el tractament i la prevenció de la malària i en el tractament de l’artritis reumatoide i del lupus eritematós. Se n’ha suggerit l’ús per al tractament de la COVID-19, però els resultats obtinguts fins ara no confirmen aquest ús terapèutic. És d'origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "CLÍNICA. Disminució de la sensibilitat gustativa. que interfereix en l’activitat de l’enzim hemopolimerasa. Tradicionalment s’ha emprat en el tractament i la prevenció de la malària i en el tractament de l’artritis reumatoide i del lupus eritematós. Se n’ha suggerit l’ús per al tractament de la COVID-19, però els resultats obtinguts fins ara no confirmen aquest ús terapèutic. És d'origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. La hidroxicloroquina és un derivat de la cloroquina que interfereix en l’activitat de l’enzim hemopolimerasa. Tradicionalment s’ha emprat en el tractament i la prevenció de la malària i en el tractament de l’artritis reumatoide i del lupus eritematós. Se n’ha suggerit l’ús per al tractament de la COVID-19, però els resultats obtinguts fins ara no confirmen aquest ús terapèutic. És d'origen sintètic.2. La denominació hidroxicloroquina és la forma catalana corresponent a la DCI.",
         "Categoria": "Sintomas e Sinais"
       }
@@ -11963,7 +12040,7 @@
           "nl: hypoxemie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         CLÍNICA. Dèficit d’oxigenació de la sang.",
+        "Descricao": "CLÍNICA. Dèficit d’oxigenació de la sang.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -11986,7 +12063,7 @@
           "nl: hyposmie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;   ; usaimen-hipoestesia  ; hiposmia  ; hipoosmia ;  ; olfactory hypoesthesia  ; hyposmie    ; verminderd reukvermogen ; verminderde reuk ; verminderde reukzin  CLÍNICA. Disminució anormal de l’agudesa olfactòria.",
+        "Descricao": "CLÍNICA. Disminució anormal de l’agudesa olfactòria.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -11998,9 +12075,19 @@
       "covid": {
         "Conceito": "hipòsmia",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: ipòsmia",
+          "eu: hiposmia",
+          "gl: hiposmia",
+          "es: hiposmia",
+          "en: hyposmia",
+          "fr: hyposmie",
+          "pt: hiposmia",
+          "nl: hyposmie",
+          "pl: hiposmia"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Disminució parcial de la capacitat per percebre les olors, sovint associada a infeccions respiratòries, traumatismes o malalties neurològiques.",
         "Citação": "",
         "Categoria": "Sintomas e Sinais"
       }
@@ -12021,7 +12108,7 @@
           "fr: hypoxie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ",
+        "Descricao": "Condició en què els teixits del cos no reben una quantitat suficient d’oxigen per mantenir el seu funcionament normal.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -12044,7 +12131,7 @@
           "nl: elektronisch patiëntendossier"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "     ; clinical record ; health file ; medical file ; medical record ; patient chart ; patient record  ; dossier médical   histórico clínico ; prontuário clínico ; prontuário médico  ; medisch dossier ; patiëntendossier ; EPD  DIAGNÒSTIC. Relació ordenada de les dades amb significació mèdica referents a un pacient, al tractament a què està sotmès i a l’evolució de la malaltia, obtingudes per mitjà de l’anamnesi, l’exploració i els exàmens complementaris. filiació personal, antecedents familiars, antecedents personals, tant fisiològics com patològics, malaltia actual (inici, evolució i situació del moment), anamnesi, exploració física, diagnòstic de probabilitat, proves de laboratori i especialitzades, confirmació diagnòstica, tractament, evolució de la simptomatologia del malalt i epícrisi.",
+        "Descricao": "DIAGNÒSTIC. Relació ordenada de les dades amb significació mèdica referents a un pacient, al tractament a què està sotmès i a l’evolució de la malaltia, obtingudes per mitjà de l’anamnesi, l’exploració i els exàmens complementaris. filiació personal, antecedents familiars, antecedents personals, tant fisiològics com patològics, malaltia actual (inici, evolució i situació del moment), anamnesi, exploració física, diagnòstic de probabilitat, proves de laboratori i especialitzades, confirmació diagnòstica, tractament, evolució de la simptomatologia del malalt i epícrisi.",
         "Citação": "Nota: La història clínica reuneix els apartats següents: filiació personal, antecedents familiars, antecedents personals, tant fisiològics com patològics, malaltia actual (inici, evolució i situació del moment), anamnesi, exploració física, diagnòstic de probabilitat, proves de laboratori i especialitzades, confirmació diagnòstica, tractament, evolució de la simptomatologia del malalt i epícrisi.",
         "Categoria": "Termos Gerais"
       }
@@ -12236,9 +12323,19 @@
       "covid": {
         "Conceito": "hostatger",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: hostatgièr",
+          "eu: ostalariailea",
+          "gl: hospedador",
+          "es: hospedador",
+          "en: host",
+          "fr: hôte",
+          "pt: hospedeiro",
+          "nl: gastheer",
+          "pl: żywiciel"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Organisme que allotja un altre organisme (paràsit o microorganisme), proporcionant-li el medi necessari per viure i reproduir-se.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -12261,7 +12358,7 @@
           "nl: gastheer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; òste  ; ostalari  ; hóspede  ; especie hospedera ; especie huésped ; hospedador ; hospedante ; hospedero ; huésped  ; host species  ; hôte   espécie hospedeira   ETIOPATOGÈNIA. Organisme que dona allotjament o nodriment o les dues coses alhora a un altre d’una altra espècie paràsita, comensal o simbiont.",
+        "Descricao": "ETIOPATOGÈNIA. Organisme que dona allotjament o nodriment o les dues coses alhora a un altre d’una altra espècie paràsita, comensal o simbiont.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -12286,7 +12383,7 @@
           "nl: icatibant"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       hospedeiro intermédio  hospedeiro intermediário   ETIOPATOGÈNIA. Hoste que alberga un altre organisme, paràsit, durant un període de transició cap a un tercer hoste.     acetato de icatibanto ; icatibanto   130308-48-4 PRINCIPIS ACTIUS. Fàrmac antiinflamatori que actua com a antagonista del receptor de la bradicina. inflamatoris aguts associats a l’angioedema hereditari. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "ETIOPATOGÈNIA. Hoste que alberga un altre organisme, paràsit, durant un període de transició cap a un tercer hoste.     acetato de icatibanto ; icatibanto   130308-48-4 PRINCIPIS ACTIUS. Fàrmac antiinflamatori que actua com a antagonista del receptor de la bradicina. inflamatoris aguts associats a l’angioedema hereditari. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’icatibant s’empra en el tractament d’episodis inflamatoris aguts associats a l’angioedema hereditari. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació icatibant és la forma catalana corresponent a la DCI.",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -12333,20 +12430,6 @@
     }
   },
   {
-    "Conceito": "IA",
-    "Fontes": {
-      "covid": {
-        "Conceito": "IA",
-        "Substantivo": "",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Tecnologia em Saúde"
-      }
-    }
-  },
-  {
     "Conceito": "ibuprofèn",
     "Fontes": {
       "covid": {
@@ -12363,7 +12446,7 @@
           "nl: ibuprofen"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        15687-27-1 PRINCIPIS ACTIUS. Fàrmac antiinflamatori no esteroidal que bloqueja la síntesi de les prostaglandines mitjançant la inhibició de les ciclooxigenases COX-1 i COX-2. i antipirètiques. S’empra en el tractament de la inflamació i el dolor lleu i moderat, com el dolor dental, la dismenorrea i el mal de cap. També s’utilitza en el tractament de processos reumàtics aguts i crònics, com l’artritis reumatoide. Se n’ha suggerit l’ús per alleujar els símptomes provocats per la COVID-19. És un derivat de l’àcid propiònic d’origen sintètic. 2. L’ibuprofèn no té DCI perquè el seu ús farmacològic és previ a l’assignació d’una denominació comuna internacional per part de l’OMS.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antiinflamatori no esteroidal que bloqueja la síntesi de les prostaglandines mitjançant la inhibició de les ciclooxigenases COX-1 i COX-2. i antipirètiques. S’empra en el tractament de la inflamació i el dolor lleu i moderat, com el dolor dental, la dismenorrea i el mal de cap. També s’utilitza en el tractament de processos reumàtics aguts i crònics, com l’artritis reumatoide. Se n’ha suggerit l’ús per alleujar els símptomes provocats per la COVID-19. És un derivat de l’àcid propiònic d’origen sintètic. 2. L’ibuprofèn no té DCI perquè el seu ús farmacològic és previ a l’assignació d’una denominació comuna internacional per part de l’OMS.",
         "Citação": "Nota: 1. L’ibuprofèn té també propietats analgèsiques i antipirètiques. S’empra en el tractament de la inflamació i el dolor lleu i moderat, com el dolor dental, la dismenorrea i el mal de cap. També s’utilitza en el tractament de processos reumàtics aguts i crònics, com l’artritis reumatoide. Se n’ha suggerit l’ús per alleujar els símptomes provocats per la COVID-19. És un derivat de l’àcid propiònic d’origen sintètic.2. L’ibuprofèn no té DCI perquè el seu ús farmacològic és previ a l’assignació d’una denominació comuna internacional per part de l’OMS.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -12388,7 +12471,7 @@
           "nl: afweer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "          ; immuniteit  CONCEPTES GENERALS. Resistència congènita o adquirida d’un organisme contra una malaltia infecciosa o un antigen determinat. i a i, segons el desencadenant de la resposta immunitària, en (adreçada contra qualsevol agent patogen) i (adreçada contra un antigen concret).",
+        "Descricao": "CONCEPTES GENERALS. Resistència congènita o adquirida d’un organisme contra una malaltia infecciosa o un antigen determinat. i a i, segons el desencadenant de la resposta immunitària, en (adreçada contra qualsevol agent patogen) i (adreçada contra un antigen concret).",
         "Citação": "Nota: La immunitat es classifica, segons l’origen, en immunitat innata i immunitat adaptativa i, segons el desencadenant de la resposta immunitària, en immunitat inespecífica (adreçada contra qualsevol agent patogen) i immunitat específica (adreçada contra un antigen concret).",
         "Categoria": "Fármacos e Terapias"
       }
@@ -12444,9 +12527,19 @@
       "covid": {
         "Conceito": "IECA",
         "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: IECA (Inhibidor de l’Enzim Convertidor de l’Angiotensina)",
+          "eu: IECA (Angiotentsina bihurtzeko entzimaren inhibitzailea)",
+          "gl: IECA (Inhibidor da Enzima Convertidora da Angiotensina)",
+          "es: IECA (Inhibidor de la Enzima Convertidora de Angiotensina)",
+          "en: ACEI (Angiotensin-Converting Enzyme Inhibitor)",
+          "fr: IEC (Inhibiteur de l’Enzyme de Conversion de l’Angiotensine)",
+          "pt: IECA (Inibidor da Enzima de Conversão da Angiotensina)",
+          "nl: ACE-remmer (Angiotensine-converterend enzym-remmer)",
+          "pl: ACEI (inhibitor konwertazy angiotensyny)"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Fàrmac utilitzat en el tractament de la hipertensió arterial i insuficiència cardíaca, que bloqueja l’acció de l’enzim convertidor de l’angiotensina i redueix la pressió arterial.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -12483,86 +12576,31 @@
           "nl: imdevimab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        imdevimabe   2415933-40-1 PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
     }
   },
   {
-    "Conceito": "immune",
+    "Conceito": "immunitariària",
     "Fontes": {
       "covid": {
-        "Conceito": "immune",
+        "Conceito": "immunitaritària",
         "Substantivo": "",
         "Traduções": [
-          "adj: veg."
-        ],
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "",
-        "Citação": "",
-        "Categoria": "Imunologia"
-      }
-    }
-  },
-  {
-    "Conceito": "immunitari -ària",
-    "Fontes": {
-      "covid": {
-        "Conceito": "immunitari -ària",
-        "Substantivo": "",
-        "Traduções": [
-          "adj: ",
-          "adj: ;",
-          "adj: ",
           "oc: immunitari -ària",
-          "adj: ",
           "eu: immunitario",
-          "adj: ",
           "gl: inmune",
-          "adj: ; inmunitario -a",
-          "adj: ;",
-          "adj: ",
-          "es: inmunitario -ria",
-          "adj: ",
+          "es: inmunitarioria",
           "en: immune",
-          "adj: ",
           "fr: immunitaire",
-          "adj: ",
           "pt: imunitário",
-          "adj: ",
-          "adj: ",
-          "nl: immunologisch -e",
-          "adj: ; immuun -mune",
-          "adj: "
+          "nl: immunologisch"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin. compl. inmunolóxico -a imune CONCEPTES GENERALS. Relatiu o pertanyent a la immunitat.",
+        "Descricao": "CONCEPTES GENERALS. Relatiu o pertanyent a la immunitat.",
         "Citação": "",
-        "Categoria": "Imunologia"
-      }
-    }
-  },
-  {
-    "Conceito": "immunitat",
-    "Fontes": {
-      "covid": {
-        "Conceito": "immunitat",
-        "Substantivo": "n",
-        "Traduções": [
-          "oc: immunitat",
-          "eu: immunitate",
-          "eu: talde-immunitate",
-          "gl: inmunidade colectiva",
-          "es: inmunidad colectiva",
-          "en: community immunity",
-          "fr: immunité collective",
-          "pt: imunidade coletiva",
-          "nl: collectieve immuniteit"
-        ],
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "    ; inmunidade de comunidade ; inmunidade de grupo  ; inmunidad de comunidad ; inmunidad de grupo  ; herd immunity  ; immunité de groupe  ; imunidade de grupo  imunidade comunitária  imunidade de massa ; imunidade de rebanho ; imunidade grupal  ; groepsbescherming ; groepsimmuniteit  EPIDEMIOLOGIA. Immunitat adquirida per a una malatia d’un nombre prou gran de persones d’una comunitat, que disminueix el risc de contagi entre les persones susceptibles. de contagi d’una malaltia entre les persones susceptibles disminueix a mesura que augmenta el nombre de persones immunes, ja sigui per vacunació o pel contagi previ de la malaltia. 2. La proporció de població immune que es requereix perquè funcioni la immunitat de grup depèn de l’agent infecciós, de les característiques de transmissió, de la distribució de persones immunes i persones susceptibles i d’altres factors, especialment ambientals.",
-        "Citação": "Nota: 1. La immunitat de grup es basa en el fet que el risc de contagi d’una malaltia entre les persones susceptibles disminueix a mesura que augmenta el nombre de persones immunes, ja sigui per vacunació o pel contagi previ de la malaltia.2. La proporció de població immune que es requereix perquè funcioni la immunitat de grup depèn de l’agent infecciós, de les característiques de transmissió, de la distribució de persones immunes i persones susceptibles i d’altres factors, especialment ambientals.",
         "Categoria": "Imunologia"
       }
     }
@@ -12584,7 +12622,7 @@
           "nl: actieve afweer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; actieve immuniteit  CONCEPTES GENERALS. Immunitat adaptativa resultant del contacte amb un antigen, ja sigui per un procés natural, com una infecció, o per un procés artificial, com la vacunació.",
+        "Descricao": "CONCEPTES GENERALS. Immunitat adaptativa resultant del contacte amb un antigen, ja sigui per un procés natural, com una infecció, o per un procés artificial, com la vacunació.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -12601,7 +12639,7 @@
           "eu: hartutako immunitate"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  sin. compl.  ; immunitat aquerida  immunitat especifica  ; immunitate adaptatibo immunitate espezifiko en procés d’avaluació com a possible tractament per a la COVID-19, en combinació amb el casirivimab. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "Immunitate adaptatibo immunitate espezifiko en procés d’avaluació com a possible tractament per a la COVID-19, en combinació amb el casirivimab. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’imdevimab és un anticòs monoclonal que està en procés d’avaluació com a possible tractament per a la COVID-19, en combinació amb el casirivimab. És d’origen biotecnològic.2. La denominació imdevimab és la forma catalana corresponent a la DCI.",
         "Categoria": "Imunologia"
       }
@@ -12613,9 +12651,19 @@
       "covid": {
         "Conceito": "immunitat adquirida",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: immunitat adquirida",
+          "eu: immunitate eskuratua",
+          "gl: inmunidade adquirida",
+          "es: inmunidad adquirida",
+          "en: acquired immunity",
+          "fr: immunité acquise",
+          "pt: imunidade adquirida",
+          "nl: verworven immuniteit",
+          "pl: odporność nabyta"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Forma d’immunitat desenvolupada al llarg de la vida després de l’exposició a agents infecciosos o a través de la vacunació, caracteritzada per la seva especificitat i memòria immunològica.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -12627,9 +12675,19 @@
       "covid": {
         "Conceito": "immunitat col·lectiva",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: immunitat collectiva",
+          "eu: immunitate kolektiboa",
+          "gl: inmunidade colectiva",
+          "es: inmunidad colectiva",
+          "en: herd immunity",
+          "fr: immunité collective",
+          "pt: imunidade coletiva",
+          "nl: groepsimmuniteit",
+          "pl: odporność zbiorowiskowa"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Situació en què una gran part de la població és immune a una malaltia, cosa que limita la seva transmissió i protegeix els individus no immunitzats.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -12641,9 +12699,19 @@
       "covid": {
         "Conceito": "immunitat congènita",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: immunitat congènita",
+          "eu: immunitate kongenitua",
+          "gl: inmunidade conxénita",
+          "es: inmunidad congénita",
+          "en: congenital immunity",
+          "fr: immunité congénitale",
+          "pt: imunidade congénita",
+          "nl: aangeboren immuniteit",
+          "pl: odporność wrodzona"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Forma d’immunitat present des del naixement, basada en mecanismes de defensa innats que proporcionen una protecció inicial davant d’infeccions.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -12655,9 +12723,19 @@
       "covid": {
         "Conceito": "immunitat de comunitat",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: immunitat de comunautat",
+          "eu: komunitate-immunitatea",
+          "gl: inmunidade de comunidade",
+          "es: inmunidad de comunidad",
+          "en: community immunity",
+          "fr: immunité de communauté",
+          "pt: imunidade de comunidade",
+          "nl: gemeenschapimmuniteit",
+          "pl: odporność społeczna"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Situació en què una proporció suficient de la població és immune a una malaltia infecciosa, reduint-ne així la propagació i protegint també les persones no immunes.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -12676,22 +12754,8 @@
           "nl: natuurlijke specifieke afweer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; immunitat de comunitat ; immunitat de grop    imunidade específica espontânea ;  imunidade específica não intencional  ; natuurlijke specifieke immuniteit  CONCEPTES GENERALS. Immunitat adaptativa induïda per una exposició involuntària a un determinat agent causal. una resposta o no, es parla de , quan l'entrada de l’agent patogen és el que desencadena la resposta que proporciona la immunitat, o de quan la immunitat es transmet directament de la mare al fetus per la placenta o de la mare al fill per la llet materna, sense necessitat de desencadenar una resposta.",
+        "Descricao": "CONCEPTES GENERALS. Immunitat adaptativa induïda per una exposició involuntària a un determinat agent causal. una resposta o no, es parla de , quan l'entrada de l’agent patogen és el que desencadena la resposta que proporciona la immunitat, o de quan la immunitat es transmet directament de la mare al fetus per la placenta o de la mare al fill per la llet materna, sense necessitat de desencadenar una resposta.",
         "Citação": "Nota: En funció de si el sistema immunitari ha de generar una resposta o no, es parla de immunitat específica natural activa, quan l'entrada de l’agent patogen és el que desencadena la resposta que proporciona la immunitat, o de immunitat específica natural passiva, quan la immunitat es transmet directament de la mare al fetus per la placenta o de la mare al fill per la llet materna, sense necessitat de desencadenar una resposta.",
-        "Categoria": "Imunologia"
-      }
-    }
-  },
-  {
-    "Conceito": "immunitat específica ",
-    "Fontes": {
-      "covid": {
-        "Conceito": "immunitat específica ",
-        "Substantivo": "",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
         "Categoria": "Imunologia"
       }
     }
@@ -12717,7 +12781,7 @@
           "nl: specifieke afweer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.    ; inmunidade específica intencionada ; inmunidade específica provocada  ; inmunidade adquirida inmunidade especifica  ; inmunidad adquirida inmunidad específica  ; adaptative inmunity  ; immunité adaptative   imunidade adquirida  ; specifieke immuniteit ; verkregen afweer ; verkregen immuniteit ; verworven afweer ; verworven immuniteit  CONCEPTES GENERALS. Immunitat produïda després del contacte amb un antigen o bé aconseguida mitjançant anticossos. antigen concret i genera una resposta immunitària més precisa i complexa que la de la immunitat innata.",
+        "Descricao": "CONCEPTES GENERALS. Immunitat produïda després del contacte amb un antigen o bé aconseguida mitjançant anticossos. antigen concret i genera una resposta immunitària més precisa i complexa que la de la immunitat innata.",
         "Citação": "Nota: La immunitat adaptativa és específica contra un antigen concret i genera una resposta immunitària més precisa i complexa que la de la immunitat innata.",
         "Categoria": "Imunologia"
       }
@@ -12729,9 +12793,19 @@
       "covid": {
         "Conceito": "immunitat específica espontània",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: immunitat especifica espontanèa",
+          "eu: immunitate espezifiko espontaneoa",
+          "gl: inmunidade específica espontánea",
+          "es: inmunidad específica espontánea",
+          "en: spontaneous specific immunity",
+          "fr: immunité spécifique spontanée",
+          "pt: imunidade específica espontânea",
+          "nl: spontane specifieke immuniteit",
+          "pl: swoista odporność spontaniczna"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Resposta immunitària específica que es desenvolupa de forma natural i automàtica com a conseqüència de la infecció, sense cap intervenció externa.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -12743,9 +12817,19 @@
       "covid": {
         "Conceito": "immunitat específica intencionada",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: immunitat especifica intencionada",
+          "eu: immunitate espezifiko intentzionala",
+          "gl: inmunidade específica intencionada",
+          "es: inmunidad específica intencionada",
+          "en: intentional specific immunity",
+          "fr: immunité spécifique intentionnelle",
+          "pt: imunidade específica intencional",
+          "nl: intentionele specifieke immuniteit",
+          "pl: swoista odporność celowa"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Resposta immunitària específica induïda de forma deliberada, habitualment mitjançant la vacunació, per protegir contra un patogen concret.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -12765,7 +12849,7 @@
           "en: natural specific immunity"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;    ; inmunidade específica natural ; inmunidade específica non intencionada  ; inmunidad específica natural ; inmunidad específica no intencionada ",
+        "Descricao": "Resposta immunitària específica que es desenvolupa de manera natural després d’haver superat una infecció, amb producció de limfòcits de memòria i anticossos dirigits contra el patogen concret.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -12777,9 +12861,19 @@
       "covid": {
         "Conceito": "immunitat específica no intencionada",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: immunitat especifica pas intencionada",
+          "eu: nahi gabeko immunitate espezifikoa",
+          "gl: inmunidade específica non intencionada",
+          "es: inmunidad específica no intencionada",
+          "en: unintentional specific immunity",
+          "fr: immunité spécifique non intentionnelle",
+          "pt: imunidade específica não intencional",
+          "nl: niet-intentionele specifieke immuniteit",
+          "pl: niespecyficzna odporność swoista"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Resposta immunitària específica desenvolupada com la superació natural d’una infecció, sense intervenció deliberada com la vacunació o l’exposició controlada.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -12802,7 +12896,7 @@
           "nl: passieve specifieke afweer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; passieve specifieke immuniteit  CONCEPTES GENERALS. Immunitat adaptativa resultant d’una transferència immunitària.",
+        "Descricao": "CONCEPTES GENERALS. Immunitat adaptativa resultant d’una transferència immunitària.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -12822,7 +12916,7 @@
           "nl: kunstmatige specifieke afweer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg.  ; inmunidad específica intencionada ; inmunidad específica provocada     imunidade específica intencional  ; kunstmatige specifieke immuniteit  CONCEPTES GENERALS. Immunitat adaptativa induïda per una exposició deliberada i voluntària a un determinat agent causal. una resposta o no, es parla de , quan l'entrada de l’agent patogen és el que desencadena la resposta que proporciona la immunitat, com en la vacunació, o de , quan la immunitat es transmet directament, com en la seroteràpia.",
+        "Descricao": "CONCEPTES GENERALS. Immunitat adaptativa induïda per una exposició deliberada i voluntària a un determinat agent causal. una resposta o no, es parla de , quan l'entrada de l’agent patogen és el que desencadena la resposta que proporciona la immunitat, com en la vacunació, o de , quan la immunitat es transmet directament, com en la seroteràpia.",
         "Citação": "Nota: En funció de si el sistema immunitari ha de generar una resposta o no, es parla de immunitat específica artificial activa, quan l'entrada de l’agent patogen és el que desencadena la resposta que proporciona la immunitat, com en la vacunació, o de immunitat específica artificial passiva, quan la immunitat es transmet directament, com en la seroteràpia.",
         "Categoria": "Imunologia"
       }
@@ -12844,7 +12938,7 @@
           "nl: aangeboren immuniteit"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  sin. compl. ;   ; ;   ; inmunidade inespecífica ; inmunidade innata ; inmunidade natural  ; inmunidad inespecífica ; inmunidad innata ; inmunidad natural  ; inherited immunity ; innate immunity ; native immunity ; nonspecific immunity  ; immunité naturelle ; immunité non spécifique  imunidade congénita ; imunidade  inata ; imunidade não específica ;   imunidade natural  imunidade inespecífica  ; algemene immuniteit ; aspecifieke immuniteit ; natuurlijke immuniteit  CONCEPTES GENERALS. Immunitat contra qualsevol agent patogen, que no comporta el reconeixement específic d’un antigen i es manifesta sempre de la mateixa manera, sense incrementar-se com a resultat de l’exposició repetida a aquest antigen. immunitària inespecífica, ràpida i efectiva que ataca qualsevol substància o agent patogen. Es fonamenta en les barreres epitelials, els fagòcits (macròfags i neutròfils), les cèl·lules NK, les citocines i el sistema del complement.",
+        "Descricao": "CONCEPTES GENERALS. Immunitat contra qualsevol agent patogen, que no comporta el reconeixement específic d’un antigen i es manifesta sempre de la mateixa manera, sense incrementar-se com a resultat de l’exposició repetida a aquest antigen. immunitària inespecífica, ràpida i efectiva que ataca qualsevol substància o agent patogen. Es fonamenta en les barreres epitelials, els fagòcits (macròfags i neutròfils), les cèl·lules NK, les citocines i el sistema del complement.",
         "Citação": "Nota: La immunitat innata genera una resposta immunitària inespecífica, ràpida i efectiva que ataca qualsevol substància o agent patogen. Es fonamenta en les barreres epitelials, els fagòcits (macròfags i neutròfils), les cèl·lules NK, les citocines i el sistema del complement.",
         "Categoria": "Imunologia"
       }
@@ -12856,9 +12950,19 @@
       "covid": {
         "Conceito": "immunitat natural",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: immunitat naturala",
+          "eu: immunitate naturala",
+          "gl: inmunidade natural",
+          "es: inmunidad natural",
+          "en: natural immunity",
+          "fr: immunité naturelle",
+          "pt: imunidade natural",
+          "nl: natuurlijke immuniteit",
+          "pl: naturalna odporność"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Protecció immunitària desenvolupada per l’organisme després d’haver superat una infecció, sense intervenció de vacunes o altres mesures artificials.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -12876,11 +12980,10 @@
           "gl: inmunización",
           "es: inmunización",
           "en: immunization",
-          "fr: immunisation",
-          "nl: aangeboren afweer"
+          "fr: immunisation"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       imunização ativa  imunização  ; algemene afweer ; aspecifieke afweer ; natuurlijke afweer  CONCEPTES GENERALS. Administració d’un antigen o d’un anticòs feta amb l’objectiu d’induir una resposta immunitària.",
+        "Descricao": "CONCEPTES GENERALS. Administració d’un antigen o d’un anticòs feta amb l’objectiu d’induir una resposta immunitària.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -12892,9 +12995,19 @@
       "covid": {
         "Conceito": "immunització activa",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: immunizacion activa",
+          "eu: immunizazio aktiboa",
+          "gl: inmunización activa",
+          "es: inmunización activa",
+          "en: active immunization",
+          "fr: immunisation active",
+          "pt: imunização ativa",
+          "nl: actieve immunisatie",
+          "pl: czynna immunizacja"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
+        "Descricao": "Procés mitjançant el qual l’organisme desenvolupa una resposta immunitària protectora després de l’exposició a un antigen, ja sigui de manera natural o a través de la vacunació.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -12917,32 +13030,9 @@
           "nl: immunochromatografie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         DIAGNÒSTIC. Tècnica diagnòstica que permet visualitzar la reacció antigen-anticòs d’una manera senzilla i ràpida, sense necessitat de reactius ni d’instrumentació.",
+        "Descricao": "DIAGNÒSTIC. Tècnica diagnòstica que permet visualitzar la reacció antigen-anticòs d’una manera senzilla i ràpida, sense necessitat de reactius ni d’instrumentació.",
         "Citação": "",
         "Categoria": "Diagnóstico"
-      }
-    }
-  },
-  {
-    "Conceito": "immunogen -ògena",
-    "Fontes": {
-      "covid": {
-        "Conceito": "immunogen -ògena",
-        "Substantivo": "",
-        "Traduções": [
-          "adj: ",
-          "oc: immunogèn -a",
-          "adj: ",
-          "eu: immunogeniko",
-          "adj: ",
-          "gl: inmunoxénico -a",
-          "adj: ",
-          "es: inmunogénico -ca"
-        ],
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "",
-        "Citação": "",
-        "Categoria": "Imunologia"
       }
     }
   },
@@ -12963,7 +13053,7 @@
           "nl: immunogeniciteit"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       ; immunogeniteit  CONCEPTES GENERALS. Capacitat d’un antigen per a induir una resposta immunitària.",
+        "Descricao": "CONCEPTES GENERALS. Capacitat d’un antigen per a induir una resposta immunitària.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
@@ -12987,7 +13077,7 @@
           "sbl: Ig"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; immuunglobuline   DIAGNÒSTIC. Proteïna present en el sèrum i en altres fluids corporals que participa en la resposta immunitària. limfòcits B i, sobretot, per les cèl·lules plasmàtiques són solubles en el sèrum i altres fluids corporals, i actuen com a efectors principals de la resposta immunitària humoral. ENTORN SOCIAL. Impossibilitat total o parcial d’una persona de desenvolupar la seva feina habitual a causa d’un accident o d’una malaltia.",
+        "Descricao": "DIAGNÒSTIC. Proteïna present en el sèrum i en altres fluids corporals que participa en la resposta immunitària. limfòcits B i, sobretot, per les cèl·lules plasmàtiques són solubles en el sèrum i altres fluids corporals, i actuen com a efectors principals de la resposta immunitària humoral. ENTORN SOCIAL. Impossibilitat total o parcial d’una persona de desenvolupar la seva feina habitual a causa d’un accident o d’una malaltia.",
         "Citação": "Nota: Les immunoglobulines lliures secretades pels limfòcits B i, sobretot, per les cèl·lules plasmàtiques són solubles en el sèrum i altres fluids corporals, i actuen com a efectors principals de la resposta immunitària humoral.I103QUADERNS 50 DICCIONARI MULTILINGÜE DE LA COVID-19",
         "Categoria": "Imunologia"
       }
@@ -13011,7 +13101,7 @@
           "sbl: IgG"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ; immuunglobuline G   DIAGNÒSTIC. Immunoglobulina que conté cadenes pesants , amb tres dominis constants, que intervé en diversos processos immunitaris, com ara l’opsonització, l’activació del complement o la citotoxicitat cel·lular dependent d’anticossos. subclasses d’IgG: la IgG1, la IgG2, la IgG3 i la IgG4. És la immunoglobulina més important en la resposta immunitària secundària. 2. La IgG és molt abundant en el plasma sanguini (més del 70 % de totes les immunoglobulines sèriques) i en líquid extravascular. Predomina, també, en les secrecions internes (humor aquós, líquid cefalorraquidi, líquid sinovial o líquid pleural). És l’única immunoglobulina que pot travessar la barrera placentària, de manera que el nadó posseeix anticossos IgG d’origen matern.",
+        "Descricao": "DIAGNÒSTIC. Immunoglobulina que conté cadenes pesants , amb tres dominis constants, que intervé en diversos processos immunitaris, com ara l’opsonització, l’activació del complement o la citotoxicitat cel·lular dependent d’anticossos. subclasses d’IgG: la IgG1, la IgG2, la IgG3 i la IgG4. És la immunoglobulina més important en la resposta immunitària secundària. 2. La IgG és molt abundant en el plasma sanguini (més del 70 % de totes les immunoglobulines sèriques) i en líquid extravascular. Predomina, també, en les secrecions internes (humor aquós, líquid cefalorraquidi, líquid sinovial o líquid pleural). És l’única immunoglobulina que pot travessar la barrera placentària, de manera que el nadó posseeix anticossos IgG d’origen matern.",
         "Citação": "Nota: 1. En els éssers humans es distingeixen quatre subclasses d’IgG: la IgG1, la IgG2, la IgG3 i la IgG4. És la immunoglobulina més important en la resposta immunitària secundària.2. La IgG és molt abundant en el plasma sanguini (més del 70 % de totes les immunoglobulines sèriques) i en líquid extravascular. Predomina, també, en les secrecions internes (humor aquós, líquid cefalorraquidi, líquid sinovial o líquid pleural). És l’única immunoglobulina que pot travessar la barrera placentària, de manera que el nadó posseeix anticossos IgG d’origen matern.",
         "Categoria": "Imunologia"
       }
@@ -13032,49 +13122,32 @@
           "fr: immunoglobuline M",
           "pt: imunoglobulina M",
           "nl: immunoglobuline M",
-          "sbl: IgM",
-          "en: immunogenic",
-          "adj: ",
-          "fr: immunogène",
-          "adj: ; immunogénique",
-          "adj: ",
-          "adj: ",
-          "adj: ",
-          "nl: immunogeen -gene",
-          "adj: "
+          "en: immunogenic M",
+          "fr: immunogène M",
+          "nl: immunogeen M"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "; immuunglobuline M imunogénico imunogênico CONCEPTES GENERALS. Que indueix una resposta immunitària adaptativa.",
+        "Descricao": "CONCEPTES GENERALS. Que indueix una resposta immunitària adaptativa.",
         "Citação": "",
         "Categoria": "Imunologia"
       }
     }
   },
   {
-    "Conceito": "immunològic -a",
+    "Conceito": "immunològic",
     "Fontes": {
       "covid": {
-        "Conceito": "immunològic -a",
+        "Conceito": "immunològic",
         "Substantivo": "",
         "Traduções": [
-          "adj: ",
-          "oc: immunologic -a",
-          "adj: ",
+          "oc: immunologic",
           "eu: immunologiko",
-          "adj: ",
-          "gl: inmunolóxico -ca",
-          "adj: ",
-          "es: inmunológico -ca",
-          "adj: ",
+          "gl: inmunolóxico",
+          "es: inmunológico",
           "en: immunologic",
-          "adj: ; immunological",
-          "adj: ",
           "fr: immunologique",
-          "adj: ",
           "pt: imunológico",
-          "adj: ",
-          "nl: immunologisch -e",
-          "adj: "
+          "nl: immunologisch"
         ],
         "Sigla": "Sem Sigla Associada",
         "Descricao": "CONCEPTES GENERALS. Relatiu o pertanyent a la immunologia.",
@@ -13154,7 +13227,7 @@
           "nl: ongeschiktheid"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ",
+        "Descricao": "Situació en què una persona té limitacions per dur a terme activitats laborals o de la vida diària a causa d’una malaltia, lesió o discapacitat.",
         "Citação": "",
         "Categoria": "Termos Gerais"
       }
@@ -13176,7 +13249,7 @@
           "nl: blijvende arbeidsongeschiktheid"
         ],
         "Sigla": "IP",
-        "Descricao": " ; IP  ; EI  ; IP  ; IP    incapacitação permanente ; IP   ; blijvende invaliditeit ; blijvende ongeschiktheid ; permanente arbeidsongeschiktheid ; permanente invaliditeit ; permanente ongeschiktheid  ENTORN SOCIAL. Incapacitat derivada de la situació en què es troba un treballador quan, després d’haver estat sotmès al tractament mèdic prescrit, presenta reduccions anatòmiques o funcionals greus, susceptibles de determinació objectiva i previsiblement definitives, que disminueixen o anul·len la seva capacitat laboral. la incapacitat permanent es classifica en incapacitat permanent parcial, incapacitat permanent total, incapacitat total qualificada, incapacitat permanent absoluta i gran invalidesa.",
+        "Descricao": "ENTORN SOCIAL. Incapacitat derivada de la situació en què es troba un treballador quan, després d’haver estat sotmès al tractament mèdic prescrit, presenta reduccions anatòmiques o funcionals greus, susceptibles de determinació objectiva i previsiblement definitives, que disminueixen o anul·len la seva capacitat laboral. la incapacitat permanent es classifica en incapacitat permanent parcial, incapacitat permanent total, incapacitat total qualificada, incapacitat permanent absoluta i gran invalidesa.",
         "Citação": "Nota: Segons el grau de qualificació de la incapacitat, la incapacitat permanent es classifica en incapacitat permanent parcial, incapacitat permanent total, incapacitat total qualificada, incapacitat permanent absoluta i gran invalidesa.",
         "Categoria": "Termos Gerais"
       }
@@ -13196,7 +13269,7 @@
           "en: temporary disability"
         ],
         "Sigla": "IT",
-        "Descricao": " ; IT  ; ABE  ; IT  ; IT  DIAGNÒSTIC. Immunoglobulina que conté cadenes pesants μ, amb quatre dominis constants, que actua com a BCR dels limfòcits B naïfs i que intervé en l’activació de la via clàssica del complement. el qual representa el 6 % de totes les immunoglobulines plasmàtiques. Les aglutinines naturals són del tipus IgM. És la immunoglobulina que se sintetitza més precoçment, tant en el curs de l’evolució ontogènica com després d’un primer contacte amb l’antigen en la vida adulta.",
+        "Descricao": "DIAGNÒSTIC. Immunoglobulina que conté cadenes pesants μ, amb quatre dominis constants, que actua com a BCR dels limfòcits B naïfs i que intervé en l’activació de la via clàssica del complement. el qual representa el 6 % de totes les immunoglobulines plasmàtiques. Les aglutinines naturals són del tipus IgM. És la immunoglobulina que se sintetitza més precoçment, tant en el curs de l’evolució ontogènica com després d’un primer contacte amb l’antigen en la vida adulta.",
         "Citação": "Nota: La IgM resta confinada a l’espai intravascular, en el qual representa el 6 % de totes les immunoglobulines plasmàtiques. Les aglutinines naturals són del tipus IgM. És la immunoglobulina que se sintetitza més precoçment, tant en el curs de l’evolució ontogènica com després d’un primer contacte amb l’antigen en la vida adulta.",
         "Categoria": "Termos Gerais"
       }
@@ -13239,7 +13312,7 @@
           "nl: incidentie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         EPIDEMIOLOGIA. Nombre de casos nous d’una malaltia determinada que apareixen en un grup o una població durant un període de temps concret.",
+        "Descricao": "EPIDEMIOLOGIA. Nombre de casos nous d’una malaltia determinada que apareixen en un grup o una població durant un període de temps concret.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -13262,7 +13335,7 @@
           "nl: cumulatieve incidentie"
         ],
         "Sigla": "IA",
-        "Descricao": "  ; IM  ; IA  ; IA  ; CI  ; IC    EPIDEMIOLOGIA. Proporció de persones sanes que desenvolupen una malaltia en un període de temps concret. CLÍNICA. Infecció adquirida per la inhalació d’agents patògens suspesos en gotetes respiratòries que una persona o un animal infectats exhalen especialment quan esternuden o tussen.",
+        "Descricao": "EPIDEMIOLOGIA. Proporció de persones sanes que desenvolupen una malaltia en un període de temps concret. CLÍNICA. Infecció adquirida per la inhalació d’agents patògens suspesos en gotetes respiratòries que una persona o un animal infectats exhalen especialment quan esternuden o tussen.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -13295,7 +13368,7 @@
           "nl: incubatie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         EPIDEMIOLOGIA. Temps transcorregut entre l’entrada en un organisme de l’agent d’una malaltia i l’aparició dels primers símptomes.",
+        "Descricao": "EPIDEMIOLOGIA. Temps transcorregut entre l’entrada en un organisme de l’agent d’una malaltia i l’aparició dels primers símptomes.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -13341,7 +13414,7 @@
           "nl: infectie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       infeção  infecção   CLÍNICA. Entrada d’un patogen en un organisme, amb capacitat de multiplicar-se activament o de produir elements tòxics que poden actuar com un antigen i provocar una resposta immunitària d’aquest organisme.",
+        "Descricao": "CLÍNICA. Entrada d’un patogen en un organisme, amb capacitat de multiplicar-se activament o de produir elements tòxics que poden actuar com un antigen i provocar una resposta immunitària d’aquest organisme.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -13360,7 +13433,7 @@
           "nl: tijdelijke arbeidsongeschiktheid"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.  ; infeccion nosocomiau    ; tijdelijke invaliditeit ; tijdelijke ongeschiktheid  ENTORN SOCIAL. Incapacitat derivada de la situació en què es troba un treballador quan no pot treballar transitòriament a causa d’un accident o una malaltia i necessita assistència sanitària, a efectes de les prestacions de la Seguretat Social.",
+        "Descricao": "ENTORN SOCIAL. Incapacitat derivada de la situació en què es troba un treballador quan no pot treballar transitòriament a causa d’un accident o una malaltia i necessita assistència sanitària, a efectes de les prestacions de la Seguretat Social.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -13372,9 +13445,19 @@
       "covid": {
         "Conceito": "infecció nosocomial",
         "Substantivo": "",
-        "Traduções": "Sem Tradução",
+        "Traduções": [
+          "oc: infeccion nosocomiala",
+          "eu: nosokomial infekzioa",
+          "gl: infección nosocomial",
+          "es: infección nosocomial",
+          "en: nosocomial infection",
+          "fr: infection nosocomiale",
+          "pt: infeção nosocomial",
+          "nl: nosocomiale infectie",
+          "pl: zakażenie szpitalne"
+        ],        
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "sin.",
+        "Descricao": "Infecció adquirida durant l’estada en un centre sanitari, que no estava present ni en incubació en el moment de l’ingrés.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -13403,7 +13486,7 @@
           "nl: ACE-remmer"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       infeção por gotículas  infecção por gotículas    ; angiotentsinaren entzima bihurtzailearen inhibitzaile ; AEBI  anxiotensina ; IECA  ; inhibidor de la enzima convertidora de la angiotensina ;  ; angiotensin-converting enzyme inhibitor  l’angiotensine ; IECA  angiotensina  inibidor da ECA  ; angiotensine-converterend enzymremmer  PRINCIPIS ACTIUS. Fàrmac que evita el pas d’angiotensina I a angiotensina II, produeix vasodilatació arteriovenosa i inhibeix els mecanismes compensatoris neuroendocrins que s’activen en la insuficiència cardíaca.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac que evita el pas d’angiotensina I a angiotensina II, produeix vasodilatació arteriovenosa i inhibeix els mecanismes compensatoris neuroendocrins que s’activen en la insuficiència cardíaca.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -13425,7 +13508,7 @@
           "nl: infectiologie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       infeciologia    CLÍNICA. Branca de la medicina interna que estudia, diagnostica, prevé i tracta les malalties causades per organismes.",
+        "Descricao": "CLÍNICA. Branca de la medicina interna que estudia, diagnostica, prevé i tracta les malalties causades per organismes.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -13472,7 +13555,7 @@
           "nl: infiltraat"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         CLÍNICA. Lesió resultant d’una infiltració, especialment de les infiltracions pulmonars tuberculoses.",
+        "Descricao": "CLÍNICA. Lesió resultant d’una infiltració, especialment de les infiltracions pulmonars tuberculoses.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -13496,7 +13579,7 @@
           "nl: nosocomiale infectie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; inflamazio    ; infección nosocomial  ; infección intrahospitalaria ; infección nosocomial  ; nosocomial infection  ; infection nosocomiale  infeção associada aos cuidados de saúde ; infeção hospitalar ;  infeção nosocomial ; IACS  infecção hospitalar ;  infecção nosocomial  ; ziekenhuisinfectie  CLÍNICA. Infecció adquirida en un hospital o centre mèdic per un malalt en qui la infecció no era present ni estava incubant-se en el moment de l’ingrés. infeccions intrahospitalàries que apareixen després de l’alta hospitalària i les infeccions que afecten el personal del centre mèdic.",
+        "Descricao": "CLÍNICA. Infecció adquirida en un hospital o centre mèdic per un malalt en qui la infecció no era present ni estava incubant-se en el moment de l’ingrés. infeccions intrahospitalàries que apareixen després de l’alta hospitalària i les infeccions que afecten el personal del centre mèdic.",
         "Citação": "Nota: Les infeccions hospitalàries poden incloure les infeccions intrahospitalàries que apareixen després de l’alta hospitalària i les infeccions que afecten el personal del centre mèdic.",
         "Categoria": "Doenças"
       }
@@ -13519,7 +13602,7 @@
           "nl: infodemie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         ENTORN SOCIAL. Difusió ràpida de rumors, informació inexacta i notícies enganyoses amb relació a una malaltia infecciosa o un problema de salut pública paral·lelament a la seva propagació o evolució. s’ha utilitzat sobretot en els mitjans de comunicació de masses i les xarxes socials arran de la referència feta per l’OMS a l’entorn de soroll mediàtic sobre el SARS-CoV-2 i la propagació de la COVID-19.",
+        "Descricao": "ENTORN SOCIAL. Difusió ràpida de rumors, informació inexacta i notícies enganyoses amb relació a una malaltia infecciosa o un problema de salut pública paral·lelament a la seva propagació o evolució. s’ha utilitzat sobretot en els mitjans de comunicació de masses i les xarxes socials arran de la referència feta per l’OMS a l’entorn de soroll mediàtic sobre el SARS-CoV-2 i la propagació de la COVID-19.",
         "Citação": "Nota: La denominació infodèmia s’ha utilitzat sobretot en els mitjans de comunicació de masses i les xarxes socials arran de la referència feta per l’OMS a l’entorn de soroll mediàtic sobre el SARS-CoV-2 i la propagació de la COVID-19.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -13546,11 +13629,10 @@
           "es: interferón beta",
           "en: interferon beta",
           "fr: interféron bêta",
-          "nl: interferon ß",
-          "sbl: INF-"
+          "nl: interferon ß"
         ],
         "Sigla": "IECA",
-        "Descricao": " angiotensina ; IECA     interferão beta  IFN-beta ; interferon beta  ; interferon bèta ; interferon-ß ; interferon-bèta   74899-71-1 PRINCIPIS ACTIUS. Fàrmac immunomodulador, antivíric i antineoplàstic, que actua imitant els interferons beta endògens. l’esclerosi múltiple pels seus efectes antidesmielinitzants. Se n’ha suggerit l’ús per al tractament de la COVID-19 per la seva possible eficàcia contra la MERS. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador, antivíric i antineoplàstic, que actua imitant els interferons beta endògens. l’esclerosi múltiple pels seus efectes antidesmielinitzants. Se n’ha suggerit l’ús per al tractament de la COVID-19 per la seva possible eficàcia contra la MERS. És d’origen biotecnològic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. L’interferó beta s’empra en el tractament de l’esclerosi múltiple pels seus efectes antidesmielinitzants. Se n’ha suggerit l’ús per al tractament de la COVID-19 per la seva possible eficàcia contra la MERS. És d’origen biotecnològic.2. La denominació interferó beta és la forma catalana corresponent a la DCI."
       }
     }
@@ -13596,7 +13678,7 @@
           "nl: inflammatie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       insónia  insônia  ; slapeloosheid  CLÍNICA. Experiència d’inadequació o de baixa qualitat del son que es pot manifestar com a dificultat per a iniciar o mantenir el son, com a desvetllament precoç o com a descans no reparador.      ; onststeking  ETIOPATOGÈNIA. Reacció inespecífica com a resposta a una agressió física, química o infecciosa, consistent en un seguit de fenòmens tendents a eliminar, diluir o encerclar l’agent agressiu i els teixits lesionats, que es caracteritza per enrogiment, dolor, calor i inflor a la part afectada.",
+        "Descricao": "CLÍNICA. Experiència d’inadequació o de baixa qualitat del son que es pot manifestar com a dificultat per a iniciar o mantenir el son, com a desvetllament precoç o com a descans no reparador.      ; onststeking  ETIOPATOGÈNIA. Reacció inespecífica com a resposta a una agressió física, química o infecciosa, consistent en un seguit de fenòmens tendents a eliminar, diluir o encerclar l’agent agressiu i els teixits lesionats, que es caracteritza per enrogiment, dolor, calor i inflor a la part afectada.",
         "Citação": "",
         "Categoria": "Psicologia e Psiquiatria"
       }

@@ -19990,20 +19990,6 @@
     }
   },
   {
-    "Conceito": "rentat de mans",
-    "Fontes": {
-      "covid": {
-        "Conceito": "rentat de mans",
-        "Substantivo": "n m",
-        "Traduções": "Sem Tradução",
-        "Sigla": "Sem Sigla Associada",
-        "Descricao": "Sem Descrição",
-        "Citação": "",
-        "Categoria": "Epidemiologia e Saúde Pública"
-      }
-    }
-  },
-  {
     "Conceito": "Reposição de nicotina",
     "Fontes": {
       "ministerio": {
@@ -20030,7 +20016,7 @@
           "nl: reservoir"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; gordailu        ETIOPATOGÈNIA. Organisme, teixit o cèl·lula que actua com a dipòsit on un agent infecciós es manté en estat de latència o en condicions de resistència. ETIOPATOGÈNIA. Família de virus amb RNA monocatenari, de simetria icosaèdrica i forma esfèrica, amb un diàmetre de 80 a 100 nm, amb embolcall, la replicació dels quals inclou una etapa de transcripció inversa.",
+        "Descricao": "ETIOPATOGÈNIA. Organisme, teixit o cèl·lula que actua com a dipòsit on un agent infecciós es manté en estat de latència o en condicions de resistència. ETIOPATOGÈNIA. Família de virus amb RNA monocatenari, de simetria icosaèdrica i forma esfèrica, amb un diàmetre de 80 a 100 nm, amb embolcall, la replicació dels quals inclou una etapa de transcripció inversa.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -20063,7 +20049,7 @@
           "nl: ademhalingsondersteuning"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; respiracion assistida  ; arnasketa lagundu ; arnasketa mekaniko   ; respiración asistida ; ventilación mecánica  ; assisted ventilation ; mechanical ventilation    respiração assistida ; suporte  ventilatório ; suporte ventilatório artificial ; ventilação mecânica  ; beademing ; kunstmatige beademing ; mechanische beademing  TRACTAMENT. Substitució de la funció pulmonar, manualment o amb un aparell, quan la respiració és insuficient per al manteniment de la vida. se supleix totalment la funció ventilatòria, o assistida, quan el pacient pot mantenir un cert grau de funció espontània.",
+        "Descricao": "TRACTAMENT. Substitució de la funció pulmonar, manualment o amb un aparell, quan la respiració és insuficient per al manteniment de la vida. se supleix totalment la funció ventilatòria, o assistida, quan el pacient pot mantenir un cert grau de funció espontània.",
         "Citação": "Nota: La respiració artificial pot ser controlada, quan se supleix totalment la funció ventilatòria, o assistida, quan el pacient pot mantenir un cert grau de funció espontània.",
         "Categoria": "Procedimentos Médicos"
       }
@@ -20084,7 +20070,7 @@
           "fr: insufflateur"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "      ; respirateur  ventilador  ventilador mecânico",
+        "Descricao": "Respirateur, ventilador mecânico.",
         "Citação": "",
         "Categoria": "Equipamentos e Dispositivos"
       }
@@ -20106,7 +20092,7 @@
           "nl: immuniteitsreactie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       resposta imunitária  resposta imune  ; immuunrespons  ETIOPATOGÈNIA. Reacció d’un organisme contra la presència de substàncies estranyes vehiculada per les cèl·lules i les molècules del sistema immunitari. reconeixement de les substàncies pròpies i la detecció i destrucció de les substàncies estranyes.",
+        "Descricao": "ETIOPATOGÈNIA. Reacció d’un organisme contra la presència de substàncies estranyes vehiculada per les cèl·lules i les molècules del sistema immunitari. reconeixement de les substàncies pròpies i la detecció i destrucció de les substàncies estranyes.",
         "Citação": "Nota: La resposta immunitària comporta el reconeixement de les substàncies pròpies i la detecció i destrucció de les substàncies estranyes.",
         "Categoria": "Imunologia"
       }
@@ -20166,7 +20152,7 @@
           "nl: retrovirus"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "          la febre de Lassa. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "La febre de Lassa. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -20203,7 +20189,7 @@
           "nl: herhaalvaccinatie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; revacunacion        ; revaccinatie  PREVENCIÓ. Administració a una persona d’una vacuna que ja li havia estat administrada en primovacunació.",
+        "Descricao": "PREVENCIÓ. Administració a una persona d’una vacuna que ja li havia estat administrada en primovacunació.",
         "Citação": "",
         "Categoria": "Vacinas e Imunização"
       }
@@ -20227,7 +20213,7 @@
           "nl: beademingsapparaat"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "          36791-04-5 PRINCIPIS ACTIUS. Fàrmac antivíric anàleg de nucleòsid que interfereix en la síntesi de DNA i RNA. infeccions per virus sincicial respiratori, de l’hepatitis C crònica, de la febre hemorràgica amb síndrome renal i de  ; beademingsmachine ; beademingstoestel  TRACTAMENT. Aparell utilitzat per a proporcionar una respiració artificial mecànica. no invasiva, si s’administra mitjançant una màscara, o invasiva si es fa servir una intubació endotraqueal.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antivíric anàleg de nucleòsid que interfereix en la síntesi de DNA i RNA. infeccions per virus sincicial respiratori, de l’hepatitis C crònica, de la febre hemorràgica amb síndrome renal i de  ; beademingsmachine ; beademingstoestel  TRACTAMENT. Aparell utilitzat per a proporcionar una respiració artificial mecànica. no invasiva, si s’administra mitjançant una màscara, o invasiva si es fa servir una intubació endotraqueal.",
         "Citação": "Nota: 1. La ribavirina és emprada en el tractament de les infeccions per virus sincicial respiratori, de l’hepatitis C crònica, de la febre hemorràgica amb síndrome renal i de",
         "Categoria": "Fármacos e Terapias"
       }
@@ -20260,7 +20246,7 @@
           "nl: ritonavir"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         155213-67-5 PRINCIPIS ACTIUS. Fàrmac antiretroviral que inhibeix les proteases 1 i 2 del virus de la immunodeficiència humana. antiretrovirals, en el tractament de la infecció pel virus de la immunodeficiència humana 1. També és un potent inhibidor del citocrom P450 3A, de manera que pot interaccionar amb el metabolisme d’altres fàrmacs i elevar- ne les concentracions plasmàtiques. Se n'ha suggerit l'ús, en associació amb l'ASC09 (ASC09F), el lopinavir o el nirmatrelvir, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac antiretroviral que inhibeix les proteases 1 i 2 del virus de la immunodeficiència humana. antiretrovirals, en el tractament de la infecció pel virus de la immunodeficiència humana 1. També és un potent inhibidor del citocrom P450 3A, de manera que pot interaccionar amb el metabolisme d’altres fàrmacs i elevar- ne les concentracions plasmàtiques. Se n'ha suggerit l'ús, en associació amb l'ASC09 (ASC09F), el lopinavir o el nirmatrelvir, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El ritonavir s’empra, juntament amb altres fàrmacs antiretrovirals, en el tractament de la infecció pel virus de la immunodeficiència humana 1. També és un potent inhibidor del citocrom P450 3A, de manera que pot interaccionar amb el metabolisme d’altres fàrmacs i elevar-ne les concentracions plasmàtiques. Se n'ha suggerit l'ús, en associació amb l'ASC09 (ASC09F), el lopinavir o el nirmatrelvir, per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació ritonavir és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -20329,7 +20315,7 @@
           "nl: ruxolitinib"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        ruxolitinibe   941678-49-5 PRINCIPIS ACTIUS. Fàrmac immunomodulador i antineoplàstic que inhibeix de forma selectiva les cinases JAK1 i JAK2. mielofibrosi i la policitèmia vera. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador i antineoplàstic que inhibeix de forma selectiva les cinases JAK1 i JAK2. mielofibrosi i la policitèmia vera. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El ruxolitinib s’empra en el tractament de la mielofibrosi i la policitèmia vera. Se n’ha suggerit l’ús per al tractament de la COVID-19. És d’origen sintètic.2. La denominació ruxolitinib és la forma catalana corresponent a la DCI.148",
         "Categoria": "Fármacos e Terapias"
       }
@@ -20413,7 +20399,7 @@
           "nl: oversprong"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       salto entre espécies ;  transmissão interespécies  salto de espécie   ETIOPATOGÈNIA. Pas d’un agent infecciós des d’un reservori fins a un hoste nou. i un ésser humà es dona la zoonosi.",
+        "Descricao": "ETIOPATOGÈNIA. Pas d’un agent infecciós des d’un reservori fins a un hoste nou. i un ésser humà es dona la zoonosi.",
         "Citação": "Nota: Quan el salt d’espècie és entre un animal",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -20446,7 +20432,7 @@
           "nl: arbeidsgezondheid"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl.  ; salut laborau   ; saúde no traballo  ; salud laboral     medicina do trabalho  saúde do trabalhador  ; gezondheid op het werk  ENTORN SOCIAL. Estat de benestar físic, psíquic i social dels treballadors en relació amb el seu lloc de treball i amb les condicions de l’entorn laboral.",
+        "Descricao": "ENTORN SOCIAL. Estat de benestar físic, psíquic i social dels treballadors en relació amb el seu lloc de treball i amb les condicions de l’entorn laboral.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -20467,7 +20453,7 @@
           "nl: sedatie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg.        TRACTAMENT. Disminució de l’estat de consciència d’una persona mitjançant l’administració de fàrmacs. del pacient i el propòsit terapèutic o pal·liatiu.",
+        "Descricao": "TRACTAMENT. Disminució de l’estat de consciència d’una persona mitjançant l’administració de fàrmacs. del pacient i el propòsit terapèutic o pal·liatiu.",
         "Citação": "Nota: La sedació pot tenir diversos graus, segons l’estat del pacient i el propòsit terapèutic o pal·liatiu.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -20489,7 +20475,7 @@
           "nl: volksgezondheid"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " ; sanitat    ; sanidad  ; public health services   serviço nacional de saúde    EPIDEMIOLOGIA. Conjunt d’accions col·lectives de la societat que asseguren les condicions de salut de la població. programes, els dispositius i els serveis posats en marxa per la societat amb el propòsit de promoure, protegir i restaurar col·lectivament la salut de les persones i de les comunitats, pertanyin o no al sistema sanitari.",
+        "Descricao": "EPIDEMIOLOGIA. Conjunt d’accions col·lectives de la societat que asseguren les condicions de salut de la població. programes, els dispositius i els serveis posats en marxa per la societat amb el propòsit de promoure, protegir i restaurar col·lectivament la salut de les persones i de les comunitats, pertanyin o no al sistema sanitari.",
         "Citação": "Nota: La salut pública inclou les polítiques, els programes, els dispositius i els serveis posats en marxa per la societat amb el propòsit de promoure, protegir i restaurar col·lectivament la salut de les persones i de les comunitats, pertanyin o no al sistema sanitari.",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -20503,7 +20489,7 @@
         "Substantivo": "s.f.",
         "Traduções": "western brackenfern [ing]; samambaia-das-taperas [esp]",
         "Sigla": "Sem Sigla Associada",
-        "Descrição": "Pluma-grande .",
+        "Descrição": "Pluma-grande.",
         "Citação": "“...É  que  a  samambaia-das-taperas  (  Pteridium  aquilinum  ),  conhecida também  como  samambaia-verdadeira  e  pluma-grande,  ingrediente obrigatório de uma receita de frango intensamente consumida na região de  Ouro  Preto,  Minas  Gerais,  favorece,  conforme  relata  Francisco Bicudo  a  partir  da  página  44,  a  proliferação  do  papilomavírus  humano (HPV)...”",
         "Categoria": "Termos Gerais"
       }
@@ -20536,7 +20522,7 @@
           "nl: omvorming tot sanitaire ruimte"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        para fins sanitários   ENTORN SOCIAL. Convertir un espai en un lloc sanitari, especialment un espai públic que habitualment té un altre ús. ara un pavelló esportiu, una biblioteca, una sala per a",
+        "Descricao": "ENTORN SOCIAL. Convertir un espai en un lloc sanitari, especialment un espai públic que habitualment té un altre ús. ara un pavelló esportiu, una biblioteca, una sala per a",
         "Citação": "Nota: Poden ser objecte de sanitarització espais com ara un pavelló esportiu, una biblioteca, una sala per a",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -20592,7 +20578,7 @@
           "nl: sarilumab"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        sarilumabe   1189541-98-7 PRINCIPIS ACTIUS. Fàrmac immunomodulador que inhibeix el receptor de la interleucina 6. humanitzat que s’empra, combinat amb metotrexat, en el tractament de l’artritis reumatoide en pacients que presenten intolerància a altres tractaments. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac immunomodulador que inhibeix el receptor de la interleucina 6. humanitzat que s’empra, combinat amb metotrexat, en el tractament de l’artritis reumatoide en pacients que presenten intolerància a altres tractaments. Se n’ha suggerit l’ús per al tractament de la COVID-19. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El sarilumab és un anticòs monoclonal humanitzat que s’empra, combinat amb metotrexat, en el tractament de l’artritis reumatoide en pacients que presenten intolerància a altres tractaments. Se n’ha suggerit l’ús per al tractament de la COVID-19.2. La denominació sarilumab és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -20752,7 +20738,7 @@
           "nl: serologie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "      serologia  sorologia   DIAGNÒSTIC. Branca de la immunologia que estudia les reaccions dels antígens amb els anticossos i que s’ocupa del diagnòstic de malalties mitjançant l’estudi in vitro de les reaccions antigen-anticòs.",
+        "Descricao": "DIAGNÒSTIC. Branca de la immunologia que estudia les reaccions dels antígens amb els anticossos i que s’ocupa del diagnòstic de malalties mitjançant l’estudi in vitro de les reaccions antigen-anticòs.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -20785,7 +20771,7 @@
           "nl: selinexor"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         1393477-72-9 PRINCIPIS ACTIUS. Fàrmac inhibidor selectiu de l’exportació nuclear, mitjançant la inhibició de l’exportina 1, que bloca el transport de diverses proteïnes relacionades amb el creixement de cèl·lules canceroses i provoca l’aturada del cicle cel·lular i la inducció de l’apoptosi. múltiple, en combinació amb la dexametasona. Està en una fase clínica de desenvolupament avançada com a possible tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
+        "Descricao": "PRINCIPIS ACTIUS. Fàrmac inhibidor selectiu de l’exportació nuclear, mitjançant la inhibició de l’exportina 1, que bloca el transport de diverses proteïnes relacionades amb el creixement de cèl·lules canceroses i provoca l’aturada del cicle cel·lular i la inducció de l’apoptosi. múltiple, en combinació amb la dexametasona. Està en una fase clínica de desenvolupament avançada com a possible tractament per a la COVID-19. És d’origen sintètic. 2. La denominació és la forma catalana corresponent a la DCI.",
         "Citação": "Nota: 1. El selinexor s’empra en el tractament del mieloma múltiple, en combinació amb la dexametasona. Està en una fase clínica de desenvolupament avançada com a possible tractament per a la COVID-19. És d’origen sintètic.2. La denominació selinexor és la forma catalana corresponent a la DCI.",
         "Categoria": "Fármacos e Terapias"
       }
@@ -20799,7 +20785,7 @@
         "Substantivo": "",
         "Traduções": "Sem Tradução",
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "veg. activitats culturals, un hotel, etc., els quals han de complir una sèrie de requisits higiènics i sanitaris preestablerts.",
+        "Descricao": "activitats culturals, un hotel, etc., els quals han de complir una sèrie de requisits higiènics i sanitaris preestablerts.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -20832,7 +20818,7 @@
           "nl: gevolg"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "  ; sekuela       ; naverschijnsel  CLÍNICA. Alteració funcional o orgànica, amb tendència a persistir, que apareix com a conseqüència d’una malaltia, un traumatisme, una intervenció quirúrgica o un tractament mèdic.",
+        "Descricao": "CLÍNICA. Alteració funcional o orgànica, amb tendència a persistir, que apareix com a conseqüència d’una malaltia, un traumatisme, una intervenció quirúrgica o un tractament mèdic.",
         "Citação": "",
         "Categoria": "Doenças"
       }
@@ -20856,7 +20842,7 @@
           "nl: preventieafdeling"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "         ; preventiedienst  ENTORN SOCIAL. Conjunt de mitjans materials i humans necessaris per a dur a terme activitats preventives en un centre de treball amb l’objectiu de garantir la protecció de la salut i la seguretat a la feina.",
+        "Descricao": "ENTORN SOCIAL. Conjunt de mitjans materials i humans necessaris per a dur a terme activitats preventives en un centre de treball amb l’objectiu de garantir la protecció de la salut i la seguretat a la feina.",
         "Citação": "",
         "Categoria": "Diagnóstico"
       }
@@ -20878,7 +20864,7 @@
           "nl: seroprevalentie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "       seroprevalência  soroprevalência  ; serumprevalentie  EPIDEMIOLOGIA. Nombre de persones seropositives respecte a un antigen concret amb relació al nombre total de persones a les quals s’ha realitzat una prova serològica.",
+        "Descricao": "EPIDEMIOLOGIA. Nombre de persones seropositives respecte a un antigen concret amb relació al nombre total de persones a les quals s’ha realitzat una prova serològica.",
         "Citação": "",
         "Categoria": "Epidemiologia e Saúde Pública"
       }
@@ -20899,7 +20885,7 @@
           "fr: sérothérapie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        soroterapia antiveneno",
+        "Descricao": "Soroterapia antiveneno.",
         "Citação": "",
         "Categoria": "Fármacos e Terapias"
       }
@@ -20921,7 +20907,7 @@
           "nl: serotype"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": " sin. compl. ;  ; serotipe ; serovar   ; serovar   ; serovar  ; sérovar ; type sérologique  serotipagem ; serótipo  sorotipo  ; serovar  ETIOPATOGÈNIA. Categoria taxonòmica subespecífica que s’aplica a les soques d’un microorganisme que presenten característiques antigèniques distintives. i els sinònims  i deriven del fet que, inicialment, per a identificar les diferents soques de microorganismes s’usaven antisèrums específics.",
+        "Descricao": "ETIOPATOGÈNIA. Categoria taxonòmica subespecífica que s’aplica a les soques d’un microorganisme que presenten característiques antigèniques distintives. i els sinònims  i deriven del fet que, inicialment, per a identificar les diferents soques de microorganismes s’usaven antisèrums específics.",
         "Citação": "Nota: La denominació serotip i els sinònims serotipus i serovar deriven del fet que, inicialment, per a identificar les diferents soques de microorganismes s’usaven antisèrums específics.",
         "Categoria": "Microbiologia e Virologia"
       }
@@ -20968,7 +20954,7 @@
           "nl: semiologie"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "    semiologia  ; symptomatologie  CLÍNICA. Conjunt dels símptomes d’una malaltia o d’un malalt.",
+        "Descricao": "CLÍNICA. Conjunt dels símptomes d’una malaltia o d’un malalt.",
         "Citação": "",
         "Categoria": "Profissionais e Serviços de Saúde"
       }
@@ -21048,7 +21034,7 @@
           "pt: sinal"
         ],
         "Sigla": "Sem Sigla Associada",
-        "Descricao": "        CLÍNICA. Manifestació objectiva que evidencia l’existència d’una malaltia i que constitueix un factor de diagnòstic i de pronòstic. , anomalia objectivable, del , anomalia subjectiva només percebuda pel malalt mateix.",
+        "Descricao": "CLÍNICA. Manifestació objectiva que evidencia l’existència d’una malaltia i que constitueix un factor de diagnòstic i de pronòstic. , anomalia objectivable, del , anomalia subjectiva només percebuda pel malalt mateix.",
         "Citação": "Nota: Convencionalment, es distingeix el signe, anomalia objectivable, del símptoma, anomalia subjectiva només percebuda pel malalt mateix.",
         "Categoria": "Sintomas e Sinais"
       }

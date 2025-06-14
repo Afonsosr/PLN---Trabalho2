@@ -6,8 +6,6 @@ import unicodedata
 from collections import defaultdict
 import re
 
-
-
 app = Flask(__name__)
 
 file = "glossario_por_categoria.json"

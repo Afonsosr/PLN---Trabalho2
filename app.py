@@ -5,6 +5,8 @@ import os
 import unicodedata
 from collections import defaultdict
 
+
+
 app = Flask(__name__)
 
 file = "glossario_por_categoria.json"
@@ -287,6 +289,62 @@ def tabela():
 
     return render_template("tabela.html", conceitos=todos_conceitos)
 
+@app.route('/proximas')
+def relacoes_conceitos():
+    conceito_palavras = {}
+
+    # Carregar conceitos e palavras próximas
+    for categoria in conceitos:
+        for item in conceitos[categoria]:
+            conceito = item['Conceito']
+            palavras = [p[0] for p in item.get('Palavras próximas', [])]
+            conceito_palavras[conceito] = palavras
+
+    # Construir relações
+    relacoes = {}
+
+    for conceito, palavras in conceito_palavras.items():
+        ligacoes = {}
+        for palavra in palavras:
+            conceitos_relacionados = []
+            for outro_conceito, outras_palavras in conceito_palavras.items():
+                if outro_conceito != conceito and palavra in outras_palavras:
+                    conceitos_relacionados.append(outro_conceito)
+            ligacoes[palavra] = conceitos_relacionados
+        relacoes[conceito] = ligacoes
+
+    # Termo de pesquisa
+    termo_pesquisa = request.args.get('query', '').strip()
+
+    # Filtragem por pesquisa
+    if termo_pesquisa:
+        relacoes = {k: v for k, v in relacoes.items() if termo_pesquisa.lower() in k.lower()}
+
+    # Ordenação simples (sem natsort)
+    relacoes_ordenado = {}
+    for conceito in sorted(relacoes.keys(), key=lambda x: x.lower()):
+        conceito_formatado = conceito.title()
+        relacoes_ordenado[conceito_formatado] = relacoes[conceito]
+
+    return render_template('palavras_proximas.html', relacoes=relacoes_ordenado)
+
+
+
+@app.route('/inversa', methods=['GET', 'POST'])
+def pesquisa_inversa():
+    resultados = []
+    termo = ""
+
+    if request.method == 'POST':
+        termo = request.form['termo']
+        for categoria in conceitos:
+            for item in conceitos[categoria]:
+                conceito = item['Conceito']
+                palavras = [p[0] for p in item.get('Palavras próximas', [])]
+                if termo in palavras:
+                    resultados.append(conceito)
+
+    return render_template('inversa.html', termo=termo, resultados=resultados)
 
 
 app.run(host="localhost", port=4001, debug=True)

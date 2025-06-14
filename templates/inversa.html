@@ -1,0 +1,28 @@
+{% extends "parent.html" %}
+
+{% block body %}
+<h1 class="mb-4">Pesquisa Inversa de Palavras Próximas</h1>
+
+<form method="POST" class="mb-4">
+    <div class="input-group">
+        <input type="text" class="form-control" name="termo" placeholder="Introduza a palavra" required>
+        <button type="submit" class="btn btn-primary">Pesquisar</button>
+    </div>
+</form>
+
+{% if termo %}
+    <h2 class="mb-3">Resultados para: <span class="text-primary">{{ termo }}</span></h2>
+
+    {% if resultados %}
+        <ul class="list-group">
+            {% for conceito in resultados %}
+                <li class="list-group-item">{{ conceito }}</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <div class="alert alert-warning" role="alert">
+            Nenhum conceito encontrado.
+        </div>
+    {% endif %}
+{% endif %}
+{% endblock %}

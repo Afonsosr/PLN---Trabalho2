@@ -169,7 +169,6 @@ def formatar_traducoes_para_input(traducoes):
         return traducoes
     else:
         return ""
-
 @app.route("/conceito/<designacao>/editar", methods=["GET", "POST"])
 def editar_conceito(designacao):
     ficheiro_json = "glossario_por_categoria.json"
@@ -178,7 +177,6 @@ def editar_conceito(designacao):
     conceito_encontrado = None
     categoria_conceito = None
 
-    # Procurar o conceito
     for categoria, lista_conceitos in conceitos.items():
         for item in lista_conceitos:
             if item.get("Conceito", "").lower() == designacao.lower():
@@ -191,14 +189,12 @@ def editar_conceito(designacao):
     if not conceito_encontrado:
         return f"Conceito '{designacao}' não encontrado", 404
 
-    # Buscar a primeira fonte (ministerio, covid, neologismo, etc)
     fontes = conceito_encontrado.get("Fontes", {})
     fonte_usada = next(iter(fontes.values()), {})
 
     if request.method == "POST":
         shutil.copyfile(ficheiro_json, "glossario_backup.json")
 
-        # Recolher os dados do formulário
         novo_conceito = request.form.get("conceito", "").strip()
         nova_categoria = request.form.get("categoria", "").strip()
         nova_descricao = request.form.get("descricao", "").strip()
@@ -206,6 +202,15 @@ def editar_conceito(designacao):
         nova_citacao = request.form.get("citacao", "").strip()
         novo_link = request.form.get("link_google_scholar", "").strip()
         novas_traducoes = request.form.get("traducoes", "").strip()
+
+        if nova_categoria != categoria_conceito:
+            conceitos[categoria_conceito].remove(conceito_encontrado)
+            if not conceitos[categoria_conceito]:
+                del conceitos[categoria_conceito]
+            if nova_categoria not in conceitos:
+                conceitos[nova_categoria] = []
+            conceitos[nova_categoria].append(conceito_encontrado)
+            categoria_conceito = nova_categoria
 
         conceito_encontrado["Conceito"] = novo_conceito
         fonte_usada["Categoria"] = nova_categoria
@@ -224,7 +229,7 @@ def editar_conceito(designacao):
 
         return redirect(url_for("consultar_conceitos", designacao=novo_conceito))
 
-    # GET: preparar dados seguros para o formulário
+
     conceito_nome = safe_get(conceito_encontrado, "Conceito")
     categoria_atual = safe_get(fonte_usada, "Categoria", categoria_conceito)
     descricao_atual = safe_get(fonte_usada, "Descrição") or safe_get(fonte_usada, "Descricao")

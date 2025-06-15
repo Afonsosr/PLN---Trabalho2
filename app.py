@@ -370,6 +370,56 @@ def mostrar_conceitos_por_palavra(palavra):
 
     return render_template('inversa_palavra.html', palavra=palavra, resultados=resultados)
 
+@app.route("/adiciona", methods=["GET", "POST"])
+def adicionar_conceito():
+    ficheiro_json = "glossario_por_categoria.json"
+    conceitos = carregar_conceitos(ficheiro_json)
+
+    if request.method == "POST":
+        shutil.copyfile(ficheiro_json, "glossario_backup.json")
+
+        # Recolher dados do formulário
+        conceito_nome = request.form.get("conceito", "").strip()
+        categoria = request.form.get("categoria", "").strip()
+        descricao = request.form.get("descricao", "").strip()
+        sigla = request.form.get("sigla", "").strip()
+        citacao = request.form.get("citacao", "").strip()
+        traducoes_raw = request.form.get("traducoes", "").strip()
+        link_google_scholar = request.form.get("link_google_scholar", "").strip()
+
+        # Verificar se a categoria já existe no ficheiro
+        if categoria not in conceitos:
+            conceitos[categoria] = []
+
+        # Preparar as traduções no formato dicionário
+        traducoes_dict = parse_traducoes(traducoes_raw) if traducoes_raw else {}
+
+        # Definir fonte (pode ser sempre 'manual' ou outro identificador)
+        fonte = {
+            "Conceito": conceito_nome,
+            "Categoria": categoria,
+            "Descrição": descricao,
+            "Sigla": sigla if sigla else "Sem Sigla Associada",
+            "Citação": citacao,
+            "Traduções": traducoes_dict
+        }
+
+        novo_conceito = {
+            "Conceito": conceito_nome,
+            "Fontes": {
+                "manual": fonte
+            },
+            "Palavras próximas": [],
+            "Link Google Scholar": link_google_scholar if link_google_scholar else None
+        }
+
+        conceitos[categoria].append(novo_conceito)
+
+        guardar_conceitos(conceitos, ficheiro_json)
+        return redirect(url_for("listar_conceitos"))
+
+    return render_template("adicionar.html")
+
 
 
 app.run(host="localhost", port=4001, debug=True)

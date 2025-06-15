@@ -425,6 +425,26 @@ def adicionar_conceito():
 
     return render_template("adicionar.html")
 
+@app.route("/sinonimos")
+def listar_sinonimos():
+    conceitos_por_categoria = carregar_conceitos("glossario_por_categoria.json")
+
+    lista_sinonimos = []
+
+    for categoria, lista_conceitos in conceitos_por_categoria.items():
+        for conceito in lista_conceitos:
+            nome_conceito = smart_capitalize(conceito.get("Conceito", ""))
+            sinonimos = conceito.get("Sinónimos", [])
+            if sinonimos:
+                lista_sinonimos.append({
+                    "Conceito": nome_conceito,
+                    "Categoria": categoria,
+                    "Sinonimos": sinonimos
+                })
+
+    lista_sinonimos.sort(key=lambda x: x["Conceito"].lower())
+
+    return render_template("sinonimos.html", lista_sinonimos=lista_sinonimos)
 
 
 app.run(host="localhost", port=4001, debug=True)

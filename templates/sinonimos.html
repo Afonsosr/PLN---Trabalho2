@@ -1,0 +1,178 @@
+{% extends "parent.html" %}
+
+{% block body %}
+<style>
+    body::before {
+        content: "";
+        position: fixed;
+        top: 0; left: 0; bottom: 0; right: 0;
+        background-image: url("{{ url_for('static', filename='images/fundo3.png') }}");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        opacity: 0.15;
+        z-index: -1;
+    }
+
+    .caixa-titulo {
+        text-align: center;
+        margin: 40px 0;
+        color: #003366;
+        font-weight: bold;
+        font-size: 3rem;
+    }
+
+    .search-label {
+        font-size: 1.5rem;
+        color: #003366;
+        font-weight: bold;
+    }
+
+    .search-box {
+        border: 2px solid #003366;
+        border-radius: 8px;
+        padding: 10px 15px;
+        font-size: 1.3rem;
+        width: 50%;
+        max-width: 500px;
+    }
+
+    .card {
+        background-color: rgba(204, 230, 250, 0.55); 
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    }
+
+    .conceito-nome {
+        font-size: 1.8rem;
+        font-weight: bold;
+        color: #003366;
+    }
+
+    .conceito-nome a {
+        color: #003366;
+        text-decoration: none;
+    }
+
+    .conceito-nome a:hover {
+        text-decoration: underline;
+    }
+
+    .categoria {
+        font-size: 1.3rem;
+        color: #003366;
+        font-weight: 500;
+        margin-top: 5px;
+    }
+
+    .sinonimos-list {
+        font-size: 1.4rem;
+        margin-top: 15px;
+        color: #333333;
+    }
+
+    .sinonimos-list strong {
+        color: #003366;
+    }
+
+    /* Botão voltar ao topo - versão circular */
+    #btnTopo {
+        display: none;
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        z-index: 99;
+        width: 60px;
+        height: 60px;
+        border: none;
+        outline: none;
+        background-color: #003366;
+        color: white;
+        cursor: pointer;
+        border-radius: 50%;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+        font-size: 30px;
+        text-align: center;
+        line-height: 60px;
+        transition: transform 0.3s;
+    }
+
+    #btnTopo:hover {
+        transform: scale(1.1);
+    }
+
+    #btnTopo::after {
+        content: 'Voltar ao topo';
+        position: absolute;
+        bottom: 60px;
+        left: 50%;
+        transform: translateX(-50%);
+        color: #003366;
+        font-weight: bold;
+        opacity: 0;
+        transition: opacity 0.3s;
+        white-space: nowrap;
+        font-size: 1rem;
+    }
+
+    #btnTopo:hover::after {
+        opacity: 1;
+    }
+</style>
+
+<div class="caixa-titulo">
+    Listagem de Sinónimos
+</div>
+
+<div class="text-center mb-4">
+    <label class="search-label">Pesquise:</label>
+    <input id="searchInput" class="search-box" type="text" placeholder="Procurar conceito ou sinónimo...">
+</div>
+
+<div class="container" id="sinonimosContainer">
+    {% for item in lista_sinonimos %}
+        <div class="card">
+            <div class="conceito-nome">
+                <a href="/conceito/{{ item['Conceito'] }}">{{ item['Conceito'] }}</a>
+            </div>
+            <div class="categoria">
+                Categoria: {{ item['Categoria'] }}
+            </div>
+            <div class="sinonimos-list">
+                <strong>Sinónimos:</strong> {{ item['Sinonimos'] | join(", ") }}
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+<button onclick="topFunction()" id="btnTopo" title="Voltar ao topo">▲</button>
+
+<script>
+    // Botão voltar ao topo
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+            document.getElementById("btnTopo").style.display = "block";
+        } else {
+            document.getElementById("btnTopo").style.display = "none";
+        }
+    }
+
+    function topFunction() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    // Pesquisa dinâmica
+    document.getElementById("searchInput").addEventListener("keyup", function() {
+        var input = this.value.toLowerCase();
+        document.querySelectorAll(".card").forEach(function(card) {
+            var texto = card.textContent.toLowerCase();
+            card.style.display = texto.includes(input) ? "" : "none";
+        });
+    });
+</script>
+
+{% endblock %}

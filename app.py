@@ -169,7 +169,6 @@ def formatar_traducoes_para_input(traducoes):
         return traducoes
     else:
         return ""
-
 @app.route("/conceito/<designacao>/editar", methods=["GET", "POST"])
 def editar_conceito(designacao):
     ficheiro_json = "glossario_por_categoria.json"
@@ -207,6 +206,18 @@ def editar_conceito(designacao):
         novo_link = request.form.get("link_google_scholar", "").strip()
         novas_traducoes = request.form.get("traducoes", "").strip()
 
+        # Se a categoria foi alterada:
+        if nova_categoria != categoria_conceito:
+            # Remover o conceito da categoria antiga
+            conceitos[categoria_conceito].remove(conceito_encontrado)
+            # Se a nova categoria ainda não existir, cria-a
+            if nova_categoria not in conceitos:
+                conceitos[nova_categoria] = []
+            # Adicionar o conceito na nova categoria
+            conceitos[nova_categoria].append(conceito_encontrado)
+            categoria_conceito = nova_categoria  # atualizar a referência de categoria
+
+        # Atualizar os dados do conceito
         conceito_encontrado["Conceito"] = novo_conceito
         fonte_usada["Categoria"] = nova_categoria
         fonte_usada["Descrição"] = nova_descricao or fonte_usada.get("Descricao", "")
@@ -243,6 +254,7 @@ def editar_conceito(designacao):
                            citacao=citacao_atual,
                            traducoes=traducoes_atual,
                            link_google_scholar=link_google_scholar)
+
 
 def obter_categorias(caminho):
     conceitos = carregar_conceitos(caminho)

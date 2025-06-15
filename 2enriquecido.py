@@ -6,7 +6,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import wordnet
 
-#nltk.download('punkt')
+nltk.download('punkt')
 
 def get_synonyms(term, lang):
     synonyms = set()
@@ -80,7 +80,7 @@ for conceito in tqdm(glossario, desc="Processando conceitos"):
     time.sleep(0.1)  # Pode reduzir, pois não há scraping
 
 # Salvar resultado
-with open('testeglossario_por_categoria.json', 'w', encoding='utf-8') as f:
+with open('testeglossario_por_categoria2.json', 'w', encoding='utf-8') as f:
     json.dump(categorias, f, ensure_ascii=False, indent=2)
 
 print("Processo concluído! Veja o arquivo 'glossario_por_categoria.json'.")

@@ -5,6 +5,7 @@ import os
 import unicodedata
 from collections import defaultdict
 import re
+import random
 
 app = Flask(__name__)
 
@@ -398,7 +399,6 @@ def adicionar_conceito():
     if request.method == "POST":
         shutil.copyfile(ficheiro_json, "glossario_backup.json")
 
-        # Recolher dados do formulário
         conceito_nome = request.form.get("conceito", "").strip()
         categoria = request.form.get("categoria", "").strip()
         descricao = request.form.get("descricao", "").strip()
@@ -406,15 +406,16 @@ def adicionar_conceito():
         citacao = request.form.get("citacao", "").strip()
         traducoes_raw = request.form.get("traducoes", "").strip()
         link_google_scholar = request.form.get("link_google_scholar", "").strip()
+        sinonimos_raw = request.form.get("sinonimos", "").strip()
 
-        # Verificar se a categoria já existe no ficheiro
         if categoria not in conceitos:
             conceitos[categoria] = []
 
-        # Preparar as traduções no formato dicionário
         traducoes_dict = parse_traducoes(traducoes_raw) if traducoes_raw else {}
 
-        # Definir fonte (pode ser sempre 'manual' ou outro identificador)
+        # Processamento dos sinónimos (separados por ;)
+        sinonimos_lista = [s.strip() for s in sinonimos_raw.split(";") if s.strip()] if sinonimos_raw else []
+
         fonte = {
             "Conceito": conceito_nome,
             "Categoria": categoria,
@@ -430,7 +431,8 @@ def adicionar_conceito():
                 "manual": fonte
             },
             "Palavras próximas": [],
-            "Link Google Scholar": link_google_scholar if link_google_scholar else None
+            "Link Google Scholar": link_google_scholar if link_google_scholar else None,
+            "Sinónimos": sinonimos_lista
         }
 
         conceitos[categoria].append(novo_conceito)
@@ -460,6 +462,52 @@ def listar_sinonimos():
     lista_sinonimos.sort(key=lambda x: x["Conceito"].lower())
 
     return render_template("sinonimos.html", lista_sinonimos=lista_sinonimos)
+
+@app.route("/jogo_sinonimos", methods=["GET", "POST"])
+def jogo_sinonimos():
+    ficheiro_json = "glossario_por_categoria.json"
+    conceitos = carregar_conceitos(ficheiro_json)
+
+    conceitos_sinonimos = {}
+
+    for categoria, lista_conceitos in conceitos.items():
+        for item in lista_conceitos:
+            conceito_nome = item.get("Conceito", "")
+            sinonimos = item.get("Sinónimos", [])
+            if sinonimos:
+                conceitos_sinonimos[conceito_nome] = sinonimos
+
+    if request.method == "POST":
+        respostas = json.loads(request.form.get("respostas"))
+        score = 0
+        total = len(respostas)
+
+        for conceito, resposta_utilizador in respostas.items():
+            sinonimos_certos = conceitos_sinonimos.get(conceito, [])
+            if resposta_utilizador in sinonimos_certos:
+                score += 1
+
+        return render_template("jogo_resultados.html", score=score, total=total)
+
+    conceitos_selecionados = random.sample(list(conceitos_sinonimos.keys()), min(5, len(conceitos_sinonimos)))
+    perguntas = []
+    for conceito in conceitos_selecionados:
+        sinonimos_corretos = conceitos_sinonimos[conceito]
+        sinonimo_correto = random.choice(sinonimos_corretos)
+
+        outras_opcoes = [s for s in sum(conceitos_sinonimos.values(), []) if s != sinonimo_correto]
+        opcoes_erradas = random.sample(outras_opcoes, min(3, len(outras_opcoes)))
+        
+        opcoes = opcoes_erradas + [sinonimo_correto]
+        random.shuffle(opcoes)
+
+        perguntas.append({
+            "conceito": conceito,
+            "opcoes": opcoes
+        })
+
+    return render_template("jogo_sinonimos.html", perguntas=perguntas)
+
 
 
 app.run(host="localhost", port=4001, debug=True)

@@ -1,0 +1,107 @@
+{% extends "parent.html" %}
+{% block body %}
+
+<style>
+    body {
+        background-image: url("{{ url_for('static', filename='images/fundo2.png') }}");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+    }
+    body::before {
+        content: "";
+        position: fixed;
+        top: 0; left: 0; bottom: 0; right: 0;
+        background: rgba(255, 255, 255, 0.6);
+        z-index: -1;
+    }
+    .titulo { text-align: center; color: #003366; font-weight: bold; font-size: 3rem; margin: 40px 0; }
+    .card {
+        background-color: rgba(204, 230, 250, 0.3);
+        border: 1px solid #003366; border-radius: 10px;
+        margin: 20px auto; padding: 20px; max-width: 900px;
+    }
+    .opcao-button {
+        display: block;
+        width: 100%;
+        margin: 10px 0;
+        padding: 15px;
+        font-size: 1.3rem;
+        background-color: #e6f0fa;
+        border: 1px solid #003366;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+    .opcao-button:hover {
+        background-color: #b3d1f2;
+    }
+    .opcao-button.selected {
+        background-color: #6699cc;
+        color: white;
+        border-color: #003366;
+    }
+    .btn-custom {
+        background-color: #003366;
+        color: white;
+        border: 2px solid white;
+        transition: all 0.3s ease;
+        padding: 15px 40px;
+        font-size: 1.5rem;
+        border-radius: 10px;
+        margin-top: 30px;
+    }
+    .btn-custom:hover {
+        background-color: white;
+        color: #003366;
+        border: 2px solid #003366;
+    }
+</style>
+
+<div class="titulo">Jogo de Sinónimos</div>
+
+<form method="POST" id="quizForm">
+    {% for pergunta in perguntas %}
+    <div class="card" data-conceito="{{ pergunta.conceito }}">
+        <h3>Qual é o sinónimo de: <strong>{{ pergunta.conceito }}</strong>?</h3>
+        <div class="opcoes">
+            {% for opcao in pergunta.opcoes %}
+            <button type="button" class="opcao-button" data-opcao="{{ opcao }}">{{ opcao }}</button>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+    <div class="text-center">
+        <button type="submit" class="btn btn-lg btn-custom">Submeter Respostas</button>
+    </div>
+</form>
+
+<script>
+    const respostas = {};
+
+    document.querySelectorAll(".opcao-button").forEach(button => {
+        button.addEventListener("click", function() {
+            const card = this.closest(".card");
+            const conceito = card.dataset.conceito;
+
+            card.querySelectorAll(".opcao-button").forEach(btn => btn.classList.remove("selected"));
+
+            this.classList.add("selected");
+
+            respostas[conceito] = this.dataset.opcao;
+        });
+    });
+
+    document.getElementById("quizForm").addEventListener("submit", function(event) {
+        event.preventDefault();
+        const inputHidden = document.createElement("input");
+        inputHidden.type = "hidden";
+        inputHidden.name = "respostas";
+        inputHidden.value = JSON.stringify(respostas);
+        this.appendChild(inputHidden);
+        this.submit();
+    });
+</script>
+
+{% endblock %}

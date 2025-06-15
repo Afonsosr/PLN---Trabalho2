@@ -11426,11 +11426,7 @@
                     "Descrição": "PRINCIPIS ACTIUS. Fàrmac en investigació, amb efecte neutralitzant i antivíric, que s’uneix a la superfície de la proteïna S del SARS-CoV-2 per a evitar que el virus infecti la cèl·lula hoste. procés d’avaluació com a possible tractament per a la COVID-19. És d’origen biotecnològic. que es troba fonamentalment en el nucli, en els ribosomes, en els mitoribosomes i en els plastoribosomes. té un ús divulgatiu, mentre que en . Aquesta recomanació és aplicable també a la parella de sigles , atès que són les formes clarament identificables dins la comunitat científica internacional. Anàlogament, les sigles creades a partir d’aquestes formes segueixen preferentment l’ordre internacional ( ...), i només secundàriament i en un àmbit divulgatiu es formen a partir de l’ordre romànic, amb i ( ...). correspon a l’anglès  ( àcid ribonucleic )."
                 }
             },
-            "Sinónimos": [
-                "a",
-                "teste",
-                "teste"
-            ],
+            "Sinónimos": [],
             "Palavras próximas": [],
             "Link Google Scholar": "https://scholar.google.com/scholar?q=ADG20"
         }
@@ -65364,6 +65360,28 @@
                 ]
             ],
             "Link Google Scholar": "https://scholar.google.com/scholar?q=rehabilitació+respiratòria"
+        }
+    ],
+    "Teste": [
+        {
+            "Conceito": "Teste",
+            "Fontes": {
+                "manual": {
+                    "Conceito": "Teste",
+                    "Categoria": "Teste",
+                    "Descrição": "",
+                    "Sigla": "Sem Sigla Associada",
+                    "Citação": null,
+                    "Traduções": {}
+                }
+            },
+            "Palavras próximas": [],
+            "Link Google Scholar": null,
+            "Sinónimos": [
+                "Teste1",
+                "Teste2",
+                "Teste3"
+            ]
         }
     ]
 }

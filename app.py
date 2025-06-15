@@ -205,10 +205,12 @@ def editar_conceito(designacao):
 
         if nova_categoria != categoria_conceito:
             conceitos[categoria_conceito].remove(conceito_encontrado)
+            if not conceitos[categoria_conceito]:
+                del conceitos[categoria_conceito]
             if nova_categoria not in conceitos:
                 conceitos[nova_categoria] = []
             conceitos[nova_categoria].append(conceito_encontrado)
-            categoria_conceito = nova_categoria  
+            categoria_conceito = nova_categoria
 
         conceito_encontrado["Conceito"] = novo_conceito
         fonte_usada["Categoria"] = nova_categoria
@@ -226,6 +228,7 @@ def editar_conceito(designacao):
         guardar_conceitos(conceitos, ficheiro_json)
 
         return redirect(url_for("consultar_conceitos", designacao=novo_conceito))
+
 
     conceito_nome = safe_get(conceito_encontrado, "Conceito")
     categoria_atual = safe_get(fonte_usada, "Categoria", categoria_conceito)
@@ -245,7 +248,6 @@ def editar_conceito(designacao):
                            citacao=citacao_atual,
                            traducoes=traducoes_atual,
                            link_google_scholar=link_google_scholar)
-
 
 def obter_categorias(caminho):
     conceitos = carregar_conceitos(caminho)

@@ -1,0 +1,107 @@
+{% extends "parent.html" %}
+
+{% block body %}
+    <style>
+        body {
+            background-image: url("/static/images/fundo4.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+        }
+
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0; left: 0; bottom: 0; right: 0;
+            background: rgba(255, 255, 255, 0.6);
+            z-index: -1;
+        }
+
+        .titulo-pesquisa {
+            font-size: 3rem;
+            color: #003366;
+            font-weight: bold;
+            margin-top: 50px;
+            text-align: center;
+        }
+
+        .search-box {
+            border: 2px solid #003366;
+            border-radius: 8px;
+            padding: 10px 15px;
+            font-size: 1.3rem;
+            width: 60%;
+            max-width: 600px;
+        }
+
+        .modo-label {
+            font-size: 1.3rem;
+            color: #003366;
+            margin: 10px;
+        }
+
+        .list-group-item {
+            font-size: 1.2rem;
+            background-color: #d3ecff;
+            border: 1px solid #003366;
+            color: #003366;
+        }
+
+        .sem-resultado {
+            font-size: 1.5rem;
+            color: #003366;
+            margin-top: 30px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .btn-pesquisar {
+            background-color: #003366;
+            color: white;
+            padding: 10px 30px;
+            font-size: 1.3rem;
+            border: none;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        .btn-pesquisar:hover {
+            background-color: #001f4d;
+        }
+    </style>
+
+    <div class="container text-center">
+
+        <div class="titulo-pesquisa">Pesquisa de Conceitos</div>
+
+        <form method="post" class="mt-4">
+
+            <input type="text" name="termo" class="search-box" placeholder="Introduza o termo..." required>
+
+            <div class="mt-3">
+                <label class="modo-label"><input type="radio" name="modo" value="exata" required> Exata</label>
+                <label class="modo-label"><input type="radio" name="modo" value="parcial" required> Contém</label>
+                <label class="modo-label"><input type="radio" name="modo" value="inicio" required> Começa por</label>
+            </div>
+
+            <button type="submit" class="btn-pesquisar">Pesquisar</button>
+
+        </form>
+
+        {% if resultados %}
+            <h3 class="mt-5" style="color:#003366;">Resultados Encontrados:</h3>
+            <ul class="list-group w-50 mx-auto my-4">
+                {% for conceito in resultados %}
+                    <a href="/conceito/{{ conceito['Conceito'] }}" class="list-group-item list-group-item-action">
+                        {{ conceito['Conceito'] }}
+                    </a>
+                {% endfor %}
+            </ul>
+        {% elif modo %}
+            <div class="sem-resultado">Sem resultados para a pesquisa efetuada.</div>
+        {% endif %}
+
+    </div>
+
+{% endblock %}

@@ -508,6 +508,28 @@ def jogo_sinonimos():
 
     return render_template("jogo_sinonimos.html", perguntas=perguntas)
 
+@app.route("/pesquisa", methods=["GET", "POST"])
+def pesquisa():
+    conceitos_por_categoria = carregar_conceitos("glossario_por_categoria.json")
+    resultados = []
+    modo = ""
+    
+    if request.method == "POST":
+        termo = request.form.get("termo", "").strip().lower()
+        modo = request.form.get("modo")
+
+        for categoria, lista_conceitos in conceitos_por_categoria.items():
+            for conceito in lista_conceitos:
+                nome_conceito = conceito.get("Conceito", "").lower()
+
+                if modo == "exata" and nome_conceito == termo:
+                    resultados.append(conceito)
+                elif modo == "parcial" and termo in nome_conceito:
+                    resultados.append(conceito)
+                elif modo == "inicio" and nome_conceito.startswith(termo):
+                    resultados.append(conceito)
+
+    return render_template("pesquisa.html", resultados=resultados, modo=modo)
 
 
 app.run(host="localhost", port=4001, debug=True)

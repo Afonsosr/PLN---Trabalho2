@@ -4,6 +4,7 @@ import json
 import os
 import unicodedata
 from collections import defaultdict
+import re
 
 app = Flask(__name__)
 
@@ -286,6 +287,138 @@ def tabela():
             todos_conceitos.append(conceito_dict)
 
     return render_template("tabela.html", conceitos=todos_conceitos)
+
+@app.route('/proximas')
+def relacoes_conceitos():
+    conceito_palavras = {}
+
+    for categoria in conceitos:
+        for item in conceitos[categoria]:
+            conceito = item['Conceito']
+            palavras = [p[0] for p in item.get('Palavras próximas', [])]
+            conceito_palavras[conceito] = palavras
+
+    relacoes = {}
+
+    for conceito, palavras in conceito_palavras.items():
+        ligacoes = {}
+        for palavra in palavras:
+            conceitos_relacionados = []
+            for outro_conceito, outras_palavras in conceito_palavras.items():
+                if outro_conceito != conceito and palavra in outras_palavras:
+                    conceitos_relacionados.append(outro_conceito)
+            ligacoes[palavra] = conceitos_relacionados
+        relacoes[conceito] = ligacoes
+
+    termo_pesquisa = request.args.get('query', '').strip()
+
+    if termo_pesquisa:
+        relacoes = {k: v for k, v in relacoes.items() if termo_pesquisa.lower() in k.lower()}
+
+    relacoes_ordenado = {}
+    for conceito in sorted(relacoes.keys(), key=lambda x: x.lower()):
+        conceito_formatado = conceito.title()
+        relacoes_ordenado[conceito_formatado] = relacoes[conceito]
+
+    return render_template('palavras_proximas.html', relacoes=relacoes_ordenado)
+
+def remover_acentos(texto):
+    return ''.join(
+        c for c in unicodedata.normalize('NFD', texto)
+        if unicodedata.category(c) != 'Mn'
+    )
+
+@app.route('/inversa')
+def listar_palavras_proximas():
+    palavras_unicas = set()
+
+    for categoria in conceitos:
+        for item in conceitos[categoria]:
+            palavras = [p[0].strip() for p in item.get('Palavras próximas', [])]
+            palavras_unicas.update(palavras)
+
+    palavras_por_letra = {}
+
+    for palavra in palavras_unicas:
+        palavra_limpa = palavra.strip()
+        if palavra_limpa:
+            primeira_letra = remover_acentos(palavra_limpa[0].upper())
+
+            # Agora vamos fazer o "truque" que querias:
+            if primeira_letra.startswith("F") and not primeira_letra == "F":
+                primeira_letra = "F"
+
+            palavras_por_letra.setdefault(primeira_letra, []).append(palavra)
+
+    for letra in palavras_por_letra:
+        palavras_por_letra[letra].sort(key=lambda x: x.lower())
+
+    palavras_por_letra = dict(sorted(palavras_por_letra.items()))
+
+    return render_template('inversa.html', palavras_por_letra=palavras_por_letra)
+
+@app.route('/inversa/<palavra>')
+def mostrar_conceitos_por_palavra(palavra):
+    resultados = []
+
+    for categoria in conceitos:
+        for item in conceitos[categoria]:
+            conceito = item['Conceito']
+            palavras = [p[0] for p in item.get('Palavras próximas', [])]
+            if palavra in palavras:
+                resultados.append(conceito)
+
+    return render_template('inversa_palavra.html', palavra=palavra, resultados=resultados)
+
+@app.route("/adiciona", methods=["GET", "POST"])
+def adicionar_conceito():
+    ficheiro_json = "glossario_por_categoria.json"
+    conceitos = carregar_conceitos(ficheiro_json)
+
+    if request.method == "POST":
+        shutil.copyfile(ficheiro_json, "glossario_backup.json")
+
+        # Recolher dados do formulário
+        conceito_nome = request.form.get("conceito", "").strip()
+        categoria = request.form.get("categoria", "").strip()
+        descricao = request.form.get("descricao", "").strip()
+        sigla = request.form.get("sigla", "").strip()
+        citacao = request.form.get("citacao", "").strip()
+        traducoes_raw = request.form.get("traducoes", "").strip()
+        link_google_scholar = request.form.get("link_google_scholar", "").strip()
+
+        # Verificar se a categoria já existe no ficheiro
+        if categoria not in conceitos:
+            conceitos[categoria] = []
+
+        # Preparar as traduções no formato dicionário
+        traducoes_dict = parse_traducoes(traducoes_raw) if traducoes_raw else {}
+
+        # Definir fonte (pode ser sempre 'manual' ou outro identificador)
+        fonte = {
+            "Conceito": conceito_nome,
+            "Categoria": categoria,
+            "Descrição": descricao,
+            "Sigla": sigla if sigla else "Sem Sigla Associada",
+            "Citação": citacao,
+            "Traduções": traducoes_dict
+        }
+
+        novo_conceito = {
+            "Conceito": conceito_nome,
+            "Fontes": {
+                "manual": fonte
+            },
+            "Palavras próximas": [],
+            "Link Google Scholar": link_google_scholar if link_google_scholar else None
+        }
+
+        conceitos[categoria].append(novo_conceito)
+
+        guardar_conceitos(conceitos, ficheiro_json)
+        return redirect(url_for("listar_conceitos"))
+
+    return render_template("adicionar.html")
 
 
 

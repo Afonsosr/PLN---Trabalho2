@@ -2,7 +2,6 @@
 
 {% block body %}
 
-
 <style>
     body::before {
         content: "";
@@ -66,49 +65,49 @@
 </style>
 
 <div class="caixa-titulo">
-    <h1 class="px-4 text-white">Editar Conceito: {{ designacao }}</h1>
+    <h1 class="px-4 text-white">Adicionar Novo Conceito</h1>
 </div>
 
 <div class="ms-5 mt-4 me-5">
     <form method="POST">
         <div class="mb-4">
             <label class="label-azul">Conceito:</label>
-            <input type="text" name="conceito" class="form-control" value="{{ conceito }}" required>
+            <input type="text" name="conceito" class="form-control" required>
         </div>
 
         <div class="mb-4">
             <label class="label-azul">Categoria:</label>
-            <input type="text" name="categoria" class="form-control" value="{{ categoria }}">
+            <input type="text" name="categoria" class="form-control">
         </div>
 
         <div class="mb-4">
             <label class="label-azul">Descrição:</label>
-            <textarea name="descricao" class="form-control" rows="4">{{ descricao }}</textarea>
+            <textarea name="descricao" class="form-control" rows="4"></textarea>
         </div>
 
         <div class="mb-4">
             <label class="label-azul">Sigla:</label>
-            <input type="text" name="sigla" class="form-control" value="{{ sigla }}">
+            <input type="text" name="sigla" class="form-control">
         </div>
 
         <div class="mb-4">
             <label class="label-azul">Citação:</label>
-            <textarea name="citacao" class="form-control" rows="3">{{ citacao }}</textarea>
+            <textarea name="citacao" class="form-control" rows="3"></textarea>
         </div>
 
         <div class="mb-4">
             <label class="label-azul">Traduções (Ex: Termo[idioma]; Termo2[idioma2]):</label>
-            <input type="text" name="traducoes" class="form-control" value="{{ traducoes }}">
+            <input type="text" name="traducoes" class="form-control">
         </div>
 
         <div class="mb-4">
             <label class="label-azul">Link Google Scholar:</label>
-            <input type="text" name="link_google_scholar" class="form-control" value="{{ link_google_scholar }}">
+            <input type="text" name="link_google_scholar" class="form-control">
         </div>
 
         <div class="mt-5 d-flex flex-row">
-            <a class="m-2 btn btn-custom btn-xl" href="/conceito/{{ designacao }}" role="button">Cancelar</a>
-            <button type="submit" class="m-2 btn btn-custom btn-xl">Guardar Alterações</button>
+            <a class="m-2 btn btn-custom btn-xl" href="/conceitos" role="button">Cancelar</a>
+            <button type="submit" class="m-2 btn btn-custom btn-xl">Adicionar Conceito</button>
         </div>
     </form>
 </div>

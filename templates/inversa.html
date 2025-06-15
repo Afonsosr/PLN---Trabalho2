@@ -3,7 +3,7 @@
 {% block body %}
     <style>
         body {
-            background-image: url("/static/images/fundo2.png");
+            background-image: url("/static/images/fundo4.png");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -25,6 +25,18 @@
             color: #003366;
         }
 
+        .letra-anchor {
+            font-size: 22px;
+            margin-right: 15px;
+            text-decoration: none;
+            color: #003366;
+            font-weight: bold;
+        }
+
+        .letra-anchor:hover {
+            text-decoration: underline;
+        }
+
         .search-label {
             font-size: 1.5rem;
             color: #003366;
@@ -40,28 +52,18 @@
             max-width: 500px;
         }
 
-        .categoria-titulo {
-            font-size: 2.5rem;
+        .indice-titulo {
+            font-size: 2rem;
             color: #003366;
             font-weight: bold;
-            margin: 40px 0 20px 0;
-            text-align: center;
+            margin-bottom: 10px;
         }
 
-        .btn-custom {
-            background-color: #003366;
-            color: white;
-            border: 2px solid white;
-            transition: all 0.3s ease;
-            border-radius: 0.5rem;
-            padding: 0.6rem 1.5rem;
-            font-size: 1.2rem;
-        }
-
-        .btn-custom:hover {
-            background-color: white;
+        .letra-section-titulo {
+            font-size: 4.5rem;
             color: #003366;
-            border: 2px solid #003366;
+            font-weight: bold;
+            margin-top: 20px;
         }
 
         #btnTopo {
@@ -109,31 +111,33 @@
     </style>
 
     <div class="container">
-
-        <h1 class="categoria-titulo">Categoria: {{ categoria }}</h1>
-
-        <!-- Botão Retroceder -->
-        <div class="text-center mb-4">
-            <a href="/categorias" class="btn btn-custom">← Voltar às Categorias</a>
-        </div>
-
         <!-- Barra de pesquisa -->
-        <h5 class="mt-4 text-center">
+        <h5 class="mt-5 text-center">
             <span class="search-label">Pesquise:</span>
             <input id="myInput" class="search-box" type="text" placeholder="Procure...">
-        </h5>
+        </h5> 
 
+        <!-- Índice de Letras -->
         <div class="mt-4">
-            <div class="list-group">
-                {% for conceito in conceitos %}
-                    <a href="/conceito/{{ conceito['Conceito'] }}?categoria={{ categoria }}" 
-                       class="list-group-item list-group-item-action list-group-item-info">
-                        {{ conceito['Conceito'] }}
-                    </a>
+            <h2 class="indice-titulo">Índice de Palavras Próximas</h2>
+            <div>
+                {% for letra in palavras_por_letra.keys() %}
+                    <a class="letra-anchor" href="#{{ letra }}">{{ letra }}</a>
                 {% endfor %}
             </div>
-        </div>        
+        </div>
 
+        <!-- Expõe as palavras -->
+        {% for letra, palavras_letra in palavras_por_letra.items() %}
+        <div class="mt-4 letra-section" id="{{ letra }}">
+            <h2 class="letra-section-titulo">{{ letra }}</h2>
+            <div class="list-group">
+                {% for palavra in palavras_letra %}
+                    <a href="/inversa/{{ palavra }}" class="list-group-item list-group-item-action list-group-item-info">{{ palavra|title }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
     </div>
 
     <button onclick="topFunction()" id="btnTopo" title="Voltar ao topo">▲</button>
@@ -152,13 +156,6 @@
         function topFunction() {
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
-
-        document.getElementById("myInput").addEventListener("keyup", function() {
-            var input = this.value.toLowerCase();
-            document.querySelectorAll(".list-group-item").forEach(function(item) {
-                item.style.display = item.textContent.toLowerCase().includes(input) ? "" : "none";
-            });
-        });
     </script>
 
 {% endblock %}

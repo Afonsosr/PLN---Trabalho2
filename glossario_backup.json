@@ -65373,5 +65373,26 @@
         }
     ],
     "add": [],
-    "": []
+    "": [
+        {
+            "Conceito": "Cão",
+            "Fontes": {
+                "manual": {
+                    "Conceito": "Cão",
+                    "Categoria": "",
+                    "Descrição": "",
+                    "Sigla": "Sem Sigla Associada",
+                    "Citação": "",
+                    "Traduções": {
+                        "en": "Dog",
+                        "es": "Perro",
+                        "de": "Hund",
+                        "fr": "Chien"
+                    }
+                }
+            },
+            "Palavras próximas": [],
+            "Link Google Scholar": null
+        }
+    ]
 }

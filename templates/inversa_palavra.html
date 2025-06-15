@@ -1,0 +1,91 @@
+{% extends "parent.html" %}
+
+{% block body %}
+
+<!-- Adiciona o estilo para o fundo e os botões -->
+<style>
+    body::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url("{{ url_for('static', filename='images/fundo2.png') }}");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        opacity: 0.25;
+        z-index: -1;
+    }
+
+    .content {
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 20px;
+        border-radius: 10px;
+        position: relative;
+        z-index: 1;
+    }
+
+    .caixa-titulo {
+        background-color: #003366;
+        border-radius: 10px;
+        padding: 30px;
+        color: white;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+        margin: 40px;
+    }
+
+    .label-azul {
+        color: #003366;
+        font-weight: bold;
+    }
+
+    .texto-cinzento {
+        color: #333333;
+    }
+
+    .btn-custom {
+        background-color: #003366;
+        color: white;
+        border: 2px solid white;
+        transition: all 0.3s ease;
+        border-radius: 0.5rem;
+    }
+
+    .btn-custom:hover {
+        background-color: white;
+        color: #003366;
+        border: 2px solid #003366;
+    }
+
+    .btn-xl {
+        padding: 0.9rem 2.2rem;
+        font-size: 1.35rem;
+    }
+
+    .lista-conceitos li {
+        font-size: 1.5rem;
+    }
+</style>
+
+<div class="caixa-titulo">
+    <h1 class="px-4 text-white"> Palavra Próxima: {{ palavra}} </h1>
+</div>
+
+<div class="ms-5 mt-4">
+    <h2 class="pt-5 label-azul">Conceitos que contêm esta palavra:</h2>
+    <ul class="ms-4 mt-4 texto-cinzento lista-conceitos">
+        {% for conceito in resultados %}
+            <li>
+                <a href="/conceito/{{ conceito }}" class="texto-cinzento">{{ conceito }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="mt-5 ms-5 d-flex flex-row">
+    <a class="m-2 btn btn-custom btn-xl" href="/inversa" role="button">Voltar à lista de palavras</a>
+</div>
+
+{% endblock %}

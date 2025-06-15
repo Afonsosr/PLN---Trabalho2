@@ -93,6 +93,7 @@ def consultar_conceitos(designacao):
     fonte_usada = None
     link_google_scholar = None  
     palavras_proximas = None
+    sinonimos = None
 
     for categoria_nome, lista_conceitos in conceitos.items():
         for item in lista_conceitos:
@@ -101,6 +102,7 @@ def consultar_conceitos(designacao):
                 fonte_usada = next(iter(item["Fontes"].values()))
                 link_google_scholar = item.get("Link Google Scholar") 
                 palavras_proximas = item.get("Palavras próximas")  
+                sinonimos = item.get("Sinónimos") or []
                 break
         if conceito_encontrado:
             break
@@ -124,7 +126,9 @@ def consultar_conceitos(designacao):
                            link_google_scholar=link_google_scholar,
                            traducoes=traducoes_dict,
                            designacao=smart_capitalize(designacao),
-                           palavras_proximas=palavras_proximas)  
+                           palavras_proximas=palavras_proximas,
+                           sinonimos=sinonimos)
+
 
 @app.route("/conceito/<designacao>/eliminar", methods=["POST"])
 def eliminar_conceito(designacao):
@@ -202,6 +206,7 @@ def editar_conceito(designacao):
         nova_citacao = request.form.get("citacao", "").strip()
         novo_link = request.form.get("link_google_scholar", "").strip()
         novas_traducoes = request.form.get("traducoes", "").strip()
+        novos_sinonimos = request.form.get("sinonimos", "").strip()
 
         if nova_categoria != categoria_conceito:
             conceitos[categoria_conceito].remove(conceito_encontrado)
@@ -225,10 +230,16 @@ def editar_conceito(designacao):
         else:
             fonte_usada["Traduções"] = {}
 
+        # Processamento dos sinónimos
+        if novos_sinonimos:
+            lista_sinonimos = [s.strip() for s in novos_sinonimos.split(";") if s.strip()]
+            conceito_encontrado["Sinónimos"] = lista_sinonimos
+        else:
+            conceito_encontrado["Sinónimos"] = []
+
         guardar_conceitos(conceitos, ficheiro_json)
 
         return redirect(url_for("consultar_conceitos", designacao=novo_conceito))
-
 
     conceito_nome = safe_get(conceito_encontrado, "Conceito")
     categoria_atual = safe_get(fonte_usada, "Categoria", categoria_conceito)
@@ -238,6 +249,8 @@ def editar_conceito(designacao):
     traducoes_raw = safe_get(fonte_usada, "Traduções") or safe_get(fonte_usada, "Traducoes")
     traducoes_atual = formatar_traducoes_para_input(traducoes_raw)
     link_google_scholar = safe_get(conceito_encontrado, "Link Google Scholar")
+    sinonimos_raw = safe_get(conceito_encontrado, "Sinónimos", [])
+    sinonimos_atual = "; ".join(sinonimos_raw)
 
     return render_template("editar.html",
                            designacao=designacao,
@@ -247,7 +260,9 @@ def editar_conceito(designacao):
                            sigla=sigla_atual,
                            citacao=citacao_atual,
                            traducoes=traducoes_atual,
-                           link_google_scholar=link_google_scholar)
+                           link_google_scholar=link_google_scholar,
+                           sinonimos=sinonimos_atual)
+
 
 def obter_categorias(caminho):
     conceitos = carregar_conceitos(caminho)
